@@ -1,0 +1,21 @@
+CUDA_VISIBLE_DEVICES=0 accelerate launch --num_processes=1 --main_process_port=29502 train_custom_diffusion_test.py \
+    --pretrained_model_name_or_path="stable-diffusion-v1-5/stable-diffusion-v1-5" \
+    --instance_data_dir="cs101/scene_barn" \
+    --output_dir="outputs/cs101_custom_diffusion_scene_barn_test" \
+    --class_data_dir="evaluation_folder/prior_images/barn" \
+    --with_prior_preservation --prior_loss_weight=1.0 \
+    --class_prompt="a photo of a barn" --num_class_images=200 \
+    --instance_prompt="photo of a <barn> barn" \
+    --resolution=512 \
+    --train_batch_size=1 \
+    --learning_rate=5e-6 \
+    --lr_warmup_steps=0 \
+    --max_train_steps=2000 \
+    --scale_lr --hflip --noaug \
+    --freeze_model crossattn \
+    --modifier_token "<barn>" \
+    --checkpointing_steps=100 \
+    --validation_prompt="photo of a <barn> barn in Van Gogh style" \
+    --validation_steps=50 \
+    --no_safe_serialization
+    # --enable_xformers_memory_efficient_attention \

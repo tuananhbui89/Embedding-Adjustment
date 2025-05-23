@@ -1,0 +1,60 @@
+#!/bin/bash
+
+for alpha in 0.5; do
+    for rho in 0.2; do
+        CUDA_VISIBLE_DEVICES=0 python generate_ti_adjust_embedding_v3.py \
+            --method="standard" \
+            --model_path="stable-diffusion-v1-5/stable-diffusion-v1-5" \
+            --concept_name="<teddybear>" \
+            --output_dir="evaluation_massive/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha${alpha}/1000" \
+            --guidance_scale=7.0 \
+            --embedding_path="outputs/cs101_ti_plushie_teddybear/learned_embeds-steps-1000.bin" \
+            --max_train_steps=3000 \
+            --num_images=50 \
+            --start_prompt_index=0 \
+            --prompt_file="prompts/gen_prompt_cs101_teddybear.csv" \
+            --target_word="teddy" \
+            --rho=$rho \
+            --alpha=$alpha
+    done
+done
+
+for alpha in 0.5; do
+    for rho in 0.2; do
+        for custom_prompt in 'objectA' 'objectB' 'full_prompt'; do
+                CUDA_VISIBLE_DEVICES=0 python investigate_clip_sim_v2.py \
+                --images_folder="evaluation_massive/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha0.5/1000/<teddybear>/gen_prompt_cs101_teddybear" \
+                --prompt_file="prompts/gen_prompt_cs101_teddybear.csv" \
+                --num_images=50 \
+                --use_custom_prompt=$custom_prompt \
+                --info="use_custom_prompt_${custom_prompt}" \
+                --sub_folder="None" \
+                --output_dir="semantic_drift/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha${alpha}/1000"
+        done
+    done
+done
+
+for alpha in 0.5; do
+    for rho in 0.2; do
+        CUDA_VISIBLE_DEVICES=0 python investigate_clip_sim_image.py \
+            --images_folder="evaluation_massive/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha0.5/1000/<teddybear>/gen_prompt_cs101_teddybear" \
+            --prompt_file="prompts/gen_prompt_cs101_teddybear.csv" \
+            --num_images=50 \
+            --anchor_image_path="cs101/plushie_teddybear/marina-shatskih-6MDi8o6VYHg-unsplash.jpg" \
+            --info="t01" \
+            --sub_folder="None" \
+            --output_dir="semantic_drift/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha${alpha}/1000"
+    done
+done
+for alpha in 0.5; do
+    for rho in 0.2; do
+        CUDA_VISIBLE_DEVICES=0 python investigate_dino_sim_image.py \
+            --images_folder="evaluation_massive/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha0.5/1000/<teddybear>/gen_prompt_cs101_teddybear" \
+            --prompt_file="prompts/gen_prompt_cs101_teddybear.csv" \
+            --num_images=50 \
+            --anchor_image_path="cs101/plushie_teddybear/marina-shatskih-6MDi8o6VYHg-unsplash.jpg" \
+            --info="t01" \
+            --sub_folder="None" \
+            --output_dir="semantic_drift/cs101_ti_plushie_teddybear_adjust_embedding_v3/rho${rho}_alpha${alpha}/1000"
+    done
+done

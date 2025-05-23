@@ -1,0 +1,10 @@
+bash scripts/run_ti_adjustment/run_cs101_ti_scene_barn.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_plushie_tortoise.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_plushie_teddybear.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_decoritems_woodenpot.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_pet_dog1.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_pet_cat1.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_furniture_chair1.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_furniture_table1.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_flower_1.sh
+bash scripts/run_ti_adjustment/run_cs101_ti_342.sh

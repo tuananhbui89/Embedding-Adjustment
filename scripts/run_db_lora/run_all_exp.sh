@@ -1,0 +1,10 @@
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_scene_barn.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_plushie_tortoise.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_plushie_teddybear.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_decoritems_woodenpot.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_pet_dog1.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_pet_cat1.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_furniture_chair1.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_furniture_table1.sh
+bash scripts/run_db_lora/run_cs101_db_lora_rank4_flower_1.sh
+bash scripts/run_db_lora/run_celebA_342_db_lora_rank4.sh
