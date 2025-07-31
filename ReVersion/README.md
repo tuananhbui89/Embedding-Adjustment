@@ -8,28 +8,28 @@ TEA (Test-time Embedding Adjustment) is a technique that improves subject person
 
 The qualitative results can be found in the `evaluation_massive` folder. 
 
-![Results without TEA](evaluation_massive/carved_by/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+![Results without TEA](evaluation_massive/carved_by/cat%20%3CR%3E%20carrot%20in%20the%20garden.jpg)
 *ReVersion: Cat carved by carrot in the garden*
 
-![Results with TEA](evaluation_massive/carved_by_tea/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+![Results with TEA](evaluation_massive/carved_by_tea/cat%20%3CR%3E%20carrot%20in%20the%20garden.jpg)
 *ReVersion with TEA: Cat carved by carrot in the garden*
 
-![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20paper%20in%20the%20library.jpg)
 *ReVersion: Dog carved by paper in the library*
 
-![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.jpg)
 *ReVersion with TEA: Dog carved by paper in the library*
 
-![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20glass%20in%20the%20park.png)
+![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20glass%20in%20the%20park.jpg)
 *ReVersion: Dog carved by glass in the park*
 
-![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20glass%20in%20the%20park.png)
+![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20glass%20in%20the%20park.jpg)
 *ReVersion with TEA: Dog carved by glass in the park*
 
-![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20jade%20in%20the%20desert.png)
+![Results without TEA](evaluation_massive/carved_by/dog%20%3CR%3E%20jade%20in%20the%20desert.jpg)
 *ReVersion: Dog carved by jade in the desert*
 
-![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20jade%20in%20the%20desert.png)
+![Results with TEA](evaluation_massive/carved_by_tea/dog%20%3CR%3E%20jade%20in%20the%20desert.jpg)
 *ReVersion with TEA: Dog carved by jade in the desert*
 
 ## Reproduce the results

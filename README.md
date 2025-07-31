@@ -43,16 +43,16 @@ It can be seen that the proposed method (TEA) can significantly improve the prom
 
 ### ReVersion with TEA 
 
-![Results without TEA](ReVersion/evaluation_massive/carved_by/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+![Results without TEA](ReVersion/evaluation_massive/carved_by/cat%20%3CR%3E%20carrot%20in%20the%20garden.jpg)
 *ReVersion: Cat carved by carrot in the garden.* Failure cases - the cat is not carved by the carrot or only shows the carrot.
 
-![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/cat%20%3CR%3E%20carrot%20in%20the%20garden.jpg)
 *ReVersion with TEA: Cat carved by carrot in the garden*
 
-![Results without TEA](ReVersion/evaluation_massive/carved_by/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+![Results without TEA](ReVersion/evaluation_massive/carved_by/dog%20%3CR%3E%20paper%20in%20the%20library.jpg)
 *ReVersion: Dog carved by paper in the library.* Failure cases - the dog is not carved by the paper but attached a paper to the dog LOL.
 
-![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.jpg)
 *ReVersion with TEA: Dog carved by paper in the library*
 
 ## Requirements
