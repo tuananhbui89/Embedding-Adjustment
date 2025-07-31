@@ -1,0 +1,501 @@
+prompt_index,prompt,image_index,score
+0,cat wearing a hat painted on a stone,0,27.31751251220703
+0,cat wearing a hat painted on a stone,1,27.453994750976562
+0,cat wearing a hat painted on a stone,2,28.062122344970703
+0,cat wearing a hat painted on a stone,3,24.98626708984375
+0,cat wearing a hat painted on a stone,4,23.767927169799805
+0,cat wearing a hat painted on a stone,5,30.007707595825195
+0,cat wearing a hat painted on a stone,6,27.957502365112305
+0,cat wearing a hat painted on a stone,7,26.133882522583008
+0,cat wearing a hat painted on a stone,8,27.01626968383789
+0,cat wearing a hat painted on a stone,9,26.878019332885742
+0,cat wearing a hat painted on a stone,10,28.928327560424805
+0,cat wearing a hat painted on a stone,11,28.939420700073242
+0,cat wearing a hat painted on a stone,12,21.801406860351562
+0,cat wearing a hat painted on a stone,13,26.477184295654297
+0,cat wearing a hat painted on a stone,14,24.673471450805664
+0,cat wearing a hat painted on a stone,15,24.12411117553711
+0,cat wearing a hat painted on a stone,16,27.289867401123047
+0,cat wearing a hat painted on a stone,17,29.817264556884766
+0,cat wearing a hat painted on a stone,18,23.990758895874023
+0,cat wearing a hat painted on a stone,19,26.914295196533203
+0,cat wearing a hat painted on a stone,20,33.34964370727539
+0,cat wearing a hat painted on a stone,21,26.79650115966797
+0,cat wearing a hat painted on a stone,22,30.534320831298828
+0,cat wearing a hat painted on a stone,23,30.016712188720703
+0,cat wearing a hat painted on a stone,24,29.783571243286133
+0,cat wearing a hat painted on a stone,25,24.203533172607422
+0,cat wearing a hat painted on a stone,26,30.72556495666504
+0,cat wearing a hat painted on a stone,27,25.991968154907227
+0,cat wearing a hat painted on a stone,28,27.17381477355957
+0,cat wearing a hat painted on a stone,29,17.93106460571289
+0,cat wearing a hat painted on a stone,30,34.26557159423828
+0,cat wearing a hat painted on a stone,31,28.67384910583496
+0,cat wearing a hat painted on a stone,32,29.76934242248535
+0,cat wearing a hat painted on a stone,33,28.2252197265625
+0,cat wearing a hat painted on a stone,34,25.438961029052734
+0,cat wearing a hat painted on a stone,35,22.9193115234375
+0,cat wearing a hat painted on a stone,36,23.639352798461914
+0,cat wearing a hat painted on a stone,37,27.0576114654541
+0,cat wearing a hat painted on a stone,38,23.959579467773438
+0,cat wearing a hat painted on a stone,39,26.62230682373047
+0,cat wearing a hat painted on a stone,40,23.846452713012695
+0,cat wearing a hat painted on a stone,41,25.10218620300293
+0,cat wearing a hat painted on a stone,42,23.348583221435547
+0,cat wearing a hat painted on a stone,43,28.779966354370117
+0,cat wearing a hat painted on a stone,44,22.53700828552246
+0,cat wearing a hat painted on a stone,45,30.70274543762207
+0,cat wearing a hat painted on a stone,46,29.01860809326172
+0,cat wearing a hat painted on a stone,47,28.930362701416016
+0,cat wearing a hat painted on a stone,48,30.783294677734375
+0,cat wearing a hat painted on a stone,49,27.64362335205078
+1,cat wearing a hat painted on a vase,0,30.536264419555664
+1,cat wearing a hat painted on a vase,1,34.415279388427734
+1,cat wearing a hat painted on a vase,2,27.59636688232422
+1,cat wearing a hat painted on a vase,3,28.136474609375
+1,cat wearing a hat painted on a vase,4,34.4222412109375
+1,cat wearing a hat painted on a vase,5,28.726932525634766
+1,cat wearing a hat painted on a vase,6,30.141056060791016
+1,cat wearing a hat painted on a vase,7,30.097400665283203
+1,cat wearing a hat painted on a vase,8,29.895401000976562
+1,cat wearing a hat painted on a vase,9,26.532407760620117
+1,cat wearing a hat painted on a vase,10,27.98732566833496
+1,cat wearing a hat painted on a vase,11,28.866533279418945
+1,cat wearing a hat painted on a vase,12,26.709375381469727
+1,cat wearing a hat painted on a vase,13,30.182981491088867
+1,cat wearing a hat painted on a vase,14,30.485321044921875
+1,cat wearing a hat painted on a vase,15,26.591781616210938
+1,cat wearing a hat painted on a vase,16,28.095991134643555
+1,cat wearing a hat painted on a vase,17,30.737194061279297
+1,cat wearing a hat painted on a vase,18,32.37206268310547
+1,cat wearing a hat painted on a vase,19,29.436721801757812
+1,cat wearing a hat painted on a vase,20,29.886024475097656
+1,cat wearing a hat painted on a vase,21,31.464984893798828
+1,cat wearing a hat painted on a vase,22,30.81285858154297
+1,cat wearing a hat painted on a vase,23,31.391996383666992
+1,cat wearing a hat painted on a vase,24,32.022090911865234
+1,cat wearing a hat painted on a vase,25,34.637176513671875
+1,cat wearing a hat painted on a vase,26,34.13349533081055
+1,cat wearing a hat painted on a vase,27,31.980205535888672
+1,cat wearing a hat painted on a vase,28,29.11309814453125
+1,cat wearing a hat painted on a vase,29,33.75883102416992
+1,cat wearing a hat painted on a vase,30,32.90467071533203
+1,cat wearing a hat painted on a vase,31,26.300704956054688
+1,cat wearing a hat painted on a vase,32,34.29444885253906
+1,cat wearing a hat painted on a vase,33,29.933448791503906
+1,cat wearing a hat painted on a vase,34,30.33217430114746
+1,cat wearing a hat painted on a vase,35,34.17262268066406
+1,cat wearing a hat painted on a vase,36,28.01589584350586
+1,cat wearing a hat painted on a vase,37,20.498136520385742
+1,cat wearing a hat painted on a vase,38,31.58696937561035
+1,cat wearing a hat painted on a vase,39,34.321285247802734
+1,cat wearing a hat painted on a vase,40,30.157238006591797
+1,cat wearing a hat painted on a vase,41,34.821136474609375
+1,cat wearing a hat painted on a vase,42,34.4355354309082
+1,cat wearing a hat painted on a vase,43,31.307432174682617
+1,cat wearing a hat painted on a vase,44,25.635784149169922
+1,cat wearing a hat painted on a vase,45,27.644813537597656
+1,cat wearing a hat painted on a vase,46,30.658885955810547
+1,cat wearing a hat painted on a vase,47,27.33656120300293
+1,cat wearing a hat painted on a vase,48,29.680438995361328
+1,cat wearing a hat painted on a vase,49,32.340599060058594
+2,dog wearing a helmet painted on a canvas,0,30.053743362426758
+2,dog wearing a helmet painted on a canvas,1,32.651119232177734
+2,dog wearing a helmet painted on a canvas,2,38.66248321533203
+2,dog wearing a helmet painted on a canvas,3,34.951690673828125
+2,dog wearing a helmet painted on a canvas,4,31.530622482299805
+2,dog wearing a helmet painted on a canvas,5,34.3826904296875
+2,dog wearing a helmet painted on a canvas,6,34.43196487426758
+2,dog wearing a helmet painted on a canvas,7,34.63798141479492
+2,dog wearing a helmet painted on a canvas,8,34.13783645629883
+2,dog wearing a helmet painted on a canvas,9,35.2945671081543
+2,dog wearing a helmet painted on a canvas,10,26.51715850830078
+2,dog wearing a helmet painted on a canvas,11,32.773597717285156
+2,dog wearing a helmet painted on a canvas,12,32.59222412109375
+2,dog wearing a helmet painted on a canvas,13,32.984954833984375
+2,dog wearing a helmet painted on a canvas,14,33.127159118652344
+2,dog wearing a helmet painted on a canvas,15,37.36499786376953
+2,dog wearing a helmet painted on a canvas,16,34.74435043334961
+2,dog wearing a helmet painted on a canvas,17,38.11583709716797
+2,dog wearing a helmet painted on a canvas,18,31.048891067504883
+2,dog wearing a helmet painted on a canvas,19,34.694393157958984
+2,dog wearing a helmet painted on a canvas,20,34.1247444152832
+2,dog wearing a helmet painted on a canvas,21,33.86967086791992
+2,dog wearing a helmet painted on a canvas,22,33.32717514038086
+2,dog wearing a helmet painted on a canvas,23,32.80027389526367
+2,dog wearing a helmet painted on a canvas,24,34.00812911987305
+2,dog wearing a helmet painted on a canvas,25,36.14812469482422
+2,dog wearing a helmet painted on a canvas,26,28.629701614379883
+2,dog wearing a helmet painted on a canvas,27,33.883426666259766
+2,dog wearing a helmet painted on a canvas,28,30.499422073364258
+2,dog wearing a helmet painted on a canvas,29,35.46752166748047
+2,dog wearing a helmet painted on a canvas,30,35.547142028808594
+2,dog wearing a helmet painted on a canvas,31,32.184242248535156
+2,dog wearing a helmet painted on a canvas,32,34.50815200805664
+2,dog wearing a helmet painted on a canvas,33,33.649749755859375
+2,dog wearing a helmet painted on a canvas,34,31.797290802001953
+2,dog wearing a helmet painted on a canvas,35,32.19072723388672
+2,dog wearing a helmet painted on a canvas,36,35.23136520385742
+2,dog wearing a helmet painted on a canvas,37,34.10940933227539
+2,dog wearing a helmet painted on a canvas,38,35.59598922729492
+2,dog wearing a helmet painted on a canvas,39,33.56712341308594
+2,dog wearing a helmet painted on a canvas,40,32.2125244140625
+2,dog wearing a helmet painted on a canvas,41,30.363155364990234
+2,dog wearing a helmet painted on a canvas,42,32.383358001708984
+2,dog wearing a helmet painted on a canvas,43,31.306644439697266
+2,dog wearing a helmet painted on a canvas,44,31.999143600463867
+2,dog wearing a helmet painted on a canvas,45,32.21805953979492
+2,dog wearing a helmet painted on a canvas,46,31.640621185302734
+2,dog wearing a helmet painted on a canvas,47,34.51237869262695
+2,dog wearing a helmet painted on a canvas,48,33.106605529785156
+2,dog wearing a helmet painted on a canvas,49,32.584693908691406
+3,dog wearing a headphones painted on a building,0,32.6075325012207
+3,dog wearing a headphones painted on a building,1,20.67630386352539
+3,dog wearing a headphones painted on a building,2,20.87136459350586
+3,dog wearing a headphones painted on a building,3,30.924102783203125
+3,dog wearing a headphones painted on a building,4,30.811336517333984
+3,dog wearing a headphones painted on a building,5,23.639225006103516
+3,dog wearing a headphones painted on a building,6,30.41895294189453
+3,dog wearing a headphones painted on a building,7,22.10287857055664
+3,dog wearing a headphones painted on a building,8,25.48719596862793
+3,dog wearing a headphones painted on a building,9,29.88371467590332
+3,dog wearing a headphones painted on a building,10,33.678932189941406
+3,dog wearing a headphones painted on a building,11,30.020301818847656
+3,dog wearing a headphones painted on a building,12,33.9764518737793
+3,dog wearing a headphones painted on a building,13,26.509349822998047
+3,dog wearing a headphones painted on a building,14,24.648630142211914
+3,dog wearing a headphones painted on a building,15,27.60370445251465
+3,dog wearing a headphones painted on a building,16,32.86695861816406
+3,dog wearing a headphones painted on a building,17,31.450172424316406
+3,dog wearing a headphones painted on a building,18,24.375375747680664
+3,dog wearing a headphones painted on a building,19,27.37860679626465
+3,dog wearing a headphones painted on a building,20,23.77841567993164
+3,dog wearing a headphones painted on a building,21,26.837697982788086
+3,dog wearing a headphones painted on a building,22,32.17094421386719
+3,dog wearing a headphones painted on a building,23,29.245471954345703
+3,dog wearing a headphones painted on a building,24,33.425743103027344
+3,dog wearing a headphones painted on a building,25,24.84524917602539
+3,dog wearing a headphones painted on a building,26,33.490596771240234
+3,dog wearing a headphones painted on a building,27,26.497905731201172
+3,dog wearing a headphones painted on a building,28,36.9760627746582
+3,dog wearing a headphones painted on a building,29,27.823781967163086
+3,dog wearing a headphones painted on a building,30,29.923311233520508
+3,dog wearing a headphones painted on a building,31,21.22642707824707
+3,dog wearing a headphones painted on a building,32,22.916810989379883
+3,dog wearing a headphones painted on a building,33,36.516197204589844
+3,dog wearing a headphones painted on a building,34,35.11395263671875
+3,dog wearing a headphones painted on a building,35,21.864013671875
+3,dog wearing a headphones painted on a building,36,32.30559539794922
+3,dog wearing a headphones painted on a building,37,22.32139015197754
+3,dog wearing a headphones painted on a building,38,23.692407608032227
+3,dog wearing a headphones painted on a building,39,26.002639770507812
+3,dog wearing a headphones painted on a building,40,28.775501251220703
+3,dog wearing a headphones painted on a building,41,27.61850357055664
+3,dog wearing a headphones painted on a building,42,33.90166473388672
+3,dog wearing a headphones painted on a building,43,34.45937728881836
+3,dog wearing a headphones painted on a building,44,25.160396575927734
+3,dog wearing a headphones painted on a building,45,27.01913070678711
+3,dog wearing a headphones painted on a building,46,32.83562088012695
+3,dog wearing a headphones painted on a building,47,23.812580108642578
+3,dog wearing a headphones painted on a building,48,27.72989845275879
+3,dog wearing a headphones painted on a building,49,33.00497055053711
+4,hamster wearing a hat painted on a wall,0,31.72201156616211
+4,hamster wearing a hat painted on a wall,1,29.169200897216797
+4,hamster wearing a hat painted on a wall,2,27.98725700378418
+4,hamster wearing a hat painted on a wall,3,30.82537078857422
+4,hamster wearing a hat painted on a wall,4,27.34268569946289
+4,hamster wearing a hat painted on a wall,5,25.50206184387207
+4,hamster wearing a hat painted on a wall,6,27.524147033691406
+4,hamster wearing a hat painted on a wall,7,21.586299896240234
+4,hamster wearing a hat painted on a wall,8,33.204315185546875
+4,hamster wearing a hat painted on a wall,9,31.077808380126953
+4,hamster wearing a hat painted on a wall,10,31.156164169311523
+4,hamster wearing a hat painted on a wall,11,30.571102142333984
+4,hamster wearing a hat painted on a wall,12,30.2086238861084
+4,hamster wearing a hat painted on a wall,13,31.591827392578125
+4,hamster wearing a hat painted on a wall,14,28.802827835083008
+4,hamster wearing a hat painted on a wall,15,29.351594924926758
+4,hamster wearing a hat painted on a wall,16,30.820932388305664
+4,hamster wearing a hat painted on a wall,17,32.2091064453125
+4,hamster wearing a hat painted on a wall,18,28.614336013793945
+4,hamster wearing a hat painted on a wall,19,29.402204513549805
+4,hamster wearing a hat painted on a wall,20,29.234291076660156
+4,hamster wearing a hat painted on a wall,21,31.306276321411133
+4,hamster wearing a hat painted on a wall,22,27.413288116455078
+4,hamster wearing a hat painted on a wall,23,30.04189109802246
+4,hamster wearing a hat painted on a wall,24,30.52682876586914
+4,hamster wearing a hat painted on a wall,25,30.29856300354004
+4,hamster wearing a hat painted on a wall,26,22.2091007232666
+4,hamster wearing a hat painted on a wall,27,31.431930541992188
+4,hamster wearing a hat painted on a wall,28,33.36800765991211
+4,hamster wearing a hat painted on a wall,29,30.225933074951172
+4,hamster wearing a hat painted on a wall,30,33.78580856323242
+4,hamster wearing a hat painted on a wall,31,28.42201042175293
+4,hamster wearing a hat painted on a wall,32,28.427732467651367
+4,hamster wearing a hat painted on a wall,33,26.923662185668945
+4,hamster wearing a hat painted on a wall,34,32.77455139160156
+4,hamster wearing a hat painted on a wall,35,29.27333641052246
+4,hamster wearing a hat painted on a wall,36,28.31389045715332
+4,hamster wearing a hat painted on a wall,37,27.34087371826172
+4,hamster wearing a hat painted on a wall,38,26.427265167236328
+4,hamster wearing a hat painted on a wall,39,31.797653198242188
+4,hamster wearing a hat painted on a wall,40,34.09392166137695
+4,hamster wearing a hat painted on a wall,41,29.055011749267578
+4,hamster wearing a hat painted on a wall,42,29.991430282592773
+4,hamster wearing a hat painted on a wall,43,27.6820125579834
+4,hamster wearing a hat painted on a wall,44,33.2498893737793
+4,hamster wearing a hat painted on a wall,45,29.557191848754883
+4,hamster wearing a hat painted on a wall,46,30.249544143676758
+4,hamster wearing a hat painted on a wall,47,28.605382919311523
+4,hamster wearing a hat painted on a wall,48,33.9343376159668
+4,hamster wearing a hat painted on a wall,49,31.699445724487305
+5,spiderman wearing a helmet painted on a canvas,0,29.225202560424805
+5,spiderman wearing a helmet painted on a canvas,1,26.31751251220703
+5,spiderman wearing a helmet painted on a canvas,2,23.43408966064453
+5,spiderman wearing a helmet painted on a canvas,3,29.51166343688965
+5,spiderman wearing a helmet painted on a canvas,4,31.831785202026367
+5,spiderman wearing a helmet painted on a canvas,5,28.921907424926758
+5,spiderman wearing a helmet painted on a canvas,6,27.39391326904297
+5,spiderman wearing a helmet painted on a canvas,7,32.97161102294922
+5,spiderman wearing a helmet painted on a canvas,8,28.8658447265625
+5,spiderman wearing a helmet painted on a canvas,9,29.86675453186035
+5,spiderman wearing a helmet painted on a canvas,10,29.811214447021484
+5,spiderman wearing a helmet painted on a canvas,11,30.83900260925293
+5,spiderman wearing a helmet painted on a canvas,12,29.49567985534668
+5,spiderman wearing a helmet painted on a canvas,13,28.612241744995117
+5,spiderman wearing a helmet painted on a canvas,14,31.685590744018555
+5,spiderman wearing a helmet painted on a canvas,15,32.445316314697266
+5,spiderman wearing a helmet painted on a canvas,16,33.64799499511719
+5,spiderman wearing a helmet painted on a canvas,17,32.71731185913086
+5,spiderman wearing a helmet painted on a canvas,18,31.597896575927734
+5,spiderman wearing a helmet painted on a canvas,19,31.033504486083984
+5,spiderman wearing a helmet painted on a canvas,20,30.10441017150879
+5,spiderman wearing a helmet painted on a canvas,21,30.891162872314453
+5,spiderman wearing a helmet painted on a canvas,22,30.244985580444336
+5,spiderman wearing a helmet painted on a canvas,23,26.98458480834961
+5,spiderman wearing a helmet painted on a canvas,24,32.188297271728516
+5,spiderman wearing a helmet painted on a canvas,25,30.335844039916992
+5,spiderman wearing a helmet painted on a canvas,26,31.52392578125
+5,spiderman wearing a helmet painted on a canvas,27,29.81804656982422
+5,spiderman wearing a helmet painted on a canvas,28,30.630308151245117
+5,spiderman wearing a helmet painted on a canvas,29,31.59646987915039
+5,spiderman wearing a helmet painted on a canvas,30,29.6108341217041
+5,spiderman wearing a helmet painted on a canvas,31,29.36740493774414
+5,spiderman wearing a helmet painted on a canvas,32,29.67728614807129
+5,spiderman wearing a helmet painted on a canvas,33,30.60082244873047
+5,spiderman wearing a helmet painted on a canvas,34,28.681272506713867
+5,spiderman wearing a helmet painted on a canvas,35,28.026151657104492
+5,spiderman wearing a helmet painted on a canvas,36,30.767065048217773
+5,spiderman wearing a helmet painted on a canvas,37,30.18903160095215
+5,spiderman wearing a helmet painted on a canvas,38,32.41690444946289
+5,spiderman wearing a helmet painted on a canvas,39,29.54288101196289
+5,spiderman wearing a helmet painted on a canvas,40,30.615127563476562
+5,spiderman wearing a helmet painted on a canvas,41,30.811840057373047
+5,spiderman wearing a helmet painted on a canvas,42,30.790021896362305
+5,spiderman wearing a helmet painted on a canvas,43,29.190942764282227
+5,spiderman wearing a helmet painted on a canvas,44,30.164735794067383
+5,spiderman wearing a helmet painted on a canvas,45,29.37409210205078
+5,spiderman wearing a helmet painted on a canvas,46,32.29176330566406
+5,spiderman wearing a helmet painted on a canvas,47,31.25808334350586
+5,spiderman wearing a helmet painted on a canvas,48,32.19156265258789
+5,spiderman wearing a helmet painted on a canvas,49,31.748584747314453
+6,superman wearing a helmet painted on a wall,0,25.205537796020508
+6,superman wearing a helmet painted on a wall,1,26.89828872680664
+6,superman wearing a helmet painted on a wall,2,28.78580093383789
+6,superman wearing a helmet painted on a wall,3,26.186805725097656
+6,superman wearing a helmet painted on a wall,4,29.174793243408203
+6,superman wearing a helmet painted on a wall,5,28.916723251342773
+6,superman wearing a helmet painted on a wall,6,23.091602325439453
+6,superman wearing a helmet painted on a wall,7,25.58071517944336
+6,superman wearing a helmet painted on a wall,8,22.424076080322266
+6,superman wearing a helmet painted on a wall,9,25.01826286315918
+6,superman wearing a helmet painted on a wall,10,29.037874221801758
+6,superman wearing a helmet painted on a wall,11,25.924175262451172
+6,superman wearing a helmet painted on a wall,12,23.54986572265625
+6,superman wearing a helmet painted on a wall,13,24.394289016723633
+6,superman wearing a helmet painted on a wall,14,33.44863510131836
+6,superman wearing a helmet painted on a wall,15,28.201404571533203
+6,superman wearing a helmet painted on a wall,16,27.05809783935547
+6,superman wearing a helmet painted on a wall,17,21.460084915161133
+6,superman wearing a helmet painted on a wall,18,21.993732452392578
+6,superman wearing a helmet painted on a wall,19,28.00716209411621
+6,superman wearing a helmet painted on a wall,20,25.82731819152832
+6,superman wearing a helmet painted on a wall,21,26.690704345703125
+6,superman wearing a helmet painted on a wall,22,28.515588760375977
+6,superman wearing a helmet painted on a wall,23,24.811368942260742
+6,superman wearing a helmet painted on a wall,24,29.096725463867188
+6,superman wearing a helmet painted on a wall,25,27.040111541748047
+6,superman wearing a helmet painted on a wall,26,25.939807891845703
+6,superman wearing a helmet painted on a wall,27,28.3663330078125
+6,superman wearing a helmet painted on a wall,28,27.256465911865234
+6,superman wearing a helmet painted on a wall,29,28.024112701416016
+6,superman wearing a helmet painted on a wall,30,26.264625549316406
+6,superman wearing a helmet painted on a wall,31,28.777402877807617
+6,superman wearing a helmet painted on a wall,32,21.239181518554688
+6,superman wearing a helmet painted on a wall,33,22.77240753173828
+6,superman wearing a helmet painted on a wall,34,26.127365112304688
+6,superman wearing a helmet painted on a wall,35,27.74972915649414
+6,superman wearing a helmet painted on a wall,36,34.28662109375
+6,superman wearing a helmet painted on a wall,37,31.85630989074707
+6,superman wearing a helmet painted on a wall,38,27.898305892944336
+6,superman wearing a helmet painted on a wall,39,23.592456817626953
+6,superman wearing a helmet painted on a wall,40,27.1479549407959
+6,superman wearing a helmet painted on a wall,41,24.29397964477539
+6,superman wearing a helmet painted on a wall,42,28.012062072753906
+6,superman wearing a helmet painted on a wall,43,22.645437240600586
+6,superman wearing a helmet painted on a wall,44,23.414079666137695
+6,superman wearing a helmet painted on a wall,45,25.294525146484375
+6,superman wearing a helmet painted on a wall,46,22.985576629638672
+6,superman wearing a helmet painted on a wall,47,23.208528518676758
+6,superman wearing a helmet painted on a wall,48,26.003854751586914
+6,superman wearing a helmet painted on a wall,49,23.4856014251709
+7,batman holding a flower painted on a building,0,28.085063934326172
+7,batman holding a flower painted on a building,1,26.908897399902344
+7,batman holding a flower painted on a building,2,29.040891647338867
+7,batman holding a flower painted on a building,3,30.946880340576172
+7,batman holding a flower painted on a building,4,25.422351837158203
+7,batman holding a flower painted on a building,5,33.705318450927734
+7,batman holding a flower painted on a building,6,28.466718673706055
+7,batman holding a flower painted on a building,7,31.005023956298828
+7,batman holding a flower painted on a building,8,35.52922058105469
+7,batman holding a flower painted on a building,9,27.314058303833008
+7,batman holding a flower painted on a building,10,27.959003448486328
+7,batman holding a flower painted on a building,11,30.200258255004883
+7,batman holding a flower painted on a building,12,31.711084365844727
+7,batman holding a flower painted on a building,13,33.631046295166016
+7,batman holding a flower painted on a building,14,34.80455780029297
+7,batman holding a flower painted on a building,15,29.090898513793945
+7,batman holding a flower painted on a building,16,28.57510757446289
+7,batman holding a flower painted on a building,17,31.19695472717285
+7,batman holding a flower painted on a building,18,27.626222610473633
+7,batman holding a flower painted on a building,19,26.616310119628906
+7,batman holding a flower painted on a building,20,32.891578674316406
+7,batman holding a flower painted on a building,21,29.788043975830078
+7,batman holding a flower painted on a building,22,34.27906036376953
+7,batman holding a flower painted on a building,23,34.227718353271484
+7,batman holding a flower painted on a building,24,27.640972137451172
+7,batman holding a flower painted on a building,25,27.568822860717773
+7,batman holding a flower painted on a building,26,33.192138671875
+7,batman holding a flower painted on a building,27,28.310400009155273
+7,batman holding a flower painted on a building,28,29.836284637451172
+7,batman holding a flower painted on a building,29,32.78315353393555
+7,batman holding a flower painted on a building,30,27.409231185913086
+7,batman holding a flower painted on a building,31,29.496891021728516
+7,batman holding a flower painted on a building,32,28.3691463470459
+7,batman holding a flower painted on a building,33,28.840837478637695
+7,batman holding a flower painted on a building,34,35.27395248413086
+7,batman holding a flower painted on a building,35,33.23712158203125
+7,batman holding a flower painted on a building,36,27.824342727661133
+7,batman holding a flower painted on a building,37,26.724552154541016
+7,batman holding a flower painted on a building,38,27.14056396484375
+7,batman holding a flower painted on a building,39,35.12253189086914
+7,batman holding a flower painted on a building,40,31.707664489746094
+7,batman holding a flower painted on a building,41,32.15764617919922
+7,batman holding a flower painted on a building,42,29.713396072387695
+7,batman holding a flower painted on a building,43,29.66973114013672
+7,batman holding a flower painted on a building,44,34.88896560668945
+7,batman holding a flower painted on a building,45,35.76683807373047
+7,batman holding a flower painted on a building,46,28.196453094482422
+7,batman holding a flower painted on a building,47,34.34841537475586
+7,batman holding a flower painted on a building,48,27.21046257019043
+7,batman holding a flower painted on a building,49,27.081701278686523
+8,michael jackson painted on a canvas in the desert,0,34.43910598754883
+8,michael jackson painted on a canvas in the desert,1,42.18912124633789
+8,michael jackson painted on a canvas in the desert,2,39.997352600097656
+8,michael jackson painted on a canvas in the desert,3,32.02865982055664
+8,michael jackson painted on a canvas in the desert,4,34.846492767333984
+8,michael jackson painted on a canvas in the desert,5,31.565942764282227
+8,michael jackson painted on a canvas in the desert,6,29.232084274291992
+8,michael jackson painted on a canvas in the desert,7,37.2307243347168
+8,michael jackson painted on a canvas in the desert,8,31.522375106811523
+8,michael jackson painted on a canvas in the desert,9,38.93671798706055
+8,michael jackson painted on a canvas in the desert,10,34.656097412109375
+8,michael jackson painted on a canvas in the desert,11,31.678932189941406
+8,michael jackson painted on a canvas in the desert,12,30.797014236450195
+8,michael jackson painted on a canvas in the desert,13,39.9129524230957
+8,michael jackson painted on a canvas in the desert,14,30.15424346923828
+8,michael jackson painted on a canvas in the desert,15,30.25657844543457
+8,michael jackson painted on a canvas in the desert,16,30.297189712524414
+8,michael jackson painted on a canvas in the desert,17,32.025634765625
+8,michael jackson painted on a canvas in the desert,18,29.67626190185547
+8,michael jackson painted on a canvas in the desert,19,40.80097198486328
+8,michael jackson painted on a canvas in the desert,20,32.03447341918945
+8,michael jackson painted on a canvas in the desert,21,37.477840423583984
+8,michael jackson painted on a canvas in the desert,22,30.0786190032959
+8,michael jackson painted on a canvas in the desert,23,30.36142349243164
+8,michael jackson painted on a canvas in the desert,24,39.158607482910156
+8,michael jackson painted on a canvas in the desert,25,36.24510955810547
+8,michael jackson painted on a canvas in the desert,26,37.156097412109375
+8,michael jackson painted on a canvas in the desert,27,39.86885070800781
+8,michael jackson painted on a canvas in the desert,28,32.61101150512695
+8,michael jackson painted on a canvas in the desert,29,40.8843879699707
+8,michael jackson painted on a canvas in the desert,30,34.759002685546875
+8,michael jackson painted on a canvas in the desert,31,30.180418014526367
+8,michael jackson painted on a canvas in the desert,32,40.67512893676758
+8,michael jackson painted on a canvas in the desert,33,31.476806640625
+8,michael jackson painted on a canvas in the desert,34,40.34468078613281
+8,michael jackson painted on a canvas in the desert,35,35.81333923339844
+8,michael jackson painted on a canvas in the desert,36,36.123191833496094
+8,michael jackson painted on a canvas in the desert,37,38.21126937866211
+8,michael jackson painted on a canvas in the desert,38,34.717994689941406
+8,michael jackson painted on a canvas in the desert,39,35.5308837890625
+8,michael jackson painted on a canvas in the desert,40,35.96287536621094
+8,michael jackson painted on a canvas in the desert,41,33.61069869995117
+8,michael jackson painted on a canvas in the desert,42,27.3569278717041
+8,michael jackson painted on a canvas in the desert,43,41.33476638793945
+8,michael jackson painted on a canvas in the desert,44,31.831668853759766
+8,michael jackson painted on a canvas in the desert,45,32.83736801147461
+8,michael jackson painted on a canvas in the desert,46,39.90283203125
+8,michael jackson painted on a canvas in the desert,47,31.66275405883789
+8,michael jackson painted on a canvas in the desert,48,39.78334045410156
+8,michael jackson painted on a canvas in the desert,49,37.009830474853516
+9,michael jackson painted on a wall in the beach,0,34.80432891845703
+9,michael jackson painted on a wall in the beach,1,28.19278335571289
+9,michael jackson painted on a wall in the beach,2,36.102561950683594
+9,michael jackson painted on a wall in the beach,3,32.708805084228516
+9,michael jackson painted on a wall in the beach,4,29.10077667236328
+9,michael jackson painted on a wall in the beach,5,28.615306854248047
+9,michael jackson painted on a wall in the beach,6,29.85004234313965
+9,michael jackson painted on a wall in the beach,7,35.4714241027832
+9,michael jackson painted on a wall in the beach,8,33.63892364501953
+9,michael jackson painted on a wall in the beach,9,32.32788848876953
+9,michael jackson painted on a wall in the beach,10,31.190296173095703
+9,michael jackson painted on a wall in the beach,11,36.13226318359375
+9,michael jackson painted on a wall in the beach,12,33.842288970947266
+9,michael jackson painted on a wall in the beach,13,34.40237045288086
+9,michael jackson painted on a wall in the beach,14,34.5498161315918
+9,michael jackson painted on a wall in the beach,15,33.546875
+9,michael jackson painted on a wall in the beach,16,30.64613914489746
+9,michael jackson painted on a wall in the beach,17,33.848995208740234
+9,michael jackson painted on a wall in the beach,18,35.05069351196289
+9,michael jackson painted on a wall in the beach,19,30.476734161376953
+9,michael jackson painted on a wall in the beach,20,34.66197967529297
+9,michael jackson painted on a wall in the beach,21,34.95682907104492
+9,michael jackson painted on a wall in the beach,22,28.963274002075195
+9,michael jackson painted on a wall in the beach,23,29.524866104125977
+9,michael jackson painted on a wall in the beach,24,30.966955184936523
+9,michael jackson painted on a wall in the beach,25,33.02095031738281
+9,michael jackson painted on a wall in the beach,26,28.69243621826172
+9,michael jackson painted on a wall in the beach,27,27.845657348632812
+9,michael jackson painted on a wall in the beach,28,34.352691650390625
+9,michael jackson painted on a wall in the beach,29,30.830944061279297
+9,michael jackson painted on a wall in the beach,30,31.226003646850586
+9,michael jackson painted on a wall in the beach,31,34.7857666015625
+9,michael jackson painted on a wall in the beach,32,35.1444091796875
+9,michael jackson painted on a wall in the beach,33,31.92985725402832
+9,michael jackson painted on a wall in the beach,34,33.56976318359375
+9,michael jackson painted on a wall in the beach,35,34.016685485839844
+9,michael jackson painted on a wall in the beach,36,35.276981353759766
+9,michael jackson painted on a wall in the beach,37,34.71917724609375
+9,michael jackson painted on a wall in the beach,38,35.04462432861328
+9,michael jackson painted on a wall in the beach,39,30.09870719909668
+9,michael jackson painted on a wall in the beach,40,33.92853546142578
+9,michael jackson painted on a wall in the beach,41,34.716278076171875
+9,michael jackson painted on a wall in the beach,42,34.553001403808594
+9,michael jackson painted on a wall in the beach,43,33.80072021484375
+9,michael jackson painted on a wall in the beach,44,29.673236846923828
+9,michael jackson painted on a wall in the beach,45,33.89340591430664
+9,michael jackson painted on a wall in the beach,46,35.18424987792969
+9,michael jackson painted on a wall in the beach,47,33.59690475463867
+9,michael jackson painted on a wall in the beach,48,34.22056579589844
+9,michael jackson painted on a wall in the beach,49,32.936241149902344

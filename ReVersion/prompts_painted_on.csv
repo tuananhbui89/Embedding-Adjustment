@@ -1,0 +1,11 @@
+prompt,full_prompt,custom_prompt_A,custom_prompt_B,custom_prompt_C
+cat wearing a hat {} stone,cat wearing a hat painted on a stone,cat wearing a hat,painted on a stone,NA
+cat wearing a hat {} vase,cat wearing a hat painted on a vase,cat wearing a hat,painted on a vase,NA
+dog wearing a helmet {} canvas,dog wearing a helmet painted on a canvas,dog wearing a helmet,painted on a canvas,NA
+dog wearing a headphones {} building,dog wearing a headphones painted on a building,dog wearing a headphones,painted on a building,NA
+hamster wearing a hat {} wall,hamster wearing a hat painted on a wall,hamster wearing a hat,painted on a wall,NA
+spiderman wearing a helmet {} canvas,spiderman wearing a helmet painted on a canvas,spiderman wearing a helmet,painted on a canvas,NA
+superman wearing a helmet {} wall,superman wearing a helmet painted on a wall,superman wearing a helmet,painted on a wall,NA
+batman holding a flower {} building,batman holding a flower painted on a building,batman holding a flower,painted on a building,NA
+michael jackson {} canvas in the desert,michael jackson painted on a canvas in the desert,michael jackson,painted on a canvas in the desert,NA
+michael jackson {} wall in the beach,michael jackson painted on a wall in the beach,michael jackson,painted on a wall in the beach,NA

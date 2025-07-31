@@ -11,32 +11,49 @@ This is the code and data for the paper "Mitigating Semantic Collapse in Generat
 
 ## Qualitative Results
 
-Example results of the proposed method (TEA) and the baselines (EasyControl) are shown below. More results can be found in the `EasyControl` and `ReVersion` subfolders.
+Example results of the proposed method (TEA) and the baselines (EasyControl) are shown below. More results can be found in the `EasyControl` and `ReVersion` subfolders. 
+
+It can be seen that the proposed method (TEA) can significantly improve the prompt alignment of the generated images. For example, in the case of ReVersion, with the prompt "cat carved by carrot in the garden", the standard ReVersion generates some failure cases where the cat is not carved by carrot or only shows the carrot. In the case of EasyControl, without the keyword "gun", but the generated images still contain a gun concept. With our TEA method, the above failure cases are mitigated. 
+
+### EasyControl with TEA 
 
 ![Results without TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1/prompt_0_grid.jpg)
-*Results without TEA: Subject personalization using standard EasyControl pipeline*
+*EasyControl: Subject personalization using standard EasyControl pipeline.* Failure cases - dog stands beside a person.
 
 ![Results with TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1_tea/prompt_0_grid.jpg) 
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*EasyControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
 ![Results without TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1/prompt_7_grid.jpg)
-*Results without TEA: Subject personalization using standard EasyControl pipeline*
+*EasyControl: Subject personalization using standard EasyControl pipeline.* Failure cases - holding gun LOL, or dog stands beside a person.
 
 ![Results with TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1_tea/prompt_7_grid.jpg) 
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*EasyControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
 ![Results without TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear/prompt_0_grid.jpg)
-*Results without TEA: Subject personalization using standard EasyControl pipeline*
+*EasyControl: Subject personalization using standard EasyControl pipeline.* Failure cases - holding gun again LOL.
 
 ![Results with TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear_tea/prompt_0_grid.jpg) 
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*EasyControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
 ![Results without TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear/prompt_7_grid.jpg)
-*Results without TEA: Subject personalization using standard EasyControl pipeline*
+*EasyControl: Subject personalization using standard EasyControl pipeline.* Failure cases - holding gun again LOL.
 
 ![Results with TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear_tea/prompt_7_grid.jpg) 
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*EasyControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
+### ReVersion with TEA 
+
+![Results without TEA](ReVersion/evaluation_massive/carved_by/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+*ReVersion: Cat carved by carrot in the garden.* Failure cases - the cat is not carved by the carrot or only shows the carrot.
+
+![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/cat%20%3CR%3E%20carrot%20in%20the%20garden.png)
+*ReVersion with TEA: Cat carved by carrot in the garden*
+
+![Results without TEA](ReVersion/evaluation_massive/carved_by/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+*ReVersion: Dog carved by paper in the library.* Failure cases - the dog is not carved by the paper but attached a paper to the dog LOL.
+
+![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.png)
+*ReVersion with TEA: Dog carved by paper in the library*
 
 ## Requirements
 

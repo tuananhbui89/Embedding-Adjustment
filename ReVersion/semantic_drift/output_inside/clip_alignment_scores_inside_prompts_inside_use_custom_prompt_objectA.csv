@@ -1,0 +1,501 @@
+prompt_index,prompt,image_index,score
+0,cat wearing a hat,0,25.641164779663086
+0,cat wearing a hat,1,19.886762619018555
+0,cat wearing a hat,2,28.1975154876709
+0,cat wearing a hat,3,25.701486587524414
+0,cat wearing a hat,4,25.925291061401367
+0,cat wearing a hat,5,24.39179039001465
+0,cat wearing a hat,6,27.250253677368164
+0,cat wearing a hat,7,27.109050750732422
+0,cat wearing a hat,8,24.721595764160156
+0,cat wearing a hat,9,21.2100830078125
+0,cat wearing a hat,10,21.05735206604004
+0,cat wearing a hat,11,20.282196044921875
+0,cat wearing a hat,12,25.469932556152344
+0,cat wearing a hat,13,26.017635345458984
+0,cat wearing a hat,14,28.239137649536133
+0,cat wearing a hat,15,18.260679244995117
+0,cat wearing a hat,16,24.39815330505371
+0,cat wearing a hat,17,25.270021438598633
+0,cat wearing a hat,18,19.953779220581055
+0,cat wearing a hat,19,17.88223648071289
+0,cat wearing a hat,20,20.21442413330078
+0,cat wearing a hat,21,28.70412826538086
+0,cat wearing a hat,22,21.077157974243164
+0,cat wearing a hat,23,27.22129249572754
+0,cat wearing a hat,24,17.88223648071289
+0,cat wearing a hat,25,20.84126091003418
+0,cat wearing a hat,26,28.54047966003418
+0,cat wearing a hat,27,19.599777221679688
+0,cat wearing a hat,28,16.136001586914062
+0,cat wearing a hat,29,25.35915756225586
+0,cat wearing a hat,30,19.918962478637695
+0,cat wearing a hat,31,20.208566665649414
+0,cat wearing a hat,32,29.755535125732422
+0,cat wearing a hat,33,27.47207260131836
+0,cat wearing a hat,34,21.97335433959961
+0,cat wearing a hat,35,22.124317169189453
+0,cat wearing a hat,36,20.845600128173828
+0,cat wearing a hat,37,27.632062911987305
+0,cat wearing a hat,38,25.904937744140625
+0,cat wearing a hat,39,27.526033401489258
+0,cat wearing a hat,40,23.238922119140625
+0,cat wearing a hat,41,26.481687545776367
+0,cat wearing a hat,42,25.249919891357422
+0,cat wearing a hat,43,18.17772674560547
+0,cat wearing a hat,44,24.941572189331055
+0,cat wearing a hat,45,19.22555923461914
+0,cat wearing a hat,46,26.96614646911621
+0,cat wearing a hat,47,27.9505672454834
+0,cat wearing a hat,48,27.626121520996094
+0,cat wearing a hat,49,24.821626663208008
+1,cat wearing a helmet,0,15.914660453796387
+1,cat wearing a helmet,1,21.542526245117188
+1,cat wearing a helmet,2,18.600831985473633
+1,cat wearing a helmet,3,18.749483108520508
+1,cat wearing a helmet,4,29.392623901367188
+1,cat wearing a helmet,5,20.203432083129883
+1,cat wearing a helmet,6,17.413450241088867
+1,cat wearing a helmet,7,15.572879791259766
+1,cat wearing a helmet,8,17.296234130859375
+1,cat wearing a helmet,9,15.152159690856934
+1,cat wearing a helmet,10,16.66298484802246
+1,cat wearing a helmet,11,22.89714241027832
+1,cat wearing a helmet,12,29.81472396850586
+1,cat wearing a helmet,13,18.431896209716797
+1,cat wearing a helmet,14,17.36272621154785
+1,cat wearing a helmet,15,18.6978702545166
+1,cat wearing a helmet,16,16.83772087097168
+1,cat wearing a helmet,17,17.91840934753418
+1,cat wearing a helmet,18,16.2028751373291
+1,cat wearing a helmet,19,17.801589965820312
+1,cat wearing a helmet,20,26.41023063659668
+1,cat wearing a helmet,21,17.034412384033203
+1,cat wearing a helmet,22,17.732040405273438
+1,cat wearing a helmet,23,21.76532745361328
+1,cat wearing a helmet,24,13.75721263885498
+1,cat wearing a helmet,25,16.94621467590332
+1,cat wearing a helmet,26,19.26493263244629
+1,cat wearing a helmet,27,28.832181930541992
+1,cat wearing a helmet,28,29.820125579833984
+1,cat wearing a helmet,29,15.880818367004395
+1,cat wearing a helmet,30,19.9139347076416
+1,cat wearing a helmet,31,24.066936492919922
+1,cat wearing a helmet,32,21.962034225463867
+1,cat wearing a helmet,33,21.18484878540039
+1,cat wearing a helmet,34,30.36924934387207
+1,cat wearing a helmet,35,13.758426666259766
+1,cat wearing a helmet,36,29.45701789855957
+1,cat wearing a helmet,37,27.844480514526367
+1,cat wearing a helmet,38,15.004626274108887
+1,cat wearing a helmet,39,18.186120986938477
+1,cat wearing a helmet,40,17.373613357543945
+1,cat wearing a helmet,41,17.12532615661621
+1,cat wearing a helmet,42,26.604145050048828
+1,cat wearing a helmet,43,20.144615173339844
+1,cat wearing a helmet,44,17.564468383789062
+1,cat wearing a helmet,45,22.91620445251465
+1,cat wearing a helmet,46,26.246213912963867
+1,cat wearing a helmet,47,17.88787269592285
+1,cat wearing a helmet,48,26.235776901245117
+1,cat wearing a helmet,49,13.694845199584961
+2,hamster wearing a headphones,0,23.358253479003906
+2,hamster wearing a headphones,1,22.163867950439453
+2,hamster wearing a headphones,2,22.574968338012695
+2,hamster wearing a headphones,3,31.320064544677734
+2,hamster wearing a headphones,4,25.270828247070312
+2,hamster wearing a headphones,5,29.292274475097656
+2,hamster wearing a headphones,6,29.147279739379883
+2,hamster wearing a headphones,7,26.97381591796875
+2,hamster wearing a headphones,8,25.509654998779297
+2,hamster wearing a headphones,9,26.245779037475586
+2,hamster wearing a headphones,10,23.786245346069336
+2,hamster wearing a headphones,11,28.111480712890625
+2,hamster wearing a headphones,12,23.362506866455078
+2,hamster wearing a headphones,13,22.724960327148438
+2,hamster wearing a headphones,14,30.875986099243164
+2,hamster wearing a headphones,15,23.565786361694336
+2,hamster wearing a headphones,16,24.665132522583008
+2,hamster wearing a headphones,17,23.937686920166016
+2,hamster wearing a headphones,18,27.344602584838867
+2,hamster wearing a headphones,19,26.768646240234375
+2,hamster wearing a headphones,20,25.085704803466797
+2,hamster wearing a headphones,21,25.022348403930664
+2,hamster wearing a headphones,22,25.06326675415039
+2,hamster wearing a headphones,23,19.8701171875
+2,hamster wearing a headphones,24,31.308025360107422
+2,hamster wearing a headphones,25,21.583980560302734
+2,hamster wearing a headphones,26,28.891420364379883
+2,hamster wearing a headphones,27,26.603322982788086
+2,hamster wearing a headphones,28,26.609453201293945
+2,hamster wearing a headphones,29,21.903989791870117
+2,hamster wearing a headphones,30,21.73936653137207
+2,hamster wearing a headphones,31,22.88646697998047
+2,hamster wearing a headphones,32,27.224735260009766
+2,hamster wearing a headphones,33,29.469982147216797
+2,hamster wearing a headphones,34,21.71670150756836
+2,hamster wearing a headphones,35,24.685073852539062
+2,hamster wearing a headphones,36,25.703149795532227
+2,hamster wearing a headphones,37,19.413820266723633
+2,hamster wearing a headphones,38,26.961347579956055
+2,hamster wearing a headphones,39,21.65744400024414
+2,hamster wearing a headphones,40,28.741561889648438
+2,hamster wearing a headphones,41,22.707721710205078
+2,hamster wearing a headphones,42,21.419008255004883
+2,hamster wearing a headphones,43,21.727842330932617
+2,hamster wearing a headphones,44,24.635496139526367
+2,hamster wearing a headphones,45,23.458837509155273
+2,hamster wearing a headphones,46,34.008087158203125
+2,hamster wearing a headphones,47,26.343463897705078
+2,hamster wearing a headphones,48,24.2869815826416
+2,hamster wearing a headphones,49,29.3453369140625
+3,hamster wearing a hat,0,29.835437774658203
+3,hamster wearing a hat,1,32.29302215576172
+3,hamster wearing a hat,2,29.262489318847656
+3,hamster wearing a hat,3,30.205917358398438
+3,hamster wearing a hat,4,22.172117233276367
+3,hamster wearing a hat,5,32.041786193847656
+3,hamster wearing a hat,6,25.652997970581055
+3,hamster wearing a hat,7,32.26372146606445
+3,hamster wearing a hat,8,32.081424713134766
+3,hamster wearing a hat,9,27.028867721557617
+3,hamster wearing a hat,10,25.792387008666992
+3,hamster wearing a hat,11,30.646127700805664
+3,hamster wearing a hat,12,27.439939498901367
+3,hamster wearing a hat,13,26.819774627685547
+3,hamster wearing a hat,14,23.552204132080078
+3,hamster wearing a hat,15,28.782712936401367
+3,hamster wearing a hat,16,24.36299705505371
+3,hamster wearing a hat,17,30.746734619140625
+3,hamster wearing a hat,18,22.6771183013916
+3,hamster wearing a hat,19,30.65913963317871
+3,hamster wearing a hat,20,21.39179039001465
+3,hamster wearing a hat,21,28.17057991027832
+3,hamster wearing a hat,22,29.555177688598633
+3,hamster wearing a hat,23,31.307836532592773
+3,hamster wearing a hat,24,30.819786071777344
+3,hamster wearing a hat,25,33.38800811767578
+3,hamster wearing a hat,26,27.82771873474121
+3,hamster wearing a hat,27,28.91201400756836
+3,hamster wearing a hat,28,31.36380958557129
+3,hamster wearing a hat,29,29.238479614257812
+3,hamster wearing a hat,30,27.21311378479004
+3,hamster wearing a hat,31,28.679296493530273
+3,hamster wearing a hat,32,28.23653221130371
+3,hamster wearing a hat,33,29.711055755615234
+3,hamster wearing a hat,34,25.19284439086914
+3,hamster wearing a hat,35,27.908384323120117
+3,hamster wearing a hat,36,29.607046127319336
+3,hamster wearing a hat,37,31.124670028686523
+3,hamster wearing a hat,38,30.33123016357422
+3,hamster wearing a hat,39,21.395004272460938
+3,hamster wearing a hat,40,22.149606704711914
+3,hamster wearing a hat,41,29.760807037353516
+3,hamster wearing a hat,42,29.066246032714844
+3,hamster wearing a hat,43,27.632383346557617
+3,hamster wearing a hat,44,28.788379669189453
+3,hamster wearing a hat,45,29.049760818481445
+3,hamster wearing a hat,46,30.193904876708984
+3,hamster wearing a hat,47,31.033891677856445
+3,hamster wearing a hat,48,30.049663543701172
+3,hamster wearing a hat,49,28.511598587036133
+4,spiderman wearing a headphones,0,20.21548080444336
+4,spiderman wearing a headphones,1,21.494998931884766
+4,spiderman wearing a headphones,2,20.996606826782227
+4,spiderman wearing a headphones,3,24.11858367919922
+4,spiderman wearing a headphones,4,30.760692596435547
+4,spiderman wearing a headphones,5,23.905363082885742
+4,spiderman wearing a headphones,6,21.818870544433594
+4,spiderman wearing a headphones,7,22.804731369018555
+4,spiderman wearing a headphones,8,24.410429000854492
+4,spiderman wearing a headphones,9,29.07857322692871
+4,spiderman wearing a headphones,10,22.17683219909668
+4,spiderman wearing a headphones,11,24.945173263549805
+4,spiderman wearing a headphones,12,20.195283889770508
+4,spiderman wearing a headphones,13,29.830486297607422
+4,spiderman wearing a headphones,14,20.177133560180664
+4,spiderman wearing a headphones,15,24.151628494262695
+4,spiderman wearing a headphones,16,22.8988037109375
+4,spiderman wearing a headphones,17,25.1412353515625
+4,spiderman wearing a headphones,18,20.284921646118164
+4,spiderman wearing a headphones,19,23.759246826171875
+4,spiderman wearing a headphones,20,23.08336067199707
+4,spiderman wearing a headphones,21,21.781173706054688
+4,spiderman wearing a headphones,22,24.219924926757812
+4,spiderman wearing a headphones,23,19.322593688964844
+4,spiderman wearing a headphones,24,24.542985916137695
+4,spiderman wearing a headphones,25,20.987316131591797
+4,spiderman wearing a headphones,26,22.158599853515625
+4,spiderman wearing a headphones,27,24.058242797851562
+4,spiderman wearing a headphones,28,24.02450180053711
+4,spiderman wearing a headphones,29,29.28704071044922
+4,spiderman wearing a headphones,30,26.163280487060547
+4,spiderman wearing a headphones,31,23.861499786376953
+4,spiderman wearing a headphones,32,23.85857582092285
+4,spiderman wearing a headphones,33,21.8500919342041
+4,spiderman wearing a headphones,34,21.496625900268555
+4,spiderman wearing a headphones,35,23.14110565185547
+4,spiderman wearing a headphones,36,22.08002281188965
+4,spiderman wearing a headphones,37,22.154193878173828
+4,spiderman wearing a headphones,38,21.938264846801758
+4,spiderman wearing a headphones,39,21.954641342163086
+4,spiderman wearing a headphones,40,21.650691986083984
+4,spiderman wearing a headphones,41,22.570655822753906
+4,spiderman wearing a headphones,42,29.562786102294922
+4,spiderman wearing a headphones,43,24.319135665893555
+4,spiderman wearing a headphones,44,20.86393165588379
+4,spiderman wearing a headphones,45,24.441164016723633
+4,spiderman wearing a headphones,46,23.958824157714844
+4,spiderman wearing a headphones,47,23.162189483642578
+4,spiderman wearing a headphones,48,22.043960571289062
+4,spiderman wearing a headphones,49,29.565059661865234
+5,superman wearing a helmet,0,24.266284942626953
+5,superman wearing a helmet,1,23.391115188598633
+5,superman wearing a helmet,2,22.35727310180664
+5,superman wearing a helmet,3,24.260723114013672
+5,superman wearing a helmet,4,26.684200286865234
+5,superman wearing a helmet,5,23.580158233642578
+5,superman wearing a helmet,6,20.309980392456055
+5,superman wearing a helmet,7,22.94919776916504
+5,superman wearing a helmet,8,22.628969192504883
+5,superman wearing a helmet,9,28.0737247467041
+5,superman wearing a helmet,10,24.457033157348633
+5,superman wearing a helmet,11,27.372316360473633
+5,superman wearing a helmet,12,29.638519287109375
+5,superman wearing a helmet,13,21.577516555786133
+5,superman wearing a helmet,14,23.833446502685547
+5,superman wearing a helmet,15,25.80982780456543
+5,superman wearing a helmet,16,22.583913803100586
+5,superman wearing a helmet,17,25.766611099243164
+5,superman wearing a helmet,18,24.359786987304688
+5,superman wearing a helmet,19,22.38883399963379
+5,superman wearing a helmet,20,22.362770080566406
+5,superman wearing a helmet,21,24.629562377929688
+5,superman wearing a helmet,22,24.002338409423828
+5,superman wearing a helmet,23,24.01101303100586
+5,superman wearing a helmet,24,23.283689498901367
+5,superman wearing a helmet,25,26.622116088867188
+5,superman wearing a helmet,26,26.721948623657227
+5,superman wearing a helmet,27,23.68447494506836
+5,superman wearing a helmet,28,25.218454360961914
+5,superman wearing a helmet,29,23.00292205810547
+5,superman wearing a helmet,30,24.629358291625977
+5,superman wearing a helmet,31,23.051715850830078
+5,superman wearing a helmet,32,21.67104148864746
+5,superman wearing a helmet,33,23.677841186523438
+5,superman wearing a helmet,34,23.91663360595703
+5,superman wearing a helmet,35,21.848161697387695
+5,superman wearing a helmet,36,23.348556518554688
+5,superman wearing a helmet,37,23.997732162475586
+5,superman wearing a helmet,38,23.56909942626953
+5,superman wearing a helmet,39,23.326736450195312
+5,superman wearing a helmet,40,24.676809310913086
+5,superman wearing a helmet,41,26.15508460998535
+5,superman wearing a helmet,42,25.802499771118164
+5,superman wearing a helmet,43,30.29239845275879
+5,superman wearing a helmet,44,25.91153907775879
+5,superman wearing a helmet,45,22.25826072692871
+5,superman wearing a helmet,46,24.120512008666992
+5,superman wearing a helmet,47,25.353919982910156
+5,superman wearing a helmet,48,25.174470901489258
+5,superman wearing a helmet,49,26.21063232421875
+6,batman holding a flower,0,23.901540756225586
+6,batman holding a flower,1,19.761642456054688
+6,batman holding a flower,2,22.227956771850586
+6,batman holding a flower,3,24.403532028198242
+6,batman holding a flower,4,21.474727630615234
+6,batman holding a flower,5,17.398283004760742
+6,batman holding a flower,6,26.234298706054688
+6,batman holding a flower,7,20.02475357055664
+6,batman holding a flower,8,25.63703727722168
+6,batman holding a flower,9,22.72486114501953
+6,batman holding a flower,10,31.969562530517578
+6,batman holding a flower,11,25.743728637695312
+6,batman holding a flower,12,20.65363311767578
+6,batman holding a flower,13,25.461769104003906
+6,batman holding a flower,14,21.49415397644043
+6,batman holding a flower,15,25.101009368896484
+6,batman holding a flower,16,29.2032470703125
+6,batman holding a flower,17,31.373748779296875
+6,batman holding a flower,18,23.754220962524414
+6,batman holding a flower,19,22.865619659423828
+6,batman holding a flower,20,27.781566619873047
+6,batman holding a flower,21,21.687667846679688
+6,batman holding a flower,22,29.186080932617188
+6,batman holding a flower,23,29.76882553100586
+6,batman holding a flower,24,23.207778930664062
+6,batman holding a flower,25,20.37931251525879
+6,batman holding a flower,26,22.869338989257812
+6,batman holding a flower,27,31.482038497924805
+6,batman holding a flower,28,26.07695770263672
+6,batman holding a flower,29,29.567134857177734
+6,batman holding a flower,30,21.870515823364258
+6,batman holding a flower,31,32.6510009765625
+6,batman holding a flower,32,20.669082641601562
+6,batman holding a flower,33,23.98310661315918
+6,batman holding a flower,34,20.344745635986328
+6,batman holding a flower,35,29.768413543701172
+6,batman holding a flower,36,31.05776596069336
+6,batman holding a flower,37,31.52053451538086
+6,batman holding a flower,38,22.008689880371094
+6,batman holding a flower,39,28.301965713500977
+6,batman holding a flower,40,32.78923034667969
+6,batman holding a flower,41,33.60309982299805
+6,batman holding a flower,42,23.351219177246094
+6,batman holding a flower,43,30.346229553222656
+6,batman holding a flower,44,27.447784423828125
+6,batman holding a flower,45,23.50229263305664
+6,batman holding a flower,46,19.776752471923828
+6,batman holding a flower,47,21.25174331665039
+6,batman holding a flower,48,29.54990577697754
+6,batman holding a flower,49,25.660442352294922
+7,ocean of ice,0,17.245140075683594
+7,ocean of ice,1,21.37375831604004
+7,ocean of ice,2,23.940357208251953
+7,ocean of ice,3,20.949459075927734
+7,ocean of ice,4,20.469911575317383
+7,ocean of ice,5,21.14120864868164
+7,ocean of ice,6,25.827360153198242
+7,ocean of ice,7,20.53978729248047
+7,ocean of ice,8,21.196353912353516
+7,ocean of ice,9,23.56368064880371
+7,ocean of ice,10,20.053176879882812
+7,ocean of ice,11,19.303449630737305
+7,ocean of ice,12,17.783946990966797
+7,ocean of ice,13,16.791412353515625
+7,ocean of ice,14,21.772960662841797
+7,ocean of ice,15,22.44845962524414
+7,ocean of ice,16,19.015546798706055
+7,ocean of ice,17,22.04884147644043
+7,ocean of ice,18,22.5037899017334
+7,ocean of ice,19,17.536205291748047
+7,ocean of ice,20,19.61575698852539
+7,ocean of ice,21,20.88687515258789
+7,ocean of ice,22,23.725942611694336
+7,ocean of ice,23,24.905803680419922
+7,ocean of ice,24,21.168807983398438
+7,ocean of ice,25,20.227909088134766
+7,ocean of ice,26,19.227630615234375
+7,ocean of ice,27,24.992782592773438
+7,ocean of ice,28,19.212249755859375
+7,ocean of ice,29,21.733858108520508
+7,ocean of ice,30,20.044322967529297
+7,ocean of ice,31,22.159090042114258
+7,ocean of ice,32,22.897266387939453
+7,ocean of ice,33,17.24188804626465
+7,ocean of ice,34,18.47907829284668
+7,ocean of ice,35,22.958520889282227
+7,ocean of ice,36,22.581069946289062
+7,ocean of ice,37,25.402772903442383
+7,ocean of ice,38,20.50565528869629
+7,ocean of ice,39,20.58807373046875
+7,ocean of ice,40,19.528757095336914
+7,ocean of ice,41,20.144081115722656
+7,ocean of ice,42,22.91150665283203
+7,ocean of ice,43,24.864112854003906
+7,ocean of ice,44,23.646650314331055
+7,ocean of ice,45,22.891780853271484
+7,ocean of ice,46,21.2100772857666
+7,ocean of ice,47,21.609956741333008
+7,ocean of ice,48,20.253700256347656
+7,ocean of ice,49,20.97849464416504
+8,sunflower made of crochet,0,29.303464889526367
+8,sunflower made of crochet,1,30.042747497558594
+8,sunflower made of crochet,2,32.6893310546875
+8,sunflower made of crochet,3,30.967002868652344
+8,sunflower made of crochet,4,28.70262336730957
+8,sunflower made of crochet,5,32.160491943359375
+8,sunflower made of crochet,6,31.76361846923828
+8,sunflower made of crochet,7,29.16901969909668
+8,sunflower made of crochet,8,27.183061599731445
+8,sunflower made of crochet,9,29.131290435791016
+8,sunflower made of crochet,10,28.313541412353516
+8,sunflower made of crochet,11,31.80539894104004
+8,sunflower made of crochet,12,29.510290145874023
+8,sunflower made of crochet,13,29.95264434814453
+8,sunflower made of crochet,14,27.261674880981445
+8,sunflower made of crochet,15,31.426424026489258
+8,sunflower made of crochet,16,25.994691848754883
+8,sunflower made of crochet,17,32.46580123901367
+8,sunflower made of crochet,18,26.592483520507812
+8,sunflower made of crochet,19,27.94123649597168
+8,sunflower made of crochet,20,25.463428497314453
+8,sunflower made of crochet,21,33.743064880371094
+8,sunflower made of crochet,22,31.25210189819336
+8,sunflower made of crochet,23,29.608457565307617
+8,sunflower made of crochet,24,28.359270095825195
+8,sunflower made of crochet,25,28.864734649658203
+8,sunflower made of crochet,26,26.072067260742188
+8,sunflower made of crochet,27,27.07831573486328
+8,sunflower made of crochet,28,31.692758560180664
+8,sunflower made of crochet,29,32.58317565917969
+8,sunflower made of crochet,30,31.456432342529297
+8,sunflower made of crochet,31,29.0743408203125
+8,sunflower made of crochet,32,29.056278228759766
+8,sunflower made of crochet,33,26.67793083190918
+8,sunflower made of crochet,34,23.983177185058594
+8,sunflower made of crochet,35,26.587093353271484
+8,sunflower made of crochet,36,30.360883712768555
+8,sunflower made of crochet,37,26.23882293701172
+8,sunflower made of crochet,38,33.035308837890625
+8,sunflower made of crochet,39,26.09461784362793
+8,sunflower made of crochet,40,31.32737922668457
+8,sunflower made of crochet,41,23.355789184570312
+8,sunflower made of crochet,42,31.35523796081543
+8,sunflower made of crochet,43,27.601306915283203
+8,sunflower made of crochet,44,28.18177032470703
+8,sunflower made of crochet,45,30.26310157775879
+8,sunflower made of crochet,46,28.611114501953125
+8,sunflower made of crochet,47,32.02565002441406
+8,sunflower made of crochet,48,24.906164169311523
+8,sunflower made of crochet,49,30.911684036254883
+9,dog made of clay,0,31.436229705810547
+9,dog made of clay,1,26.009618759155273
+9,dog made of clay,2,29.47633934020996
+9,dog made of clay,3,21.71630859375
+9,dog made of clay,4,29.306066513061523
+9,dog made of clay,5,27.580827713012695
+9,dog made of clay,6,29.28840446472168
+9,dog made of clay,7,30.00471305847168
+9,dog made of clay,8,29.577388763427734
+9,dog made of clay,9,28.158336639404297
+9,dog made of clay,10,32.005470275878906
+9,dog made of clay,11,28.44247817993164
+9,dog made of clay,12,29.496002197265625
+9,dog made of clay,13,26.922304153442383
+9,dog made of clay,14,22.726015090942383
+9,dog made of clay,15,32.25005340576172
+9,dog made of clay,16,19.166868209838867
+9,dog made of clay,17,25.881349563598633
+9,dog made of clay,18,28.28778076171875
+9,dog made of clay,19,28.801382064819336
+9,dog made of clay,20,28.10831069946289
+9,dog made of clay,21,28.366151809692383
+9,dog made of clay,22,23.662456512451172
+9,dog made of clay,23,29.001041412353516
+9,dog made of clay,24,23.270557403564453
+9,dog made of clay,25,27.908557891845703
+9,dog made of clay,26,29.604595184326172
+9,dog made of clay,27,29.021638870239258
+9,dog made of clay,28,27.8229923248291
+9,dog made of clay,29,30.024320602416992
+9,dog made of clay,30,28.417688369750977
+9,dog made of clay,31,29.297107696533203
+9,dog made of clay,32,29.174863815307617
+9,dog made of clay,33,27.60387420654297
+9,dog made of clay,34,29.990089416503906
+9,dog made of clay,35,27.319049835205078
+9,dog made of clay,36,30.604290008544922
+9,dog made of clay,37,30.02561378479004
+9,dog made of clay,38,25.665855407714844
+9,dog made of clay,39,30.811033248901367
+9,dog made of clay,40,26.604751586914062
+9,dog made of clay,41,23.4899959564209
+9,dog made of clay,42,19.606962203979492
+9,dog made of clay,43,30.389148712158203
+9,dog made of clay,44,27.755535125732422
+9,dog made of clay,45,31.02338981628418
+9,dog made of clay,46,28.710180282592773
+9,dog made of clay,47,30.25308609008789
+9,dog made of clay,48,28.476232528686523
+9,dog made of clay,49,29.27633285522461

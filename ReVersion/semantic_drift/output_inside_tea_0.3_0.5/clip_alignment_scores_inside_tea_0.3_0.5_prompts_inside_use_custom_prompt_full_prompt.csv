@@ -1,0 +1,501 @@
+prompt_index,prompt,image_index,score
+0,cat wearing a hat inside a bowl,0,25.05421257019043
+0,cat wearing a hat inside a bowl,1,29.48578643798828
+0,cat wearing a hat inside a bowl,2,27.58867073059082
+0,cat wearing a hat inside a bowl,3,24.587175369262695
+0,cat wearing a hat inside a bowl,4,28.198402404785156
+0,cat wearing a hat inside a bowl,5,24.151004791259766
+0,cat wearing a hat inside a bowl,6,29.641536712646484
+0,cat wearing a hat inside a bowl,7,25.353679656982422
+0,cat wearing a hat inside a bowl,8,29.883319854736328
+0,cat wearing a hat inside a bowl,9,30.59162139892578
+0,cat wearing a hat inside a bowl,10,26.2782039642334
+0,cat wearing a hat inside a bowl,11,26.41492462158203
+0,cat wearing a hat inside a bowl,12,26.493757247924805
+0,cat wearing a hat inside a bowl,13,29.634384155273438
+0,cat wearing a hat inside a bowl,14,27.685070037841797
+0,cat wearing a hat inside a bowl,15,30.740345001220703
+0,cat wearing a hat inside a bowl,16,24.90216636657715
+0,cat wearing a hat inside a bowl,17,30.410158157348633
+0,cat wearing a hat inside a bowl,18,29.854402542114258
+0,cat wearing a hat inside a bowl,19,25.718286514282227
+0,cat wearing a hat inside a bowl,20,23.94239044189453
+0,cat wearing a hat inside a bowl,21,25.493526458740234
+0,cat wearing a hat inside a bowl,22,23.951501846313477
+0,cat wearing a hat inside a bowl,23,22.16554832458496
+0,cat wearing a hat inside a bowl,24,25.504070281982422
+0,cat wearing a hat inside a bowl,25,26.03508186340332
+0,cat wearing a hat inside a bowl,26,26.778188705444336
+0,cat wearing a hat inside a bowl,27,27.519428253173828
+0,cat wearing a hat inside a bowl,28,23.10906982421875
+0,cat wearing a hat inside a bowl,29,27.83287811279297
+0,cat wearing a hat inside a bowl,30,32.01829528808594
+0,cat wearing a hat inside a bowl,31,28.847354888916016
+0,cat wearing a hat inside a bowl,32,28.28628158569336
+0,cat wearing a hat inside a bowl,33,29.95334243774414
+0,cat wearing a hat inside a bowl,34,29.584571838378906
+0,cat wearing a hat inside a bowl,35,26.465654373168945
+0,cat wearing a hat inside a bowl,36,22.483274459838867
+0,cat wearing a hat inside a bowl,37,23.352230072021484
+0,cat wearing a hat inside a bowl,38,24.022598266601562
+0,cat wearing a hat inside a bowl,39,30.80980110168457
+0,cat wearing a hat inside a bowl,40,22.539979934692383
+0,cat wearing a hat inside a bowl,41,31.391460418701172
+0,cat wearing a hat inside a bowl,42,26.57872772216797
+0,cat wearing a hat inside a bowl,43,26.791587829589844
+0,cat wearing a hat inside a bowl,44,27.256942749023438
+0,cat wearing a hat inside a bowl,45,33.252952575683594
+0,cat wearing a hat inside a bowl,46,19.015613555908203
+0,cat wearing a hat inside a bowl,47,27.547561645507812
+0,cat wearing a hat inside a bowl,48,24.942415237426758
+0,cat wearing a hat inside a bowl,49,26.483423233032227
+1,cat wearing a helmet inside a box,0,25.671772003173828
+1,cat wearing a helmet inside a box,1,23.942712783813477
+1,cat wearing a helmet inside a box,2,22.50252342224121
+1,cat wearing a helmet inside a box,3,24.41197967529297
+1,cat wearing a helmet inside a box,4,26.396846771240234
+1,cat wearing a helmet inside a box,5,25.704660415649414
+1,cat wearing a helmet inside a box,6,23.944812774658203
+1,cat wearing a helmet inside a box,7,24.387840270996094
+1,cat wearing a helmet inside a box,8,34.60936737060547
+1,cat wearing a helmet inside a box,9,25.61674690246582
+1,cat wearing a helmet inside a box,10,23.82805633544922
+1,cat wearing a helmet inside a box,11,34.88790512084961
+1,cat wearing a helmet inside a box,12,31.42473602294922
+1,cat wearing a helmet inside a box,13,26.107784271240234
+1,cat wearing a helmet inside a box,14,30.51759910583496
+1,cat wearing a helmet inside a box,15,23.685115814208984
+1,cat wearing a helmet inside a box,16,23.916784286499023
+1,cat wearing a helmet inside a box,17,31.020692825317383
+1,cat wearing a helmet inside a box,18,25.098777770996094
+1,cat wearing a helmet inside a box,19,26.272994995117188
+1,cat wearing a helmet inside a box,20,23.735177993774414
+1,cat wearing a helmet inside a box,21,28.546279907226562
+1,cat wearing a helmet inside a box,22,26.146867752075195
+1,cat wearing a helmet inside a box,23,24.24977684020996
+1,cat wearing a helmet inside a box,24,33.615760803222656
+1,cat wearing a helmet inside a box,25,23.558183670043945
+1,cat wearing a helmet inside a box,26,24.597904205322266
+1,cat wearing a helmet inside a box,27,24.20644187927246
+1,cat wearing a helmet inside a box,28,23.651573181152344
+1,cat wearing a helmet inside a box,29,27.337602615356445
+1,cat wearing a helmet inside a box,30,28.77727508544922
+1,cat wearing a helmet inside a box,31,25.412738800048828
+1,cat wearing a helmet inside a box,32,27.615829467773438
+1,cat wearing a helmet inside a box,33,26.809656143188477
+1,cat wearing a helmet inside a box,34,24.022228240966797
+1,cat wearing a helmet inside a box,35,23.34725570678711
+1,cat wearing a helmet inside a box,36,23.144901275634766
+1,cat wearing a helmet inside a box,37,26.990150451660156
+1,cat wearing a helmet inside a box,38,26.531557083129883
+1,cat wearing a helmet inside a box,39,28.775590896606445
+1,cat wearing a helmet inside a box,40,23.011430740356445
+1,cat wearing a helmet inside a box,41,26.415992736816406
+1,cat wearing a helmet inside a box,42,33.404296875
+1,cat wearing a helmet inside a box,43,24.744516372680664
+1,cat wearing a helmet inside a box,44,31.050777435302734
+1,cat wearing a helmet inside a box,45,25.021404266357422
+1,cat wearing a helmet inside a box,46,23.311264038085938
+1,cat wearing a helmet inside a box,47,24.390209197998047
+1,cat wearing a helmet inside a box,48,30.786434173583984
+1,cat wearing a helmet inside a box,49,32.00286102294922
+2,hamster wearing a headphones inside a cup,0,29.731735229492188
+2,hamster wearing a headphones inside a cup,1,28.995180130004883
+2,hamster wearing a headphones inside a cup,2,25.206512451171875
+2,hamster wearing a headphones inside a cup,3,26.281055450439453
+2,hamster wearing a headphones inside a cup,4,26.39494514465332
+2,hamster wearing a headphones inside a cup,5,29.53899574279785
+2,hamster wearing a headphones inside a cup,6,26.66684341430664
+2,hamster wearing a headphones inside a cup,7,34.067779541015625
+2,hamster wearing a headphones inside a cup,8,30.604890823364258
+2,hamster wearing a headphones inside a cup,9,24.834625244140625
+2,hamster wearing a headphones inside a cup,10,21.57628631591797
+2,hamster wearing a headphones inside a cup,11,25.795793533325195
+2,hamster wearing a headphones inside a cup,12,34.16327667236328
+2,hamster wearing a headphones inside a cup,13,29.321887969970703
+2,hamster wearing a headphones inside a cup,14,25.12419891357422
+2,hamster wearing a headphones inside a cup,15,23.683256149291992
+2,hamster wearing a headphones inside a cup,16,22.633975982666016
+2,hamster wearing a headphones inside a cup,17,26.642333984375
+2,hamster wearing a headphones inside a cup,18,25.605642318725586
+2,hamster wearing a headphones inside a cup,19,29.21452522277832
+2,hamster wearing a headphones inside a cup,20,28.093975067138672
+2,hamster wearing a headphones inside a cup,21,31.010156631469727
+2,hamster wearing a headphones inside a cup,22,24.682886123657227
+2,hamster wearing a headphones inside a cup,23,27.525775909423828
+2,hamster wearing a headphones inside a cup,24,18.676223754882812
+2,hamster wearing a headphones inside a cup,25,27.502246856689453
+2,hamster wearing a headphones inside a cup,26,33.03390884399414
+2,hamster wearing a headphones inside a cup,27,32.2324333190918
+2,hamster wearing a headphones inside a cup,28,31.540637969970703
+2,hamster wearing a headphones inside a cup,29,27.89531898498535
+2,hamster wearing a headphones inside a cup,30,26.802349090576172
+2,hamster wearing a headphones inside a cup,31,26.70488929748535
+2,hamster wearing a headphones inside a cup,32,29.6053466796875
+2,hamster wearing a headphones inside a cup,33,27.587038040161133
+2,hamster wearing a headphones inside a cup,34,25.693824768066406
+2,hamster wearing a headphones inside a cup,35,26.39162826538086
+2,hamster wearing a headphones inside a cup,36,32.66936111450195
+2,hamster wearing a headphones inside a cup,37,24.205230712890625
+2,hamster wearing a headphones inside a cup,38,29.05794334411621
+2,hamster wearing a headphones inside a cup,39,26.622983932495117
+2,hamster wearing a headphones inside a cup,40,30.732845306396484
+2,hamster wearing a headphones inside a cup,41,25.432226181030273
+2,hamster wearing a headphones inside a cup,42,33.233665466308594
+2,hamster wearing a headphones inside a cup,43,21.967971801757812
+2,hamster wearing a headphones inside a cup,44,23.117328643798828
+2,hamster wearing a headphones inside a cup,45,31.887245178222656
+2,hamster wearing a headphones inside a cup,46,30.85464859008789
+2,hamster wearing a headphones inside a cup,47,29.338321685791016
+2,hamster wearing a headphones inside a cup,48,29.843544006347656
+2,hamster wearing a headphones inside a cup,49,27.734418869018555
+3,hamster wearing a hat inside a vase,0,26.64838981628418
+3,hamster wearing a hat inside a vase,1,26.402591705322266
+3,hamster wearing a hat inside a vase,2,28.66422462463379
+3,hamster wearing a hat inside a vase,3,27.78962516784668
+3,hamster wearing a hat inside a vase,4,26.76130485534668
+3,hamster wearing a hat inside a vase,5,32.73871994018555
+3,hamster wearing a hat inside a vase,6,29.464187622070312
+3,hamster wearing a hat inside a vase,7,24.372888565063477
+3,hamster wearing a hat inside a vase,8,29.70197296142578
+3,hamster wearing a hat inside a vase,9,28.022611618041992
+3,hamster wearing a hat inside a vase,10,25.773971557617188
+3,hamster wearing a hat inside a vase,11,27.595754623413086
+3,hamster wearing a hat inside a vase,12,34.127384185791016
+3,hamster wearing a hat inside a vase,13,28.86170196533203
+3,hamster wearing a hat inside a vase,14,29.58599853515625
+3,hamster wearing a hat inside a vase,15,29.280536651611328
+3,hamster wearing a hat inside a vase,16,29.851686477661133
+3,hamster wearing a hat inside a vase,17,28.9616756439209
+3,hamster wearing a hat inside a vase,18,27.21925926208496
+3,hamster wearing a hat inside a vase,19,25.19782257080078
+3,hamster wearing a hat inside a vase,20,28.723674774169922
+3,hamster wearing a hat inside a vase,21,27.88735008239746
+3,hamster wearing a hat inside a vase,22,31.066925048828125
+3,hamster wearing a hat inside a vase,23,30.539215087890625
+3,hamster wearing a hat inside a vase,24,22.989971160888672
+3,hamster wearing a hat inside a vase,25,26.844179153442383
+3,hamster wearing a hat inside a vase,26,26.40022087097168
+3,hamster wearing a hat inside a vase,27,31.17491340637207
+3,hamster wearing a hat inside a vase,28,30.742185592651367
+3,hamster wearing a hat inside a vase,29,25.794815063476562
+3,hamster wearing a hat inside a vase,30,27.65045166015625
+3,hamster wearing a hat inside a vase,31,24.627775192260742
+3,hamster wearing a hat inside a vase,32,35.549224853515625
+3,hamster wearing a hat inside a vase,33,27.437671661376953
+3,hamster wearing a hat inside a vase,34,30.67604637145996
+3,hamster wearing a hat inside a vase,35,24.91615104675293
+3,hamster wearing a hat inside a vase,36,26.7612247467041
+3,hamster wearing a hat inside a vase,37,27.77828598022461
+3,hamster wearing a hat inside a vase,38,26.78549575805664
+3,hamster wearing a hat inside a vase,39,30.92265510559082
+3,hamster wearing a hat inside a vase,40,28.529232025146484
+3,hamster wearing a hat inside a vase,41,26.484939575195312
+3,hamster wearing a hat inside a vase,42,27.582191467285156
+3,hamster wearing a hat inside a vase,43,26.468299865722656
+3,hamster wearing a hat inside a vase,44,29.14346694946289
+3,hamster wearing a hat inside a vase,45,31.68675994873047
+3,hamster wearing a hat inside a vase,46,25.283458709716797
+3,hamster wearing a hat inside a vase,47,34.32125473022461
+3,hamster wearing a hat inside a vase,48,32.0838623046875
+3,hamster wearing a hat inside a vase,49,32.57915496826172
+4,spiderman wearing a headphones inside a basket,0,24.065473556518555
+4,spiderman wearing a headphones inside a basket,1,22.93793487548828
+4,spiderman wearing a headphones inside a basket,2,28.033870697021484
+4,spiderman wearing a headphones inside a basket,3,27.206527709960938
+4,spiderman wearing a headphones inside a basket,4,30.947040557861328
+4,spiderman wearing a headphones inside a basket,5,21.88298988342285
+4,spiderman wearing a headphones inside a basket,6,24.500591278076172
+4,spiderman wearing a headphones inside a basket,7,30.826923370361328
+4,spiderman wearing a headphones inside a basket,8,28.94059944152832
+4,spiderman wearing a headphones inside a basket,9,24.326881408691406
+4,spiderman wearing a headphones inside a basket,10,30.430442810058594
+4,spiderman wearing a headphones inside a basket,11,22.79606819152832
+4,spiderman wearing a headphones inside a basket,12,30.690998077392578
+4,spiderman wearing a headphones inside a basket,13,29.577795028686523
+4,spiderman wearing a headphones inside a basket,14,28.891510009765625
+4,spiderman wearing a headphones inside a basket,15,28.185447692871094
+4,spiderman wearing a headphones inside a basket,16,26.209274291992188
+4,spiderman wearing a headphones inside a basket,17,29.769832611083984
+4,spiderman wearing a headphones inside a basket,18,23.4424991607666
+4,spiderman wearing a headphones inside a basket,19,23.731794357299805
+4,spiderman wearing a headphones inside a basket,20,32.21251678466797
+4,spiderman wearing a headphones inside a basket,21,23.286500930786133
+4,spiderman wearing a headphones inside a basket,22,22.32587432861328
+4,spiderman wearing a headphones inside a basket,23,28.400144577026367
+4,spiderman wearing a headphones inside a basket,24,26.54517936706543
+4,spiderman wearing a headphones inside a basket,25,30.312910079956055
+4,spiderman wearing a headphones inside a basket,26,22.34325408935547
+4,spiderman wearing a headphones inside a basket,27,26.026874542236328
+4,spiderman wearing a headphones inside a basket,28,21.519086837768555
+4,spiderman wearing a headphones inside a basket,29,27.91777801513672
+4,spiderman wearing a headphones inside a basket,30,28.74081802368164
+4,spiderman wearing a headphones inside a basket,31,24.72911262512207
+4,spiderman wearing a headphones inside a basket,32,30.3944149017334
+4,spiderman wearing a headphones inside a basket,33,27.618377685546875
+4,spiderman wearing a headphones inside a basket,34,27.132808685302734
+4,spiderman wearing a headphones inside a basket,35,23.140535354614258
+4,spiderman wearing a headphones inside a basket,36,27.3043212890625
+4,spiderman wearing a headphones inside a basket,37,22.234994888305664
+4,spiderman wearing a headphones inside a basket,38,23.687705993652344
+4,spiderman wearing a headphones inside a basket,39,26.93372917175293
+4,spiderman wearing a headphones inside a basket,40,30.162351608276367
+4,spiderman wearing a headphones inside a basket,41,25.077056884765625
+4,spiderman wearing a headphones inside a basket,42,27.915132522583008
+4,spiderman wearing a headphones inside a basket,43,29.32719612121582
+4,spiderman wearing a headphones inside a basket,44,23.544048309326172
+4,spiderman wearing a headphones inside a basket,45,29.667217254638672
+4,spiderman wearing a headphones inside a basket,46,21.587305068969727
+4,spiderman wearing a headphones inside a basket,47,29.040653228759766
+4,spiderman wearing a headphones inside a basket,48,26.44296646118164
+4,spiderman wearing a headphones inside a basket,49,22.327999114990234
+5,superman wearing a helmet inside a pot,0,26.925827026367188
+5,superman wearing a helmet inside a pot,1,21.818008422851562
+5,superman wearing a helmet inside a pot,2,21.37900733947754
+5,superman wearing a helmet inside a pot,3,29.30983543395996
+5,superman wearing a helmet inside a pot,4,22.82609748840332
+5,superman wearing a helmet inside a pot,5,23.1436824798584
+5,superman wearing a helmet inside a pot,6,25.76524543762207
+5,superman wearing a helmet inside a pot,7,25.678363800048828
+5,superman wearing a helmet inside a pot,8,21.515872955322266
+5,superman wearing a helmet inside a pot,9,24.576717376708984
+5,superman wearing a helmet inside a pot,10,26.624324798583984
+5,superman wearing a helmet inside a pot,11,26.867502212524414
+5,superman wearing a helmet inside a pot,12,28.38176727294922
+5,superman wearing a helmet inside a pot,13,23.92928695678711
+5,superman wearing a helmet inside a pot,14,29.74132537841797
+5,superman wearing a helmet inside a pot,15,24.35696029663086
+5,superman wearing a helmet inside a pot,16,29.328636169433594
+5,superman wearing a helmet inside a pot,17,23.75630760192871
+5,superman wearing a helmet inside a pot,18,28.80672264099121
+5,superman wearing a helmet inside a pot,19,22.819034576416016
+5,superman wearing a helmet inside a pot,20,29.180986404418945
+5,superman wearing a helmet inside a pot,21,25.585628509521484
+5,superman wearing a helmet inside a pot,22,24.34911346435547
+5,superman wearing a helmet inside a pot,23,27.345684051513672
+5,superman wearing a helmet inside a pot,24,26.459136962890625
+5,superman wearing a helmet inside a pot,25,31.29439926147461
+5,superman wearing a helmet inside a pot,26,20.120738983154297
+5,superman wearing a helmet inside a pot,27,17.295124053955078
+5,superman wearing a helmet inside a pot,28,24.220285415649414
+5,superman wearing a helmet inside a pot,29,29.61209487915039
+5,superman wearing a helmet inside a pot,30,26.598474502563477
+5,superman wearing a helmet inside a pot,31,32.87349319458008
+5,superman wearing a helmet inside a pot,32,27.655183792114258
+5,superman wearing a helmet inside a pot,33,26.09926414489746
+5,superman wearing a helmet inside a pot,34,29.48858642578125
+5,superman wearing a helmet inside a pot,35,22.352787017822266
+5,superman wearing a helmet inside a pot,36,23.09442138671875
+5,superman wearing a helmet inside a pot,37,25.78776741027832
+5,superman wearing a helmet inside a pot,38,21.214536666870117
+5,superman wearing a helmet inside a pot,39,24.57706069946289
+5,superman wearing a helmet inside a pot,40,32.97900390625
+5,superman wearing a helmet inside a pot,41,21.473957061767578
+5,superman wearing a helmet inside a pot,42,18.53812599182129
+5,superman wearing a helmet inside a pot,43,23.57467269897461
+5,superman wearing a helmet inside a pot,44,30.435565948486328
+5,superman wearing a helmet inside a pot,45,22.91863250732422
+5,superman wearing a helmet inside a pot,46,31.75899314880371
+5,superman wearing a helmet inside a pot,47,31.654151916503906
+5,superman wearing a helmet inside a pot,48,23.35338592529297
+5,superman wearing a helmet inside a pot,49,24.378490447998047
+6,batman holding a flower inside a box,0,27.28114128112793
+6,batman holding a flower inside a box,1,31.983905792236328
+6,batman holding a flower inside a box,2,28.74065589904785
+6,batman holding a flower inside a box,3,32.95796585083008
+6,batman holding a flower inside a box,4,27.987882614135742
+6,batman holding a flower inside a box,5,22.70780372619629
+6,batman holding a flower inside a box,6,29.476612091064453
+6,batman holding a flower inside a box,7,26.575862884521484
+6,batman holding a flower inside a box,8,30.782997131347656
+6,batman holding a flower inside a box,9,28.775102615356445
+6,batman holding a flower inside a box,10,35.070777893066406
+6,batman holding a flower inside a box,11,35.874961853027344
+6,batman holding a flower inside a box,12,35.25678634643555
+6,batman holding a flower inside a box,13,27.74891471862793
+6,batman holding a flower inside a box,14,35.88901138305664
+6,batman holding a flower inside a box,15,31.920957565307617
+6,batman holding a flower inside a box,16,25.66755485534668
+6,batman holding a flower inside a box,17,26.5994873046875
+6,batman holding a flower inside a box,18,26.343029022216797
+6,batman holding a flower inside a box,19,21.460294723510742
+6,batman holding a flower inside a box,20,33.56190872192383
+6,batman holding a flower inside a box,21,28.401079177856445
+6,batman holding a flower inside a box,22,28.09039878845215
+6,batman holding a flower inside a box,23,32.31941604614258
+6,batman holding a flower inside a box,24,32.38066101074219
+6,batman holding a flower inside a box,25,29.35668182373047
+6,batman holding a flower inside a box,26,20.94290542602539
+6,batman holding a flower inside a box,27,27.634143829345703
+6,batman holding a flower inside a box,28,34.416019439697266
+6,batman holding a flower inside a box,29,32.296417236328125
+6,batman holding a flower inside a box,30,31.822124481201172
+6,batman holding a flower inside a box,31,27.78409194946289
+6,batman holding a flower inside a box,32,27.935022354125977
+6,batman holding a flower inside a box,33,28.517419815063477
+6,batman holding a flower inside a box,34,34.54475784301758
+6,batman holding a flower inside a box,35,31.286828994750977
+6,batman holding a flower inside a box,36,31.93855857849121
+6,batman holding a flower inside a box,37,33.771697998046875
+6,batman holding a flower inside a box,38,34.60121154785156
+6,batman holding a flower inside a box,39,27.22586441040039
+6,batman holding a flower inside a box,40,28.970245361328125
+6,batman holding a flower inside a box,41,34.6430778503418
+6,batman holding a flower inside a box,42,37.95623779296875
+6,batman holding a flower inside a box,43,30.844127655029297
+6,batman holding a flower inside a box,44,28.291290283203125
+6,batman holding a flower inside a box,45,34.82997512817383
+6,batman holding a flower inside a box,46,35.471038818359375
+6,batman holding a flower inside a box,47,24.480451583862305
+6,batman holding a flower inside a box,48,33.82404327392578
+6,batman holding a flower inside a box,49,29.5928897857666
+7,ocean of ice inside a pot,0,27.213123321533203
+7,ocean of ice inside a pot,1,28.692256927490234
+7,ocean of ice inside a pot,2,28.887208938598633
+7,ocean of ice inside a pot,3,30.04314613342285
+7,ocean of ice inside a pot,4,27.775270462036133
+7,ocean of ice inside a pot,5,26.795650482177734
+7,ocean of ice inside a pot,6,27.578725814819336
+7,ocean of ice inside a pot,7,17.52166175842285
+7,ocean of ice inside a pot,8,28.660646438598633
+7,ocean of ice inside a pot,9,28.894922256469727
+7,ocean of ice inside a pot,10,28.392202377319336
+7,ocean of ice inside a pot,11,28.32193946838379
+7,ocean of ice inside a pot,12,27.17474937438965
+7,ocean of ice inside a pot,13,25.098735809326172
+7,ocean of ice inside a pot,14,27.397274017333984
+7,ocean of ice inside a pot,15,23.055519104003906
+7,ocean of ice inside a pot,16,28.358341217041016
+7,ocean of ice inside a pot,17,22.94108009338379
+7,ocean of ice inside a pot,18,26.733177185058594
+7,ocean of ice inside a pot,19,28.974205017089844
+7,ocean of ice inside a pot,20,27.678607940673828
+7,ocean of ice inside a pot,21,28.45241355895996
+7,ocean of ice inside a pot,22,28.114376068115234
+7,ocean of ice inside a pot,23,19.965167999267578
+7,ocean of ice inside a pot,24,27.1568660736084
+7,ocean of ice inside a pot,25,30.187040328979492
+7,ocean of ice inside a pot,26,28.552228927612305
+7,ocean of ice inside a pot,27,23.000473022460938
+7,ocean of ice inside a pot,28,23.83587074279785
+7,ocean of ice inside a pot,29,26.928457260131836
+7,ocean of ice inside a pot,30,26.65618324279785
+7,ocean of ice inside a pot,31,27.251750946044922
+7,ocean of ice inside a pot,32,29.13946533203125
+7,ocean of ice inside a pot,33,25.24470329284668
+7,ocean of ice inside a pot,34,24.532217025756836
+7,ocean of ice inside a pot,35,21.729778289794922
+7,ocean of ice inside a pot,36,26.147937774658203
+7,ocean of ice inside a pot,37,29.658565521240234
+7,ocean of ice inside a pot,38,29.458242416381836
+7,ocean of ice inside a pot,39,26.713016510009766
+7,ocean of ice inside a pot,40,30.276531219482422
+7,ocean of ice inside a pot,41,28.309457778930664
+7,ocean of ice inside a pot,42,30.72357177734375
+7,ocean of ice inside a pot,43,23.731868743896484
+7,ocean of ice inside a pot,44,34.123687744140625
+7,ocean of ice inside a pot,45,26.245149612426758
+7,ocean of ice inside a pot,46,26.472291946411133
+7,ocean of ice inside a pot,47,25.928348541259766
+7,ocean of ice inside a pot,48,26.79288673400879
+7,ocean of ice inside a pot,49,26.735193252563477
+8,sunflower made of crochet inside a pot,0,30.04332733154297
+8,sunflower made of crochet inside a pot,1,33.406959533691406
+8,sunflower made of crochet inside a pot,2,32.31817626953125
+8,sunflower made of crochet inside a pot,3,33.74625015258789
+8,sunflower made of crochet inside a pot,4,35.46171951293945
+8,sunflower made of crochet inside a pot,5,34.71417236328125
+8,sunflower made of crochet inside a pot,6,38.080299377441406
+8,sunflower made of crochet inside a pot,7,34.44141387939453
+8,sunflower made of crochet inside a pot,8,34.38288497924805
+8,sunflower made of crochet inside a pot,9,31.77698516845703
+8,sunflower made of crochet inside a pot,10,32.12289810180664
+8,sunflower made of crochet inside a pot,11,31.522905349731445
+8,sunflower made of crochet inside a pot,12,33.269466400146484
+8,sunflower made of crochet inside a pot,13,31.47861099243164
+8,sunflower made of crochet inside a pot,14,33.224552154541016
+8,sunflower made of crochet inside a pot,15,29.277441024780273
+8,sunflower made of crochet inside a pot,16,27.626436233520508
+8,sunflower made of crochet inside a pot,17,33.886009216308594
+8,sunflower made of crochet inside a pot,18,31.103885650634766
+8,sunflower made of crochet inside a pot,19,33.61199951171875
+8,sunflower made of crochet inside a pot,20,35.98291778564453
+8,sunflower made of crochet inside a pot,21,30.71078109741211
+8,sunflower made of crochet inside a pot,22,28.313413619995117
+8,sunflower made of crochet inside a pot,23,36.476524353027344
+8,sunflower made of crochet inside a pot,24,34.81271743774414
+8,sunflower made of crochet inside a pot,25,33.496063232421875
+8,sunflower made of crochet inside a pot,26,36.756622314453125
+8,sunflower made of crochet inside a pot,27,29.86302947998047
+8,sunflower made of crochet inside a pot,28,33.59495544433594
+8,sunflower made of crochet inside a pot,29,32.91665267944336
+8,sunflower made of crochet inside a pot,30,29.110591888427734
+8,sunflower made of crochet inside a pot,31,30.01132583618164
+8,sunflower made of crochet inside a pot,32,32.76808166503906
+8,sunflower made of crochet inside a pot,33,27.12918472290039
+8,sunflower made of crochet inside a pot,34,31.144067764282227
+8,sunflower made of crochet inside a pot,35,31.83976936340332
+8,sunflower made of crochet inside a pot,36,32.81295394897461
+8,sunflower made of crochet inside a pot,37,35.57463455200195
+8,sunflower made of crochet inside a pot,38,29.507923126220703
+8,sunflower made of crochet inside a pot,39,33.82666015625
+8,sunflower made of crochet inside a pot,40,33.94002914428711
+8,sunflower made of crochet inside a pot,41,29.98281478881836
+8,sunflower made of crochet inside a pot,42,30.91846466064453
+8,sunflower made of crochet inside a pot,43,28.85858917236328
+8,sunflower made of crochet inside a pot,44,30.8681697845459
+8,sunflower made of crochet inside a pot,45,35.269256591796875
+8,sunflower made of crochet inside a pot,46,34.03184509277344
+8,sunflower made of crochet inside a pot,47,33.977657318115234
+8,sunflower made of crochet inside a pot,48,31.405067443847656
+8,sunflower made of crochet inside a pot,49,28.730255126953125
+9,dog made of clay inside a pot,0,30.865520477294922
+9,dog made of clay inside a pot,1,29.095733642578125
+9,dog made of clay inside a pot,2,30.998859405517578
+9,dog made of clay inside a pot,3,33.86981201171875
+9,dog made of clay inside a pot,4,30.458953857421875
+9,dog made of clay inside a pot,5,29.22584342956543
+9,dog made of clay inside a pot,6,33.65245056152344
+9,dog made of clay inside a pot,7,33.164920806884766
+9,dog made of clay inside a pot,8,34.01253890991211
+9,dog made of clay inside a pot,9,37.51746368408203
+9,dog made of clay inside a pot,10,30.56407928466797
+9,dog made of clay inside a pot,11,30.13172149658203
+9,dog made of clay inside a pot,12,26.239978790283203
+9,dog made of clay inside a pot,13,36.37998962402344
+9,dog made of clay inside a pot,14,31.700504302978516
+9,dog made of clay inside a pot,15,32.14822769165039
+9,dog made of clay inside a pot,16,37.358421325683594
+9,dog made of clay inside a pot,17,31.039302825927734
+9,dog made of clay inside a pot,18,32.847373962402344
+9,dog made of clay inside a pot,19,33.87089538574219
+9,dog made of clay inside a pot,20,33.115478515625
+9,dog made of clay inside a pot,21,32.73704147338867
+9,dog made of clay inside a pot,22,33.50210952758789
+9,dog made of clay inside a pot,23,33.29891586303711
+9,dog made of clay inside a pot,24,34.3811149597168
+9,dog made of clay inside a pot,25,34.39519500732422
+9,dog made of clay inside a pot,26,29.33905029296875
+9,dog made of clay inside a pot,27,32.972740173339844
+9,dog made of clay inside a pot,28,35.775245666503906
+9,dog made of clay inside a pot,29,34.20133590698242
+9,dog made of clay inside a pot,30,30.20553207397461
+9,dog made of clay inside a pot,31,28.60213851928711
+9,dog made of clay inside a pot,32,30.259912490844727
+9,dog made of clay inside a pot,33,34.648681640625
+9,dog made of clay inside a pot,34,32.915611267089844
+9,dog made of clay inside a pot,35,31.788599014282227
+9,dog made of clay inside a pot,36,34.556068420410156
+9,dog made of clay inside a pot,37,32.71287155151367
+9,dog made of clay inside a pot,38,33.70640563964844
+9,dog made of clay inside a pot,39,28.487106323242188
+9,dog made of clay inside a pot,40,26.0528621673584
+9,dog made of clay inside a pot,41,27.903005599975586
+9,dog made of clay inside a pot,42,31.636445999145508
+9,dog made of clay inside a pot,43,30.774709701538086
+9,dog made of clay inside a pot,44,33.63947677612305
+9,dog made of clay inside a pot,45,34.488529205322266
+9,dog made of clay inside a pot,46,34.95881652832031
+9,dog made of clay inside a pot,47,30.03072738647461
+9,dog made of clay inside a pot,48,34.68627166748047
+9,dog made of clay inside a pot,49,34.15177917480469

@@ -1,0 +1,501 @@
+prompt_index,prompt,image_index,score
+0,painted on a stone,0,13.680694580078125
+0,painted on a stone,1,12.115591049194336
+0,painted on a stone,2,13.275294303894043
+0,painted on a stone,3,17.339927673339844
+0,painted on a stone,4,15.00998592376709
+0,painted on a stone,5,21.64235496520996
+0,painted on a stone,6,14.28484058380127
+0,painted on a stone,7,13.507885932922363
+0,painted on a stone,8,14.742742538452148
+0,painted on a stone,9,16.954795837402344
+0,painted on a stone,10,14.188556671142578
+0,painted on a stone,11,16.225624084472656
+0,painted on a stone,12,19.986112594604492
+0,painted on a stone,13,14.8756742477417
+0,painted on a stone,14,12.806818008422852
+0,painted on a stone,15,17.76563262939453
+0,painted on a stone,16,14.484996795654297
+0,painted on a stone,17,10.659113883972168
+0,painted on a stone,18,13.78156852722168
+0,painted on a stone,19,12.324535369873047
+0,painted on a stone,20,19.219467163085938
+0,painted on a stone,21,14.444531440734863
+0,painted on a stone,22,13.090963363647461
+0,painted on a stone,23,15.596699714660645
+0,painted on a stone,24,12.50607967376709
+0,painted on a stone,25,14.719581604003906
+0,painted on a stone,26,16.3973445892334
+0,painted on a stone,27,19.268539428710938
+0,painted on a stone,28,18.705860137939453
+0,painted on a stone,29,15.135296821594238
+0,painted on a stone,30,12.203447341918945
+0,painted on a stone,31,16.168331146240234
+0,painted on a stone,32,14.913196563720703
+0,painted on a stone,33,27.484203338623047
+0,painted on a stone,34,14.490875244140625
+0,painted on a stone,35,19.11245346069336
+0,painted on a stone,36,13.581216812133789
+0,painted on a stone,37,17.978885650634766
+0,painted on a stone,38,17.76759910583496
+0,painted on a stone,39,17.280517578125
+0,painted on a stone,40,13.036589622497559
+0,painted on a stone,41,17.648235321044922
+0,painted on a stone,42,9.309066772460938
+0,painted on a stone,43,16.32402801513672
+0,painted on a stone,44,14.94876766204834
+0,painted on a stone,45,8.194478988647461
+0,painted on a stone,46,15.94127082824707
+0,painted on a stone,47,17.138154983520508
+0,painted on a stone,48,13.898674964904785
+0,painted on a stone,49,15.912496566772461
+1,painted on a vase,0,23.427881240844727
+1,painted on a vase,1,26.713401794433594
+1,painted on a vase,2,24.526010513305664
+1,painted on a vase,3,26.271587371826172
+1,painted on a vase,4,21.690927505493164
+1,painted on a vase,5,17.61750030517578
+1,painted on a vase,6,21.272554397583008
+1,painted on a vase,7,21.323076248168945
+1,painted on a vase,8,23.372325897216797
+1,painted on a vase,9,23.906015396118164
+1,painted on a vase,10,25.048622131347656
+1,painted on a vase,11,25.484127044677734
+1,painted on a vase,12,23.749710083007812
+1,painted on a vase,13,23.465723037719727
+1,painted on a vase,14,22.70091438293457
+1,painted on a vase,15,24.74737548828125
+1,painted on a vase,16,22.589548110961914
+1,painted on a vase,17,25.376955032348633
+1,painted on a vase,18,28.019062042236328
+1,painted on a vase,19,26.962047576904297
+1,painted on a vase,20,15.031661033630371
+1,painted on a vase,21,23.362668991088867
+1,painted on a vase,22,24.1870174407959
+1,painted on a vase,23,23.059001922607422
+1,painted on a vase,24,25.887929916381836
+1,painted on a vase,25,27.440223693847656
+1,painted on a vase,26,23.738704681396484
+1,painted on a vase,27,23.075565338134766
+1,painted on a vase,28,26.611953735351562
+1,painted on a vase,29,25.45406723022461
+1,painted on a vase,30,24.863910675048828
+1,painted on a vase,31,25.05376434326172
+1,painted on a vase,32,22.135066986083984
+1,painted on a vase,33,22.81629180908203
+1,painted on a vase,34,23.320043563842773
+1,painted on a vase,35,18.624187469482422
+1,painted on a vase,36,27.58224105834961
+1,painted on a vase,37,24.76675796508789
+1,painted on a vase,38,23.922462463378906
+1,painted on a vase,39,25.254901885986328
+1,painted on a vase,40,26.197364807128906
+1,painted on a vase,41,25.14176368713379
+1,painted on a vase,42,24.056867599487305
+1,painted on a vase,43,21.841678619384766
+1,painted on a vase,44,27.79701042175293
+1,painted on a vase,45,22.41118621826172
+1,painted on a vase,46,25.831186294555664
+1,painted on a vase,47,22.879779815673828
+1,painted on a vase,48,26.605146408081055
+1,painted on a vase,49,22.563505172729492
+2,painted on a canvas,0,20.915950775146484
+2,painted on a canvas,1,19.89375114440918
+2,painted on a canvas,2,22.122976303100586
+2,painted on a canvas,3,21.456579208374023
+2,painted on a canvas,4,21.395137786865234
+2,painted on a canvas,5,18.897611618041992
+2,painted on a canvas,6,22.0145263671875
+2,painted on a canvas,7,21.856281280517578
+2,painted on a canvas,8,22.09208106994629
+2,painted on a canvas,9,21.475526809692383
+2,painted on a canvas,10,21.609106063842773
+2,painted on a canvas,11,21.766672134399414
+2,painted on a canvas,12,20.055458068847656
+2,painted on a canvas,13,21.58928108215332
+2,painted on a canvas,14,22.498626708984375
+2,painted on a canvas,15,21.1986026763916
+2,painted on a canvas,16,23.11540412902832
+2,painted on a canvas,17,23.50233268737793
+2,painted on a canvas,18,21.075485229492188
+2,painted on a canvas,19,19.598691940307617
+2,painted on a canvas,20,19.198490142822266
+2,painted on a canvas,21,22.332374572753906
+2,painted on a canvas,22,21.28047752380371
+2,painted on a canvas,23,20.687828063964844
+2,painted on a canvas,24,20.490013122558594
+2,painted on a canvas,25,22.4735107421875
+2,painted on a canvas,26,21.825754165649414
+2,painted on a canvas,27,21.74452018737793
+2,painted on a canvas,28,22.14654541015625
+2,painted on a canvas,29,20.649904251098633
+2,painted on a canvas,30,22.13788414001465
+2,painted on a canvas,31,19.285737991333008
+2,painted on a canvas,32,21.037267684936523
+2,painted on a canvas,33,20.578115463256836
+2,painted on a canvas,34,22.055274963378906
+2,painted on a canvas,35,21.22392463684082
+2,painted on a canvas,36,20.57733154296875
+2,painted on a canvas,37,19.22141456604004
+2,painted on a canvas,38,20.060583114624023
+2,painted on a canvas,39,21.877426147460938
+2,painted on a canvas,40,19.50658416748047
+2,painted on a canvas,41,21.54680633544922
+2,painted on a canvas,42,21.36769676208496
+2,painted on a canvas,43,23.621549606323242
+2,painted on a canvas,44,22.612354278564453
+2,painted on a canvas,45,20.188716888427734
+2,painted on a canvas,46,23.04319190979004
+2,painted on a canvas,47,19.80067253112793
+2,painted on a canvas,48,22.344165802001953
+2,painted on a canvas,49,20.651514053344727
+3,painted on a building,0,12.116583824157715
+3,painted on a building,1,8.433526992797852
+3,painted on a building,2,11.441235542297363
+3,painted on a building,3,16.97856903076172
+3,painted on a building,4,11.259987831115723
+3,painted on a building,5,16.13068199157715
+3,painted on a building,6,14.184162139892578
+3,painted on a building,7,16.22568130493164
+3,painted on a building,8,13.994900703430176
+3,painted on a building,9,11.37723445892334
+3,painted on a building,10,11.030016899108887
+3,painted on a building,11,10.637645721435547
+3,painted on a building,12,22.310848236083984
+3,painted on a building,13,10.306314468383789
+3,painted on a building,14,6.901546001434326
+3,painted on a building,15,22.82036590576172
+3,painted on a building,16,8.071284294128418
+3,painted on a building,17,19.03591537475586
+3,painted on a building,18,11.826380729675293
+3,painted on a building,19,15.364341735839844
+3,painted on a building,20,20.961502075195312
+3,painted on a building,21,13.469793319702148
+3,painted on a building,22,8.331890106201172
+3,painted on a building,23,12.66026782989502
+3,painted on a building,24,10.075684547424316
+3,painted on a building,25,11.884496688842773
+3,painted on a building,26,22.39772605895996
+3,painted on a building,27,14.135876655578613
+3,painted on a building,28,17.523778915405273
+3,painted on a building,29,12.728270530700684
+3,painted on a building,30,10.200279235839844
+3,painted on a building,31,19.6990909576416
+3,painted on a building,32,10.768545150756836
+3,painted on a building,33,20.716943740844727
+3,painted on a building,34,8.58425235748291
+3,painted on a building,35,11.797574996948242
+3,painted on a building,36,9.114011764526367
+3,painted on a building,37,23.261293411254883
+3,painted on a building,38,10.584600448608398
+3,painted on a building,39,9.719921112060547
+3,painted on a building,40,6.907361030578613
+3,painted on a building,41,10.673713684082031
+3,painted on a building,42,10.435720443725586
+3,painted on a building,43,12.304442405700684
+3,painted on a building,44,18.474435806274414
+3,painted on a building,45,13.118426322937012
+3,painted on a building,46,11.22107982635498
+3,painted on a building,47,10.008959770202637
+3,painted on a building,48,13.648197174072266
+3,painted on a building,49,9.894777297973633
+4,painted on a wall,0,13.877177238464355
+4,painted on a wall,1,12.714142799377441
+4,painted on a wall,2,19.44742202758789
+4,painted on a wall,3,22.4266300201416
+4,painted on a wall,4,11.63810920715332
+4,painted on a wall,5,11.027359962463379
+4,painted on a wall,6,13.900086402893066
+4,painted on a wall,7,14.3599271774292
+4,painted on a wall,8,16.149511337280273
+4,painted on a wall,9,18.376075744628906
+4,painted on a wall,10,18.591394424438477
+4,painted on a wall,11,12.440253257751465
+4,painted on a wall,12,14.570951461791992
+4,painted on a wall,13,21.33071517944336
+4,painted on a wall,14,15.980746269226074
+4,painted on a wall,15,20.29981231689453
+4,painted on a wall,16,15.911722183227539
+4,painted on a wall,17,17.99751091003418
+4,painted on a wall,18,21.15933609008789
+4,painted on a wall,19,13.399517059326172
+4,painted on a wall,20,15.816581726074219
+4,painted on a wall,21,16.936925888061523
+4,painted on a wall,22,16.211214065551758
+4,painted on a wall,23,15.2240571975708
+4,painted on a wall,24,15.883162498474121
+4,painted on a wall,25,21.1739501953125
+4,painted on a wall,26,13.732120513916016
+4,painted on a wall,27,18.32774543762207
+4,painted on a wall,28,16.55112648010254
+4,painted on a wall,29,20.408435821533203
+4,painted on a wall,30,17.781614303588867
+4,painted on a wall,31,16.828832626342773
+4,painted on a wall,32,14.121667861938477
+4,painted on a wall,33,21.53997802734375
+4,painted on a wall,34,20.270414352416992
+4,painted on a wall,35,19.976350784301758
+4,painted on a wall,36,15.044615745544434
+4,painted on a wall,37,15.378019332885742
+4,painted on a wall,38,24.338394165039062
+4,painted on a wall,39,10.747820854187012
+4,painted on a wall,40,16.80609703063965
+4,painted on a wall,41,20.264873504638672
+4,painted on a wall,42,16.07375717163086
+4,painted on a wall,43,12.703868865966797
+4,painted on a wall,44,21.790672302246094
+4,painted on a wall,45,10.63510513305664
+4,painted on a wall,46,15.55380630493164
+4,painted on a wall,47,11.639473915100098
+4,painted on a wall,48,20.72652244567871
+4,painted on a wall,49,16.922677993774414
+5,painted on a canvas,0,19.370079040527344
+5,painted on a canvas,1,20.115869522094727
+5,painted on a canvas,2,20.457544326782227
+5,painted on a canvas,3,20.95147132873535
+5,painted on a canvas,4,23.230487823486328
+5,painted on a canvas,5,23.37859535217285
+5,painted on a canvas,6,24.505388259887695
+5,painted on a canvas,7,21.816736221313477
+5,painted on a canvas,8,24.735519409179688
+5,painted on a canvas,9,19.248315811157227
+5,painted on a canvas,10,20.50740623474121
+5,painted on a canvas,11,22.78657341003418
+5,painted on a canvas,12,17.30482292175293
+5,painted on a canvas,13,22.653793334960938
+5,painted on a canvas,14,23.742324829101562
+5,painted on a canvas,15,22.53895378112793
+5,painted on a canvas,16,22.234344482421875
+5,painted on a canvas,17,21.2967586517334
+5,painted on a canvas,18,20.73230743408203
+5,painted on a canvas,19,20.529279708862305
+5,painted on a canvas,20,22.376190185546875
+5,painted on a canvas,21,20.123226165771484
+5,painted on a canvas,22,21.748872756958008
+5,painted on a canvas,23,20.615022659301758
+5,painted on a canvas,24,23.307777404785156
+5,painted on a canvas,25,19.314687728881836
+5,painted on a canvas,26,20.980487823486328
+5,painted on a canvas,27,20.45237159729004
+5,painted on a canvas,28,21.971052169799805
+5,painted on a canvas,29,21.894678115844727
+5,painted on a canvas,30,23.295888900756836
+5,painted on a canvas,31,23.814382553100586
+5,painted on a canvas,32,22.194034576416016
+5,painted on a canvas,33,22.060516357421875
+5,painted on a canvas,34,23.140268325805664
+5,painted on a canvas,35,21.828989028930664
+5,painted on a canvas,36,20.744625091552734
+5,painted on a canvas,37,23.43075942993164
+5,painted on a canvas,38,22.376575469970703
+5,painted on a canvas,39,22.502676010131836
+5,painted on a canvas,40,23.417312622070312
+5,painted on a canvas,41,23.14683723449707
+5,painted on a canvas,42,21.325727462768555
+5,painted on a canvas,43,21.517635345458984
+5,painted on a canvas,44,21.671300888061523
+5,painted on a canvas,45,20.94623374938965
+5,painted on a canvas,46,23.835948944091797
+5,painted on a canvas,47,21.67009162902832
+5,painted on a canvas,48,24.676191329956055
+5,painted on a canvas,49,21.06864356994629
+6,painted on a wall,0,18.243581771850586
+6,painted on a wall,1,21.515182495117188
+6,painted on a wall,2,15.479753494262695
+6,painted on a wall,3,17.125062942504883
+6,painted on a wall,4,22.30129623413086
+6,painted on a wall,5,8.76513671875
+6,painted on a wall,6,15.31814193725586
+6,painted on a wall,7,14.545782089233398
+6,painted on a wall,8,14.826499938964844
+6,painted on a wall,9,20.200016021728516
+6,painted on a wall,10,21.68024444580078
+6,painted on a wall,11,14.940140724182129
+6,painted on a wall,12,13.569535255432129
+6,painted on a wall,13,12.18274974822998
+6,painted on a wall,14,14.48958683013916
+6,painted on a wall,15,22.670560836791992
+6,painted on a wall,16,18.74620246887207
+6,painted on a wall,17,17.163854598999023
+6,painted on a wall,18,19.7175235748291
+6,painted on a wall,19,14.817065238952637
+6,painted on a wall,20,13.11009407043457
+6,painted on a wall,21,13.731436729431152
+6,painted on a wall,22,14.91087818145752
+6,painted on a wall,23,20.893733978271484
+6,painted on a wall,24,14.666321754455566
+6,painted on a wall,25,16.16744613647461
+6,painted on a wall,26,21.11557960510254
+6,painted on a wall,27,14.090855598449707
+6,painted on a wall,28,20.987550735473633
+6,painted on a wall,29,20.20243263244629
+6,painted on a wall,30,18.008272171020508
+6,painted on a wall,31,22.613630294799805
+6,painted on a wall,32,19.20532989501953
+6,painted on a wall,33,16.91547966003418
+6,painted on a wall,34,18.830265045166016
+6,painted on a wall,35,20.148029327392578
+6,painted on a wall,36,12.987847328186035
+6,painted on a wall,37,20.520214080810547
+6,painted on a wall,38,15.475366592407227
+6,painted on a wall,39,15.456037521362305
+6,painted on a wall,40,12.021103858947754
+6,painted on a wall,41,21.879467010498047
+6,painted on a wall,42,20.993148803710938
+6,painted on a wall,43,17.13273811340332
+6,painted on a wall,44,16.14491844177246
+6,painted on a wall,45,18.664642333984375
+6,painted on a wall,46,13.689537048339844
+6,painted on a wall,47,16.85848617553711
+6,painted on a wall,48,19.02072525024414
+6,painted on a wall,49,20.846717834472656
+7,painted on a building,0,16.757394790649414
+7,painted on a building,1,23.523473739624023
+7,painted on a building,2,22.93684959411621
+7,painted on a building,3,21.34961700439453
+7,painted on a building,4,21.467023849487305
+7,painted on a building,5,24.278759002685547
+7,painted on a building,6,17.799386978149414
+7,painted on a building,7,23.87786865234375
+7,painted on a building,8,22.329727172851562
+7,painted on a building,9,25.073667526245117
+7,painted on a building,10,20.56935691833496
+7,painted on a building,11,22.757116317749023
+7,painted on a building,12,21.730884552001953
+7,painted on a building,13,11.104116439819336
+7,painted on a building,14,18.69444465637207
+7,painted on a building,15,22.389062881469727
+7,painted on a building,16,23.886913299560547
+7,painted on a building,17,15.482276916503906
+7,painted on a building,18,21.835861206054688
+7,painted on a building,19,23.02234649658203
+7,painted on a building,20,19.35395050048828
+7,painted on a building,21,18.089141845703125
+7,painted on a building,22,19.79610252380371
+7,painted on a building,23,20.941484451293945
+7,painted on a building,24,17.240283966064453
+7,painted on a building,25,23.313369750976562
+7,painted on a building,26,19.046476364135742
+7,painted on a building,27,14.335041999816895
+7,painted on a building,28,24.192760467529297
+7,painted on a building,29,22.128280639648438
+7,painted on a building,30,17.91099739074707
+7,painted on a building,31,21.761816024780273
+7,painted on a building,32,20.296140670776367
+7,painted on a building,33,23.14126205444336
+7,painted on a building,34,10.353240966796875
+7,painted on a building,35,22.14584732055664
+7,painted on a building,36,22.527103424072266
+7,painted on a building,37,22.62015151977539
+7,painted on a building,38,21.634050369262695
+7,painted on a building,39,16.055702209472656
+7,painted on a building,40,21.133338928222656
+7,painted on a building,41,22.160287857055664
+7,painted on a building,42,22.76382064819336
+7,painted on a building,43,20.310670852661133
+7,painted on a building,44,18.320701599121094
+7,painted on a building,45,16.53993797302246
+7,painted on a building,46,22.327072143554688
+7,painted on a building,47,23.335229873657227
+7,painted on a building,48,24.77493667602539
+7,painted on a building,49,20.022497177124023
+8,painted on a canvas in the desert,0,25.88437271118164
+8,painted on a canvas in the desert,1,25.91170883178711
+8,painted on a canvas in the desert,2,20.165809631347656
+8,painted on a canvas in the desert,3,28.854217529296875
+8,painted on a canvas in the desert,4,19.956401824951172
+8,painted on a canvas in the desert,5,23.04925537109375
+8,painted on a canvas in the desert,6,20.37522315979004
+8,painted on a canvas in the desert,7,28.63473892211914
+8,painted on a canvas in the desert,8,29.645883560180664
+8,painted on a canvas in the desert,9,24.128870010375977
+8,painted on a canvas in the desert,10,28.711532592773438
+8,painted on a canvas in the desert,11,25.81361198425293
+8,painted on a canvas in the desert,12,27.70533561706543
+8,painted on a canvas in the desert,13,23.468238830566406
+8,painted on a canvas in the desert,14,25.790616989135742
+8,painted on a canvas in the desert,15,26.914379119873047
+8,painted on a canvas in the desert,16,23.16215705871582
+8,painted on a canvas in the desert,17,23.553504943847656
+8,painted on a canvas in the desert,18,28.762006759643555
+8,painted on a canvas in the desert,19,20.15056610107422
+8,painted on a canvas in the desert,20,25.934419631958008
+8,painted on a canvas in the desert,21,21.104393005371094
+8,painted on a canvas in the desert,22,26.81421661376953
+8,painted on a canvas in the desert,23,24.05529022216797
+8,painted on a canvas in the desert,24,26.525623321533203
+8,painted on a canvas in the desert,25,28.3759765625
+8,painted on a canvas in the desert,26,19.24657440185547
+8,painted on a canvas in the desert,27,23.528852462768555
+8,painted on a canvas in the desert,28,27.148548126220703
+8,painted on a canvas in the desert,29,28.210622787475586
+8,painted on a canvas in the desert,30,22.91686248779297
+8,painted on a canvas in the desert,31,29.58005142211914
+8,painted on a canvas in the desert,32,21.319107055664062
+8,painted on a canvas in the desert,33,26.807645797729492
+8,painted on a canvas in the desert,34,28.001571655273438
+8,painted on a canvas in the desert,35,24.263233184814453
+8,painted on a canvas in the desert,36,21.18488311767578
+8,painted on a canvas in the desert,37,27.5669002532959
+8,painted on a canvas in the desert,38,21.46419334411621
+8,painted on a canvas in the desert,39,28.50238037109375
+8,painted on a canvas in the desert,40,21.537778854370117
+8,painted on a canvas in the desert,41,18.764955520629883
+8,painted on a canvas in the desert,42,27.939096450805664
+8,painted on a canvas in the desert,43,26.14981460571289
+8,painted on a canvas in the desert,44,27.264911651611328
+8,painted on a canvas in the desert,45,25.90094757080078
+8,painted on a canvas in the desert,46,25.684494018554688
+8,painted on a canvas in the desert,47,23.74163246154785
+8,painted on a canvas in the desert,48,19.4100284576416
+8,painted on a canvas in the desert,49,19.370946884155273
+9,painted on a wall in the beach,0,29.16288948059082
+9,painted on a wall in the beach,1,28.445568084716797
+9,painted on a wall in the beach,2,28.37531852722168
+9,painted on a wall in the beach,3,28.299718856811523
+9,painted on a wall in the beach,4,26.082908630371094
+9,painted on a wall in the beach,5,26.442861557006836
+9,painted on a wall in the beach,6,23.88340187072754
+9,painted on a wall in the beach,7,22.09661102294922
+9,painted on a wall in the beach,8,26.587587356567383
+9,painted on a wall in the beach,9,26.56726837158203
+9,painted on a wall in the beach,10,26.75274658203125
+9,painted on a wall in the beach,11,25.35198402404785
+9,painted on a wall in the beach,12,24.819074630737305
+9,painted on a wall in the beach,13,27.345203399658203
+9,painted on a wall in the beach,14,26.9981689453125
+9,painted on a wall in the beach,15,26.780345916748047
+9,painted on a wall in the beach,16,25.4971866607666
+9,painted on a wall in the beach,17,24.669925689697266
+9,painted on a wall in the beach,18,25.66419219970703
+9,painted on a wall in the beach,19,25.03272819519043
+9,painted on a wall in the beach,20,26.808401107788086
+9,painted on a wall in the beach,21,25.392040252685547
+9,painted on a wall in the beach,22,21.739181518554688
+9,painted on a wall in the beach,23,22.347389221191406
+9,painted on a wall in the beach,24,26.94809341430664
+9,painted on a wall in the beach,25,26.679033279418945
+9,painted on a wall in the beach,26,28.364456176757812
+9,painted on a wall in the beach,27,26.579444885253906
+9,painted on a wall in the beach,28,24.72187042236328
+9,painted on a wall in the beach,29,28.569805145263672
+9,painted on a wall in the beach,30,27.739757537841797
+9,painted on a wall in the beach,31,25.172809600830078
+9,painted on a wall in the beach,32,25.857555389404297
+9,painted on a wall in the beach,33,22.107515335083008
+9,painted on a wall in the beach,34,25.325096130371094
+9,painted on a wall in the beach,35,27.013761520385742
+9,painted on a wall in the beach,36,26.956951141357422
+9,painted on a wall in the beach,37,28.13119888305664
+9,painted on a wall in the beach,38,26.818143844604492
+9,painted on a wall in the beach,39,27.941539764404297
+9,painted on a wall in the beach,40,25.1218318939209
+9,painted on a wall in the beach,41,21.100440979003906
+9,painted on a wall in the beach,42,27.341218948364258
+9,painted on a wall in the beach,43,29.689655303955078
+9,painted on a wall in the beach,44,22.428043365478516
+9,painted on a wall in the beach,45,27.215248107910156
+9,painted on a wall in the beach,46,26.22956085205078
+9,painted on a wall in the beach,47,24.171117782592773
+9,painted on a wall in the beach,48,22.65409278869629
+9,painted on a wall in the beach,49,26.877897262573242

@@ -1,0 +1,11 @@
+prompt,full_prompt,custom_prompt_A,custom_prompt_B,custom_prompt_C
+cat wearing a hat {} bowl,cat wearing a hat inside a bowl,cat wearing a hat,inside a bowl,NA
+cat wearing a helmet {} box,cat wearing a helmet inside a box,cat wearing a helmet,inside a box,NA
+hamster wearing a headphones {} cup,hamster wearing a headphones inside a cup,hamster wearing a headphones,inside a cup,NA
+hamster wearing a hat {} vase,hamster wearing a hat inside a vase,hamster wearing a hat,inside a vase,NA
+spiderman wearing a headphones {} basket,spiderman wearing a headphones inside a basket,spiderman wearing a headphones,inside a basket,NA
+superman wearing a helmet {} pot,superman wearing a helmet inside a pot,superman wearing a helmet,inside a pot,NA
+batman holding a flower {} box,batman holding a flower inside a box,batman holding a flower,inside a box,NA
+ocean of ice {} pot,ocean of ice inside a pot,ocean of ice,inside a pot,NA
+sunflower made of crochet {} pot,sunflower made of crochet inside a pot,sunflower made of crochet,inside a pot,NA
+dog made of clay {} pot,dog made of clay inside a pot,dog made of clay,inside a pot,NA

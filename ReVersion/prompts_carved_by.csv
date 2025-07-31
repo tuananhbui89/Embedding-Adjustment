@@ -1,0 +1,13 @@
+prompt,full_prompt,custom_prompt_A,custom_prompt_B,custom_prompt_C
+cat {} jade in the desert,cat carved by jade in the desert,cat carved by jade,in the desert,NA
+cat {} clay in the beach,cat carved by clay in the beach,cat carved by clay,in the beach,NA
+cat {} wood in the forest,cat carved by wood in the forest,cat carved by wood,in the forest,NA
+cat {} carrot in the garden,cat carved by carrot in the garden,cat carved by carrot,in the garden,NA
+cat {} glass in the park,cat carved by glass in the park,cat carved by glass,in the park,NA
+cat {} paper in the library,cat carved by paper in the library,cat carved by paper,in the library,NA
+dog {} jade in the desert,dog carved by jade in the desert,dog carved by jade,in the desert,NA
+dog {} clay in the beach,dog carved by clay in the beach,dog carved by clay,in the beach,NA
+dog {} wood in the forest,dog carved by wood in the forest,dog carved by wood,in the forest,NA
+dog {} carrot in the garden,dog carved by carrot in the garden,dog carved by carrot,in the garden,NA
+dog {} glass in the park,dog carved by glass in the park,dog carved by glass,in the park,NA
+dog {} paper in the library,dog carved by paper in the library,dog carved by paper,in the library,NA
