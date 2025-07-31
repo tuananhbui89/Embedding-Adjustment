@@ -2,10 +2,41 @@
 
 This is the code and data for the paper "Mitigating Semantic Collapse in Generative Personalization with a Surprisingly Simple Test-Time Embedding Adjustment". This repository provides: 
 
-- The code to train a personalized model with Textual Inversion (TI), Dreambooth, and Custom Diffusion. 
+- The code to train a personalized model with Textual Inversion (TI), Dreambooth, and Custom Diffusion. *Update (July 2025): Our method is now integrated into EasyControl and ReVersion.*
 - The code to generate personalized images with the pretrained personalized models.
 - Our proposed method: Test-Time Embedding Adjustment (TEA) to generate personalized images with the pretrained models (mitigating the Semantic Collapse Problem on the fly).
 - The code to investigate the Semantic Collapse Problem and evaluate the performance of TEA and other baselines (generated images).
+
+*Update (July 2025): Our method is now integrated into EasyControl and ReVersion. Please refer to the EasyControl and ReVersion subfolders for: how to install and reproduce the results.*
+
+## Qualitative Results
+
+Example results of the proposed method (TEA) and the baselines (EasyControl) are shown below. More results can be found in the `EasyControl` and `ReVersion` subfolders.
+
+![Results without TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1/prompt_0_grid.jpg)
+*Results without TEA: Subject personalization using standard EasyControl pipeline*
+
+![Results with TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1_tea/prompt_0_grid.jpg) 
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
+![Results without TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1/prompt_7_grid.jpg)
+*Results without TEA: Subject personalization using standard EasyControl pipeline*
+
+![Results with TEA](EasyControl/evaluation_demo/output_cs101_pet_dog_1_tea/prompt_7_grid.jpg) 
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
+![Results without TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear/prompt_0_grid.jpg)
+*Results without TEA: Subject personalization using standard EasyControl pipeline*
+
+![Results with TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear_tea/prompt_0_grid.jpg) 
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
+![Results without TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear/prompt_7_grid.jpg)
+*Results without TEA: Subject personalization using standard EasyControl pipeline*
+
+![Results with TEA](EasyControl/evaluation_demo/output_cs101_plushie_teddybear_tea/prompt_7_grid.jpg) 
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
 
 ## Requirements
 

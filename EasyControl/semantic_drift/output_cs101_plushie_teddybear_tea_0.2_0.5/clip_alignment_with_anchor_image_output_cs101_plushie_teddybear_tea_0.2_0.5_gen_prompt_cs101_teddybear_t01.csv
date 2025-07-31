@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} teddybear in grand canyon,0,79.56320190429688
+0,{} teddybear in grand canyon,1,83.09913635253906
+0,{} teddybear in grand canyon,2,84.6602783203125
+0,{} teddybear in grand canyon,3,80.53699493408203
+0,{} teddybear in grand canyon,4,85.54444885253906
+0,{} teddybear in grand canyon,5,84.48738098144531
+0,{} teddybear in grand canyon,6,83.99120330810547
+0,{} teddybear in grand canyon,7,83.92721557617188
+0,{} teddybear in grand canyon,8,82.82121276855469
+0,{} teddybear in grand canyon,9,79.01582336425781
+0,{} teddybear in grand canyon,10,84.22596740722656
+0,{} teddybear in grand canyon,11,80.85516357421875
+0,{} teddybear in grand canyon,12,82.29987335205078
+0,{} teddybear in grand canyon,13,82.55550384521484
+0,{} teddybear in grand canyon,14,81.85433197021484
+0,{} teddybear in grand canyon,15,83.07505798339844
+0,{} teddybear in grand canyon,16,72.79625701904297
+0,{} teddybear in grand canyon,17,83.5696792602539
+0,{} teddybear in grand canyon,18,80.61336517333984
+0,{} teddybear in grand canyon,19,81.47053527832031
+0,{} teddybear in grand canyon,20,79.52649688720703
+0,{} teddybear in grand canyon,21,85.02264404296875
+0,{} teddybear in grand canyon,22,81.63516998291016
+0,{} teddybear in grand canyon,23,68.90849304199219
+0,{} teddybear in grand canyon,24,81.3177719116211
+0,{} teddybear in grand canyon,25,81.00956726074219
+0,{} teddybear in grand canyon,26,81.62532806396484
+0,{} teddybear in grand canyon,27,79.88420867919922
+0,{} teddybear in grand canyon,28,82.821533203125
+0,{} teddybear in grand canyon,29,83.17420196533203
+0,{} teddybear in grand canyon,30,80.76432037353516
+0,{} teddybear in grand canyon,31,78.36215209960938
+0,{} teddybear in grand canyon,32,79.6099853515625
+0,{} teddybear in grand canyon,33,84.43330383300781
+0,{} teddybear in grand canyon,34,82.57876586914062
+0,{} teddybear in grand canyon,35,70.59109497070312
+0,{} teddybear in grand canyon,36,82.95111846923828
+0,{} teddybear in grand canyon,37,80.51399993896484
+0,{} teddybear in grand canyon,38,81.8109130859375
+0,{} teddybear in grand canyon,39,77.31687927246094
+0,{} teddybear in grand canyon,40,80.4932861328125
+0,{} teddybear in grand canyon,41,81.98175048828125
+0,{} teddybear in grand canyon,42,79.85636138916016
+0,{} teddybear in grand canyon,43,82.8979263305664
+0,{} teddybear in grand canyon,44,79.72327423095703
+0,{} teddybear in grand canyon,45,83.89482116699219
+0,{} teddybear in grand canyon,46,82.48030853271484
+0,{} teddybear in grand canyon,47,84.49800872802734
+0,{} teddybear in grand canyon,48,79.12667083740234
+0,{} teddybear in grand canyon,49,78.18669128417969
+1,{} teddybear sitting at the beach with a view of the sea,0,83.11445617675781
+1,{} teddybear sitting at the beach with a view of the sea,1,83.59187316894531
+1,{} teddybear sitting at the beach with a view of the sea,2,83.9486083984375
+1,{} teddybear sitting at the beach with a view of the sea,3,86.45210266113281
+1,{} teddybear sitting at the beach with a view of the sea,4,84.7516860961914
+1,{} teddybear sitting at the beach with a view of the sea,5,83.23094940185547
+1,{} teddybear sitting at the beach with a view of the sea,6,83.2016372680664
+1,{} teddybear sitting at the beach with a view of the sea,7,83.86885833740234
+1,{} teddybear sitting at the beach with a view of the sea,8,85.29139709472656
+1,{} teddybear sitting at the beach with a view of the sea,9,84.70094299316406
+1,{} teddybear sitting at the beach with a view of the sea,10,82.68567657470703
+1,{} teddybear sitting at the beach with a view of the sea,11,83.809814453125
+1,{} teddybear sitting at the beach with a view of the sea,12,82.25604248046875
+1,{} teddybear sitting at the beach with a view of the sea,13,83.29242706298828
+1,{} teddybear sitting at the beach with a view of the sea,14,84.30563354492188
+1,{} teddybear sitting at the beach with a view of the sea,15,84.76143646240234
+1,{} teddybear sitting at the beach with a view of the sea,16,88.15597534179688
+1,{} teddybear sitting at the beach with a view of the sea,17,86.3331069946289
+1,{} teddybear sitting at the beach with a view of the sea,18,85.24209594726562
+1,{} teddybear sitting at the beach with a view of the sea,19,86.04520416259766
+1,{} teddybear sitting at the beach with a view of the sea,20,84.44567108154297
+1,{} teddybear sitting at the beach with a view of the sea,21,87.17835235595703
+1,{} teddybear sitting at the beach with a view of the sea,22,86.83778381347656
+1,{} teddybear sitting at the beach with a view of the sea,23,84.71336364746094
+1,{} teddybear sitting at the beach with a view of the sea,24,81.47132110595703
+1,{} teddybear sitting at the beach with a view of the sea,25,87.02045440673828
+1,{} teddybear sitting at the beach with a view of the sea,26,84.60072326660156
+1,{} teddybear sitting at the beach with a view of the sea,27,85.0774154663086
+1,{} teddybear sitting at the beach with a view of the sea,28,82.27420043945312
+1,{} teddybear sitting at the beach with a view of the sea,29,83.87185668945312
+1,{} teddybear sitting at the beach with a view of the sea,30,83.97606658935547
+1,{} teddybear sitting at the beach with a view of the sea,31,85.38343048095703
+1,{} teddybear sitting at the beach with a view of the sea,32,83.30950927734375
+1,{} teddybear sitting at the beach with a view of the sea,33,82.95404052734375
+1,{} teddybear sitting at the beach with a view of the sea,34,85.95365142822266
+1,{} teddybear sitting at the beach with a view of the sea,35,81.94873046875
+1,{} teddybear sitting at the beach with a view of the sea,36,83.24649810791016
+1,{} teddybear sitting at the beach with a view of the sea,37,84.0124740600586
+1,{} teddybear sitting at the beach with a view of the sea,38,84.81767272949219
+1,{} teddybear sitting at the beach with a view of the sea,39,87.01994323730469
+1,{} teddybear sitting at the beach with a view of the sea,40,85.64122009277344
+1,{} teddybear sitting at the beach with a view of the sea,41,82.92080688476562
+1,{} teddybear sitting at the beach with a view of the sea,42,85.8974609375
+1,{} teddybear sitting at the beach with a view of the sea,43,82.72224426269531
+1,{} teddybear sitting at the beach with a view of the sea,44,82.44039154052734
+1,{} teddybear sitting at the beach with a view of the sea,45,87.65463256835938
+1,{} teddybear sitting at the beach with a view of the sea,46,83.65837860107422
+1,{} teddybear sitting at the beach with a view of the sea,47,83.0364990234375
+1,{} teddybear sitting at the beach with a view of the sea,48,84.42306518554688
+1,{} teddybear sitting at the beach with a view of the sea,49,83.98278045654297
+2,{} teddybear in times square,0,86.09093475341797
+2,{} teddybear in times square,1,86.90950775146484
+2,{} teddybear in times square,2,81.56997680664062
+2,{} teddybear in times square,3,86.19506072998047
+2,{} teddybear in times square,4,87.81592559814453
+2,{} teddybear in times square,5,85.48714447021484
+2,{} teddybear in times square,6,83.30797576904297
+2,{} teddybear in times square,7,85.88629913330078
+2,{} teddybear in times square,8,86.33696746826172
+2,{} teddybear in times square,9,85.77669525146484
+2,{} teddybear in times square,10,78.3663330078125
+2,{} teddybear in times square,11,88.15922546386719
+2,{} teddybear in times square,12,82.0500259399414
+2,{} teddybear in times square,13,89.03166961669922
+2,{} teddybear in times square,14,77.3855972290039
+2,{} teddybear in times square,15,80.03519439697266
+2,{} teddybear in times square,16,88.09607696533203
+2,{} teddybear in times square,17,85.48089599609375
+2,{} teddybear in times square,18,83.78819274902344
+2,{} teddybear in times square,19,87.44490814208984
+2,{} teddybear in times square,20,83.39813995361328
+2,{} teddybear in times square,21,82.45147705078125
+2,{} teddybear in times square,22,90.32772827148438
+2,{} teddybear in times square,23,86.847900390625
+2,{} teddybear in times square,24,85.47052764892578
+2,{} teddybear in times square,25,83.93101501464844
+2,{} teddybear in times square,26,82.75404357910156
+2,{} teddybear in times square,27,84.43067932128906
+2,{} teddybear in times square,28,86.80857849121094
+2,{} teddybear in times square,29,88.87711334228516
+2,{} teddybear in times square,30,87.33704376220703
+2,{} teddybear in times square,31,86.8780288696289
+2,{} teddybear in times square,32,82.09226989746094
+2,{} teddybear in times square,33,84.70320892333984
+2,{} teddybear in times square,34,86.67085266113281
+2,{} teddybear in times square,35,85.38810729980469
+2,{} teddybear in times square,36,78.38870239257812
+2,{} teddybear in times square,37,88.52167510986328
+2,{} teddybear in times square,38,88.38542175292969
+2,{} teddybear in times square,39,88.7655258178711
+2,{} teddybear in times square,40,86.76066589355469
+2,{} teddybear in times square,41,83.97193908691406
+2,{} teddybear in times square,42,87.25162506103516
+2,{} teddybear in times square,43,88.88005065917969
+2,{} teddybear in times square,44,81.60044860839844
+2,{} teddybear in times square,45,70.91349029541016
+2,{} teddybear in times square,46,89.41766357421875
+2,{} teddybear in times square,47,84.94539642333984
+2,{} teddybear in times square,48,83.36204528808594
+2,{} teddybear in times square,49,83.24842834472656
+3,{} teddybear wearing sunglasses,0,78.05132293701172
+3,{} teddybear wearing sunglasses,1,80.47244262695312
+3,{} teddybear wearing sunglasses,2,73.92756652832031
+3,{} teddybear wearing sunglasses,3,80.25739288330078
+3,{} teddybear wearing sunglasses,4,81.64630889892578
+3,{} teddybear wearing sunglasses,5,78.1993179321289
+3,{} teddybear wearing sunglasses,6,83.17570495605469
+3,{} teddybear wearing sunglasses,7,79.60179138183594
+3,{} teddybear wearing sunglasses,8,81.34432983398438
+3,{} teddybear wearing sunglasses,9,79.69921112060547
+3,{} teddybear wearing sunglasses,10,80.57805633544922
+3,{} teddybear wearing sunglasses,11,79.52986907958984
+3,{} teddybear wearing sunglasses,12,74.9627685546875
+3,{} teddybear wearing sunglasses,13,82.35682678222656
+3,{} teddybear wearing sunglasses,14,82.28172302246094
+3,{} teddybear wearing sunglasses,15,80.65426635742188
+3,{} teddybear wearing sunglasses,16,79.33280181884766
+3,{} teddybear wearing sunglasses,17,79.72625732421875
+3,{} teddybear wearing sunglasses,18,78.41112518310547
+3,{} teddybear wearing sunglasses,19,80.82164764404297
+3,{} teddybear wearing sunglasses,20,80.48490142822266
+3,{} teddybear wearing sunglasses,21,78.2455062866211
+3,{} teddybear wearing sunglasses,22,78.46256256103516
+3,{} teddybear wearing sunglasses,23,80.87388610839844
+3,{} teddybear wearing sunglasses,24,82.74171447753906
+3,{} teddybear wearing sunglasses,25,77.78925323486328
+3,{} teddybear wearing sunglasses,26,76.79630279541016
+3,{} teddybear wearing sunglasses,27,80.68647766113281
+3,{} teddybear wearing sunglasses,28,81.26573944091797
+3,{} teddybear wearing sunglasses,29,78.42732238769531
+3,{} teddybear wearing sunglasses,30,78.42950439453125
+3,{} teddybear wearing sunglasses,31,80.63731384277344
+3,{} teddybear wearing sunglasses,32,78.86222076416016
+3,{} teddybear wearing sunglasses,33,80.56399536132812
+3,{} teddybear wearing sunglasses,34,79.4222412109375
+3,{} teddybear wearing sunglasses,35,79.24070739746094
+3,{} teddybear wearing sunglasses,36,83.20059204101562
+3,{} teddybear wearing sunglasses,37,77.17098999023438
+3,{} teddybear wearing sunglasses,38,79.33454895019531
+3,{} teddybear wearing sunglasses,39,80.13571166992188
+3,{} teddybear wearing sunglasses,40,81.06573486328125
+3,{} teddybear wearing sunglasses,41,77.37834930419922
+3,{} teddybear wearing sunglasses,42,82.53945922851562
+3,{} teddybear wearing sunglasses,43,80.27136993408203
+3,{} teddybear wearing sunglasses,44,83.58335876464844
+3,{} teddybear wearing sunglasses,45,79.23075866699219
+3,{} teddybear wearing sunglasses,46,77.61858367919922
+3,{} teddybear wearing sunglasses,47,82.43456268310547
+3,{} teddybear wearing sunglasses,48,81.74992370605469
+3,{} teddybear wearing sunglasses,49,81.44923400878906
+4,{} teddybear working on the laptop,0,78.93910217285156
+4,{} teddybear working on the laptop,1,77.76193237304688
+4,{} teddybear working on the laptop,2,80.38446807861328
+4,{} teddybear working on the laptop,3,78.8601303100586
+4,{} teddybear working on the laptop,4,77.46086883544922
+4,{} teddybear working on the laptop,5,80.06999206542969
+4,{} teddybear working on the laptop,6,77.1058578491211
+4,{} teddybear working on the laptop,7,79.52593231201172
+4,{} teddybear working on the laptop,8,78.76514434814453
+4,{} teddybear working on the laptop,9,79.05176544189453
+4,{} teddybear working on the laptop,10,76.94505310058594
+4,{} teddybear working on the laptop,11,77.57474517822266
+4,{} teddybear working on the laptop,12,86.18791961669922
+4,{} teddybear working on the laptop,13,79.32605743408203
+4,{} teddybear working on the laptop,14,78.91429901123047
+4,{} teddybear working on the laptop,15,79.45743560791016
+4,{} teddybear working on the laptop,16,75.99247741699219
+4,{} teddybear working on the laptop,17,82.08577728271484
+4,{} teddybear working on the laptop,18,77.41798400878906
+4,{} teddybear working on the laptop,19,83.34374237060547
+4,{} teddybear working on the laptop,20,75.81494903564453
+4,{} teddybear working on the laptop,21,77.38125610351562
+4,{} teddybear working on the laptop,22,81.68412780761719
+4,{} teddybear working on the laptop,23,80.34568786621094
+4,{} teddybear working on the laptop,24,78.72833251953125
+4,{} teddybear working on the laptop,25,76.24432373046875
+4,{} teddybear working on the laptop,26,81.56390380859375
+4,{} teddybear working on the laptop,27,75.81493377685547
+4,{} teddybear working on the laptop,28,78.50904846191406
+4,{} teddybear working on the laptop,29,78.17027282714844
+4,{} teddybear working on the laptop,30,78.2061996459961
+4,{} teddybear working on the laptop,31,78.79544830322266
+4,{} teddybear working on the laptop,32,79.35102844238281
+4,{} teddybear working on the laptop,33,79.99034881591797
+4,{} teddybear working on the laptop,34,80.90996551513672
+4,{} teddybear working on the laptop,35,77.8426742553711
+4,{} teddybear working on the laptop,36,81.55306243896484
+4,{} teddybear working on the laptop,37,78.35150909423828
+4,{} teddybear working on the laptop,38,82.699951171875
+4,{} teddybear working on the laptop,39,74.1961441040039
+4,{} teddybear working on the laptop,40,80.92752838134766
+4,{} teddybear working on the laptop,41,79.16149139404297
+4,{} teddybear working on the laptop,42,80.65608978271484
+4,{} teddybear working on the laptop,43,78.70413970947266
+4,{} teddybear working on the laptop,44,80.14439392089844
+4,{} teddybear working on the laptop,45,80.34895324707031
+4,{} teddybear working on the laptop,46,78.1927261352539
+4,{} teddybear working on the laptop,47,81.1207504272461
+4,{} teddybear working on the laptop,48,81.9063720703125
+4,{} teddybear working on the laptop,49,80.526611328125
+5,{} teddybear on a boat in the sea,0,80.49909973144531
+5,{} teddybear on a boat in the sea,1,87.01831817626953
+5,{} teddybear on a boat in the sea,2,84.19795989990234
+5,{} teddybear on a boat in the sea,3,87.08562469482422
+5,{} teddybear on a boat in the sea,4,82.17660522460938
+5,{} teddybear on a boat in the sea,5,83.55310821533203
+5,{} teddybear on a boat in the sea,6,87.45244598388672
+5,{} teddybear on a boat in the sea,7,85.02484893798828
+5,{} teddybear on a boat in the sea,8,87.91532135009766
+5,{} teddybear on a boat in the sea,9,86.21219635009766
+5,{} teddybear on a boat in the sea,10,85.30977630615234
+5,{} teddybear on a boat in the sea,11,85.63491821289062
+5,{} teddybear on a boat in the sea,12,85.08460235595703
+5,{} teddybear on a boat in the sea,13,85.13152313232422
+5,{} teddybear on a boat in the sea,14,81.62704467773438
+5,{} teddybear on a boat in the sea,15,87.20115661621094
+5,{} teddybear on a boat in the sea,16,85.55265808105469
+5,{} teddybear on a boat in the sea,17,85.02294158935547
+5,{} teddybear on a boat in the sea,18,79.801513671875
+5,{} teddybear on a boat in the sea,19,72.56268310546875
+5,{} teddybear on a boat in the sea,20,79.55464172363281
+5,{} teddybear on a boat in the sea,21,81.52098846435547
+5,{} teddybear on a boat in the sea,22,86.06269073486328
+5,{} teddybear on a boat in the sea,23,84.94345092773438
+5,{} teddybear on a boat in the sea,24,83.17292785644531
+5,{} teddybear on a boat in the sea,25,81.87841033935547
+5,{} teddybear on a boat in the sea,26,76.62181854248047
+5,{} teddybear on a boat in the sea,27,82.51873016357422
+5,{} teddybear on a boat in the sea,28,86.29247283935547
+5,{} teddybear on a boat in the sea,29,87.25750732421875
+5,{} teddybear on a boat in the sea,30,84.48522186279297
+5,{} teddybear on a boat in the sea,31,88.85565948486328
+5,{} teddybear on a boat in the sea,32,89.60442352294922
+5,{} teddybear on a boat in the sea,33,89.44908142089844
+5,{} teddybear on a boat in the sea,34,84.468994140625
+5,{} teddybear on a boat in the sea,35,79.8749008178711
+5,{} teddybear on a boat in the sea,36,78.9876708984375
+5,{} teddybear on a boat in the sea,37,87.90009307861328
+5,{} teddybear on a boat in the sea,38,83.69760131835938
+5,{} teddybear on a boat in the sea,39,83.92244720458984
+5,{} teddybear on a boat in the sea,40,81.63304901123047
+5,{} teddybear on a boat in the sea,41,82.96797180175781
+5,{} teddybear on a boat in the sea,42,84.9715576171875
+5,{} teddybear on a boat in the sea,43,83.61910247802734
+5,{} teddybear on a boat in the sea,44,83.43041229248047
+5,{} teddybear on a boat in the sea,45,80.40989685058594
+5,{} teddybear on a boat in the sea,46,85.08460235595703
+5,{} teddybear on a boat in the sea,47,87.64562225341797
+5,{} teddybear on a boat in the sea,48,86.04541015625
+5,{} teddybear on a boat in the sea,49,85.8447036743164
+6,{} teddybear wearing headphones,0,80.77345275878906
+6,{} teddybear wearing headphones,1,82.82089233398438
+6,{} teddybear wearing headphones,2,76.9444351196289
+6,{} teddybear wearing headphones,3,79.58867645263672
+6,{} teddybear wearing headphones,4,80.32342529296875
+6,{} teddybear wearing headphones,5,80.43234252929688
+6,{} teddybear wearing headphones,6,79.08513641357422
+6,{} teddybear wearing headphones,7,79.67655944824219
+6,{} teddybear wearing headphones,8,81.70137786865234
+6,{} teddybear wearing headphones,9,80.96463012695312
+6,{} teddybear wearing headphones,10,80.29197692871094
+6,{} teddybear wearing headphones,11,83.26496124267578
+6,{} teddybear wearing headphones,12,81.09014892578125
+6,{} teddybear wearing headphones,13,82.60275268554688
+6,{} teddybear wearing headphones,14,84.56449890136719
+6,{} teddybear wearing headphones,15,83.90564727783203
+6,{} teddybear wearing headphones,16,83.54109191894531
+6,{} teddybear wearing headphones,17,78.44485473632812
+6,{} teddybear wearing headphones,18,80.41478729248047
+6,{} teddybear wearing headphones,19,84.27774810791016
+6,{} teddybear wearing headphones,20,81.72798919677734
+6,{} teddybear wearing headphones,21,81.07845306396484
+6,{} teddybear wearing headphones,22,81.6303939819336
+6,{} teddybear wearing headphones,23,83.6005859375
+6,{} teddybear wearing headphones,24,83.22545623779297
+6,{} teddybear wearing headphones,25,80.5456314086914
+6,{} teddybear wearing headphones,26,81.61074829101562
+6,{} teddybear wearing headphones,27,82.9179916381836
+6,{} teddybear wearing headphones,28,79.5914077758789
+6,{} teddybear wearing headphones,29,81.40376281738281
+6,{} teddybear wearing headphones,30,81.60480499267578
+6,{} teddybear wearing headphones,31,78.68209838867188
+6,{} teddybear wearing headphones,32,80.63667297363281
+6,{} teddybear wearing headphones,33,80.69278717041016
+6,{} teddybear wearing headphones,34,80.09050750732422
+6,{} teddybear wearing headphones,35,81.14604949951172
+6,{} teddybear wearing headphones,36,81.25953674316406
+6,{} teddybear wearing headphones,37,82.77257537841797
+6,{} teddybear wearing headphones,38,78.69786834716797
+6,{} teddybear wearing headphones,39,82.19676971435547
+6,{} teddybear wearing headphones,40,81.18830108642578
+6,{} teddybear wearing headphones,41,79.92107391357422
+6,{} teddybear wearing headphones,42,79.19059753417969
+6,{} teddybear wearing headphones,43,81.02996063232422
+6,{} teddybear wearing headphones,44,79.6639404296875
+6,{} teddybear wearing headphones,45,80.64753723144531
+6,{} teddybear wearing headphones,46,82.42479705810547
+6,{} teddybear wearing headphones,47,77.88533782958984
+6,{} teddybear wearing headphones,48,79.8218002319336
+6,{} teddybear wearing headphones,49,81.02658081054688
+7,{} teddybear in a construction outfit,0,76.31946563720703
+7,{} teddybear in a construction outfit,1,72.91132354736328
+7,{} teddybear in a construction outfit,2,72.76866912841797
+7,{} teddybear in a construction outfit,3,78.98847961425781
+7,{} teddybear in a construction outfit,4,77.96443939208984
+7,{} teddybear in a construction outfit,5,77.18441772460938
+7,{} teddybear in a construction outfit,6,82.94903564453125
+7,{} teddybear in a construction outfit,7,82.92768859863281
+7,{} teddybear in a construction outfit,8,75.32678985595703
+7,{} teddybear in a construction outfit,9,74.6487045288086
+7,{} teddybear in a construction outfit,10,75.7600326538086
+7,{} teddybear in a construction outfit,11,86.79303741455078
+7,{} teddybear in a construction outfit,12,76.89910125732422
+7,{} teddybear in a construction outfit,13,72.05479431152344
+7,{} teddybear in a construction outfit,14,86.51004791259766
+7,{} teddybear in a construction outfit,15,85.24874114990234
+7,{} teddybear in a construction outfit,16,75.26127624511719
+7,{} teddybear in a construction outfit,17,74.72355651855469
+7,{} teddybear in a construction outfit,18,89.2839584350586
+7,{} teddybear in a construction outfit,19,86.28195190429688
+7,{} teddybear in a construction outfit,20,78.00703430175781
+7,{} teddybear in a construction outfit,21,72.69942474365234
+7,{} teddybear in a construction outfit,22,80.18326568603516
+7,{} teddybear in a construction outfit,23,75.17337799072266
+7,{} teddybear in a construction outfit,24,76.68787384033203
+7,{} teddybear in a construction outfit,25,76.67086791992188
+7,{} teddybear in a construction outfit,26,75.2177505493164
+7,{} teddybear in a construction outfit,27,72.86773681640625
+7,{} teddybear in a construction outfit,28,75.51924896240234
+7,{} teddybear in a construction outfit,29,71.45697784423828
+7,{} teddybear in a construction outfit,30,78.37968444824219
+7,{} teddybear in a construction outfit,31,73.42102813720703
+7,{} teddybear in a construction outfit,32,83.93412017822266
+7,{} teddybear in a construction outfit,33,76.83651733398438
+7,{} teddybear in a construction outfit,34,78.27896881103516
+7,{} teddybear in a construction outfit,35,72.65160369873047
+7,{} teddybear in a construction outfit,36,83.36353302001953
+7,{} teddybear in a construction outfit,37,75.96882629394531
+7,{} teddybear in a construction outfit,38,84.61770629882812
+7,{} teddybear in a construction outfit,39,72.7317886352539
+7,{} teddybear in a construction outfit,40,78.70732879638672
+7,{} teddybear in a construction outfit,41,89.0271987915039
+7,{} teddybear in a construction outfit,42,70.89624786376953
+7,{} teddybear in a construction outfit,43,76.71089172363281
+7,{} teddybear in a construction outfit,44,76.15888977050781
+7,{} teddybear in a construction outfit,45,76.2668685913086
+7,{} teddybear in a construction outfit,46,77.9952392578125
+7,{} teddybear in a construction outfit,47,82.64022827148438
+7,{} teddybear in a construction outfit,48,75.66908264160156
+7,{} teddybear in a construction outfit,49,86.91700744628906
+8,{} teddybear on top of a mountain,0,84.41388702392578
+8,{} teddybear on top of a mountain,1,86.55035400390625
+8,{} teddybear on top of a mountain,2,84.3594741821289
+8,{} teddybear on top of a mountain,3,85.37553405761719
+8,{} teddybear on top of a mountain,4,86.99382781982422
+8,{} teddybear on top of a mountain,5,86.20603942871094
+8,{} teddybear on top of a mountain,6,86.74939727783203
+8,{} teddybear on top of a mountain,7,85.96009826660156
+8,{} teddybear on top of a mountain,8,86.99559020996094
+8,{} teddybear on top of a mountain,9,88.70626068115234
+8,{} teddybear on top of a mountain,10,85.26361846923828
+8,{} teddybear on top of a mountain,11,84.92205810546875
+8,{} teddybear on top of a mountain,12,86.14295959472656
+8,{} teddybear on top of a mountain,13,82.95289611816406
+8,{} teddybear on top of a mountain,14,74.82766723632812
+8,{} teddybear on top of a mountain,15,82.7115707397461
+8,{} teddybear on top of a mountain,16,83.39954376220703
+8,{} teddybear on top of a mountain,17,85.92008209228516
+8,{} teddybear on top of a mountain,18,83.95977783203125
+8,{} teddybear on top of a mountain,19,85.83885192871094
+8,{} teddybear on top of a mountain,20,84.55599212646484
+8,{} teddybear on top of a mountain,21,87.94239807128906
+8,{} teddybear on top of a mountain,22,88.52021789550781
+8,{} teddybear on top of a mountain,23,85.76239013671875
+8,{} teddybear on top of a mountain,24,75.6791763305664
+8,{} teddybear on top of a mountain,25,84.13494873046875
+8,{} teddybear on top of a mountain,26,84.36213684082031
+8,{} teddybear on top of a mountain,27,85.25395202636719
+8,{} teddybear on top of a mountain,28,86.15249633789062
+8,{} teddybear on top of a mountain,29,81.4305419921875
+8,{} teddybear on top of a mountain,30,87.98384094238281
+8,{} teddybear on top of a mountain,31,86.02698516845703
+8,{} teddybear on top of a mountain,32,86.3736572265625
+8,{} teddybear on top of a mountain,33,74.88377380371094
+8,{} teddybear on top of a mountain,34,89.27139282226562
+8,{} teddybear on top of a mountain,35,87.98739624023438
+8,{} teddybear on top of a mountain,36,84.70630645751953
+8,{} teddybear on top of a mountain,37,87.36959838867188
+8,{} teddybear on top of a mountain,38,77.6452407836914
+8,{} teddybear on top of a mountain,39,86.9930419921875
+8,{} teddybear on top of a mountain,40,74.75154113769531
+8,{} teddybear on top of a mountain,41,82.85002899169922
+8,{} teddybear on top of a mountain,42,84.42700958251953
+8,{} teddybear on top of a mountain,43,82.06392669677734
+8,{} teddybear on top of a mountain,44,85.69841003417969
+8,{} teddybear on top of a mountain,45,84.18401336669922
+8,{} teddybear on top of a mountain,46,84.3268051147461
+8,{} teddybear on top of a mountain,47,86.7905502319336
+8,{} teddybear on top of a mountain,48,86.54713439941406
+8,{} teddybear on top of a mountain,49,85.16242218017578
+9,a koala in the style of {} teddybear,0,82.5898208618164
+9,a koala in the style of {} teddybear,1,85.39665985107422
+9,a koala in the style of {} teddybear,2,84.93568420410156
+9,a koala in the style of {} teddybear,3,84.43126678466797
+9,a koala in the style of {} teddybear,4,84.04536437988281
+9,a koala in the style of {} teddybear,5,83.54483795166016
+9,a koala in the style of {} teddybear,6,84.32193756103516
+9,a koala in the style of {} teddybear,7,83.68883514404297
+9,a koala in the style of {} teddybear,8,82.38883972167969
+9,a koala in the style of {} teddybear,9,87.44680786132812
+9,a koala in the style of {} teddybear,10,87.02778625488281
+9,a koala in the style of {} teddybear,11,86.97737121582031
+9,a koala in the style of {} teddybear,12,83.79759216308594
+9,a koala in the style of {} teddybear,13,86.34175109863281
+9,a koala in the style of {} teddybear,14,84.02694702148438
+9,a koala in the style of {} teddybear,15,84.58245849609375
+9,a koala in the style of {} teddybear,16,85.64656829833984
+9,a koala in the style of {} teddybear,17,86.70643615722656
+9,a koala in the style of {} teddybear,18,80.38225555419922
+9,a koala in the style of {} teddybear,19,81.20274353027344
+9,a koala in the style of {} teddybear,20,83.73468017578125
+9,a koala in the style of {} teddybear,21,84.31379699707031
+9,a koala in the style of {} teddybear,22,85.41224670410156
+9,a koala in the style of {} teddybear,23,80.8214340209961
+9,a koala in the style of {} teddybear,24,87.90782165527344
+9,a koala in the style of {} teddybear,25,81.64442443847656
+9,a koala in the style of {} teddybear,26,82.26213073730469
+9,a koala in the style of {} teddybear,27,88.04741668701172
+9,a koala in the style of {} teddybear,28,81.42678833007812
+9,a koala in the style of {} teddybear,29,85.13520050048828
+9,a koala in the style of {} teddybear,30,83.70304107666016
+9,a koala in the style of {} teddybear,31,87.77478790283203
+9,a koala in the style of {} teddybear,32,83.20096588134766
+9,a koala in the style of {} teddybear,33,84.13087463378906
+9,a koala in the style of {} teddybear,34,82.89729309082031
+9,a koala in the style of {} teddybear,35,80.42583465576172
+9,a koala in the style of {} teddybear,36,85.73218536376953
+9,a koala in the style of {} teddybear,37,80.45601654052734
+9,a koala in the style of {} teddybear,38,86.44577026367188
+9,a koala in the style of {} teddybear,39,78.51045227050781
+9,a koala in the style of {} teddybear,40,83.88809967041016
+9,a koala in the style of {} teddybear,41,82.44488525390625
+9,a koala in the style of {} teddybear,42,82.37954711914062
+9,a koala in the style of {} teddybear,43,83.97447967529297
+9,a koala in the style of {} teddybear,44,84.97209167480469
+9,a koala in the style of {} teddybear,45,80.61225891113281
+9,a koala in the style of {} teddybear,46,81.8928451538086
+9,a koala in the style of {} teddybear,47,85.00629425048828
+9,a koala in the style of {} teddybear,48,83.29865264892578
+9,a koala in the style of {} teddybear,49,85.24811553955078
+10,a backpack in the style of {} teddybear,0,80.20692443847656
+10,a backpack in the style of {} teddybear,1,80.64604187011719
+10,a backpack in the style of {} teddybear,2,80.55211639404297
+10,a backpack in the style of {} teddybear,3,83.4494857788086
+10,a backpack in the style of {} teddybear,4,82.53284454345703
+10,a backpack in the style of {} teddybear,5,84.0046615600586
+10,a backpack in the style of {} teddybear,6,82.21336364746094
+10,a backpack in the style of {} teddybear,7,61.88886260986328
+10,a backpack in the style of {} teddybear,8,79.04460144042969
+10,a backpack in the style of {} teddybear,9,83.52752685546875
+10,a backpack in the style of {} teddybear,10,87.76873016357422
+10,a backpack in the style of {} teddybear,11,82.57701110839844
+10,a backpack in the style of {} teddybear,12,81.18917083740234
+10,a backpack in the style of {} teddybear,13,83.79850006103516
+10,a backpack in the style of {} teddybear,14,61.52933883666992
+10,a backpack in the style of {} teddybear,15,83.93084716796875
+10,a backpack in the style of {} teddybear,16,84.37921905517578
+10,a backpack in the style of {} teddybear,17,74.07598876953125
+10,a backpack in the style of {} teddybear,18,82.70623016357422
+10,a backpack in the style of {} teddybear,19,86.74272155761719
+10,a backpack in the style of {} teddybear,20,74.34872436523438
+10,a backpack in the style of {} teddybear,21,80.72282409667969
+10,a backpack in the style of {} teddybear,22,74.56022644042969
+10,a backpack in the style of {} teddybear,23,84.04721069335938
+10,a backpack in the style of {} teddybear,24,82.20233917236328
+10,a backpack in the style of {} teddybear,25,65.10272979736328
+10,a backpack in the style of {} teddybear,26,89.24995422363281
+10,a backpack in the style of {} teddybear,27,81.72799682617188
+10,a backpack in the style of {} teddybear,28,84.77413177490234
+10,a backpack in the style of {} teddybear,29,88.743408203125
+10,a backpack in the style of {} teddybear,30,83.5685043334961
+10,a backpack in the style of {} teddybear,31,86.73454284667969
+10,a backpack in the style of {} teddybear,32,81.70551300048828
+10,a backpack in the style of {} teddybear,33,85.65681457519531
+10,a backpack in the style of {} teddybear,34,83.25395202636719
+10,a backpack in the style of {} teddybear,35,86.38528442382812
+10,a backpack in the style of {} teddybear,36,80.14899444580078
+10,a backpack in the style of {} teddybear,37,70.17121124267578
+10,a backpack in the style of {} teddybear,38,72.73463439941406
+10,a backpack in the style of {} teddybear,39,83.6750717163086
+10,a backpack in the style of {} teddybear,40,75.52047729492188
+10,a backpack in the style of {} teddybear,41,82.7042236328125
+10,a backpack in the style of {} teddybear,42,79.68070220947266
+10,a backpack in the style of {} teddybear,43,89.82971954345703
+10,a backpack in the style of {} teddybear,44,81.60201263427734
+10,a backpack in the style of {} teddybear,45,81.70237731933594
+10,a backpack in the style of {} teddybear,46,82.44380950927734
+10,a backpack in the style of {} teddybear,47,75.20240783691406
+10,a backpack in the style of {} teddybear,48,86.07695007324219
+10,a backpack in the style of {} teddybear,49,84.62239837646484
+11,{} teddybear made of crochet,0,80.41990661621094
+11,{} teddybear made of crochet,1,75.82217407226562
+11,{} teddybear made of crochet,2,83.18856811523438
+11,{} teddybear made of crochet,3,82.29985046386719
+11,{} teddybear made of crochet,4,79.06904602050781
+11,{} teddybear made of crochet,5,83.09429168701172
+11,{} teddybear made of crochet,6,83.70946502685547
+11,{} teddybear made of crochet,7,82.67766571044922
+11,{} teddybear made of crochet,8,82.49285125732422
+11,{} teddybear made of crochet,9,82.55350494384766
+11,{} teddybear made of crochet,10,80.48439025878906
+11,{} teddybear made of crochet,11,82.90390014648438
+11,{} teddybear made of crochet,12,86.03298950195312
+11,{} teddybear made of crochet,13,81.23749542236328
+11,{} teddybear made of crochet,14,75.16535186767578
+11,{} teddybear made of crochet,15,80.44252014160156
+11,{} teddybear made of crochet,16,83.67031860351562
+11,{} teddybear made of crochet,17,80.438720703125
+11,{} teddybear made of crochet,18,82.57442474365234
+11,{} teddybear made of crochet,19,81.04670715332031
+11,{} teddybear made of crochet,20,79.52324676513672
+11,{} teddybear made of crochet,21,84.45624542236328
+11,{} teddybear made of crochet,22,84.97113037109375
+11,{} teddybear made of crochet,23,81.1332778930664
+11,{} teddybear made of crochet,24,85.94832611083984
+11,{} teddybear made of crochet,25,86.51544189453125
+11,{} teddybear made of crochet,26,77.47022247314453
+11,{} teddybear made of crochet,27,79.33975982666016
+11,{} teddybear made of crochet,28,78.26830291748047
+11,{} teddybear made of crochet,29,76.25179290771484
+11,{} teddybear made of crochet,30,80.91925811767578
+11,{} teddybear made of crochet,31,83.06602478027344
+11,{} teddybear made of crochet,32,81.7188720703125
+11,{} teddybear made of crochet,33,78.2016372680664
+11,{} teddybear made of crochet,34,77.54124450683594
+11,{} teddybear made of crochet,35,83.83948516845703
+11,{} teddybear made of crochet,36,76.05670928955078
+11,{} teddybear made of crochet,37,79.86096954345703
+11,{} teddybear made of crochet,38,86.10725402832031
+11,{} teddybear made of crochet,39,76.01376342773438
+11,{} teddybear made of crochet,40,79.72039794921875
+11,{} teddybear made of crochet,41,79.69924926757812
+11,{} teddybear made of crochet,42,83.13045501708984
+11,{} teddybear made of crochet,43,81.27581024169922
+11,{} teddybear made of crochet,44,82.923828125
+11,{} teddybear made of crochet,45,85.10042572021484
+11,{} teddybear made of crochet,46,80.41302490234375
+11,{} teddybear made of crochet,47,75.703125
+11,{} teddybear made of crochet,48,82.62505340576172
+11,{} teddybear made of crochet,49,74.34835815429688
+12,a sweater in the style of {} teddybear,0,88.15725708007812
+12,a sweater in the style of {} teddybear,1,90.2647933959961
+12,a sweater in the style of {} teddybear,2,89.75908660888672
+12,a sweater in the style of {} teddybear,3,89.24079132080078
+12,a sweater in the style of {} teddybear,4,87.60279083251953
+12,a sweater in the style of {} teddybear,5,84.44476318359375
+12,a sweater in the style of {} teddybear,6,85.8948974609375
+12,a sweater in the style of {} teddybear,7,86.16799926757812
+12,a sweater in the style of {} teddybear,8,85.02780151367188
+12,a sweater in the style of {} teddybear,9,86.70275115966797
+12,a sweater in the style of {} teddybear,10,85.82672119140625
+12,a sweater in the style of {} teddybear,11,86.59642028808594
+12,a sweater in the style of {} teddybear,12,84.8751220703125
+12,a sweater in the style of {} teddybear,13,88.16329956054688
+12,a sweater in the style of {} teddybear,14,83.52313995361328
+12,a sweater in the style of {} teddybear,15,88.58812713623047
+12,a sweater in the style of {} teddybear,16,86.51091766357422
+12,a sweater in the style of {} teddybear,17,85.17375946044922
+12,a sweater in the style of {} teddybear,18,89.87657165527344
+12,a sweater in the style of {} teddybear,19,86.66456604003906
+12,a sweater in the style of {} teddybear,20,87.3459701538086
+12,a sweater in the style of {} teddybear,21,88.02875518798828
+12,a sweater in the style of {} teddybear,22,87.55013275146484
+12,a sweater in the style of {} teddybear,23,87.33077239990234
+12,a sweater in the style of {} teddybear,24,88.51746368408203
+12,a sweater in the style of {} teddybear,25,88.72422790527344
+12,a sweater in the style of {} teddybear,26,86.3514633178711
+12,a sweater in the style of {} teddybear,27,90.14591217041016
+12,a sweater in the style of {} teddybear,28,87.3572998046875
+12,a sweater in the style of {} teddybear,29,88.28766632080078
+12,a sweater in the style of {} teddybear,30,83.65234375
+12,a sweater in the style of {} teddybear,31,86.45960998535156
+12,a sweater in the style of {} teddybear,32,85.64224243164062
+12,a sweater in the style of {} teddybear,33,89.58930969238281
+12,a sweater in the style of {} teddybear,34,87.40682220458984
+12,a sweater in the style of {} teddybear,35,89.1757583618164
+12,a sweater in the style of {} teddybear,36,86.78663635253906
+12,a sweater in the style of {} teddybear,37,86.78462982177734
+12,a sweater in the style of {} teddybear,38,87.20540618896484
+12,a sweater in the style of {} teddybear,39,83.94749450683594
+12,a sweater in the style of {} teddybear,40,89.5014877319336
+12,a sweater in the style of {} teddybear,41,84.89252471923828
+12,a sweater in the style of {} teddybear,42,84.33271789550781
+12,a sweater in the style of {} teddybear,43,84.0037612915039
+12,a sweater in the style of {} teddybear,44,86.9323959350586
+12,a sweater in the style of {} teddybear,45,88.6755142211914
+12,a sweater in the style of {} teddybear,46,87.35502624511719
+12,a sweater in the style of {} teddybear,47,87.22013854980469
+12,a sweater in the style of {} teddybear,48,88.62787628173828
+12,a sweater in the style of {} teddybear,49,87.65464782714844
+13,a photo of a {} teddybear in Van Gogh style,0,86.08837127685547
+13,a photo of a {} teddybear in Van Gogh style,1,78.05340576171875
+13,a photo of a {} teddybear in Van Gogh style,2,85.96571350097656
+13,a photo of a {} teddybear in Van Gogh style,3,74.68962860107422
+13,a photo of a {} teddybear in Van Gogh style,4,88.34309387207031
+13,a photo of a {} teddybear in Van Gogh style,5,88.72032165527344
+13,a photo of a {} teddybear in Van Gogh style,6,86.81521606445312
+13,a photo of a {} teddybear in Van Gogh style,7,88.89496612548828
+13,a photo of a {} teddybear in Van Gogh style,8,88.19393920898438
+13,a photo of a {} teddybear in Van Gogh style,9,87.31671905517578
+13,a photo of a {} teddybear in Van Gogh style,10,88.6794662475586
+13,a photo of a {} teddybear in Van Gogh style,11,85.05810546875
+13,a photo of a {} teddybear in Van Gogh style,12,77.8682861328125
+13,a photo of a {} teddybear in Van Gogh style,13,86.3290786743164
+13,a photo of a {} teddybear in Van Gogh style,14,89.60844421386719
+13,a photo of a {} teddybear in Van Gogh style,15,85.51934051513672
+13,a photo of a {} teddybear in Van Gogh style,16,88.95597839355469
+13,a photo of a {} teddybear in Van Gogh style,17,90.5837631225586
+13,a photo of a {} teddybear in Van Gogh style,18,90.39261627197266
+13,a photo of a {} teddybear in Van Gogh style,19,90.04379272460938
+13,a photo of a {} teddybear in Van Gogh style,20,87.53733825683594
+13,a photo of a {} teddybear in Van Gogh style,21,88.0409927368164
+13,a photo of a {} teddybear in Van Gogh style,22,87.90728759765625
+13,a photo of a {} teddybear in Van Gogh style,23,88.28990173339844
+13,a photo of a {} teddybear in Van Gogh style,24,81.9031982421875
+13,a photo of a {} teddybear in Van Gogh style,25,88.01859283447266
+13,a photo of a {} teddybear in Van Gogh style,26,86.281982421875
+13,a photo of a {} teddybear in Van Gogh style,27,88.6199722290039
+13,a photo of a {} teddybear in Van Gogh style,28,86.31971740722656
+13,a photo of a {} teddybear in Van Gogh style,29,85.4217300415039
+13,a photo of a {} teddybear in Van Gogh style,30,75.92813873291016
+13,a photo of a {} teddybear in Van Gogh style,31,87.7709732055664
+13,a photo of a {} teddybear in Van Gogh style,32,75.7170181274414
+13,a photo of a {} teddybear in Van Gogh style,33,78.46520233154297
+13,a photo of a {} teddybear in Van Gogh style,34,82.16699981689453
+13,a photo of a {} teddybear in Van Gogh style,35,86.32072448730469
+13,a photo of a {} teddybear in Van Gogh style,36,84.91049194335938
+13,a photo of a {} teddybear in Van Gogh style,37,86.58114624023438
+13,a photo of a {} teddybear in Van Gogh style,38,87.23741912841797
+13,a photo of a {} teddybear in Van Gogh style,39,84.46678161621094
+13,a photo of a {} teddybear in Van Gogh style,40,87.96976470947266
+13,a photo of a {} teddybear in Van Gogh style,41,78.5845947265625
+13,a photo of a {} teddybear in Van Gogh style,42,81.4343032836914
+13,a photo of a {} teddybear in Van Gogh style,43,74.1705551147461
+13,a photo of a {} teddybear in Van Gogh style,44,77.4129867553711
+13,a photo of a {} teddybear in Van Gogh style,45,88.29419708251953
+13,a photo of a {} teddybear in Van Gogh style,46,88.0647201538086
+13,a photo of a {} teddybear in Van Gogh style,47,85.09502410888672
+13,a photo of a {} teddybear in Van Gogh style,48,86.8281478881836
+13,a photo of a {} teddybear in Van Gogh style,49,86.15879821777344

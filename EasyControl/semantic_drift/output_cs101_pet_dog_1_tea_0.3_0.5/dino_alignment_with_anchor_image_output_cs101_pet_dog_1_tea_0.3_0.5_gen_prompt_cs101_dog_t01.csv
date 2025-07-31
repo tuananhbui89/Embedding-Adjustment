@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} dog in grand canyon,0,0.3360963463783264
+0,{} dog in grand canyon,1,0.3285512924194336
+0,{} dog in grand canyon,2,0.27919310331344604
+0,{} dog in grand canyon,3,0.2784414291381836
+0,{} dog in grand canyon,4,0.34079495072364807
+0,{} dog in grand canyon,5,0.19573116302490234
+0,{} dog in grand canyon,6,0.38801777362823486
+0,{} dog in grand canyon,7,0.3771263360977173
+0,{} dog in grand canyon,8,0.32032299041748047
+0,{} dog in grand canyon,9,0.2858053147792816
+0,{} dog in grand canyon,10,0.2143247425556183
+0,{} dog in grand canyon,11,0.2216460406780243
+0,{} dog in grand canyon,12,0.2662998139858246
+0,{} dog in grand canyon,13,0.3491765260696411
+0,{} dog in grand canyon,14,0.2973906695842743
+0,{} dog in grand canyon,15,0.24976181983947754
+0,{} dog in grand canyon,16,0.2839467227458954
+0,{} dog in grand canyon,17,0.276276558637619
+0,{} dog in grand canyon,18,0.2613523602485657
+0,{} dog in grand canyon,19,0.18802452087402344
+0,{} dog in grand canyon,20,0.24844752252101898
+0,{} dog in grand canyon,21,0.23538541793823242
+0,{} dog in grand canyon,22,0.3182714879512787
+0,{} dog in grand canyon,23,0.3061419725418091
+0,{} dog in grand canyon,24,0.24952875077724457
+0,{} dog in grand canyon,25,0.28372955322265625
+0,{} dog in grand canyon,26,0.2703913450241089
+0,{} dog in grand canyon,27,0.2664431929588318
+0,{} dog in grand canyon,28,0.23907722532749176
+0,{} dog in grand canyon,29,0.3776034116744995
+0,{} dog in grand canyon,30,0.31540656089782715
+0,{} dog in grand canyon,31,0.31426456570625305
+0,{} dog in grand canyon,32,0.26823878288269043
+0,{} dog in grand canyon,33,0.17249739170074463
+0,{} dog in grand canyon,34,0.2145271599292755
+0,{} dog in grand canyon,35,0.32969674468040466
+0,{} dog in grand canyon,36,0.23083776235580444
+0,{} dog in grand canyon,37,0.21360492706298828
+0,{} dog in grand canyon,38,0.3074454963207245
+0,{} dog in grand canyon,39,0.2305971086025238
+0,{} dog in grand canyon,40,0.20941893756389618
+0,{} dog in grand canyon,41,0.25522276759147644
+0,{} dog in grand canyon,42,0.3197162449359894
+0,{} dog in grand canyon,43,0.21732676029205322
+0,{} dog in grand canyon,44,0.30255961418151855
+0,{} dog in grand canyon,45,0.24847765266895294
+0,{} dog in grand canyon,46,0.2892012298107147
+0,{} dog in grand canyon,47,0.2786047160625458
+0,{} dog in grand canyon,48,0.29067254066467285
+0,{} dog in grand canyon,49,0.3293055295944214
+1,{} dog sitting at the beach with a view of the sea,0,0.4718829393386841
+1,{} dog sitting at the beach with a view of the sea,1,0.46319448947906494
+1,{} dog sitting at the beach with a view of the sea,2,0.5435003042221069
+1,{} dog sitting at the beach with a view of the sea,3,0.46948373317718506
+1,{} dog sitting at the beach with a view of the sea,4,0.46239084005355835
+1,{} dog sitting at the beach with a view of the sea,5,0.5056068301200867
+1,{} dog sitting at the beach with a view of the sea,6,0.5297501087188721
+1,{} dog sitting at the beach with a view of the sea,7,0.5527793765068054
+1,{} dog sitting at the beach with a view of the sea,8,0.5541767477989197
+1,{} dog sitting at the beach with a view of the sea,9,0.5188150405883789
+1,{} dog sitting at the beach with a view of the sea,10,0.4958353638648987
+1,{} dog sitting at the beach with a view of the sea,11,0.5061482191085815
+1,{} dog sitting at the beach with a view of the sea,12,0.41521549224853516
+1,{} dog sitting at the beach with a view of the sea,13,0.5635420083999634
+1,{} dog sitting at the beach with a view of the sea,14,0.493541419506073
+1,{} dog sitting at the beach with a view of the sea,15,0.5272424221038818
+1,{} dog sitting at the beach with a view of the sea,16,0.5754743814468384
+1,{} dog sitting at the beach with a view of the sea,17,0.5554664134979248
+1,{} dog sitting at the beach with a view of the sea,18,0.5400157570838928
+1,{} dog sitting at the beach with a view of the sea,19,0.4266008138656616
+1,{} dog sitting at the beach with a view of the sea,20,0.499834805727005
+1,{} dog sitting at the beach with a view of the sea,21,0.510178804397583
+1,{} dog sitting at the beach with a view of the sea,22,0.5303347110748291
+1,{} dog sitting at the beach with a view of the sea,23,0.34879571199417114
+1,{} dog sitting at the beach with a view of the sea,24,0.5189924836158752
+1,{} dog sitting at the beach with a view of the sea,25,0.5336385369300842
+1,{} dog sitting at the beach with a view of the sea,26,0.5464739799499512
+1,{} dog sitting at the beach with a view of the sea,27,0.5382941961288452
+1,{} dog sitting at the beach with a view of the sea,28,0.48511189222335815
+1,{} dog sitting at the beach with a view of the sea,29,0.4791393280029297
+1,{} dog sitting at the beach with a view of the sea,30,0.4476981461048126
+1,{} dog sitting at the beach with a view of the sea,31,0.4825665056705475
+1,{} dog sitting at the beach with a view of the sea,32,0.4229139983654022
+1,{} dog sitting at the beach with a view of the sea,33,0.5457766652107239
+1,{} dog sitting at the beach with a view of the sea,34,0.5587343573570251
+1,{} dog sitting at the beach with a view of the sea,35,0.47475358843803406
+1,{} dog sitting at the beach with a view of the sea,36,0.41841840744018555
+1,{} dog sitting at the beach with a view of the sea,37,0.5331707000732422
+1,{} dog sitting at the beach with a view of the sea,38,0.4470478296279907
+1,{} dog sitting at the beach with a view of the sea,39,0.5155185461044312
+1,{} dog sitting at the beach with a view of the sea,40,0.5354489088058472
+1,{} dog sitting at the beach with a view of the sea,41,0.5912267565727234
+1,{} dog sitting at the beach with a view of the sea,42,0.461760938167572
+1,{} dog sitting at the beach with a view of the sea,43,0.5717853307723999
+1,{} dog sitting at the beach with a view of the sea,44,0.3786488175392151
+1,{} dog sitting at the beach with a view of the sea,45,0.4520995616912842
+1,{} dog sitting at the beach with a view of the sea,46,0.555762767791748
+1,{} dog sitting at the beach with a view of the sea,47,0.6370722055435181
+1,{} dog sitting at the beach with a view of the sea,48,0.41170090436935425
+1,{} dog sitting at the beach with a view of the sea,49,0.48808544874191284
+2,{} dog in times square,0,0.2662113308906555
+2,{} dog in times square,1,0.2971137762069702
+2,{} dog in times square,2,0.24655470252037048
+2,{} dog in times square,3,0.23766203224658966
+2,{} dog in times square,4,0.46496015787124634
+2,{} dog in times square,5,0.31300026178359985
+2,{} dog in times square,6,0.5305734276771545
+2,{} dog in times square,7,0.33148330450057983
+2,{} dog in times square,8,0.27066153287887573
+2,{} dog in times square,9,0.39622950553894043
+2,{} dog in times square,10,0.26134881377220154
+2,{} dog in times square,11,0.20629625022411346
+2,{} dog in times square,12,0.3363531529903412
+2,{} dog in times square,13,0.27346497774124146
+2,{} dog in times square,14,0.1773497760295868
+2,{} dog in times square,15,0.40304723381996155
+2,{} dog in times square,16,0.4221534729003906
+2,{} dog in times square,17,0.16390646994113922
+2,{} dog in times square,18,0.4560028314590454
+2,{} dog in times square,19,0.5051460266113281
+2,{} dog in times square,20,0.41253846883773804
+2,{} dog in times square,21,0.10909393429756165
+2,{} dog in times square,22,0.42076408863067627
+2,{} dog in times square,23,0.38210076093673706
+2,{} dog in times square,24,0.39388507604599
+2,{} dog in times square,25,0.20580343902111053
+2,{} dog in times square,26,0.10677184164524078
+2,{} dog in times square,27,0.32652807235717773
+2,{} dog in times square,28,0.36544957756996155
+2,{} dog in times square,29,0.47986388206481934
+2,{} dog in times square,30,0.4122002422809601
+2,{} dog in times square,31,0.30876386165618896
+2,{} dog in times square,32,0.31848835945129395
+2,{} dog in times square,33,0.41793179512023926
+2,{} dog in times square,34,0.3847047686576843
+2,{} dog in times square,35,0.41383159160614014
+2,{} dog in times square,36,0.27655029296875
+2,{} dog in times square,37,0.558355450630188
+2,{} dog in times square,38,0.4690304696559906
+2,{} dog in times square,39,0.43552547693252563
+2,{} dog in times square,40,0.5320748090744019
+2,{} dog in times square,41,0.18664729595184326
+2,{} dog in times square,42,0.18144385516643524
+2,{} dog in times square,43,0.417012482881546
+2,{} dog in times square,44,0.36498504877090454
+2,{} dog in times square,45,0.4536154270172119
+2,{} dog in times square,46,0.2632646858692169
+2,{} dog in times square,47,0.31500935554504395
+2,{} dog in times square,48,0.2358802706003189
+2,{} dog in times square,49,0.3649813234806061
+3,{} dog wearing sunglasses,0,0.6254621744155884
+3,{} dog wearing sunglasses,1,0.8010072112083435
+3,{} dog wearing sunglasses,2,0.6283354759216309
+3,{} dog wearing sunglasses,3,0.7842822074890137
+3,{} dog wearing sunglasses,4,0.6353899240493774
+3,{} dog wearing sunglasses,5,0.7005064487457275
+3,{} dog wearing sunglasses,6,0.741195559501648
+3,{} dog wearing sunglasses,7,0.542251467704773
+3,{} dog wearing sunglasses,8,0.7979072332382202
+3,{} dog wearing sunglasses,9,0.7094483375549316
+3,{} dog wearing sunglasses,10,0.5986890196800232
+3,{} dog wearing sunglasses,11,0.694606602191925
+3,{} dog wearing sunglasses,12,0.5235227942466736
+3,{} dog wearing sunglasses,13,0.49812591075897217
+3,{} dog wearing sunglasses,14,0.6640822887420654
+3,{} dog wearing sunglasses,15,0.5983721613883972
+3,{} dog wearing sunglasses,16,0.6965820789337158
+3,{} dog wearing sunglasses,17,0.6180165410041809
+3,{} dog wearing sunglasses,18,0.7738292813301086
+3,{} dog wearing sunglasses,19,0.5505143404006958
+3,{} dog wearing sunglasses,20,0.5819432139396667
+3,{} dog wearing sunglasses,21,0.554058313369751
+3,{} dog wearing sunglasses,22,0.6031452417373657
+3,{} dog wearing sunglasses,23,0.5906345248222351
+3,{} dog wearing sunglasses,24,0.6294029951095581
+3,{} dog wearing sunglasses,25,0.7046898603439331
+3,{} dog wearing sunglasses,26,0.5129239559173584
+3,{} dog wearing sunglasses,27,0.6177524328231812
+3,{} dog wearing sunglasses,28,0.6510320901870728
+3,{} dog wearing sunglasses,29,0.6755353212356567
+3,{} dog wearing sunglasses,30,0.6420160531997681
+3,{} dog wearing sunglasses,31,0.5573897957801819
+3,{} dog wearing sunglasses,32,0.6041825413703918
+3,{} dog wearing sunglasses,33,0.687049388885498
+3,{} dog wearing sunglasses,34,0.6693105697631836
+3,{} dog wearing sunglasses,35,0.5601226091384888
+3,{} dog wearing sunglasses,36,0.8099702596664429
+3,{} dog wearing sunglasses,37,0.5745154023170471
+3,{} dog wearing sunglasses,38,0.5844076871871948
+3,{} dog wearing sunglasses,39,0.6190040707588196
+3,{} dog wearing sunglasses,40,0.5606886148452759
+3,{} dog wearing sunglasses,41,0.5388221740722656
+3,{} dog wearing sunglasses,42,0.6524883508682251
+3,{} dog wearing sunglasses,43,0.7973182201385498
+3,{} dog wearing sunglasses,44,0.7874271273612976
+3,{} dog wearing sunglasses,45,0.6045511364936829
+3,{} dog wearing sunglasses,46,0.7609474062919617
+3,{} dog wearing sunglasses,47,0.5599921345710754
+3,{} dog wearing sunglasses,48,0.5859547853469849
+3,{} dog wearing sunglasses,49,0.7996677756309509
+4,{} dog working on the laptop,0,0.6983852386474609
+4,{} dog working on the laptop,1,0.7029316425323486
+4,{} dog working on the laptop,2,0.7104520797729492
+4,{} dog working on the laptop,3,0.7319958209991455
+4,{} dog working on the laptop,4,0.6806308031082153
+4,{} dog working on the laptop,5,0.7026005983352661
+4,{} dog working on the laptop,6,0.6280651092529297
+4,{} dog working on the laptop,7,0.6300116777420044
+4,{} dog working on the laptop,8,0.6950142979621887
+4,{} dog working on the laptop,9,0.6566723585128784
+4,{} dog working on the laptop,10,0.7217289209365845
+4,{} dog working on the laptop,11,0.7685979008674622
+4,{} dog working on the laptop,12,0.7515299916267395
+4,{} dog working on the laptop,13,0.6553047895431519
+4,{} dog working on the laptop,14,0.6650831699371338
+4,{} dog working on the laptop,15,0.7103041410446167
+4,{} dog working on the laptop,16,0.6775169968605042
+4,{} dog working on the laptop,17,0.7228713631629944
+4,{} dog working on the laptop,18,0.6719536781311035
+4,{} dog working on the laptop,19,0.705356240272522
+4,{} dog working on the laptop,20,0.7109459638595581
+4,{} dog working on the laptop,21,0.6453044414520264
+4,{} dog working on the laptop,22,0.659318208694458
+4,{} dog working on the laptop,23,0.5787205100059509
+4,{} dog working on the laptop,24,0.7532744407653809
+4,{} dog working on the laptop,25,0.46967223286628723
+4,{} dog working on the laptop,26,0.7800277471542358
+4,{} dog working on the laptop,27,0.6817654371261597
+4,{} dog working on the laptop,28,0.7324521541595459
+4,{} dog working on the laptop,29,0.7153269648551941
+4,{} dog working on the laptop,30,0.7236287593841553
+4,{} dog working on the laptop,31,0.7193762063980103
+4,{} dog working on the laptop,32,0.5859972238540649
+4,{} dog working on the laptop,33,0.7869834303855896
+4,{} dog working on the laptop,34,0.7327611446380615
+4,{} dog working on the laptop,35,0.7132514119148254
+4,{} dog working on the laptop,36,0.7546049356460571
+4,{} dog working on the laptop,37,0.5503418445587158
+4,{} dog working on the laptop,38,0.7056408524513245
+4,{} dog working on the laptop,39,0.5768828988075256
+4,{} dog working on the laptop,40,0.6932787895202637
+4,{} dog working on the laptop,41,0.7286347150802612
+4,{} dog working on the laptop,42,0.7053861618041992
+4,{} dog working on the laptop,43,0.7814964652061462
+4,{} dog working on the laptop,44,0.6746940612792969
+4,{} dog working on the laptop,45,0.7187834978103638
+4,{} dog working on the laptop,46,0.6099493503570557
+4,{} dog working on the laptop,47,0.5546647906303406
+4,{} dog working on the laptop,48,0.585524320602417
+4,{} dog working on the laptop,49,0.676828145980835
+5,{} dog on a boat in the sea,0,0.6314778923988342
+5,{} dog on a boat in the sea,1,0.5079851746559143
+5,{} dog on a boat in the sea,2,0.5290982723236084
+5,{} dog on a boat in the sea,3,0.5846052765846252
+5,{} dog on a boat in the sea,4,0.4986642599105835
+5,{} dog on a boat in the sea,5,0.5795267820358276
+5,{} dog on a boat in the sea,6,0.5599682927131653
+5,{} dog on a boat in the sea,7,0.5019353628158569
+5,{} dog on a boat in the sea,8,0.5279114246368408
+5,{} dog on a boat in the sea,9,0.46938812732696533
+5,{} dog on a boat in the sea,10,0.5490518808364868
+5,{} dog on a boat in the sea,11,0.5356506705284119
+5,{} dog on a boat in the sea,12,0.5604302883148193
+5,{} dog on a boat in the sea,13,0.47972479462623596
+5,{} dog on a boat in the sea,14,0.5816320776939392
+5,{} dog on a boat in the sea,15,0.4531024396419525
+5,{} dog on a boat in the sea,16,0.48063385486602783
+5,{} dog on a boat in the sea,17,0.49846166372299194
+5,{} dog on a boat in the sea,18,0.5628166794776917
+5,{} dog on a boat in the sea,19,0.37888652086257935
+5,{} dog on a boat in the sea,20,0.5068405866622925
+5,{} dog on a boat in the sea,21,0.5698692798614502
+5,{} dog on a boat in the sea,22,0.49087026715278625
+5,{} dog on a boat in the sea,23,0.4723256528377533
+5,{} dog on a boat in the sea,24,0.5340660810470581
+5,{} dog on a boat in the sea,25,0.6095291376113892
+5,{} dog on a boat in the sea,26,0.6427379846572876
+5,{} dog on a boat in the sea,27,0.5073608160018921
+5,{} dog on a boat in the sea,28,0.5679335594177246
+5,{} dog on a boat in the sea,29,0.47124603390693665
+5,{} dog on a boat in the sea,30,0.573451817035675
+5,{} dog on a boat in the sea,31,0.4993726313114166
+5,{} dog on a boat in the sea,32,0.48755067586898804
+5,{} dog on a boat in the sea,33,0.4897415339946747
+5,{} dog on a boat in the sea,34,0.5790842771530151
+5,{} dog on a boat in the sea,35,0.4987334609031677
+5,{} dog on a boat in the sea,36,0.5722209215164185
+5,{} dog on a boat in the sea,37,0.5780477523803711
+5,{} dog on a boat in the sea,38,0.531508207321167
+5,{} dog on a boat in the sea,39,0.5346318483352661
+5,{} dog on a boat in the sea,40,0.5048232078552246
+5,{} dog on a boat in the sea,41,0.4768781065940857
+5,{} dog on a boat in the sea,42,0.4969654083251953
+5,{} dog on a boat in the sea,43,0.509211003780365
+5,{} dog on a boat in the sea,44,0.500636875629425
+5,{} dog on a boat in the sea,45,0.47254568338394165
+5,{} dog on a boat in the sea,46,0.4820971190929413
+5,{} dog on a boat in the sea,47,0.5094767212867737
+5,{} dog on a boat in the sea,48,0.5249550342559814
+5,{} dog on a boat in the sea,49,0.5824309587478638
+6,{} dog wearing headphones,0,0.7508752346038818
+6,{} dog wearing headphones,1,0.6521406173706055
+6,{} dog wearing headphones,2,0.7700451612472534
+6,{} dog wearing headphones,3,0.6760945916175842
+6,{} dog wearing headphones,4,0.7555084824562073
+6,{} dog wearing headphones,5,0.6755704283714294
+6,{} dog wearing headphones,6,0.5787725448608398
+6,{} dog wearing headphones,7,0.6698811054229736
+6,{} dog wearing headphones,8,0.7031127214431763
+6,{} dog wearing headphones,9,0.7581133842468262
+6,{} dog wearing headphones,10,0.6008009314537048
+6,{} dog wearing headphones,11,0.5964193344116211
+6,{} dog wearing headphones,12,0.7599114775657654
+6,{} dog wearing headphones,13,0.5872315168380737
+6,{} dog wearing headphones,14,0.7446301579475403
+6,{} dog wearing headphones,15,0.7391719222068787
+6,{} dog wearing headphones,16,0.804478645324707
+6,{} dog wearing headphones,17,0.6325148344039917
+6,{} dog wearing headphones,18,0.7782943844795227
+6,{} dog wearing headphones,19,0.7839533090591431
+6,{} dog wearing headphones,20,0.5764141082763672
+6,{} dog wearing headphones,21,0.6853994131088257
+6,{} dog wearing headphones,22,0.7797831892967224
+6,{} dog wearing headphones,23,0.7731650471687317
+6,{} dog wearing headphones,24,0.6218387484550476
+6,{} dog wearing headphones,25,0.7575700879096985
+6,{} dog wearing headphones,26,0.7252718210220337
+6,{} dog wearing headphones,27,0.5877480506896973
+6,{} dog wearing headphones,28,0.6183978319168091
+6,{} dog wearing headphones,29,0.7029429078102112
+6,{} dog wearing headphones,30,0.6799620985984802
+6,{} dog wearing headphones,31,0.550597608089447
+6,{} dog wearing headphones,32,0.7579762935638428
+6,{} dog wearing headphones,33,0.6462973356246948
+6,{} dog wearing headphones,34,0.6771912574768066
+6,{} dog wearing headphones,35,0.7637503147125244
+6,{} dog wearing headphones,36,0.758846640586853
+6,{} dog wearing headphones,37,0.783660888671875
+6,{} dog wearing headphones,38,0.7025368213653564
+6,{} dog wearing headphones,39,0.7201012969017029
+6,{} dog wearing headphones,40,0.5339112877845764
+6,{} dog wearing headphones,41,0.623245894908905
+6,{} dog wearing headphones,42,0.6132559776306152
+6,{} dog wearing headphones,43,0.6127722859382629
+6,{} dog wearing headphones,44,0.728114664554596
+6,{} dog wearing headphones,45,0.6780463457107544
+6,{} dog wearing headphones,46,0.7179847955703735
+6,{} dog wearing headphones,47,0.7713162899017334
+6,{} dog wearing headphones,48,0.7992937564849854
+6,{} dog wearing headphones,49,0.8034474849700928
+7,{} dog in a construction outfit,0,0.595553994178772
+7,{} dog in a construction outfit,1,0.6554991602897644
+7,{} dog in a construction outfit,2,0.557931661605835
+7,{} dog in a construction outfit,3,0.47358137369155884
+7,{} dog in a construction outfit,4,0.5552517175674438
+7,{} dog in a construction outfit,5,0.5462650060653687
+7,{} dog in a construction outfit,6,0.7439495325088501
+7,{} dog in a construction outfit,7,0.47873184084892273
+7,{} dog in a construction outfit,8,0.5868256092071533
+7,{} dog in a construction outfit,9,0.6068438291549683
+7,{} dog in a construction outfit,10,0.5553399324417114
+7,{} dog in a construction outfit,11,0.7737056016921997
+7,{} dog in a construction outfit,12,0.5478743314743042
+7,{} dog in a construction outfit,13,0.6066995859146118
+7,{} dog in a construction outfit,14,0.5744732618331909
+7,{} dog in a construction outfit,15,0.610304594039917
+7,{} dog in a construction outfit,16,0.7035092115402222
+7,{} dog in a construction outfit,17,0.5514934062957764
+7,{} dog in a construction outfit,18,0.6226354241371155
+7,{} dog in a construction outfit,19,0.5891958475112915
+7,{} dog in a construction outfit,20,0.46392822265625
+7,{} dog in a construction outfit,21,0.5443384051322937
+7,{} dog in a construction outfit,22,0.5756343603134155
+7,{} dog in a construction outfit,23,0.5637611150741577
+7,{} dog in a construction outfit,24,0.502570390701294
+7,{} dog in a construction outfit,25,0.5916070938110352
+7,{} dog in a construction outfit,26,0.5776034593582153
+7,{} dog in a construction outfit,27,0.6560796499252319
+7,{} dog in a construction outfit,28,0.6833238005638123
+7,{} dog in a construction outfit,29,0.6725803017616272
+7,{} dog in a construction outfit,30,0.5477588772773743
+7,{} dog in a construction outfit,31,0.5695163011550903
+7,{} dog in a construction outfit,32,0.5754913091659546
+7,{} dog in a construction outfit,33,0.47274285554885864
+7,{} dog in a construction outfit,34,0.568143367767334
+7,{} dog in a construction outfit,35,0.5163301825523376
+7,{} dog in a construction outfit,36,0.5791698694229126
+7,{} dog in a construction outfit,37,0.5253279805183411
+7,{} dog in a construction outfit,38,0.5694745779037476
+7,{} dog in a construction outfit,39,0.6537252068519592
+7,{} dog in a construction outfit,40,0.5851969718933105
+7,{} dog in a construction outfit,41,0.5973727703094482
+7,{} dog in a construction outfit,42,0.503180980682373
+7,{} dog in a construction outfit,43,0.781865656375885
+7,{} dog in a construction outfit,44,0.7681361436843872
+7,{} dog in a construction outfit,45,0.6661006212234497
+7,{} dog in a construction outfit,46,0.4573483467102051
+7,{} dog in a construction outfit,47,0.7684353590011597
+7,{} dog in a construction outfit,48,0.717634916305542
+7,{} dog in a construction outfit,49,0.45160505175590515
+8,{} dog on top of a mountain,0,0.39005863666534424
+8,{} dog on top of a mountain,1,0.32456570863723755
+8,{} dog on top of a mountain,2,0.342243492603302
+8,{} dog on top of a mountain,3,0.30868056416511536
+8,{} dog on top of a mountain,4,0.3325608968734741
+8,{} dog on top of a mountain,5,0.4135088324546814
+8,{} dog on top of a mountain,6,0.3188307285308838
+8,{} dog on top of a mountain,7,0.39912149310112
+8,{} dog on top of a mountain,8,0.29478132724761963
+8,{} dog on top of a mountain,9,0.30213576555252075
+8,{} dog on top of a mountain,10,0.2952778935432434
+8,{} dog on top of a mountain,11,0.29567766189575195
+8,{} dog on top of a mountain,12,0.3838300406932831
+8,{} dog on top of a mountain,13,0.33865806460380554
+8,{} dog on top of a mountain,14,0.3624533712863922
+8,{} dog on top of a mountain,15,0.3792375326156616
+8,{} dog on top of a mountain,16,0.3662366569042206
+8,{} dog on top of a mountain,17,0.3613538444042206
+8,{} dog on top of a mountain,18,0.30029988288879395
+8,{} dog on top of a mountain,19,0.25768935680389404
+8,{} dog on top of a mountain,20,0.3914949893951416
+8,{} dog on top of a mountain,21,0.46021768450737
+8,{} dog on top of a mountain,22,0.3600771427154541
+8,{} dog on top of a mountain,23,0.3042096495628357
+8,{} dog on top of a mountain,24,0.37279948592185974
+8,{} dog on top of a mountain,25,0.31699687242507935
+8,{} dog on top of a mountain,26,0.3336443305015564
+8,{} dog on top of a mountain,27,0.41578999161720276
+8,{} dog on top of a mountain,28,0.2687840461730957
+8,{} dog on top of a mountain,29,0.2934184670448303
+8,{} dog on top of a mountain,30,0.3690685033798218
+8,{} dog on top of a mountain,31,0.3062790334224701
+8,{} dog on top of a mountain,32,0.37071913480758667
+8,{} dog on top of a mountain,33,0.3486669957637787
+8,{} dog on top of a mountain,34,0.4775933027267456
+8,{} dog on top of a mountain,35,0.3378458619117737
+8,{} dog on top of a mountain,36,0.34046173095703125
+8,{} dog on top of a mountain,37,0.3442639708518982
+8,{} dog on top of a mountain,38,0.45029395818710327
+8,{} dog on top of a mountain,39,0.26485008001327515
+8,{} dog on top of a mountain,40,0.34136486053466797
+8,{} dog on top of a mountain,41,0.4348483681678772
+8,{} dog on top of a mountain,42,0.33209237456321716
+8,{} dog on top of a mountain,43,0.4962071180343628
+8,{} dog on top of a mountain,44,0.3908892273902893
+8,{} dog on top of a mountain,45,0.312603235244751
+8,{} dog on top of a mountain,46,0.44756272435188293
+8,{} dog on top of a mountain,47,0.34936797618865967
+8,{} dog on top of a mountain,48,0.4156997799873352
+8,{} dog on top of a mountain,49,0.39720606803894043
+9,a koala in the style of {} dog,0,0.5097224712371826
+9,a koala in the style of {} dog,1,0.5492291450500488
+9,a koala in the style of {} dog,2,0.2830330729484558
+9,a koala in the style of {} dog,3,0.4967934489250183
+9,a koala in the style of {} dog,4,0.4064995050430298
+9,a koala in the style of {} dog,5,0.43109357357025146
+9,a koala in the style of {} dog,6,0.4705522656440735
+9,a koala in the style of {} dog,7,0.5348894000053406
+9,a koala in the style of {} dog,8,0.5628888010978699
+9,a koala in the style of {} dog,9,0.5004580020904541
+9,a koala in the style of {} dog,10,0.5230525732040405
+9,a koala in the style of {} dog,11,0.3904895782470703
+9,a koala in the style of {} dog,12,0.39714515209198
+9,a koala in the style of {} dog,13,0.40544795989990234
+9,a koala in the style of {} dog,14,0.46243223547935486
+9,a koala in the style of {} dog,15,0.5699794292449951
+9,a koala in the style of {} dog,16,0.35562148690223694
+9,a koala in the style of {} dog,17,0.6565428972244263
+9,a koala in the style of {} dog,18,0.4837724268436432
+9,a koala in the style of {} dog,19,0.35285133123397827
+9,a koala in the style of {} dog,20,0.598834216594696
+9,a koala in the style of {} dog,21,0.4612981677055359
+9,a koala in the style of {} dog,22,0.45090270042419434
+9,a koala in the style of {} dog,23,0.6357169151306152
+9,a koala in the style of {} dog,24,0.4315544366836548
+9,a koala in the style of {} dog,25,0.5001899003982544
+9,a koala in the style of {} dog,26,0.5386636257171631
+9,a koala in the style of {} dog,27,0.4774148464202881
+9,a koala in the style of {} dog,28,0.5065621137619019
+9,a koala in the style of {} dog,29,0.47763487696647644
+9,a koala in the style of {} dog,30,0.5824904441833496
+9,a koala in the style of {} dog,31,0.38153278827667236
+9,a koala in the style of {} dog,32,0.4058639407157898
+9,a koala in the style of {} dog,33,0.5106726884841919
+9,a koala in the style of {} dog,34,0.44625014066696167
+9,a koala in the style of {} dog,35,0.5917750597000122
+9,a koala in the style of {} dog,36,0.5690430998802185
+9,a koala in the style of {} dog,37,0.45196035504341125
+9,a koala in the style of {} dog,38,0.4233371317386627
+9,a koala in the style of {} dog,39,0.3986114263534546
+9,a koala in the style of {} dog,40,0.3531138300895691
+9,a koala in the style of {} dog,41,0.48900821805000305
+9,a koala in the style of {} dog,42,0.42667752504348755
+9,a koala in the style of {} dog,43,0.5300931930541992
+9,a koala in the style of {} dog,44,0.38573864102363586
+9,a koala in the style of {} dog,45,0.42946216464042664
+9,a koala in the style of {} dog,46,0.3580830693244934
+9,a koala in the style of {} dog,47,0.393068790435791
+9,a koala in the style of {} dog,48,0.5898139476776123
+9,a koala in the style of {} dog,49,0.4489837884902954
+10,a backpack in the style of {} dog,0,0.7227903604507446
+10,a backpack in the style of {} dog,1,0.29082030057907104
+10,a backpack in the style of {} dog,2,0.1253575086593628
+10,a backpack in the style of {} dog,3,0.2395182102918625
+10,a backpack in the style of {} dog,4,0.14253026247024536
+10,a backpack in the style of {} dog,5,0.19336630403995514
+10,a backpack in the style of {} dog,6,0.409237802028656
+10,a backpack in the style of {} dog,7,0.49125993251800537
+10,a backpack in the style of {} dog,8,0.11554507166147232
+10,a backpack in the style of {} dog,9,0.13836440443992615
+10,a backpack in the style of {} dog,10,0.5342397689819336
+10,a backpack in the style of {} dog,11,0.1433177888393402
+10,a backpack in the style of {} dog,12,0.20340460538864136
+10,a backpack in the style of {} dog,13,0.7202108502388
+10,a backpack in the style of {} dog,14,0.6758913993835449
+10,a backpack in the style of {} dog,15,0.6910085678100586
+10,a backpack in the style of {} dog,16,0.19456230103969574
+10,a backpack in the style of {} dog,17,0.1503162384033203
+10,a backpack in the style of {} dog,18,0.13614389300346375
+10,a backpack in the style of {} dog,19,0.16762495040893555
+10,a backpack in the style of {} dog,20,0.18337838351726532
+10,a backpack in the style of {} dog,21,0.12523110210895538
+10,a backpack in the style of {} dog,22,0.2037651240825653
+10,a backpack in the style of {} dog,23,0.18075567483901978
+10,a backpack in the style of {} dog,24,0.19511857628822327
+10,a backpack in the style of {} dog,25,0.11067594587802887
+10,a backpack in the style of {} dog,26,0.11984473466873169
+10,a backpack in the style of {} dog,27,0.7573750615119934
+10,a backpack in the style of {} dog,28,0.2183154970407486
+10,a backpack in the style of {} dog,29,0.14994189143180847
+10,a backpack in the style of {} dog,30,0.14224934577941895
+10,a backpack in the style of {} dog,31,0.36736607551574707
+10,a backpack in the style of {} dog,32,0.24191050231456757
+10,a backpack in the style of {} dog,33,0.7203940153121948
+10,a backpack in the style of {} dog,34,0.20655374228954315
+10,a backpack in the style of {} dog,35,0.46760421991348267
+10,a backpack in the style of {} dog,36,0.14135994017124176
+10,a backpack in the style of {} dog,37,0.15888097882270813
+10,a backpack in the style of {} dog,38,0.15626060962677002
+10,a backpack in the style of {} dog,39,0.1507127285003662
+10,a backpack in the style of {} dog,40,0.2516835629940033
+10,a backpack in the style of {} dog,41,0.15781566500663757
+10,a backpack in the style of {} dog,42,0.210661843419075
+10,a backpack in the style of {} dog,43,0.5935237407684326
+10,a backpack in the style of {} dog,44,0.17700940370559692
+10,a backpack in the style of {} dog,45,0.18059197068214417
+10,a backpack in the style of {} dog,46,0.7095233201980591
+10,a backpack in the style of {} dog,47,0.12683606147766113
+10,a backpack in the style of {} dog,48,0.23189865052700043
+10,a backpack in the style of {} dog,49,0.1253216564655304
+11,{} dog made of crochet,0,0.28220269083976746
+11,{} dog made of crochet,1,0.37662383913993835
+11,{} dog made of crochet,2,0.46018844842910767
+11,{} dog made of crochet,3,0.26371315121650696
+11,{} dog made of crochet,4,0.3405173420906067
+11,{} dog made of crochet,5,0.30320268869400024
+11,{} dog made of crochet,6,0.2312926948070526
+11,{} dog made of crochet,7,0.4288085699081421
+11,{} dog made of crochet,8,0.30753573775291443
+11,{} dog made of crochet,9,0.23618711531162262
+11,{} dog made of crochet,10,0.48629847168922424
+11,{} dog made of crochet,11,0.2775611877441406
+11,{} dog made of crochet,12,0.24439737200737
+11,{} dog made of crochet,13,0.506252110004425
+11,{} dog made of crochet,14,0.29150912165641785
+11,{} dog made of crochet,15,0.531066358089447
+11,{} dog made of crochet,16,0.57966148853302
+11,{} dog made of crochet,17,0.2765358090400696
+11,{} dog made of crochet,18,0.3202276825904846
+11,{} dog made of crochet,19,0.3473774194717407
+11,{} dog made of crochet,20,0.44695237278938293
+11,{} dog made of crochet,21,0.31903114914894104
+11,{} dog made of crochet,22,0.3257044553756714
+11,{} dog made of crochet,23,0.3136138916015625
+11,{} dog made of crochet,24,0.4322121739387512
+11,{} dog made of crochet,25,0.3697718679904938
+11,{} dog made of crochet,26,0.2942544221878052
+11,{} dog made of crochet,27,0.35317397117614746
+11,{} dog made of crochet,28,0.39526867866516113
+11,{} dog made of crochet,29,0.42123883962631226
+11,{} dog made of crochet,30,0.46588024497032166
+11,{} dog made of crochet,31,0.3479713499546051
+11,{} dog made of crochet,32,0.478148877620697
+11,{} dog made of crochet,33,0.5554814338684082
+11,{} dog made of crochet,34,0.3714478015899658
+11,{} dog made of crochet,35,0.4777975082397461
+11,{} dog made of crochet,36,0.3135836720466614
+11,{} dog made of crochet,37,0.43427184224128723
+11,{} dog made of crochet,38,0.4599103331565857
+11,{} dog made of crochet,39,0.372086763381958
+11,{} dog made of crochet,40,0.3468690514564514
+11,{} dog made of crochet,41,0.31553444266319275
+11,{} dog made of crochet,42,0.48787635564804077
+11,{} dog made of crochet,43,0.28899940848350525
+11,{} dog made of crochet,44,0.43184894323349
+11,{} dog made of crochet,45,0.574470043182373
+11,{} dog made of crochet,46,0.32083314657211304
+11,{} dog made of crochet,47,0.43750014901161194
+11,{} dog made of crochet,48,0.5320404171943665
+11,{} dog made of crochet,49,0.4424257278442383
+12,a sweater in the style of {} dog,0,0.7502043843269348
+12,a sweater in the style of {} dog,1,0.7072694301605225
+12,a sweater in the style of {} dog,2,0.16539743542671204
+12,a sweater in the style of {} dog,3,0.22893519699573517
+12,a sweater in the style of {} dog,4,0.7363453507423401
+12,a sweater in the style of {} dog,5,0.6599786281585693
+12,a sweater in the style of {} dog,6,0.5747711062431335
+12,a sweater in the style of {} dog,7,0.5268073678016663
+12,a sweater in the style of {} dog,8,0.6615899205207825
+12,a sweater in the style of {} dog,9,0.19149234890937805
+12,a sweater in the style of {} dog,10,0.7256824970245361
+12,a sweater in the style of {} dog,11,0.5685983896255493
+12,a sweater in the style of {} dog,12,0.23882989585399628
+12,a sweater in the style of {} dog,13,0.7758045196533203
+12,a sweater in the style of {} dog,14,0.17628763616085052
+12,a sweater in the style of {} dog,15,0.2445702999830246
+12,a sweater in the style of {} dog,16,0.7177373170852661
+12,a sweater in the style of {} dog,17,0.7526026368141174
+12,a sweater in the style of {} dog,18,0.7587311267852783
+12,a sweater in the style of {} dog,19,0.20002426207065582
+12,a sweater in the style of {} dog,20,0.7083132266998291
+12,a sweater in the style of {} dog,21,0.2068820744752884
+12,a sweater in the style of {} dog,22,0.6612955331802368
+12,a sweater in the style of {} dog,23,0.6922535300254822
+12,a sweater in the style of {} dog,24,0.4868037700653076
+12,a sweater in the style of {} dog,25,0.7354403734207153
+12,a sweater in the style of {} dog,26,0.18344256281852722
+12,a sweater in the style of {} dog,27,0.7753244638442993
+12,a sweater in the style of {} dog,28,0.18271762132644653
+12,a sweater in the style of {} dog,29,0.2518698275089264
+12,a sweater in the style of {} dog,30,0.6562331914901733
+12,a sweater in the style of {} dog,31,0.6526784896850586
+12,a sweater in the style of {} dog,32,0.7259201407432556
+12,a sweater in the style of {} dog,33,0.545395016670227
+12,a sweater in the style of {} dog,34,0.7344774007797241
+12,a sweater in the style of {} dog,35,0.20040753483772278
+12,a sweater in the style of {} dog,36,0.44944292306900024
+12,a sweater in the style of {} dog,37,0.5335368514060974
+12,a sweater in the style of {} dog,38,0.6445936560630798
+12,a sweater in the style of {} dog,39,0.7025234699249268
+12,a sweater in the style of {} dog,40,0.7421396374702454
+12,a sweater in the style of {} dog,41,0.7250746488571167
+12,a sweater in the style of {} dog,42,0.2537459135055542
+12,a sweater in the style of {} dog,43,0.5162703990936279
+12,a sweater in the style of {} dog,44,0.5490731000900269
+12,a sweater in the style of {} dog,45,0.5643568634986877
+12,a sweater in the style of {} dog,46,0.6998255252838135
+12,a sweater in the style of {} dog,47,0.595401406288147
+12,a sweater in the style of {} dog,48,0.6596033573150635
+12,a sweater in the style of {} dog,49,0.5804883241653442
+13,a photo of a {} dog in Van Gogh style,0,0.5515366792678833
+13,a photo of a {} dog in Van Gogh style,1,0.456357479095459
+13,a photo of a {} dog in Van Gogh style,2,0.49919772148132324
+13,a photo of a {} dog in Van Gogh style,3,0.48001933097839355
+13,a photo of a {} dog in Van Gogh style,4,0.4233405590057373
+13,a photo of a {} dog in Van Gogh style,5,0.5345019102096558
+13,a photo of a {} dog in Van Gogh style,6,0.5004472732543945
+13,a photo of a {} dog in Van Gogh style,7,0.5430059432983398
+13,a photo of a {} dog in Van Gogh style,8,0.4996451139450073
+13,a photo of a {} dog in Van Gogh style,9,0.4216589033603668
+13,a photo of a {} dog in Van Gogh style,10,0.5153709650039673
+13,a photo of a {} dog in Van Gogh style,11,0.46958106756210327
+13,a photo of a {} dog in Van Gogh style,12,0.4084092378616333
+13,a photo of a {} dog in Van Gogh style,13,0.4867399036884308
+13,a photo of a {} dog in Van Gogh style,14,0.3790931701660156
+13,a photo of a {} dog in Van Gogh style,15,0.4029134511947632
+13,a photo of a {} dog in Van Gogh style,16,0.4239959120750427
+13,a photo of a {} dog in Van Gogh style,17,0.4246711730957031
+13,a photo of a {} dog in Van Gogh style,18,0.3996390700340271
+13,a photo of a {} dog in Van Gogh style,19,0.40087273716926575
+13,a photo of a {} dog in Van Gogh style,20,0.4579739570617676
+13,a photo of a {} dog in Van Gogh style,21,0.3958452045917511
+13,a photo of a {} dog in Van Gogh style,22,0.38171616196632385
+13,a photo of a {} dog in Van Gogh style,23,0.45740175247192383
+13,a photo of a {} dog in Van Gogh style,24,0.4307367205619812
+13,a photo of a {} dog in Van Gogh style,25,0.5063125491142273
+13,a photo of a {} dog in Van Gogh style,26,0.5300155878067017
+13,a photo of a {} dog in Van Gogh style,27,0.48858946561813354
+13,a photo of a {} dog in Van Gogh style,28,0.4423733055591583
+13,a photo of a {} dog in Van Gogh style,29,0.577032744884491
+13,a photo of a {} dog in Van Gogh style,30,0.6301743984222412
+13,a photo of a {} dog in Van Gogh style,31,0.41376134753227234
+13,a photo of a {} dog in Van Gogh style,32,0.454639732837677
+13,a photo of a {} dog in Van Gogh style,33,0.44536033272743225
+13,a photo of a {} dog in Van Gogh style,34,0.3582444489002228
+13,a photo of a {} dog in Van Gogh style,35,0.40162089467048645
+13,a photo of a {} dog in Van Gogh style,36,0.4861162006855011
+13,a photo of a {} dog in Van Gogh style,37,0.45047998428344727
+13,a photo of a {} dog in Van Gogh style,38,0.5280678868293762
+13,a photo of a {} dog in Van Gogh style,39,0.4643552005290985
+13,a photo of a {} dog in Van Gogh style,40,0.4225673973560333
+13,a photo of a {} dog in Van Gogh style,41,0.46327313780784607
+13,a photo of a {} dog in Van Gogh style,42,0.4288872182369232
+13,a photo of a {} dog in Van Gogh style,43,0.5093062520027161
+13,a photo of a {} dog in Van Gogh style,44,0.5892459154129028
+13,a photo of a {} dog in Van Gogh style,45,0.49228787422180176
+13,a photo of a {} dog in Van Gogh style,46,0.4150567650794983
+13,a photo of a {} dog in Van Gogh style,47,0.4298957586288452
+13,a photo of a {} dog in Van Gogh style,48,0.4991031885147095
+13,a photo of a {} dog in Van Gogh style,49,0.46538975834846497
