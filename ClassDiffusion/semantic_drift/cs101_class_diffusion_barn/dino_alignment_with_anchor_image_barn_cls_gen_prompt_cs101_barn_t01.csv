@@ -1,0 +1,651 @@
+prompt_index,prompt,image_index,score
+0,{} barn in snowy ice,0,0.4390680491924286
+0,{} barn in snowy ice,1,0.501947283744812
+0,{} barn in snowy ice,2,0.4078792929649353
+0,{} barn in snowy ice,3,0.5681394338607788
+0,{} barn in snowy ice,4,0.4629719853401184
+0,{} barn in snowy ice,5,0.5234799385070801
+0,{} barn in snowy ice,6,0.4705668091773987
+0,{} barn in snowy ice,7,0.524327278137207
+0,{} barn in snowy ice,8,0.5202121138572693
+0,{} barn in snowy ice,9,0.5594062805175781
+0,{} barn in snowy ice,10,0.5477738380432129
+0,{} barn in snowy ice,11,0.586388111114502
+0,{} barn in snowy ice,12,0.6236920356750488
+0,{} barn in snowy ice,13,0.5597963333129883
+0,{} barn in snowy ice,14,0.5888533592224121
+0,{} barn in snowy ice,15,0.5468044281005859
+0,{} barn in snowy ice,16,0.5266199111938477
+0,{} barn in snowy ice,17,0.6506741046905518
+0,{} barn in snowy ice,18,0.6517302393913269
+0,{} barn in snowy ice,19,0.4520442485809326
+0,{} barn in snowy ice,20,0.43422865867614746
+0,{} barn in snowy ice,21,0.46716201305389404
+0,{} barn in snowy ice,22,0.5782542824745178
+0,{} barn in snowy ice,23,0.5780225992202759
+0,{} barn in snowy ice,24,0.525386393070221
+0,{} barn in snowy ice,25,0.29368022084236145
+0,{} barn in snowy ice,26,0.40197399258613586
+0,{} barn in snowy ice,27,0.5540756583213806
+0,{} barn in snowy ice,28,0.4699245095252991
+0,{} barn in snowy ice,29,0.5629844665527344
+0,{} barn in snowy ice,30,0.44356489181518555
+0,{} barn in snowy ice,31,0.5871568322181702
+0,{} barn in snowy ice,32,0.5499287843704224
+0,{} barn in snowy ice,33,0.6157153844833374
+0,{} barn in snowy ice,34,0.3866852819919586
+0,{} barn in snowy ice,35,0.5747581720352173
+0,{} barn in snowy ice,36,0.5983194708824158
+0,{} barn in snowy ice,37,0.3602713942527771
+0,{} barn in snowy ice,38,0.5059446096420288
+0,{} barn in snowy ice,39,0.3865812420845032
+0,{} barn in snowy ice,40,0.587175190448761
+0,{} barn in snowy ice,41,0.6076506972312927
+0,{} barn in snowy ice,42,0.29776689410209656
+0,{} barn in snowy ice,43,0.5905179381370544
+0,{} barn in snowy ice,44,0.5931273698806763
+0,{} barn in snowy ice,45,0.5609447956085205
+0,{} barn in snowy ice,46,0.4721560776233673
+0,{} barn in snowy ice,47,0.4953005611896515
+0,{} barn in snowy ice,48,0.5802609920501709
+0,{} barn in snowy ice,49,0.5393539667129517
+1,{} barn surrounded by blooming sunflower field,0,0.28104913234710693
+1,{} barn surrounded by blooming sunflower field,1,0.3234370946884155
+1,{} barn surrounded by blooming sunflower field,2,0.16336795687675476
+1,{} barn surrounded by blooming sunflower field,3,0.12059993296861649
+1,{} barn surrounded by blooming sunflower field,4,0.2560282051563263
+1,{} barn surrounded by blooming sunflower field,5,0.08246781677007675
+1,{} barn surrounded by blooming sunflower field,6,0.16947585344314575
+1,{} barn surrounded by blooming sunflower field,7,0.18527044355869293
+1,{} barn surrounded by blooming sunflower field,8,0.036704931408166885
+1,{} barn surrounded by blooming sunflower field,9,0.12071223556995392
+1,{} barn surrounded by blooming sunflower field,10,0.0641336664557457
+1,{} barn surrounded by blooming sunflower field,11,0.1759609878063202
+1,{} barn surrounded by blooming sunflower field,12,0.009632861241698265
+1,{} barn surrounded by blooming sunflower field,13,0.32415223121643066
+1,{} barn surrounded by blooming sunflower field,14,0.17373201251029968
+1,{} barn surrounded by blooming sunflower field,15,0.015492476522922516
+1,{} barn surrounded by blooming sunflower field,16,0.21581688523292542
+1,{} barn surrounded by blooming sunflower field,17,0.30225351452827454
+1,{} barn surrounded by blooming sunflower field,18,0.04379162937402725
+1,{} barn surrounded by blooming sunflower field,19,0.23703017830848694
+1,{} barn surrounded by blooming sunflower field,20,0.1414785236120224
+1,{} barn surrounded by blooming sunflower field,21,0.059906005859375
+1,{} barn surrounded by blooming sunflower field,22,0.2533065676689148
+1,{} barn surrounded by blooming sunflower field,23,0.30758440494537354
+1,{} barn surrounded by blooming sunflower field,24,0.026528941467404366
+1,{} barn surrounded by blooming sunflower field,25,0.10950367897748947
+1,{} barn surrounded by blooming sunflower field,26,0.16000773012638092
+1,{} barn surrounded by blooming sunflower field,27,0.2692018151283264
+1,{} barn surrounded by blooming sunflower field,28,0.1737937033176422
+1,{} barn surrounded by blooming sunflower field,29,0.2023644596338272
+1,{} barn surrounded by blooming sunflower field,30,0.1438533514738083
+1,{} barn surrounded by blooming sunflower field,31,0.20846834778785706
+1,{} barn surrounded by blooming sunflower field,32,0.20325665175914764
+1,{} barn surrounded by blooming sunflower field,33,0.2518468499183655
+1,{} barn surrounded by blooming sunflower field,34,0.05261716991662979
+1,{} barn surrounded by blooming sunflower field,35,0.08959653973579407
+1,{} barn surrounded by blooming sunflower field,36,0.2742057740688324
+1,{} barn surrounded by blooming sunflower field,37,0.05334560200572014
+1,{} barn surrounded by blooming sunflower field,38,0.25048530101776123
+1,{} barn surrounded by blooming sunflower field,39,0.229453444480896
+1,{} barn surrounded by blooming sunflower field,40,0.27733248472213745
+1,{} barn surrounded by blooming sunflower field,41,0.06463131308555603
+1,{} barn surrounded by blooming sunflower field,42,0.14946167171001434
+1,{} barn surrounded by blooming sunflower field,43,0.04010283946990967
+1,{} barn surrounded by blooming sunflower field,44,0.19490092992782593
+1,{} barn surrounded by blooming sunflower field,45,0.1153319925069809
+1,{} barn surrounded by blooming sunflower field,46,0.2398660033941269
+1,{} barn surrounded by blooming sunflower field,47,0.05356956273317337
+1,{} barn surrounded by blooming sunflower field,48,0.43512028455734253
+1,{} barn surrounded by blooming sunflower field,49,0.09303130209445953
+2,{} barn in the fall season with leaves all around,0,0.19421616196632385
+2,{} barn in the fall season with leaves all around,1,0.2619582712650299
+2,{} barn in the fall season with leaves all around,2,0.5013445615768433
+2,{} barn in the fall season with leaves all around,3,0.39576220512390137
+2,{} barn in the fall season with leaves all around,4,0.3808020055294037
+2,{} barn in the fall season with leaves all around,5,0.46977993845939636
+2,{} barn in the fall season with leaves all around,6,0.5034286975860596
+2,{} barn in the fall season with leaves all around,7,0.46230649948120117
+2,{} barn in the fall season with leaves all around,8,0.37697651982307434
+2,{} barn in the fall season with leaves all around,9,0.3571240305900574
+2,{} barn in the fall season with leaves all around,10,0.3852948844432831
+2,{} barn in the fall season with leaves all around,11,0.3741527497768402
+2,{} barn in the fall season with leaves all around,12,0.2953416705131531
+2,{} barn in the fall season with leaves all around,13,0.37232887744903564
+2,{} barn in the fall season with leaves all around,14,0.47101664543151855
+2,{} barn in the fall season with leaves all around,15,0.29058849811553955
+2,{} barn in the fall season with leaves all around,16,0.4401598572731018
+2,{} barn in the fall season with leaves all around,17,0.33404403924942017
+2,{} barn in the fall season with leaves all around,18,0.4383974075317383
+2,{} barn in the fall season with leaves all around,19,0.3410484790802002
+2,{} barn in the fall season with leaves all around,20,0.37676379084587097
+2,{} barn in the fall season with leaves all around,21,0.48206639289855957
+2,{} barn in the fall season with leaves all around,22,0.40411674976348877
+2,{} barn in the fall season with leaves all around,23,0.5014360547065735
+2,{} barn in the fall season with leaves all around,24,0.4736196994781494
+2,{} barn in the fall season with leaves all around,25,0.4197905957698822
+2,{} barn in the fall season with leaves all around,26,0.463470458984375
+2,{} barn in the fall season with leaves all around,27,0.4314897656440735
+2,{} barn in the fall season with leaves all around,28,0.4238061308860779
+2,{} barn in the fall season with leaves all around,29,0.3529233932495117
+2,{} barn in the fall season with leaves all around,30,0.3454558849334717
+2,{} barn in the fall season with leaves all around,31,0.38229334354400635
+2,{} barn in the fall season with leaves all around,32,0.5179101228713989
+2,{} barn in the fall season with leaves all around,33,0.5027832984924316
+2,{} barn in the fall season with leaves all around,34,0.4000064730644226
+2,{} barn in the fall season with leaves all around,35,0.42768609523773193
+2,{} barn in the fall season with leaves all around,36,0.4579210579395294
+2,{} barn in the fall season with leaves all around,37,0.36478516459465027
+2,{} barn in the fall season with leaves all around,38,0.4221835136413574
+2,{} barn in the fall season with leaves all around,39,0.42355337738990784
+2,{} barn in the fall season with leaves all around,40,0.45770132541656494
+2,{} barn in the fall season with leaves all around,41,0.5027746558189392
+2,{} barn in the fall season with leaves all around,42,0.4417348802089691
+2,{} barn in the fall season with leaves all around,43,0.4232926368713379
+2,{} barn in the fall season with leaves all around,44,0.33600854873657227
+2,{} barn in the fall season with leaves all around,45,0.31481218338012695
+2,{} barn in the fall season with leaves all around,46,0.4674730896949768
+2,{} barn in the fall season with leaves all around,47,0.5085049271583557
+2,{} barn in the fall season with leaves all around,48,0.3713032901287079
+2,{} barn in the fall season with leaves all around,49,0.328887403011322
+3,{} barn at a beach with a view of the seashore,0,0.245807945728302
+3,{} barn at a beach with a view of the seashore,1,0.2199060171842575
+3,{} barn at a beach with a view of the seashore,2,0.3839845657348633
+3,{} barn at a beach with a view of the seashore,3,0.3012641668319702
+3,{} barn at a beach with a view of the seashore,4,0.42699313163757324
+3,{} barn at a beach with a view of the seashore,5,0.22815299034118652
+3,{} barn at a beach with a view of the seashore,6,0.265483021736145
+3,{} barn at a beach with a view of the seashore,7,0.2695872187614441
+3,{} barn at a beach with a view of the seashore,8,0.25992682576179504
+3,{} barn at a beach with a view of the seashore,9,0.23866935074329376
+3,{} barn at a beach with a view of the seashore,10,0.23436324298381805
+3,{} barn at a beach with a view of the seashore,11,0.24809089303016663
+3,{} barn at a beach with a view of the seashore,12,0.37929853796958923
+3,{} barn at a beach with a view of the seashore,13,0.2942661643028259
+3,{} barn at a beach with a view of the seashore,14,0.3691853880882263
+3,{} barn at a beach with a view of the seashore,15,0.37643343210220337
+3,{} barn at a beach with a view of the seashore,16,0.3303627371788025
+3,{} barn at a beach with a view of the seashore,17,0.24122314155101776
+3,{} barn at a beach with a view of the seashore,18,0.3875286877155304
+3,{} barn at a beach with a view of the seashore,19,0.2867039442062378
+3,{} barn at a beach with a view of the seashore,20,0.2764555513858795
+3,{} barn at a beach with a view of the seashore,21,0.3631211519241333
+3,{} barn at a beach with a view of the seashore,22,0.4552236795425415
+3,{} barn at a beach with a view of the seashore,23,0.3957594633102417
+3,{} barn at a beach with a view of the seashore,24,0.4795443117618561
+3,{} barn at a beach with a view of the seashore,25,0.3317638337612152
+3,{} barn at a beach with a view of the seashore,26,0.28086620569229126
+3,{} barn at a beach with a view of the seashore,27,0.2946687936782837
+3,{} barn at a beach with a view of the seashore,28,0.26057231426239014
+3,{} barn at a beach with a view of the seashore,29,0.22483183443546295
+3,{} barn at a beach with a view of the seashore,30,0.28186577558517456
+3,{} barn at a beach with a view of the seashore,31,0.2661440372467041
+3,{} barn at a beach with a view of the seashore,32,0.22854191064834595
+3,{} barn at a beach with a view of the seashore,33,0.13334180414676666
+3,{} barn at a beach with a view of the seashore,34,0.37545931339263916
+3,{} barn at a beach with a view of the seashore,35,0.2302534133195877
+3,{} barn at a beach with a view of the seashore,36,0.2748873829841614
+3,{} barn at a beach with a view of the seashore,37,0.2429245412349701
+3,{} barn at a beach with a view of the seashore,38,0.26875773072242737
+3,{} barn at a beach with a view of the seashore,39,0.5471576452255249
+3,{} barn at a beach with a view of the seashore,40,0.27060019969940186
+3,{} barn at a beach with a view of the seashore,41,0.44943201541900635
+3,{} barn at a beach with a view of the seashore,42,0.2558344602584839
+3,{} barn at a beach with a view of the seashore,43,0.2555316090583801
+3,{} barn at a beach with a view of the seashore,44,0.3467290997505188
+3,{} barn at a beach with a view of the seashore,45,0.2601071894168854
+3,{} barn at a beach with a view of the seashore,46,0.43672579526901245
+3,{} barn at a beach with a view of the seashore,47,0.3981570303440094
+3,{} barn at a beach with a view of the seashore,48,0.2585074305534363
+3,{} barn at a beach with a view of the seashore,49,0.37774670124053955
+4,{} barn during a thunderstorm,0,0.6414533853530884
+4,{} barn during a thunderstorm,1,0.39320865273475647
+4,{} barn during a thunderstorm,2,0.5630528926849365
+4,{} barn during a thunderstorm,3,0.5443052649497986
+4,{} barn during a thunderstorm,4,0.6324689388275146
+4,{} barn during a thunderstorm,5,0.4406619668006897
+4,{} barn during a thunderstorm,6,0.6240353584289551
+4,{} barn during a thunderstorm,7,0.5702234506607056
+4,{} barn during a thunderstorm,8,0.5213344097137451
+4,{} barn during a thunderstorm,9,0.570096492767334
+4,{} barn during a thunderstorm,10,0.7182295322418213
+4,{} barn during a thunderstorm,11,0.6527329683303833
+4,{} barn during a thunderstorm,12,0.7162461876869202
+4,{} barn during a thunderstorm,13,0.5257338285446167
+4,{} barn during a thunderstorm,14,0.49179238080978394
+4,{} barn during a thunderstorm,15,0.37777864933013916
+4,{} barn during a thunderstorm,16,0.5636171698570251
+4,{} barn during a thunderstorm,17,0.3829377293586731
+4,{} barn during a thunderstorm,18,0.6432347297668457
+4,{} barn during a thunderstorm,19,0.4983852505683899
+4,{} barn during a thunderstorm,20,0.40415436029434204
+4,{} barn during a thunderstorm,21,0.6360106468200684
+4,{} barn during a thunderstorm,22,0.639366626739502
+4,{} barn during a thunderstorm,23,0.40000995993614197
+4,{} barn during a thunderstorm,24,0.5999447107315063
+4,{} barn during a thunderstorm,25,0.5785666704177856
+4,{} barn during a thunderstorm,26,0.6343978643417358
+4,{} barn during a thunderstorm,27,0.5902365446090698
+4,{} barn during a thunderstorm,28,0.46844765543937683
+4,{} barn during a thunderstorm,29,0.6266099214553833
+4,{} barn during a thunderstorm,30,0.6525591611862183
+4,{} barn during a thunderstorm,31,0.5644938349723816
+4,{} barn during a thunderstorm,32,0.6784178018569946
+4,{} barn during a thunderstorm,33,0.6100401282310486
+4,{} barn during a thunderstorm,34,0.6710874438285828
+4,{} barn during a thunderstorm,35,0.6096806526184082
+4,{} barn during a thunderstorm,36,0.6057462692260742
+4,{} barn during a thunderstorm,37,0.537010908126831
+4,{} barn during a thunderstorm,38,0.5892263054847717
+4,{} barn during a thunderstorm,39,0.5288541316986084
+4,{} barn during a thunderstorm,40,0.630280077457428
+4,{} barn during a thunderstorm,41,0.45289164781570435
+4,{} barn during a thunderstorm,42,0.5709827542304993
+4,{} barn during a thunderstorm,43,0.5053154230117798
+4,{} barn during a thunderstorm,44,0.61724853515625
+4,{} barn during a thunderstorm,45,0.6449985504150391
+4,{} barn during a thunderstorm,46,0.5640328526496887
+4,{} barn during a thunderstorm,47,0.47180718183517456
+4,{} barn during a thunderstorm,48,0.5869185924530029
+4,{} barn during a thunderstorm,49,0.5304257869720459
+5,{} barn with a rainbow arching overhead,0,0.43809545040130615
+5,{} barn with a rainbow arching overhead,1,0.36777418851852417
+5,{} barn with a rainbow arching overhead,2,0.33325839042663574
+5,{} barn with a rainbow arching overhead,3,0.35841724276542664
+5,{} barn with a rainbow arching overhead,4,0.3775825500488281
+5,{} barn with a rainbow arching overhead,5,0.3727412223815918
+5,{} barn with a rainbow arching overhead,6,0.6073147058486938
+5,{} barn with a rainbow arching overhead,7,0.4774356186389923
+5,{} barn with a rainbow arching overhead,8,0.47764647006988525
+5,{} barn with a rainbow arching overhead,9,0.3577318787574768
+5,{} barn with a rainbow arching overhead,10,0.41830670833587646
+5,{} barn with a rainbow arching overhead,11,0.4573565125465393
+5,{} barn with a rainbow arching overhead,12,0.41117119789123535
+5,{} barn with a rainbow arching overhead,13,0.3707822859287262
+5,{} barn with a rainbow arching overhead,14,0.4843921363353729
+5,{} barn with a rainbow arching overhead,15,0.4418097138404846
+5,{} barn with a rainbow arching overhead,16,0.5284254550933838
+5,{} barn with a rainbow arching overhead,17,0.4542890787124634
+5,{} barn with a rainbow arching overhead,18,0.5226970911026001
+5,{} barn with a rainbow arching overhead,19,0.39932775497436523
+5,{} barn with a rainbow arching overhead,20,0.5012189149856567
+5,{} barn with a rainbow arching overhead,21,0.3601972162723541
+5,{} barn with a rainbow arching overhead,22,0.4167599678039551
+5,{} barn with a rainbow arching overhead,23,0.40771204233169556
+5,{} barn with a rainbow arching overhead,24,0.4749002754688263
+5,{} barn with a rainbow arching overhead,25,0.4433167576789856
+5,{} barn with a rainbow arching overhead,26,0.3332255780696869
+5,{} barn with a rainbow arching overhead,27,0.3267132639884949
+5,{} barn with a rainbow arching overhead,28,0.5369277000427246
+5,{} barn with a rainbow arching overhead,29,0.4730943739414215
+5,{} barn with a rainbow arching overhead,30,0.40529781579971313
+5,{} barn with a rainbow arching overhead,31,0.503970742225647
+5,{} barn with a rainbow arching overhead,32,0.5536290407180786
+5,{} barn with a rainbow arching overhead,33,0.39880338311195374
+5,{} barn with a rainbow arching overhead,34,0.2883003056049347
+5,{} barn with a rainbow arching overhead,35,0.4907822608947754
+5,{} barn with a rainbow arching overhead,36,0.3990746736526489
+5,{} barn with a rainbow arching overhead,37,0.4944402277469635
+5,{} barn with a rainbow arching overhead,38,0.4894997477531433
+5,{} barn with a rainbow arching overhead,39,0.45831817388534546
+5,{} barn with a rainbow arching overhead,40,0.390544056892395
+5,{} barn with a rainbow arching overhead,41,0.32580259442329407
+5,{} barn with a rainbow arching overhead,42,0.3989819884300232
+5,{} barn with a rainbow arching overhead,43,0.40061211585998535
+5,{} barn with a rainbow arching overhead,44,0.3758777976036072
+5,{} barn with a rainbow arching overhead,45,0.4929600954055786
+5,{} barn with a rainbow arching overhead,46,0.48431992530822754
+5,{} barn with a rainbow arching overhead,47,0.3899068534374237
+5,{} barn with a rainbow arching overhead,48,0.3199688792228699
+5,{} barn with a rainbow arching overhead,49,0.4623928964138031
+6,Photo of {} barn with the sun rising in the sky,0,0.6699901819229126
+6,Photo of {} barn with the sun rising in the sky,1,0.5184918642044067
+6,Photo of {} barn with the sun rising in the sky,2,0.4607575833797455
+6,Photo of {} barn with the sun rising in the sky,3,0.5559947490692139
+6,Photo of {} barn with the sun rising in the sky,4,0.618924617767334
+6,Photo of {} barn with the sun rising in the sky,5,0.5401071906089783
+6,Photo of {} barn with the sun rising in the sky,6,0.6673297882080078
+6,Photo of {} barn with the sun rising in the sky,7,0.6028909683227539
+6,Photo of {} barn with the sun rising in the sky,8,0.5863654613494873
+6,Photo of {} barn with the sun rising in the sky,9,0.7787141799926758
+6,Photo of {} barn with the sun rising in the sky,10,0.6190786957740784
+6,Photo of {} barn with the sun rising in the sky,11,0.7718101739883423
+6,Photo of {} barn with the sun rising in the sky,12,0.7246977090835571
+6,Photo of {} barn with the sun rising in the sky,13,0.5819951891899109
+6,Photo of {} barn with the sun rising in the sky,14,0.7579469680786133
+6,Photo of {} barn with the sun rising in the sky,15,0.6494358777999878
+6,Photo of {} barn with the sun rising in the sky,16,0.4897919297218323
+6,Photo of {} barn with the sun rising in the sky,17,0.6558911800384521
+6,Photo of {} barn with the sun rising in the sky,18,0.7733972072601318
+6,Photo of {} barn with the sun rising in the sky,19,0.6681562662124634
+6,Photo of {} barn with the sun rising in the sky,20,0.7176978588104248
+6,Photo of {} barn with the sun rising in the sky,21,0.6799864768981934
+6,Photo of {} barn with the sun rising in the sky,22,0.3953284025192261
+6,Photo of {} barn with the sun rising in the sky,23,0.7246675491333008
+6,Photo of {} barn with the sun rising in the sky,24,0.561698317527771
+6,Photo of {} barn with the sun rising in the sky,25,0.4744964838027954
+6,Photo of {} barn with the sun rising in the sky,26,0.6773226857185364
+6,Photo of {} barn with the sun rising in the sky,27,0.6268695592880249
+6,Photo of {} barn with the sun rising in the sky,28,0.751838207244873
+6,Photo of {} barn with the sun rising in the sky,29,0.7670741677284241
+6,Photo of {} barn with the sun rising in the sky,30,0.642370879650116
+6,Photo of {} barn with the sun rising in the sky,31,0.7387503385543823
+6,Photo of {} barn with the sun rising in the sky,32,0.6279876232147217
+6,Photo of {} barn with the sun rising in the sky,33,0.7012606859207153
+6,Photo of {} barn with the sun rising in the sky,34,0.6312763690948486
+6,Photo of {} barn with the sun rising in the sky,35,0.6796332597732544
+6,Photo of {} barn with the sun rising in the sky,36,0.44277429580688477
+6,Photo of {} barn with the sun rising in the sky,37,0.5191094875335693
+6,Photo of {} barn with the sun rising in the sky,38,0.6982654929161072
+6,Photo of {} barn with the sun rising in the sky,39,0.6841795444488525
+6,Photo of {} barn with the sun rising in the sky,40,0.5639607906341553
+6,Photo of {} barn with the sun rising in the sky,41,0.5392117500305176
+6,Photo of {} barn with the sun rising in the sky,42,0.6891711950302124
+6,Photo of {} barn with the sun rising in the sky,43,0.7554596662521362
+6,Photo of {} barn with the sun rising in the sky,44,0.7149360775947571
+6,Photo of {} barn with the sun rising in the sky,45,0.6011704206466675
+6,Photo of {} barn with the sun rising in the sky,46,0.6843832731246948
+6,Photo of {} barn with the sun rising in the sky,47,0.642748236656189
+6,Photo of {} barn with the sun rising in the sky,48,0.630769670009613
+6,Photo of {} barn with the sun rising in the sky,49,0.5908687114715576
+7,puppy in front of {} barn,0,0.2162279188632965
+7,puppy in front of {} barn,1,0.2782362699508667
+7,puppy in front of {} barn,2,0.08374474942684174
+7,puppy in front of {} barn,3,0.19189539551734924
+7,puppy in front of {} barn,4,0.17365096509456635
+7,puppy in front of {} barn,5,0.2270144671201706
+7,puppy in front of {} barn,6,0.3560962677001953
+7,puppy in front of {} barn,7,0.16211241483688354
+7,puppy in front of {} barn,8,0.16199836134910583
+7,puppy in front of {} barn,9,0.07781040668487549
+7,puppy in front of {} barn,10,0.18044039607048035
+7,puppy in front of {} barn,11,0.11046862602233887
+7,puppy in front of {} barn,12,0.2717441916465759
+7,puppy in front of {} barn,13,0.4936954975128174
+7,puppy in front of {} barn,14,0.13133780658245087
+7,puppy in front of {} barn,15,0.3342188000679016
+7,puppy in front of {} barn,16,0.36170607805252075
+7,puppy in front of {} barn,17,0.0695890560746193
+7,puppy in front of {} barn,18,0.16650786995887756
+7,puppy in front of {} barn,19,0.16142070293426514
+7,puppy in front of {} barn,20,0.1492764800786972
+7,puppy in front of {} barn,21,0.12737753987312317
+7,puppy in front of {} barn,22,0.35292771458625793
+7,puppy in front of {} barn,23,0.15174201130867004
+7,puppy in front of {} barn,24,0.27828627824783325
+7,puppy in front of {} barn,25,0.2729380428791046
+7,puppy in front of {} barn,26,0.06384775042533875
+7,puppy in front of {} barn,27,0.2842593193054199
+7,puppy in front of {} barn,28,0.2911657989025116
+7,puppy in front of {} barn,29,0.2921457886695862
+7,puppy in front of {} barn,30,0.16991624236106873
+7,puppy in front of {} barn,31,0.3430241346359253
+7,puppy in front of {} barn,32,0.25581276416778564
+7,puppy in front of {} barn,33,-0.004017844796180725
+7,puppy in front of {} barn,34,0.14706003665924072
+7,puppy in front of {} barn,35,0.058376915752887726
+7,puppy in front of {} barn,36,0.16916349530220032
+7,puppy in front of {} barn,37,0.24277377128601074
+7,puppy in front of {} barn,38,-0.006384152919054031
+7,puppy in front of {} barn,39,0.18353557586669922
+7,puppy in front of {} barn,40,0.07819569110870361
+7,puppy in front of {} barn,41,0.41548556089401245
+7,puppy in front of {} barn,42,0.3164561986923218
+7,puppy in front of {} barn,43,0.00962798111140728
+7,puppy in front of {} barn,44,0.2400820553302765
+7,puppy in front of {} barn,45,0.08423064649105072
+7,puppy in front of {} barn,46,0.3638951778411865
+7,puppy in front of {} barn,47,-0.005248339846730232
+7,puppy in front of {} barn,48,0.20661120116710663
+7,puppy in front of {} barn,49,0.02150828018784523
+8,cat sitting in front of {} barn in snowy ice,0,0.22378350794315338
+8,cat sitting in front of {} barn in snowy ice,1,0.41511088609695435
+8,cat sitting in front of {} barn in snowy ice,2,0.06908789277076721
+8,cat sitting in front of {} barn in snowy ice,3,0.08727649599313736
+8,cat sitting in front of {} barn in snowy ice,4,0.3186888098716736
+8,cat sitting in front of {} barn in snowy ice,5,0.08341506868600845
+8,cat sitting in front of {} barn in snowy ice,6,0.36450812220573425
+8,cat sitting in front of {} barn in snowy ice,7,0.10179935395717621
+8,cat sitting in front of {} barn in snowy ice,8,0.29025691747665405
+8,cat sitting in front of {} barn in snowy ice,9,0.06375111639499664
+8,cat sitting in front of {} barn in snowy ice,10,0.3173871338367462
+8,cat sitting in front of {} barn in snowy ice,11,0.422700434923172
+8,cat sitting in front of {} barn in snowy ice,12,0.14973947405815125
+8,cat sitting in front of {} barn in snowy ice,13,0.19075146317481995
+8,cat sitting in front of {} barn in snowy ice,14,0.2019137442111969
+8,cat sitting in front of {} barn in snowy ice,15,0.11258982121944427
+8,cat sitting in front of {} barn in snowy ice,16,0.20272880792617798
+8,cat sitting in front of {} barn in snowy ice,17,0.3302907347679138
+8,cat sitting in front of {} barn in snowy ice,18,0.3010571002960205
+8,cat sitting in front of {} barn in snowy ice,19,0.1807888150215149
+8,cat sitting in front of {} barn in snowy ice,20,0.080746129155159
+8,cat sitting in front of {} barn in snowy ice,21,0.22198379039764404
+8,cat sitting in front of {} barn in snowy ice,22,0.35790812969207764
+8,cat sitting in front of {} barn in snowy ice,23,0.11304087191820145
+8,cat sitting in front of {} barn in snowy ice,24,0.4420638978481293
+8,cat sitting in front of {} barn in snowy ice,25,0.14685118198394775
+8,cat sitting in front of {} barn in snowy ice,26,0.20428699254989624
+8,cat sitting in front of {} barn in snowy ice,27,0.3146589398384094
+8,cat sitting in front of {} barn in snowy ice,28,0.22279421985149384
+8,cat sitting in front of {} barn in snowy ice,29,0.16988128423690796
+8,cat sitting in front of {} barn in snowy ice,30,0.07490228116512299
+8,cat sitting in front of {} barn in snowy ice,31,0.14487324655056
+8,cat sitting in front of {} barn in snowy ice,32,0.4701821804046631
+8,cat sitting in front of {} barn in snowy ice,33,0.1706259846687317
+8,cat sitting in front of {} barn in snowy ice,34,0.2958511710166931
+8,cat sitting in front of {} barn in snowy ice,35,0.1874658465385437
+8,cat sitting in front of {} barn in snowy ice,36,0.12529854476451874
+8,cat sitting in front of {} barn in snowy ice,37,0.2167210876941681
+8,cat sitting in front of {} barn in snowy ice,38,0.29343780875205994
+8,cat sitting in front of {} barn in snowy ice,39,0.03628683462738991
+8,cat sitting in front of {} barn in snowy ice,40,0.3064200282096863
+8,cat sitting in front of {} barn in snowy ice,41,0.24092242121696472
+8,cat sitting in front of {} barn in snowy ice,42,0.31488990783691406
+8,cat sitting in front of {} barn in snowy ice,43,0.27848875522613525
+8,cat sitting in front of {} barn in snowy ice,44,0.1153319776058197
+8,cat sitting in front of {} barn in snowy ice,45,0.22452673316001892
+8,cat sitting in front of {} barn in snowy ice,46,0.21375466883182526
+8,cat sitting in front of {} barn in snowy ice,47,0.11761263012886047
+8,cat sitting in front of {} barn in snowy ice,48,0.04459063708782196
+8,cat sitting in front of {} barn in snowy ice,49,0.17951509356498718
+9,squirrel in front of {} barn,0,0.17221945524215698
+9,squirrel in front of {} barn,1,0.023120205849409103
+9,squirrel in front of {} barn,2,0.08304912596940994
+9,squirrel in front of {} barn,3,0.11562985181808472
+9,squirrel in front of {} barn,4,0.03148419409990311
+9,squirrel in front of {} barn,5,0.0602177157998085
+9,squirrel in front of {} barn,6,0.12333740293979645
+9,squirrel in front of {} barn,7,0.06046092510223389
+9,squirrel in front of {} barn,8,0.12746916711330414
+9,squirrel in front of {} barn,9,0.061249054968357086
+9,squirrel in front of {} barn,10,0.08156578242778778
+9,squirrel in front of {} barn,11,0.1668107509613037
+9,squirrel in front of {} barn,12,0.23244735598564148
+9,squirrel in front of {} barn,13,0.11703905463218689
+9,squirrel in front of {} barn,14,0.011478439904749393
+9,squirrel in front of {} barn,15,0.12241129577159882
+9,squirrel in front of {} barn,16,0.1021888256072998
+9,squirrel in front of {} barn,17,0.09639748930931091
+9,squirrel in front of {} barn,18,0.112953320145607
+9,squirrel in front of {} barn,19,0.11317135393619537
+9,squirrel in front of {} barn,20,0.03919380530714989
+9,squirrel in front of {} barn,21,0.09825028479099274
+9,squirrel in front of {} barn,22,0.12320546805858612
+9,squirrel in front of {} barn,23,0.15235888957977295
+9,squirrel in front of {} barn,24,0.016757281497120857
+9,squirrel in front of {} barn,25,0.04517136514186859
+9,squirrel in front of {} barn,26,0.19631054997444153
+9,squirrel in front of {} barn,27,0.23291133344173431
+9,squirrel in front of {} barn,28,0.33665549755096436
+9,squirrel in front of {} barn,29,0.10278879106044769
+9,squirrel in front of {} barn,30,0.03966034948825836
+9,squirrel in front of {} barn,31,0.09287522733211517
+9,squirrel in front of {} barn,32,0.10904255509376526
+9,squirrel in front of {} barn,33,0.18597164750099182
+9,squirrel in front of {} barn,34,0.05111485719680786
+9,squirrel in front of {} barn,35,0.001949233002960682
+9,squirrel in front of {} barn,36,0.11415097117424011
+9,squirrel in front of {} barn,37,0.1111685037612915
+9,squirrel in front of {} barn,38,0.11160894483327866
+9,squirrel in front of {} barn,39,0.15456324815750122
+9,squirrel in front of {} barn,40,0.06129377707839012
+9,squirrel in front of {} barn,41,0.08117295056581497
+9,squirrel in front of {} barn,42,0.058308012783527374
+9,squirrel in front of {} barn,43,0.13775183260440826
+9,squirrel in front of {} barn,44,0.04867968335747719
+9,squirrel in front of {} barn,45,0.07655464112758636
+9,squirrel in front of {} barn,46,0.041041091084480286
+9,squirrel in front of {} barn,47,0.07057825475931168
+9,squirrel in front of {} barn,48,0.10408434271812439
+9,squirrel in front of {} barn,49,0.0609925240278244
+10,deer grazing near {} barn,0,0.26305514574050903
+10,deer grazing near {} barn,1,0.40718019008636475
+10,deer grazing near {} barn,2,0.29358619451522827
+10,deer grazing near {} barn,3,0.3160426616668701
+10,deer grazing near {} barn,4,0.38583904504776
+10,deer grazing near {} barn,5,0.2820666432380676
+10,deer grazing near {} barn,6,0.2907479703426361
+10,deer grazing near {} barn,7,0.2659311592578888
+10,deer grazing near {} barn,8,0.3440653085708618
+10,deer grazing near {} barn,9,0.3267157971858978
+10,deer grazing near {} barn,10,0.36930325627326965
+10,deer grazing near {} barn,11,0.3283047676086426
+10,deer grazing near {} barn,12,0.2660534381866455
+10,deer grazing near {} barn,13,0.30077576637268066
+10,deer grazing near {} barn,14,0.2830897569656372
+10,deer grazing near {} barn,15,0.24343959987163544
+10,deer grazing near {} barn,16,0.279108464717865
+10,deer grazing near {} barn,17,0.3072289228439331
+10,deer grazing near {} barn,18,0.24823938310146332
+10,deer grazing near {} barn,19,0.25918155908584595
+10,deer grazing near {} barn,20,0.3884062170982361
+10,deer grazing near {} barn,21,0.2505995035171509
+10,deer grazing near {} barn,22,0.31554216146469116
+10,deer grazing near {} barn,23,0.33521050214767456
+10,deer grazing near {} barn,24,0.279716432094574
+10,deer grazing near {} barn,25,0.2046654224395752
+10,deer grazing near {} barn,26,0.30978578329086304
+10,deer grazing near {} barn,27,0.3728373646736145
+10,deer grazing near {} barn,28,0.2710740566253662
+10,deer grazing near {} barn,29,0.2316102236509323
+10,deer grazing near {} barn,30,0.2717079520225525
+10,deer grazing near {} barn,31,0.29779279232025146
+10,deer grazing near {} barn,32,0.3223714828491211
+10,deer grazing near {} barn,33,0.20936180651187897
+10,deer grazing near {} barn,34,0.2760351598262787
+10,deer grazing near {} barn,35,0.27879077196121216
+10,deer grazing near {} barn,36,0.2993829846382141
+10,deer grazing near {} barn,37,0.31258103251457214
+10,deer grazing near {} barn,38,0.3456228971481323
+10,deer grazing near {} barn,39,0.28727972507476807
+10,deer grazing near {} barn,40,0.2990248203277588
+10,deer grazing near {} barn,41,0.18974630534648895
+10,deer grazing near {} barn,42,0.33337467908859253
+10,deer grazing near {} barn,43,0.24049940705299377
+10,deer grazing near {} barn,44,0.3520500659942627
+10,deer grazing near {} barn,45,0.293274462223053
+10,deer grazing near {} barn,46,0.2872907221317291
+10,deer grazing near {} barn,47,0.34094804525375366
+10,deer grazing near {} barn,48,0.2054326832294464
+10,deer grazing near {} barn,49,0.24525241553783417
+11,{} barn with a windmill nearby,0,0.4410036504268646
+11,{} barn with a windmill nearby,1,0.4805126190185547
+11,{} barn with a windmill nearby,2,0.4204171597957611
+11,{} barn with a windmill nearby,3,0.4776848554611206
+11,{} barn with a windmill nearby,4,0.5214312076568604
+11,{} barn with a windmill nearby,5,0.4831676781177521
+11,{} barn with a windmill nearby,6,0.41291165351867676
+11,{} barn with a windmill nearby,7,0.3671247363090515
+11,{} barn with a windmill nearby,8,0.3930487632751465
+11,{} barn with a windmill nearby,9,0.4880262613296509
+11,{} barn with a windmill nearby,10,0.4461892247200012
+11,{} barn with a windmill nearby,11,0.41471487283706665
+11,{} barn with a windmill nearby,12,0.47043776512145996
+11,{} barn with a windmill nearby,13,0.4094296991825104
+11,{} barn with a windmill nearby,14,0.5448273420333862
+11,{} barn with a windmill nearby,15,0.4427379071712494
+11,{} barn with a windmill nearby,16,0.5253757238388062
+11,{} barn with a windmill nearby,17,0.5360907912254333
+11,{} barn with a windmill nearby,18,0.6247490644454956
+11,{} barn with a windmill nearby,19,0.42809587717056274
+11,{} barn with a windmill nearby,20,0.5011513233184814
+11,{} barn with a windmill nearby,21,0.43662917613983154
+11,{} barn with a windmill nearby,22,0.5144952535629272
+11,{} barn with a windmill nearby,23,0.41253429651260376
+11,{} barn with a windmill nearby,24,0.4898410737514496
+11,{} barn with a windmill nearby,25,0.5287655591964722
+11,{} barn with a windmill nearby,26,0.4946684241294861
+11,{} barn with a windmill nearby,27,0.46111276745796204
+11,{} barn with a windmill nearby,28,0.39617544412612915
+11,{} barn with a windmill nearby,29,0.4258095622062683
+11,{} barn with a windmill nearby,30,0.5330381989479065
+11,{} barn with a windmill nearby,31,0.5078651905059814
+11,{} barn with a windmill nearby,32,0.46511322259902954
+11,{} barn with a windmill nearby,33,0.45245373249053955
+11,{} barn with a windmill nearby,34,0.518517017364502
+11,{} barn with a windmill nearby,35,0.5281814336776733
+11,{} barn with a windmill nearby,36,0.37111562490463257
+11,{} barn with a windmill nearby,37,0.42595914006233215
+11,{} barn with a windmill nearby,38,0.4662535786628723
+11,{} barn with a windmill nearby,39,0.4823722839355469
+11,{} barn with a windmill nearby,40,0.504125714302063
+11,{} barn with a windmill nearby,41,0.525544285774231
+11,{} barn with a windmill nearby,42,0.4166485071182251
+11,{} barn with a windmill nearby,43,0.454190731048584
+11,{} barn with a windmill nearby,44,0.47698649764060974
+11,{} barn with a windmill nearby,45,0.42254582047462463
+11,{} barn with a windmill nearby,46,0.3430859446525574
+11,{} barn with a windmill nearby,47,0.55677330493927
+11,{} barn with a windmill nearby,48,0.44005459547042847
+11,{} barn with a windmill nearby,49,0.4417552053928375
+12,{} barn with a tractor parked outside,0,0.5235605835914612
+12,{} barn with a tractor parked outside,1,0.5646028518676758
+12,{} barn with a tractor parked outside,2,0.7008967399597168
+12,{} barn with a tractor parked outside,3,0.355863094329834
+12,{} barn with a tractor parked outside,4,0.5483307838439941
+12,{} barn with a tractor parked outside,5,0.5289342403411865
+12,{} barn with a tractor parked outside,6,0.4678763151168823
+12,{} barn with a tractor parked outside,7,0.4513171315193176
+12,{} barn with a tractor parked outside,8,0.6339222192764282
+12,{} barn with a tractor parked outside,9,0.33156269788742065
+12,{} barn with a tractor parked outside,10,0.5079827308654785
+12,{} barn with a tractor parked outside,11,0.4589368999004364
+12,{} barn with a tractor parked outside,12,0.6560966968536377
+12,{} barn with a tractor parked outside,13,0.4099074602127075
+12,{} barn with a tractor parked outside,14,0.43947216868400574
+12,{} barn with a tractor parked outside,15,0.5980327725410461
+12,{} barn with a tractor parked outside,16,0.5858817100524902
+12,{} barn with a tractor parked outside,17,0.6578155755996704
+12,{} barn with a tractor parked outside,18,0.46597105264663696
+12,{} barn with a tractor parked outside,19,0.5598182678222656
+12,{} barn with a tractor parked outside,20,0.558043360710144
+12,{} barn with a tractor parked outside,21,0.4049846827983856
+12,{} barn with a tractor parked outside,22,0.5210668444633484
+12,{} barn with a tractor parked outside,23,0.5638154745101929
+12,{} barn with a tractor parked outside,24,0.5452443361282349
+12,{} barn with a tractor parked outside,25,0.4176178276538849
+12,{} barn with a tractor parked outside,26,0.5328881144523621
+12,{} barn with a tractor parked outside,27,0.461131751537323
+12,{} barn with a tractor parked outside,28,0.590644896030426
+12,{} barn with a tractor parked outside,29,0.6127040386199951
+12,{} barn with a tractor parked outside,30,0.4332202076911926
+12,{} barn with a tractor parked outside,31,0.3693608343601227
+12,{} barn with a tractor parked outside,32,0.48738962411880493
+12,{} barn with a tractor parked outside,33,0.49316200613975525
+12,{} barn with a tractor parked outside,34,0.543287992477417
+12,{} barn with a tractor parked outside,35,0.45134270191192627
+12,{} barn with a tractor parked outside,36,0.5320264101028442
+12,{} barn with a tractor parked outside,37,0.4957732558250427
+12,{} barn with a tractor parked outside,38,0.3834241032600403
+12,{} barn with a tractor parked outside,39,0.5443402528762817
+12,{} barn with a tractor parked outside,40,0.5575134754180908
+12,{} barn with a tractor parked outside,41,0.45633256435394287
+12,{} barn with a tractor parked outside,42,0.5546835660934448
+12,{} barn with a tractor parked outside,43,0.7009825706481934
+12,{} barn with a tractor parked outside,44,0.47138264775276184
+12,{} barn with a tractor parked outside,45,0.4745374321937561
+12,{} barn with a tractor parked outside,46,0.41631609201431274
+12,{} barn with a tractor parked outside,47,0.7347667217254639
+12,{} barn with a tractor parked outside,48,0.5105908513069153
+12,{} barn with a tractor parked outside,49,0.7219134569168091

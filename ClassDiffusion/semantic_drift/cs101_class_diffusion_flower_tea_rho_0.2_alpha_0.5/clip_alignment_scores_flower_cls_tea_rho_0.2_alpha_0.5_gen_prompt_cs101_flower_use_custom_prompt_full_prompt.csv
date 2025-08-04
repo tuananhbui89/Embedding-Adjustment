@@ -1,0 +1,651 @@
+prompt_index,prompt,image_index,score
+0,{} flower growing in the desert,0,27.09427261352539
+0,{} flower growing in the desert,1,25.707412719726562
+0,{} flower growing in the desert,2,29.474151611328125
+0,{} flower growing in the desert,3,29.38636016845703
+0,{} flower growing in the desert,4,30.174320220947266
+0,{} flower growing in the desert,5,27.615079879760742
+0,{} flower growing in the desert,6,24.97992515563965
+0,{} flower growing in the desert,7,27.485868453979492
+0,{} flower growing in the desert,8,27.27596092224121
+0,{} flower growing in the desert,9,27.025287628173828
+0,{} flower growing in the desert,10,30.202808380126953
+0,{} flower growing in the desert,11,25.78046417236328
+0,{} flower growing in the desert,12,28.220727920532227
+0,{} flower growing in the desert,13,27.52886962890625
+0,{} flower growing in the desert,14,27.879247665405273
+0,{} flower growing in the desert,15,27.226192474365234
+0,{} flower growing in the desert,16,27.9265079498291
+0,{} flower growing in the desert,17,27.59636116027832
+0,{} flower growing in the desert,18,28.311506271362305
+0,{} flower growing in the desert,19,27.304162979125977
+0,{} flower growing in the desert,20,25.9372615814209
+0,{} flower growing in the desert,21,26.9686279296875
+0,{} flower growing in the desert,22,26.832157135009766
+0,{} flower growing in the desert,23,24.341320037841797
+0,{} flower growing in the desert,24,25.185039520263672
+0,{} flower growing in the desert,25,26.93636703491211
+0,{} flower growing in the desert,26,27.932161331176758
+0,{} flower growing in the desert,27,26.90493392944336
+0,{} flower growing in the desert,28,26.040149688720703
+0,{} flower growing in the desert,29,25.985258102416992
+0,{} flower growing in the desert,30,29.565452575683594
+0,{} flower growing in the desert,31,23.268579483032227
+0,{} flower growing in the desert,32,25.94466209411621
+0,{} flower growing in the desert,33,27.99590301513672
+0,{} flower growing in the desert,34,27.265548706054688
+0,{} flower growing in the desert,35,25.314041137695312
+0,{} flower growing in the desert,36,25.03032684326172
+0,{} flower growing in the desert,37,28.191274642944336
+0,{} flower growing in the desert,38,29.180747985839844
+0,{} flower growing in the desert,39,25.093151092529297
+0,{} flower growing in the desert,40,26.287498474121094
+0,{} flower growing in the desert,41,30.08136749267578
+0,{} flower growing in the desert,42,27.68811798095703
+0,{} flower growing in the desert,43,27.319395065307617
+0,{} flower growing in the desert,44,27.46576690673828
+0,{} flower growing in the desert,45,27.104604721069336
+0,{} flower growing in the desert,46,27.065319061279297
+0,{} flower growing in the desert,47,28.513946533203125
+0,{} flower growing in the desert,48,20.76468849182129
+0,{} flower growing in the desert,49,28.709463119506836
+1,{} flower at a beach with a view of the seashore,0,28.930768966674805
+1,{} flower at a beach with a view of the seashore,1,27.557777404785156
+1,{} flower at a beach with a view of the seashore,2,26.818571090698242
+1,{} flower at a beach with a view of the seashore,3,26.36660385131836
+1,{} flower at a beach with a view of the seashore,4,29.001117706298828
+1,{} flower at a beach with a view of the seashore,5,26.241296768188477
+1,{} flower at a beach with a view of the seashore,6,26.435083389282227
+1,{} flower at a beach with a view of the seashore,7,26.873233795166016
+1,{} flower at a beach with a view of the seashore,8,28.625682830810547
+1,{} flower at a beach with a view of the seashore,9,28.270917892456055
+1,{} flower at a beach with a view of the seashore,10,26.28813362121582
+1,{} flower at a beach with a view of the seashore,11,28.848039627075195
+1,{} flower at a beach with a view of the seashore,12,26.746070861816406
+1,{} flower at a beach with a view of the seashore,13,27.175525665283203
+1,{} flower at a beach with a view of the seashore,14,27.9388427734375
+1,{} flower at a beach with a view of the seashore,15,26.09454917907715
+1,{} flower at a beach with a view of the seashore,16,26.95206069946289
+1,{} flower at a beach with a view of the seashore,17,27.976238250732422
+1,{} flower at a beach with a view of the seashore,18,26.56770133972168
+1,{} flower at a beach with a view of the seashore,19,26.918834686279297
+1,{} flower at a beach with a view of the seashore,20,28.123462677001953
+1,{} flower at a beach with a view of the seashore,21,26.475143432617188
+1,{} flower at a beach with a view of the seashore,22,27.62225341796875
+1,{} flower at a beach with a view of the seashore,23,29.667293548583984
+1,{} flower at a beach with a view of the seashore,24,27.54736328125
+1,{} flower at a beach with a view of the seashore,25,26.586767196655273
+1,{} flower at a beach with a view of the seashore,26,25.999826431274414
+1,{} flower at a beach with a view of the seashore,27,28.178001403808594
+1,{} flower at a beach with a view of the seashore,28,26.512941360473633
+1,{} flower at a beach with a view of the seashore,29,26.410367965698242
+1,{} flower at a beach with a view of the seashore,30,27.6483211517334
+1,{} flower at a beach with a view of the seashore,31,28.55246925354004
+1,{} flower at a beach with a view of the seashore,32,27.26327133178711
+1,{} flower at a beach with a view of the seashore,33,27.437671661376953
+1,{} flower at a beach with a view of the seashore,34,26.72198486328125
+1,{} flower at a beach with a view of the seashore,35,28.773927688598633
+1,{} flower at a beach with a view of the seashore,36,27.981243133544922
+1,{} flower at a beach with a view of the seashore,37,27.61170196533203
+1,{} flower at a beach with a view of the seashore,38,26.293886184692383
+1,{} flower at a beach with a view of the seashore,39,27.314228057861328
+1,{} flower at a beach with a view of the seashore,40,27.981678009033203
+1,{} flower at a beach with a view of the seashore,41,26.38656997680664
+1,{} flower at a beach with a view of the seashore,42,21.1910400390625
+1,{} flower at a beach with a view of the seashore,43,28.148481369018555
+1,{} flower at a beach with a view of the seashore,44,27.5355167388916
+1,{} flower at a beach with a view of the seashore,45,27.28256607055664
+1,{} flower at a beach with a view of the seashore,46,29.364686965942383
+1,{} flower at a beach with a view of the seashore,47,26.61212921142578
+1,{} flower at a beach with a view of the seashore,48,27.09345245361328
+1,{} flower at a beach with a view of the seashore,49,27.730018615722656
+2,{} flower on top of a mountain with sunrise in the background,0,28.600765228271484
+2,{} flower on top of a mountain with sunrise in the background,1,30.956966400146484
+2,{} flower on top of a mountain with sunrise in the background,2,30.801815032958984
+2,{} flower on top of a mountain with sunrise in the background,3,32.18014907836914
+2,{} flower on top of a mountain with sunrise in the background,4,29.749801635742188
+2,{} flower on top of a mountain with sunrise in the background,5,30.5323429107666
+2,{} flower on top of a mountain with sunrise in the background,6,29.857803344726562
+2,{} flower on top of a mountain with sunrise in the background,7,31.284809112548828
+2,{} flower on top of a mountain with sunrise in the background,8,31.488412857055664
+2,{} flower on top of a mountain with sunrise in the background,9,28.393264770507812
+2,{} flower on top of a mountain with sunrise in the background,10,29.867595672607422
+2,{} flower on top of a mountain with sunrise in the background,11,31.217924118041992
+2,{} flower on top of a mountain with sunrise in the background,12,30.058427810668945
+2,{} flower on top of a mountain with sunrise in the background,13,31.554784774780273
+2,{} flower on top of a mountain with sunrise in the background,14,27.422210693359375
+2,{} flower on top of a mountain with sunrise in the background,15,30.866924285888672
+2,{} flower on top of a mountain with sunrise in the background,16,29.420286178588867
+2,{} flower on top of a mountain with sunrise in the background,17,30.42401695251465
+2,{} flower on top of a mountain with sunrise in the background,18,28.540090560913086
+2,{} flower on top of a mountain with sunrise in the background,19,29.421489715576172
+2,{} flower on top of a mountain with sunrise in the background,20,29.54269027709961
+2,{} flower on top of a mountain with sunrise in the background,21,30.351566314697266
+2,{} flower on top of a mountain with sunrise in the background,22,30.521148681640625
+2,{} flower on top of a mountain with sunrise in the background,23,29.84122085571289
+2,{} flower on top of a mountain with sunrise in the background,24,30.79336929321289
+2,{} flower on top of a mountain with sunrise in the background,25,30.90580177307129
+2,{} flower on top of a mountain with sunrise in the background,26,32.18401336669922
+2,{} flower on top of a mountain with sunrise in the background,27,30.787540435791016
+2,{} flower on top of a mountain with sunrise in the background,28,31.23212432861328
+2,{} flower on top of a mountain with sunrise in the background,29,27.617900848388672
+2,{} flower on top of a mountain with sunrise in the background,30,29.384868621826172
+2,{} flower on top of a mountain with sunrise in the background,31,30.913278579711914
+2,{} flower on top of a mountain with sunrise in the background,32,31.325698852539062
+2,{} flower on top of a mountain with sunrise in the background,33,29.638593673706055
+2,{} flower on top of a mountain with sunrise in the background,34,30.008081436157227
+2,{} flower on top of a mountain with sunrise in the background,35,30.117183685302734
+2,{} flower on top of a mountain with sunrise in the background,36,32.52275085449219
+2,{} flower on top of a mountain with sunrise in the background,37,28.71761703491211
+2,{} flower on top of a mountain with sunrise in the background,38,29.300155639648438
+2,{} flower on top of a mountain with sunrise in the background,39,27.756336212158203
+2,{} flower on top of a mountain with sunrise in the background,40,31.534147262573242
+2,{} flower on top of a mountain with sunrise in the background,41,29.96628189086914
+2,{} flower on top of a mountain with sunrise in the background,42,28.881999969482422
+2,{} flower on top of a mountain with sunrise in the background,43,30.454879760742188
+2,{} flower on top of a mountain with sunrise in the background,44,30.825227737426758
+2,{} flower on top of a mountain with sunrise in the background,45,28.997028350830078
+2,{} flower on top of a mountain with sunrise in the background,46,29.25305938720703
+2,{} flower on top of a mountain with sunrise in the background,47,31.2493896484375
+2,{} flower on top of a mountain with sunrise in the background,48,26.2446346282959
+2,{} flower on top of a mountain with sunrise in the background,49,29.028146743774414
+3,a man holding a bouquet of {} flower,0,27.20979118347168
+3,a man holding a bouquet of {} flower,1,24.50397491455078
+3,a man holding a bouquet of {} flower,2,25.017913818359375
+3,a man holding a bouquet of {} flower,3,30.543628692626953
+3,a man holding a bouquet of {} flower,4,25.588523864746094
+3,a man holding a bouquet of {} flower,5,27.647634506225586
+3,a man holding a bouquet of {} flower,6,22.576261520385742
+3,a man holding a bouquet of {} flower,7,23.959463119506836
+3,a man holding a bouquet of {} flower,8,24.155776977539062
+3,a man holding a bouquet of {} flower,9,25.345802307128906
+3,a man holding a bouquet of {} flower,10,25.889474868774414
+3,a man holding a bouquet of {} flower,11,27.389312744140625
+3,a man holding a bouquet of {} flower,12,28.26099395751953
+3,a man holding a bouquet of {} flower,13,26.679819107055664
+3,a man holding a bouquet of {} flower,14,23.5020751953125
+3,a man holding a bouquet of {} flower,15,25.460206985473633
+3,a man holding a bouquet of {} flower,16,28.771203994750977
+3,a man holding a bouquet of {} flower,17,24.273887634277344
+3,a man holding a bouquet of {} flower,18,25.87432289123535
+3,a man holding a bouquet of {} flower,19,27.725875854492188
+3,a man holding a bouquet of {} flower,20,23.142677307128906
+3,a man holding a bouquet of {} flower,21,25.162267684936523
+3,a man holding a bouquet of {} flower,22,28.9525203704834
+3,a man holding a bouquet of {} flower,23,24.556344985961914
+3,a man holding a bouquet of {} flower,24,27.623096466064453
+3,a man holding a bouquet of {} flower,25,25.55864143371582
+3,a man holding a bouquet of {} flower,26,25.178237915039062
+3,a man holding a bouquet of {} flower,27,28.7572078704834
+3,a man holding a bouquet of {} flower,28,25.585657119750977
+3,a man holding a bouquet of {} flower,29,24.023733139038086
+3,a man holding a bouquet of {} flower,30,25.208648681640625
+3,a man holding a bouquet of {} flower,31,29.186403274536133
+3,a man holding a bouquet of {} flower,32,24.988237380981445
+3,a man holding a bouquet of {} flower,33,24.120988845825195
+3,a man holding a bouquet of {} flower,34,26.594913482666016
+3,a man holding a bouquet of {} flower,35,26.90872573852539
+3,a man holding a bouquet of {} flower,36,27.28516387939453
+3,a man holding a bouquet of {} flower,37,22.46273422241211
+3,a man holding a bouquet of {} flower,38,25.40711212158203
+3,a man holding a bouquet of {} flower,39,27.26345443725586
+3,a man holding a bouquet of {} flower,40,28.289396286010742
+3,a man holding a bouquet of {} flower,41,21.859792709350586
+3,a man holding a bouquet of {} flower,42,28.261655807495117
+3,a man holding a bouquet of {} flower,43,26.328712463378906
+3,a man holding a bouquet of {} flower,44,23.646684646606445
+3,a man holding a bouquet of {} flower,45,21.71109390258789
+3,a man holding a bouquet of {} flower,46,26.294803619384766
+3,a man holding a bouquet of {} flower,47,19.578664779663086
+3,a man holding a bouquet of {} flower,48,23.923200607299805
+3,a man holding a bouquet of {} flower,49,26.789066314697266
+4,A garden of {} flower,0,25.123125076293945
+4,A garden of {} flower,1,25.474157333374023
+4,A garden of {} flower,2,26.77145004272461
+4,A garden of {} flower,3,24.690509796142578
+4,A garden of {} flower,4,22.992813110351562
+4,A garden of {} flower,5,24.291095733642578
+4,A garden of {} flower,6,25.419109344482422
+4,A garden of {} flower,7,26.27783966064453
+4,A garden of {} flower,8,26.17083168029785
+4,A garden of {} flower,9,25.783432006835938
+4,A garden of {} flower,10,26.48980712890625
+4,A garden of {} flower,11,25.31202507019043
+4,A garden of {} flower,12,25.428709030151367
+4,A garden of {} flower,13,26.33588981628418
+4,A garden of {} flower,14,25.06413459777832
+4,A garden of {} flower,15,26.66478157043457
+4,A garden of {} flower,16,26.425212860107422
+4,A garden of {} flower,17,26.301319122314453
+4,A garden of {} flower,18,25.757816314697266
+4,A garden of {} flower,19,27.706363677978516
+4,A garden of {} flower,20,25.691532135009766
+4,A garden of {} flower,21,26.979351043701172
+4,A garden of {} flower,22,26.28850555419922
+4,A garden of {} flower,23,24.760272979736328
+4,A garden of {} flower,24,25.234054565429688
+4,A garden of {} flower,25,22.62050437927246
+4,A garden of {} flower,26,25.957605361938477
+4,A garden of {} flower,27,25.49242401123047
+4,A garden of {} flower,28,22.948333740234375
+4,A garden of {} flower,29,26.571836471557617
+4,A garden of {} flower,30,23.651010513305664
+4,A garden of {} flower,31,25.741695404052734
+4,A garden of {} flower,32,25.386005401611328
+4,A garden of {} flower,33,23.614215850830078
+4,A garden of {} flower,34,24.885963439941406
+4,A garden of {} flower,35,25.043603897094727
+4,A garden of {} flower,36,24.18121337890625
+4,A garden of {} flower,37,25.602493286132812
+4,A garden of {} flower,38,25.00487518310547
+4,A garden of {} flower,39,25.772403717041016
+4,A garden of {} flower,40,26.207834243774414
+4,A garden of {} flower,41,24.548118591308594
+4,A garden of {} flower,42,24.608604431152344
+4,A garden of {} flower,43,24.220016479492188
+4,A garden of {} flower,44,19.114259719848633
+4,A garden of {} flower,45,25.632003784179688
+4,A garden of {} flower,46,25.393373489379883
+4,A garden of {} flower,47,25.944120407104492
+4,A garden of {} flower,48,24.720308303833008
+4,A garden of {} flower,49,23.04568862915039
+5,{} flower in a violet vase on a table,0,27.54546356201172
+5,{} flower in a violet vase on a table,1,24.97006607055664
+5,{} flower in a violet vase on a table,2,24.56072998046875
+5,{} flower in a violet vase on a table,3,27.262042999267578
+5,{} flower in a violet vase on a table,4,29.246456146240234
+5,{} flower in a violet vase on a table,5,25.92170524597168
+5,{} flower in a violet vase on a table,6,24.7624454498291
+5,{} flower in a violet vase on a table,7,22.79840660095215
+5,{} flower in a violet vase on a table,8,27.532794952392578
+5,{} flower in a violet vase on a table,9,26.61646842956543
+5,{} flower in a violet vase on a table,10,26.165517807006836
+5,{} flower in a violet vase on a table,11,25.845579147338867
+5,{} flower in a violet vase on a table,12,23.893659591674805
+5,{} flower in a violet vase on a table,13,26.459747314453125
+5,{} flower in a violet vase on a table,14,25.913646697998047
+5,{} flower in a violet vase on a table,15,24.843828201293945
+5,{} flower in a violet vase on a table,16,28.241275787353516
+5,{} flower in a violet vase on a table,17,24.342178344726562
+5,{} flower in a violet vase on a table,18,26.563627243041992
+5,{} flower in a violet vase on a table,19,27.75493049621582
+5,{} flower in a violet vase on a table,20,27.375173568725586
+5,{} flower in a violet vase on a table,21,24.824729919433594
+5,{} flower in a violet vase on a table,22,26.882038116455078
+5,{} flower in a violet vase on a table,23,27.26871109008789
+5,{} flower in a violet vase on a table,24,24.517377853393555
+5,{} flower in a violet vase on a table,25,27.127700805664062
+5,{} flower in a violet vase on a table,26,27.389850616455078
+5,{} flower in a violet vase on a table,27,25.18815040588379
+5,{} flower in a violet vase on a table,28,25.722015380859375
+5,{} flower in a violet vase on a table,29,24.55196762084961
+5,{} flower in a violet vase on a table,30,27.4323787689209
+5,{} flower in a violet vase on a table,31,28.97752571105957
+5,{} flower in a violet vase on a table,32,27.108652114868164
+5,{} flower in a violet vase on a table,33,24.408367156982422
+5,{} flower in a violet vase on a table,34,24.346960067749023
+5,{} flower in a violet vase on a table,35,27.47640037536621
+5,{} flower in a violet vase on a table,36,25.676048278808594
+5,{} flower in a violet vase on a table,37,26.120981216430664
+5,{} flower in a violet vase on a table,38,25.8458194732666
+5,{} flower in a violet vase on a table,39,26.689008712768555
+5,{} flower in a violet vase on a table,40,27.01423454284668
+5,{} flower in a violet vase on a table,41,25.758098602294922
+5,{} flower in a violet vase on a table,42,26.892805099487305
+5,{} flower in a violet vase on a table,43,25.28563117980957
+5,{} flower in a violet vase on a table,44,27.289283752441406
+5,{} flower in a violet vase on a table,45,24.367454528808594
+5,{} flower in a violet vase on a table,46,27.149599075317383
+5,{} flower in a violet vase on a table,47,29.1035213470459
+5,{} flower in a violet vase on a table,48,25.581348419189453
+5,{} flower in a violet vase on a table,49,25.535282135009766
+6,a vase filled with {} flower on a table,0,23.086889266967773
+6,a vase filled with {} flower on a table,1,22.832237243652344
+6,a vase filled with {} flower on a table,2,25.725370407104492
+6,a vase filled with {} flower on a table,3,21.678003311157227
+6,a vase filled with {} flower on a table,4,24.89377212524414
+6,a vase filled with {} flower on a table,5,21.30349349975586
+6,a vase filled with {} flower on a table,6,23.091026306152344
+6,a vase filled with {} flower on a table,7,21.302942276000977
+6,a vase filled with {} flower on a table,8,22.57183265686035
+6,a vase filled with {} flower on a table,9,22.52498435974121
+6,a vase filled with {} flower on a table,10,25.28049087524414
+6,a vase filled with {} flower on a table,11,24.743881225585938
+6,a vase filled with {} flower on a table,12,24.718534469604492
+6,a vase filled with {} flower on a table,13,23.212345123291016
+6,a vase filled with {} flower on a table,14,23.477766036987305
+6,a vase filled with {} flower on a table,15,24.08479118347168
+6,a vase filled with {} flower on a table,16,23.569278717041016
+6,a vase filled with {} flower on a table,17,23.91899299621582
+6,a vase filled with {} flower on a table,18,22.545286178588867
+6,a vase filled with {} flower on a table,19,25.724462509155273
+6,a vase filled with {} flower on a table,20,26.21844482421875
+6,a vase filled with {} flower on a table,21,24.188720703125
+6,a vase filled with {} flower on a table,22,26.503211975097656
+6,a vase filled with {} flower on a table,23,22.92827033996582
+6,a vase filled with {} flower on a table,24,22.376022338867188
+6,a vase filled with {} flower on a table,25,25.292858123779297
+6,a vase filled with {} flower on a table,26,25.111764907836914
+6,a vase filled with {} flower on a table,27,21.133426666259766
+6,a vase filled with {} flower on a table,28,24.615798950195312
+6,a vase filled with {} flower on a table,29,25.136699676513672
+6,a vase filled with {} flower on a table,30,21.693143844604492
+6,a vase filled with {} flower on a table,31,24.509309768676758
+6,a vase filled with {} flower on a table,32,23.32866859436035
+6,a vase filled with {} flower on a table,33,22.844045639038086
+6,a vase filled with {} flower on a table,34,23.94981575012207
+6,a vase filled with {} flower on a table,35,24.065914154052734
+6,a vase filled with {} flower on a table,36,24.11574363708496
+6,a vase filled with {} flower on a table,37,26.90069580078125
+6,a vase filled with {} flower on a table,38,22.416231155395508
+6,a vase filled with {} flower on a table,39,24.5380916595459
+6,a vase filled with {} flower on a table,40,22.186887741088867
+6,a vase filled with {} flower on a table,41,23.067359924316406
+6,a vase filled with {} flower on a table,42,24.573108673095703
+6,a vase filled with {} flower on a table,43,24.07464027404785
+6,a vase filled with {} flower on a table,44,25.644609451293945
+6,a vase filled with {} flower on a table,45,24.57813262939453
+6,a vase filled with {} flower on a table,46,24.394397735595703
+6,a vase filled with {} flower on a table,47,21.961740493774414
+6,a vase filled with {} flower on a table,48,26.250076293945312
+6,a vase filled with {} flower on a table,49,22.532575607299805
+7,a woman holding a bouquet of {} flower and roses,0,24.80190658569336
+7,a woman holding a bouquet of {} flower and roses,1,27.118755340576172
+7,a woman holding a bouquet of {} flower and roses,2,28.571191787719727
+7,a woman holding a bouquet of {} flower and roses,3,23.819860458374023
+7,a woman holding a bouquet of {} flower and roses,4,27.570783615112305
+7,a woman holding a bouquet of {} flower and roses,5,27.604419708251953
+7,a woman holding a bouquet of {} flower and roses,6,23.68697166442871
+7,a woman holding a bouquet of {} flower and roses,7,27.314434051513672
+7,a woman holding a bouquet of {} flower and roses,8,25.38079071044922
+7,a woman holding a bouquet of {} flower and roses,9,27.887226104736328
+7,a woman holding a bouquet of {} flower and roses,10,25.385990142822266
+7,a woman holding a bouquet of {} flower and roses,11,26.019018173217773
+7,a woman holding a bouquet of {} flower and roses,12,27.672607421875
+7,a woman holding a bouquet of {} flower and roses,13,23.17900276184082
+7,a woman holding a bouquet of {} flower and roses,14,27.652130126953125
+7,a woman holding a bouquet of {} flower and roses,15,27.595306396484375
+7,a woman holding a bouquet of {} flower and roses,16,26.055362701416016
+7,a woman holding a bouquet of {} flower and roses,17,26.544963836669922
+7,a woman holding a bouquet of {} flower and roses,18,26.09027671813965
+7,a woman holding a bouquet of {} flower and roses,19,25.634872436523438
+7,a woman holding a bouquet of {} flower and roses,20,23.78057289123535
+7,a woman holding a bouquet of {} flower and roses,21,27.907115936279297
+7,a woman holding a bouquet of {} flower and roses,22,23.984704971313477
+7,a woman holding a bouquet of {} flower and roses,23,27.055767059326172
+7,a woman holding a bouquet of {} flower and roses,24,29.076141357421875
+7,a woman holding a bouquet of {} flower and roses,25,28.61190414428711
+7,a woman holding a bouquet of {} flower and roses,26,26.201797485351562
+7,a woman holding a bouquet of {} flower and roses,27,24.805282592773438
+7,a woman holding a bouquet of {} flower and roses,28,24.484622955322266
+7,a woman holding a bouquet of {} flower and roses,29,27.53278923034668
+7,a woman holding a bouquet of {} flower and roses,30,26.02098274230957
+7,a woman holding a bouquet of {} flower and roses,31,26.259057998657227
+7,a woman holding a bouquet of {} flower and roses,32,27.459060668945312
+7,a woman holding a bouquet of {} flower and roses,33,28.252023696899414
+7,a woman holding a bouquet of {} flower and roses,34,24.86678123474121
+7,a woman holding a bouquet of {} flower and roses,35,24.73407745361328
+7,a woman holding a bouquet of {} flower and roses,36,28.678035736083984
+7,a woman holding a bouquet of {} flower and roses,37,24.66469383239746
+7,a woman holding a bouquet of {} flower and roses,38,26.61501121520996
+7,a woman holding a bouquet of {} flower and roses,39,26.144134521484375
+7,a woman holding a bouquet of {} flower and roses,40,25.565021514892578
+7,a woman holding a bouquet of {} flower and roses,41,25.59598159790039
+7,a woman holding a bouquet of {} flower and roses,42,29.299312591552734
+7,a woman holding a bouquet of {} flower and roses,43,25.954330444335938
+7,a woman holding a bouquet of {} flower and roses,44,24.506446838378906
+7,a woman holding a bouquet of {} flower and roses,45,20.385705947875977
+7,a woman holding a bouquet of {} flower and roses,46,28.612369537353516
+7,a woman holding a bouquet of {} flower and roses,47,26.8341007232666
+7,a woman holding a bouquet of {} flower and roses,48,25.522445678710938
+7,a woman holding a bouquet of {} flower and roses,49,25.429296493530273
+8,{} flower and a chocolate cake on the table,0,27.249797821044922
+8,{} flower and a chocolate cake on the table,1,26.400970458984375
+8,{} flower and a chocolate cake on the table,2,25.46573829650879
+8,{} flower and a chocolate cake on the table,3,26.454586029052734
+8,{} flower and a chocolate cake on the table,4,26.860380172729492
+8,{} flower and a chocolate cake on the table,5,28.701337814331055
+8,{} flower and a chocolate cake on the table,6,24.913129806518555
+8,{} flower and a chocolate cake on the table,7,26.65347671508789
+8,{} flower and a chocolate cake on the table,8,28.375640869140625
+8,{} flower and a chocolate cake on the table,9,26.58100128173828
+8,{} flower and a chocolate cake on the table,10,28.49215316772461
+8,{} flower and a chocolate cake on the table,11,25.118547439575195
+8,{} flower and a chocolate cake on the table,12,28.99312400817871
+8,{} flower and a chocolate cake on the table,13,29.534208297729492
+8,{} flower and a chocolate cake on the table,14,25.699352264404297
+8,{} flower and a chocolate cake on the table,15,24.169862747192383
+8,{} flower and a chocolate cake on the table,16,27.822586059570312
+8,{} flower and a chocolate cake on the table,17,26.46242332458496
+8,{} flower and a chocolate cake on the table,18,26.960161209106445
+8,{} flower and a chocolate cake on the table,19,26.7549991607666
+8,{} flower and a chocolate cake on the table,20,25.197965621948242
+8,{} flower and a chocolate cake on the table,21,27.916854858398438
+8,{} flower and a chocolate cake on the table,22,27.032705307006836
+8,{} flower and a chocolate cake on the table,23,28.40111541748047
+8,{} flower and a chocolate cake on the table,24,27.414655685424805
+8,{} flower and a chocolate cake on the table,25,24.645856857299805
+8,{} flower and a chocolate cake on the table,26,26.768985748291016
+8,{} flower and a chocolate cake on the table,27,24.47453498840332
+8,{} flower and a chocolate cake on the table,28,27.759504318237305
+8,{} flower and a chocolate cake on the table,29,29.648250579833984
+8,{} flower and a chocolate cake on the table,30,25.914445877075195
+8,{} flower and a chocolate cake on the table,31,27.745147705078125
+8,{} flower and a chocolate cake on the table,32,27.193004608154297
+8,{} flower and a chocolate cake on the table,33,26.906383514404297
+8,{} flower and a chocolate cake on the table,34,28.456253051757812
+8,{} flower and a chocolate cake on the table,35,26.729982376098633
+8,{} flower and a chocolate cake on the table,36,24.884199142456055
+8,{} flower and a chocolate cake on the table,37,25.83962631225586
+8,{} flower and a chocolate cake on the table,38,26.144468307495117
+8,{} flower and a chocolate cake on the table,39,26.776493072509766
+8,{} flower and a chocolate cake on the table,40,27.025245666503906
+8,{} flower and a chocolate cake on the table,41,27.418804168701172
+8,{} flower and a chocolate cake on the table,42,27.289470672607422
+8,{} flower and a chocolate cake on the table,43,27.5636043548584
+8,{} flower and a chocolate cake on the table,44,29.35186004638672
+8,{} flower and a chocolate cake on the table,45,24.734453201293945
+8,{} flower and a chocolate cake on the table,46,28.128612518310547
+8,{} flower and a chocolate cake on the table,47,28.035003662109375
+8,{} flower and a chocolate cake on the table,48,24.724637985229492
+8,{} flower and a chocolate cake on the table,49,28.219032287597656
+9,puppy in front of {} flower,0,31.059911727905273
+9,puppy in front of {} flower,1,32.85808181762695
+9,puppy in front of {} flower,2,29.431379318237305
+9,puppy in front of {} flower,3,31.509563446044922
+9,puppy in front of {} flower,4,31.210073471069336
+9,puppy in front of {} flower,5,29.07009506225586
+9,puppy in front of {} flower,6,26.83086395263672
+9,puppy in front of {} flower,7,29.86135482788086
+9,puppy in front of {} flower,8,30.17519187927246
+9,puppy in front of {} flower,9,30.027589797973633
+9,puppy in front of {} flower,10,31.888473510742188
+9,puppy in front of {} flower,11,30.07408905029297
+9,puppy in front of {} flower,12,31.057750701904297
+9,puppy in front of {} flower,13,32.83683776855469
+9,puppy in front of {} flower,14,33.15155029296875
+9,puppy in front of {} flower,15,28.868507385253906
+9,puppy in front of {} flower,16,28.510929107666016
+9,puppy in front of {} flower,17,32.34410095214844
+9,puppy in front of {} flower,18,32.976837158203125
+9,puppy in front of {} flower,19,29.51616859436035
+9,puppy in front of {} flower,20,32.64436340332031
+9,puppy in front of {} flower,21,30.964794158935547
+9,puppy in front of {} flower,22,30.04486846923828
+9,puppy in front of {} flower,23,32.02096939086914
+9,puppy in front of {} flower,24,30.039575576782227
+9,puppy in front of {} flower,25,33.64285659790039
+9,puppy in front of {} flower,26,30.53063201904297
+9,puppy in front of {} flower,27,32.81285858154297
+9,puppy in front of {} flower,28,31.797998428344727
+9,puppy in front of {} flower,29,29.90475845336914
+9,puppy in front of {} flower,30,32.451541900634766
+9,puppy in front of {} flower,31,30.97042465209961
+9,puppy in front of {} flower,32,33.774620056152344
+9,puppy in front of {} flower,33,31.16552734375
+9,puppy in front of {} flower,34,32.44660568237305
+9,puppy in front of {} flower,35,29.719257354736328
+9,puppy in front of {} flower,36,31.491411209106445
+9,puppy in front of {} flower,37,29.85460662841797
+9,puppy in front of {} flower,38,29.440181732177734
+9,puppy in front of {} flower,39,29.24998664855957
+9,puppy in front of {} flower,40,29.489564895629883
+9,puppy in front of {} flower,41,26.42902946472168
+9,puppy in front of {} flower,42,29.635774612426758
+9,puppy in front of {} flower,43,31.42693328857422
+9,puppy in front of {} flower,44,30.293468475341797
+9,puppy in front of {} flower,45,28.61700439453125
+9,puppy in front of {} flower,46,30.02819061279297
+9,puppy in front of {} flower,47,31.871532440185547
+9,puppy in front of {} flower,48,30.995420455932617
+9,puppy in front of {} flower,49,27.26192855834961
+10,a cat in front of {} flower,0,28.064367294311523
+10,a cat in front of {} flower,1,28.394329071044922
+10,a cat in front of {} flower,2,27.2701416015625
+10,a cat in front of {} flower,3,28.359079360961914
+10,a cat in front of {} flower,4,29.190200805664062
+10,a cat in front of {} flower,5,28.55963706970215
+10,a cat in front of {} flower,6,27.521366119384766
+10,a cat in front of {} flower,7,27.875396728515625
+10,a cat in front of {} flower,8,29.827457427978516
+10,a cat in front of {} flower,9,27.80609130859375
+10,a cat in front of {} flower,10,27.612451553344727
+10,a cat in front of {} flower,11,31.058815002441406
+10,a cat in front of {} flower,12,29.7901668548584
+10,a cat in front of {} flower,13,27.220046997070312
+10,a cat in front of {} flower,14,26.086193084716797
+10,a cat in front of {} flower,15,28.821731567382812
+10,a cat in front of {} flower,16,29.133895874023438
+10,a cat in front of {} flower,17,28.07135009765625
+10,a cat in front of {} flower,18,29.28263282775879
+10,a cat in front of {} flower,19,27.22694206237793
+10,a cat in front of {} flower,20,27.958148956298828
+10,a cat in front of {} flower,21,28.1706485748291
+10,a cat in front of {} flower,22,29.835792541503906
+10,a cat in front of {} flower,23,28.506845474243164
+10,a cat in front of {} flower,24,29.334896087646484
+10,a cat in front of {} flower,25,27.8176212310791
+10,a cat in front of {} flower,26,29.233051300048828
+10,a cat in front of {} flower,27,28.662830352783203
+10,a cat in front of {} flower,28,27.450878143310547
+10,a cat in front of {} flower,29,28.086475372314453
+10,a cat in front of {} flower,30,28.682226181030273
+10,a cat in front of {} flower,31,28.33448028564453
+10,a cat in front of {} flower,32,28.706819534301758
+10,a cat in front of {} flower,33,28.27025032043457
+10,a cat in front of {} flower,34,28.40663719177246
+10,a cat in front of {} flower,35,27.748703002929688
+10,a cat in front of {} flower,36,27.194568634033203
+10,a cat in front of {} flower,37,26.1287784576416
+10,a cat in front of {} flower,38,26.596790313720703
+10,a cat in front of {} flower,39,28.883832931518555
+10,a cat in front of {} flower,40,29.347043991088867
+10,a cat in front of {} flower,41,29.740949630737305
+10,a cat in front of {} flower,42,26.165586471557617
+10,a cat in front of {} flower,43,28.386821746826172
+10,a cat in front of {} flower,44,28.570873260498047
+10,a cat in front of {} flower,45,27.39911460876465
+10,a cat in front of {} flower,46,28.854841232299805
+10,a cat in front of {} flower,47,29.56793212890625
+10,a cat in front of {} flower,48,28.994911193847656
+10,a cat in front of {} flower,49,26.167985916137695
+11,a squirrel in front of {} flower,0,26.197511672973633
+11,a squirrel in front of {} flower,1,27.48233413696289
+11,a squirrel in front of {} flower,2,32.09977722167969
+11,a squirrel in front of {} flower,3,28.37303924560547
+11,a squirrel in front of {} flower,4,30.27880859375
+11,a squirrel in front of {} flower,5,32.339412689208984
+11,a squirrel in front of {} flower,6,26.568422317504883
+11,a squirrel in front of {} flower,7,27.489906311035156
+11,a squirrel in front of {} flower,8,29.691314697265625
+11,a squirrel in front of {} flower,9,24.012840270996094
+11,a squirrel in front of {} flower,10,32.285709381103516
+11,a squirrel in front of {} flower,11,29.366470336914062
+11,a squirrel in front of {} flower,12,28.147953033447266
+11,a squirrel in front of {} flower,13,29.910442352294922
+11,a squirrel in front of {} flower,14,32.579715728759766
+11,a squirrel in front of {} flower,15,29.233922958374023
+11,a squirrel in front of {} flower,16,28.24530601501465
+11,a squirrel in front of {} flower,17,22.667566299438477
+11,a squirrel in front of {} flower,18,27.166948318481445
+11,a squirrel in front of {} flower,19,27.643680572509766
+11,a squirrel in front of {} flower,20,25.76512908935547
+11,a squirrel in front of {} flower,21,32.08523178100586
+11,a squirrel in front of {} flower,22,30.950233459472656
+11,a squirrel in front of {} flower,23,30.33086585998535
+11,a squirrel in front of {} flower,24,26.74831771850586
+11,a squirrel in front of {} flower,25,28.37228775024414
+11,a squirrel in front of {} flower,26,30.467966079711914
+11,a squirrel in front of {} flower,27,25.093549728393555
+11,a squirrel in front of {} flower,28,24.579620361328125
+11,a squirrel in front of {} flower,29,30.90447235107422
+11,a squirrel in front of {} flower,30,24.721765518188477
+11,a squirrel in front of {} flower,31,25.122013092041016
+11,a squirrel in front of {} flower,32,31.80185317993164
+11,a squirrel in front of {} flower,33,30.75517463684082
+11,a squirrel in front of {} flower,34,30.507051467895508
+11,a squirrel in front of {} flower,35,29.099082946777344
+11,a squirrel in front of {} flower,36,31.740093231201172
+11,a squirrel in front of {} flower,37,30.935256958007812
+11,a squirrel in front of {} flower,38,32.01832580566406
+11,a squirrel in front of {} flower,39,31.846349716186523
+11,a squirrel in front of {} flower,40,28.885347366333008
+11,a squirrel in front of {} flower,41,27.48994255065918
+11,a squirrel in front of {} flower,42,30.182024002075195
+11,a squirrel in front of {} flower,43,31.9039306640625
+11,a squirrel in front of {} flower,44,32.87713623046875
+11,a squirrel in front of {} flower,45,31.480974197387695
+11,a squirrel in front of {} flower,46,31.95008659362793
+11,a squirrel in front of {} flower,47,24.62352752685547
+11,a squirrel in front of {} flower,48,33.22494888305664
+11,a squirrel in front of {} flower,49,29.223356246948242
+12,a bird in front of {} flower,0,21.542226791381836
+12,a bird in front of {} flower,1,26.27359962463379
+12,a bird in front of {} flower,2,29.224592208862305
+12,a bird in front of {} flower,3,27.19472885131836
+12,a bird in front of {} flower,4,27.106645584106445
+12,a bird in front of {} flower,5,27.738285064697266
+12,a bird in front of {} flower,6,27.183324813842773
+12,a bird in front of {} flower,7,26.950836181640625
+12,a bird in front of {} flower,8,29.979297637939453
+12,a bird in front of {} flower,9,21.26736831665039
+12,a bird in front of {} flower,10,29.204654693603516
+12,a bird in front of {} flower,11,27.862762451171875
+12,a bird in front of {} flower,12,26.261293411254883
+12,a bird in front of {} flower,13,28.337919235229492
+12,a bird in front of {} flower,14,27.93598175048828
+12,a bird in front of {} flower,15,26.479602813720703
+12,a bird in front of {} flower,16,28.556865692138672
+12,a bird in front of {} flower,17,27.446514129638672
+12,a bird in front of {} flower,18,27.127084732055664
+12,a bird in front of {} flower,19,25.980382919311523
+12,a bird in front of {} flower,20,29.317955017089844
+12,a bird in front of {} flower,21,26.757532119750977
+12,a bird in front of {} flower,22,27.787866592407227
+12,a bird in front of {} flower,23,27.692943572998047
+12,a bird in front of {} flower,24,28.80950927734375
+12,a bird in front of {} flower,25,25.713289260864258
+12,a bird in front of {} flower,26,28.294151306152344
+12,a bird in front of {} flower,27,27.631946563720703
+12,a bird in front of {} flower,28,19.904951095581055
+12,a bird in front of {} flower,29,21.26850700378418
+12,a bird in front of {} flower,30,25.92620849609375
+12,a bird in front of {} flower,31,26.817794799804688
+12,a bird in front of {} flower,32,26.70092010498047
+12,a bird in front of {} flower,33,27.5115909576416
+12,a bird in front of {} flower,34,27.88174819946289
+12,a bird in front of {} flower,35,29.341650009155273
+12,a bird in front of {} flower,36,27.84576416015625
+12,a bird in front of {} flower,37,26.495864868164062
+12,a bird in front of {} flower,38,28.98434066772461
+12,a bird in front of {} flower,39,28.981861114501953
+12,a bird in front of {} flower,40,26.79069709777832
+12,a bird in front of {} flower,41,29.012971878051758
+12,a bird in front of {} flower,42,28.528940200805664
+12,a bird in front of {} flower,43,30.399364471435547
+12,a bird in front of {} flower,44,27.021785736083984
+12,a bird in front of {} flower,45,19.831157684326172
+12,a bird in front of {} flower,46,29.622041702270508
+12,a bird in front of {} flower,47,28.048778533935547
+12,a bird in front of {} flower,48,28.228294372558594
+12,a bird in front of {} flower,49,26.45340347290039

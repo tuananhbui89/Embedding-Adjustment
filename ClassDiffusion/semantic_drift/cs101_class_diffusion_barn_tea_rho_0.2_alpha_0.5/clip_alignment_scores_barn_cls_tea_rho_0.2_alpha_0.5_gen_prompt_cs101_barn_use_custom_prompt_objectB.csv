@@ -1,0 +1,651 @@
+prompt_index,prompt,image_index,score
+0, snowy ice,0,17.219999313354492
+0, snowy ice,1,19.593015670776367
+0, snowy ice,2,20.55475616455078
+0, snowy ice,3,19.261646270751953
+0, snowy ice,4,18.571531295776367
+0, snowy ice,5,16.752471923828125
+0, snowy ice,6,19.917884826660156
+0, snowy ice,7,20.080692291259766
+0, snowy ice,8,18.795827865600586
+0, snowy ice,9,18.645456314086914
+0, snowy ice,10,18.65349006652832
+0, snowy ice,11,19.017427444458008
+0, snowy ice,12,18.394535064697266
+0, snowy ice,13,20.268661499023438
+0, snowy ice,14,18.8613338470459
+0, snowy ice,15,19.893178939819336
+0, snowy ice,16,19.28009033203125
+0, snowy ice,17,18.313541412353516
+0, snowy ice,18,18.580196380615234
+0, snowy ice,19,19.155715942382812
+0, snowy ice,20,19.179201126098633
+0, snowy ice,21,20.329660415649414
+0, snowy ice,22,18.45339584350586
+0, snowy ice,23,19.70856475830078
+0, snowy ice,24,20.243051528930664
+0, snowy ice,25,19.33392333984375
+0, snowy ice,26,18.089656829833984
+0, snowy ice,27,21.15208625793457
+0, snowy ice,28,18.354394912719727
+0, snowy ice,29,18.53005599975586
+0, snowy ice,30,19.29534912109375
+0, snowy ice,31,21.186843872070312
+0, snowy ice,32,18.571788787841797
+0, snowy ice,33,17.890594482421875
+0, snowy ice,34,20.833942413330078
+0, snowy ice,35,19.19906234741211
+0, snowy ice,36,19.550256729125977
+0, snowy ice,37,20.888219833374023
+0, snowy ice,38,18.638530731201172
+0, snowy ice,39,19.94734001159668
+0, snowy ice,40,17.716861724853516
+0, snowy ice,41,21.081356048583984
+0, snowy ice,42,19.188800811767578
+0, snowy ice,43,20.105070114135742
+0, snowy ice,44,18.665128707885742
+0, snowy ice,45,19.716461181640625
+0, snowy ice,46,20.75115966796875
+0, snowy ice,47,18.516143798828125
+0, snowy ice,48,19.149906158447266
+0, snowy ice,49,19.574968338012695
+1, blooming sunflower field,0,24.85320281982422
+1, blooming sunflower field,1,24.56488800048828
+1, blooming sunflower field,2,25.518146514892578
+1, blooming sunflower field,3,24.46415138244629
+1, blooming sunflower field,4,25.420230865478516
+1, blooming sunflower field,5,26.231700897216797
+1, blooming sunflower field,6,24.420156478881836
+1, blooming sunflower field,7,25.591537475585938
+1, blooming sunflower field,8,27.265335083007812
+1, blooming sunflower field,9,24.709680557250977
+1, blooming sunflower field,10,25.661832809448242
+1, blooming sunflower field,11,27.12153434753418
+1, blooming sunflower field,12,25.813692092895508
+1, blooming sunflower field,13,25.16961097717285
+1, blooming sunflower field,14,24.18655776977539
+1, blooming sunflower field,15,26.31924057006836
+1, blooming sunflower field,16,25.29395866394043
+1, blooming sunflower field,17,25.1823787689209
+1, blooming sunflower field,18,25.262859344482422
+1, blooming sunflower field,19,25.648921966552734
+1, blooming sunflower field,20,26.117633819580078
+1, blooming sunflower field,21,24.600278854370117
+1, blooming sunflower field,22,25.035551071166992
+1, blooming sunflower field,23,26.338970184326172
+1, blooming sunflower field,24,26.070701599121094
+1, blooming sunflower field,25,24.273113250732422
+1, blooming sunflower field,26,23.9792423248291
+1, blooming sunflower field,27,25.622758865356445
+1, blooming sunflower field,28,25.486833572387695
+1, blooming sunflower field,29,24.64874839782715
+1, blooming sunflower field,30,26.106258392333984
+1, blooming sunflower field,31,26.756473541259766
+1, blooming sunflower field,32,24.681167602539062
+1, blooming sunflower field,33,24.52056884765625
+1, blooming sunflower field,34,23.149011611938477
+1, blooming sunflower field,35,25.98114585876465
+1, blooming sunflower field,36,26.605213165283203
+1, blooming sunflower field,37,26.4810733795166
+1, blooming sunflower field,38,24.517526626586914
+1, blooming sunflower field,39,26.578882217407227
+1, blooming sunflower field,40,23.745594024658203
+1, blooming sunflower field,41,25.821638107299805
+1, blooming sunflower field,42,26.666826248168945
+1, blooming sunflower field,43,27.204090118408203
+1, blooming sunflower field,44,26.923583984375
+1, blooming sunflower field,45,25.71900749206543
+1, blooming sunflower field,46,25.275146484375
+1, blooming sunflower field,47,25.666641235351562
+1, blooming sunflower field,48,26.357280731201172
+1, blooming sunflower field,49,25.244638442993164
+2, fall season with leaves all around,0,24.932209014892578
+2, fall season with leaves all around,1,21.988414764404297
+2, fall season with leaves all around,2,22.72675323486328
+2, fall season with leaves all around,3,23.228347778320312
+2, fall season with leaves all around,4,21.960067749023438
+2, fall season with leaves all around,5,19.830608367919922
+2, fall season with leaves all around,6,20.74713134765625
+2, fall season with leaves all around,7,22.44470977783203
+2, fall season with leaves all around,8,23.21547508239746
+2, fall season with leaves all around,9,22.089284896850586
+2, fall season with leaves all around,10,23.309772491455078
+2, fall season with leaves all around,11,22.425674438476562
+2, fall season with leaves all around,12,21.602901458740234
+2, fall season with leaves all around,13,21.696096420288086
+2, fall season with leaves all around,14,22.932621002197266
+2, fall season with leaves all around,15,22.706571578979492
+2, fall season with leaves all around,16,22.693622589111328
+2, fall season with leaves all around,17,21.888545989990234
+2, fall season with leaves all around,18,23.8839111328125
+2, fall season with leaves all around,19,23.502222061157227
+2, fall season with leaves all around,20,21.275150299072266
+2, fall season with leaves all around,21,21.303789138793945
+2, fall season with leaves all around,22,22.07391929626465
+2, fall season with leaves all around,23,22.289339065551758
+2, fall season with leaves all around,24,22.828401565551758
+2, fall season with leaves all around,25,21.75520133972168
+2, fall season with leaves all around,26,22.626903533935547
+2, fall season with leaves all around,27,24.342567443847656
+2, fall season with leaves all around,28,22.28190040588379
+2, fall season with leaves all around,29,23.604520797729492
+2, fall season with leaves all around,30,23.943832397460938
+2, fall season with leaves all around,31,21.648792266845703
+2, fall season with leaves all around,32,21.174240112304688
+2, fall season with leaves all around,33,22.62498664855957
+2, fall season with leaves all around,34,22.3745174407959
+2, fall season with leaves all around,35,22.485748291015625
+2, fall season with leaves all around,36,22.531192779541016
+2, fall season with leaves all around,37,22.74854850769043
+2, fall season with leaves all around,38,23.011573791503906
+2, fall season with leaves all around,39,22.04621696472168
+2, fall season with leaves all around,40,23.061565399169922
+2, fall season with leaves all around,41,21.063709259033203
+2, fall season with leaves all around,42,22.625598907470703
+2, fall season with leaves all around,43,24.206260681152344
+2, fall season with leaves all around,44,23.125932693481445
+2, fall season with leaves all around,45,23.193649291992188
+2, fall season with leaves all around,46,21.99954605102539
+2, fall season with leaves all around,47,22.841388702392578
+2, fall season with leaves all around,48,23.13525390625
+2, fall season with leaves all around,49,22.557687759399414
+3, beach with a view of the seashore,0,21.376306533813477
+3, beach with a view of the seashore,1,22.688461303710938
+3, beach with a view of the seashore,2,20.751506805419922
+3, beach with a view of the seashore,3,22.742084503173828
+3, beach with a view of the seashore,4,20.8093204498291
+3, beach with a view of the seashore,5,21.674638748168945
+3, beach with a view of the seashore,6,22.53797721862793
+3, beach with a view of the seashore,7,19.10332679748535
+3, beach with a view of the seashore,8,23.057153701782227
+3, beach with a view of the seashore,9,20.985395431518555
+3, beach with a view of the seashore,10,22.09348487854004
+3, beach with a view of the seashore,11,22.694110870361328
+3, beach with a view of the seashore,12,20.77391815185547
+3, beach with a view of the seashore,13,21.420087814331055
+3, beach with a view of the seashore,14,22.642772674560547
+3, beach with a view of the seashore,15,21.40736961364746
+3, beach with a view of the seashore,16,20.806743621826172
+3, beach with a view of the seashore,17,21.771352767944336
+3, beach with a view of the seashore,18,21.863296508789062
+3, beach with a view of the seashore,19,22.224777221679688
+3, beach with a view of the seashore,20,23.599685668945312
+3, beach with a view of the seashore,21,21.615510940551758
+3, beach with a view of the seashore,22,21.473485946655273
+3, beach with a view of the seashore,23,20.955202102661133
+3, beach with a view of the seashore,24,19.958301544189453
+3, beach with a view of the seashore,25,20.906009674072266
+3, beach with a view of the seashore,26,22.40201759338379
+3, beach with a view of the seashore,27,20.4005069732666
+3, beach with a view of the seashore,28,21.71104621887207
+3, beach with a view of the seashore,29,22.186248779296875
+3, beach with a view of the seashore,30,21.595582962036133
+3, beach with a view of the seashore,31,22.966463088989258
+3, beach with a view of the seashore,32,21.323184967041016
+3, beach with a view of the seashore,33,19.717329025268555
+3, beach with a view of the seashore,34,20.984384536743164
+3, beach with a view of the seashore,35,20.7499942779541
+3, beach with a view of the seashore,36,22.834877014160156
+3, beach with a view of the seashore,37,21.509225845336914
+3, beach with a view of the seashore,38,22.628602981567383
+3, beach with a view of the seashore,39,17.886531829833984
+3, beach with a view of the seashore,40,20.291555404663086
+3, beach with a view of the seashore,41,20.043577194213867
+3, beach with a view of the seashore,42,21.38172149658203
+3, beach with a view of the seashore,43,22.601940155029297
+3, beach with a view of the seashore,44,24.064407348632812
+3, beach with a view of the seashore,45,22.471620559692383
+3, beach with a view of the seashore,46,19.25086212158203
+3, beach with a view of the seashore,47,21.3013973236084
+3, beach with a view of the seashore,48,21.7232608795166
+3, beach with a view of the seashore,49,21.5905704498291
+4, thunderstorm,0,23.313945770263672
+4, thunderstorm,1,22.49808120727539
+4, thunderstorm,2,23.276575088500977
+4, thunderstorm,3,23.94651222229004
+4, thunderstorm,4,22.735191345214844
+4, thunderstorm,5,23.961217880249023
+4, thunderstorm,6,22.841096878051758
+4, thunderstorm,7,23.628063201904297
+4, thunderstorm,8,15.894952774047852
+4, thunderstorm,9,22.542234420776367
+4, thunderstorm,10,16.632888793945312
+4, thunderstorm,11,23.93705177307129
+4, thunderstorm,12,22.101831436157227
+4, thunderstorm,13,23.124404907226562
+4, thunderstorm,14,22.07541275024414
+4, thunderstorm,15,22.55745506286621
+4, thunderstorm,16,21.791696548461914
+4, thunderstorm,17,21.768123626708984
+4, thunderstorm,18,22.93938636779785
+4, thunderstorm,19,23.646835327148438
+4, thunderstorm,20,23.32412338256836
+4, thunderstorm,21,15.801026344299316
+4, thunderstorm,22,21.478870391845703
+4, thunderstorm,23,19.863527297973633
+4, thunderstorm,24,22.745826721191406
+4, thunderstorm,25,23.103525161743164
+4, thunderstorm,26,23.100749969482422
+4, thunderstorm,27,18.625015258789062
+4, thunderstorm,28,22.61677360534668
+4, thunderstorm,29,22.19760513305664
+4, thunderstorm,30,21.803218841552734
+4, thunderstorm,31,23.892333984375
+4, thunderstorm,32,23.800134658813477
+4, thunderstorm,33,22.857589721679688
+4, thunderstorm,34,22.442113876342773
+4, thunderstorm,35,22.805219650268555
+4, thunderstorm,36,20.197555541992188
+4, thunderstorm,37,22.027088165283203
+4, thunderstorm,38,23.547462463378906
+4, thunderstorm,39,22.651884078979492
+4, thunderstorm,40,23.20892333984375
+4, thunderstorm,41,23.058956146240234
+4, thunderstorm,42,23.235036849975586
+4, thunderstorm,43,22.833459854125977
+4, thunderstorm,44,22.972164154052734
+4, thunderstorm,45,13.895111083984375
+4, thunderstorm,46,22.174755096435547
+4, thunderstorm,47,22.930160522460938
+4, thunderstorm,48,23.35176658630371
+4, thunderstorm,49,23.454015731811523
+5, rainbow arching overhead,0,21.49591827392578
+5, rainbow arching overhead,1,21.54239273071289
+5, rainbow arching overhead,2,21.72931671142578
+5, rainbow arching overhead,3,21.499229431152344
+5, rainbow arching overhead,4,21.90027618408203
+5, rainbow arching overhead,5,21.84671974182129
+5, rainbow arching overhead,6,20.172405242919922
+5, rainbow arching overhead,7,21.01631736755371
+5, rainbow arching overhead,8,20.29071807861328
+5, rainbow arching overhead,9,23.72801971435547
+5, rainbow arching overhead,10,22.026639938354492
+5, rainbow arching overhead,11,21.879091262817383
+5, rainbow arching overhead,12,22.38765525817871
+5, rainbow arching overhead,13,21.44076156616211
+5, rainbow arching overhead,14,20.868459701538086
+5, rainbow arching overhead,15,21.05088233947754
+5, rainbow arching overhead,16,20.185455322265625
+5, rainbow arching overhead,17,21.113128662109375
+5, rainbow arching overhead,18,21.839120864868164
+5, rainbow arching overhead,19,24.258058547973633
+5, rainbow arching overhead,20,23.085285186767578
+5, rainbow arching overhead,21,21.41698455810547
+5, rainbow arching overhead,22,22.37303352355957
+5, rainbow arching overhead,23,21.11459732055664
+5, rainbow arching overhead,24,20.74648666381836
+5, rainbow arching overhead,25,21.42704963684082
+5, rainbow arching overhead,26,22.338823318481445
+5, rainbow arching overhead,27,23.861066818237305
+5, rainbow arching overhead,28,21.5882568359375
+5, rainbow arching overhead,29,20.791358947753906
+5, rainbow arching overhead,30,22.176912307739258
+5, rainbow arching overhead,31,22.120676040649414
+5, rainbow arching overhead,32,22.036149978637695
+5, rainbow arching overhead,33,24.18889617919922
+5, rainbow arching overhead,34,23.99654769897461
+5, rainbow arching overhead,35,21.747053146362305
+5, rainbow arching overhead,36,23.30463218688965
+5, rainbow arching overhead,37,20.842832565307617
+5, rainbow arching overhead,38,22.987974166870117
+5, rainbow arching overhead,39,24.220945358276367
+5, rainbow arching overhead,40,19.409881591796875
+5, rainbow arching overhead,41,20.907007217407227
+5, rainbow arching overhead,42,23.212923049926758
+5, rainbow arching overhead,43,22.192699432373047
+5, rainbow arching overhead,44,23.374174118041992
+5, rainbow arching overhead,45,22.37489891052246
+5, rainbow arching overhead,46,21.468368530273438
+5, rainbow arching overhead,47,23.23053741455078
+5, rainbow arching overhead,48,23.33516502380371
+5, rainbow arching overhead,49,22.39333152770996
+6, sun rising in the sky,0,17.849266052246094
+6, sun rising in the sky,1,19.656103134155273
+6, sun rising in the sky,2,19.180980682373047
+6, sun rising in the sky,3,18.85862922668457
+6, sun rising in the sky,4,18.644500732421875
+6, sun rising in the sky,5,16.688982009887695
+6, sun rising in the sky,6,20.045974731445312
+6, sun rising in the sky,7,20.572938919067383
+6, sun rising in the sky,8,19.71647834777832
+6, sun rising in the sky,9,16.279693603515625
+6, sun rising in the sky,10,18.082469940185547
+6, sun rising in the sky,11,21.722511291503906
+6, sun rising in the sky,12,17.514177322387695
+6, sun rising in the sky,13,18.593137741088867
+6, sun rising in the sky,14,16.355545043945312
+6, sun rising in the sky,15,20.90287971496582
+6, sun rising in the sky,16,18.22915267944336
+6, sun rising in the sky,17,18.36353302001953
+6, sun rising in the sky,18,19.2127685546875
+6, sun rising in the sky,19,20.018766403198242
+6, sun rising in the sky,20,19.53076171875
+6, sun rising in the sky,21,18.22217559814453
+6, sun rising in the sky,22,17.39081382751465
+6, sun rising in the sky,23,17.835914611816406
+6, sun rising in the sky,24,17.175701141357422
+6, sun rising in the sky,25,19.394020080566406
+6, sun rising in the sky,26,17.42047119140625
+6, sun rising in the sky,27,19.7552490234375
+6, sun rising in the sky,28,19.376670837402344
+6, sun rising in the sky,29,19.307662963867188
+6, sun rising in the sky,30,18.554950714111328
+6, sun rising in the sky,31,19.22996711730957
+6, sun rising in the sky,32,20.74353790283203
+6, sun rising in the sky,33,18.62437629699707
+6, sun rising in the sky,34,19.456377029418945
+6, sun rising in the sky,35,21.0989933013916
+6, sun rising in the sky,36,19.059606552124023
+6, sun rising in the sky,37,17.15145492553711
+6, sun rising in the sky,38,18.70749855041504
+6, sun rising in the sky,39,19.116933822631836
+6, sun rising in the sky,40,20.762638092041016
+6, sun rising in the sky,41,20.40073585510254
+6, sun rising in the sky,42,20.121910095214844
+6, sun rising in the sky,43,19.55946922302246
+6, sun rising in the sky,44,17.1734619140625
+6, sun rising in the sky,45,18.323556900024414
+6, sun rising in the sky,46,17.293941497802734
+6, sun rising in the sky,47,19.65924835205078
+6, sun rising in the sky,48,19.31304359436035
+6, sun rising in the sky,49,17.464305877685547
+7, a puppy,0,21.609188079833984
+7, a puppy,1,21.638744354248047
+7, a puppy,2,20.489158630371094
+7, a puppy,3,21.72618293762207
+7, a puppy,4,22.77730369567871
+7, a puppy,5,23.138458251953125
+7, a puppy,6,21.969179153442383
+7, a puppy,7,23.27640151977539
+7, a puppy,8,23.21996307373047
+7, a puppy,9,22.423168182373047
+7, a puppy,10,20.62601661682129
+7, a puppy,11,21.6300048828125
+7, a puppy,12,22.025922775268555
+7, a puppy,13,20.64527702331543
+7, a puppy,14,21.008291244506836
+7, a puppy,15,21.77562713623047
+7, a puppy,16,21.092220306396484
+7, a puppy,17,24.138626098632812
+7, a puppy,18,21.17603874206543
+7, a puppy,19,21.679603576660156
+7, a puppy,20,22.76415252685547
+7, a puppy,21,20.847307205200195
+7, a puppy,22,21.257230758666992
+7, a puppy,23,21.912734985351562
+7, a puppy,24,21.831998825073242
+7, a puppy,25,21.157400131225586
+7, a puppy,26,23.17513656616211
+7, a puppy,27,21.066987991333008
+7, a puppy,28,22.677331924438477
+7, a puppy,29,20.448490142822266
+7, a puppy,30,19.916013717651367
+7, a puppy,31,22.758176803588867
+7, a puppy,32,21.635862350463867
+7, a puppy,33,21.249799728393555
+7, a puppy,34,22.053014755249023
+7, a puppy,35,22.6102352142334
+7, a puppy,36,22.882349014282227
+7, a puppy,37,22.770780563354492
+7, a puppy,38,22.19691276550293
+7, a puppy,39,21.755157470703125
+7, a puppy,40,21.516101837158203
+7, a puppy,41,21.83257293701172
+7, a puppy,42,21.15766716003418
+7, a puppy,43,23.378328323364258
+7, a puppy,44,20.049036026000977
+7, a puppy,45,21.637197494506836
+7, a puppy,46,21.15737533569336
+7, a puppy,47,22.080101013183594
+7, a puppy,48,21.547082901000977
+7, a puppy,49,20.749238967895508
+8, a cat in snowy ice,0,22.945470809936523
+8, a cat in snowy ice,1,26.33003807067871
+8, a cat in snowy ice,2,26.642120361328125
+8, a cat in snowy ice,3,26.378812789916992
+8, a cat in snowy ice,4,24.766942977905273
+8, a cat in snowy ice,5,25.996097564697266
+8, a cat in snowy ice,6,27.487548828125
+8, a cat in snowy ice,7,27.925622940063477
+8, a cat in snowy ice,8,26.40734100341797
+8, a cat in snowy ice,9,26.222110748291016
+8, a cat in snowy ice,10,26.98290252685547
+8, a cat in snowy ice,11,26.881010055541992
+8, a cat in snowy ice,12,27.988004684448242
+8, a cat in snowy ice,13,28.067392349243164
+8, a cat in snowy ice,14,21.877641677856445
+8, a cat in snowy ice,15,27.479883193969727
+8, a cat in snowy ice,16,26.118410110473633
+8, a cat in snowy ice,17,24.530250549316406
+8, a cat in snowy ice,18,27.800512313842773
+8, a cat in snowy ice,19,25.497600555419922
+8, a cat in snowy ice,20,26.274002075195312
+8, a cat in snowy ice,21,24.533672332763672
+8, a cat in snowy ice,22,25.67075538635254
+8, a cat in snowy ice,23,26.43166160583496
+8, a cat in snowy ice,24,24.784025192260742
+8, a cat in snowy ice,25,27.955001831054688
+8, a cat in snowy ice,26,27.86909294128418
+8, a cat in snowy ice,27,26.920860290527344
+8, a cat in snowy ice,28,24.966642379760742
+8, a cat in snowy ice,29,26.022947311401367
+8, a cat in snowy ice,30,26.125795364379883
+8, a cat in snowy ice,31,28.5257511138916
+8, a cat in snowy ice,32,25.788408279418945
+8, a cat in snowy ice,33,28.441396713256836
+8, a cat in snowy ice,34,29.00458526611328
+8, a cat in snowy ice,35,26.416379928588867
+8, a cat in snowy ice,36,25.080657958984375
+8, a cat in snowy ice,37,26.06395721435547
+8, a cat in snowy ice,38,25.53922462463379
+8, a cat in snowy ice,39,26.608367919921875
+8, a cat in snowy ice,40,26.083919525146484
+8, a cat in snowy ice,41,27.131784439086914
+8, a cat in snowy ice,42,23.176393508911133
+8, a cat in snowy ice,43,24.43027114868164
+8, a cat in snowy ice,44,27.600812911987305
+8, a cat in snowy ice,45,26.107376098632812
+8, a cat in snowy ice,46,26.115760803222656
+8, a cat in snowy ice,47,27.28787612915039
+8, a cat in snowy ice,48,26.49112892150879
+8, a cat in snowy ice,49,27.01957893371582
+9, a squirrel,0,23.760251998901367
+9, a squirrel,1,25.797771453857422
+9, a squirrel,2,24.639707565307617
+9, a squirrel,3,23.980859756469727
+9, a squirrel,4,24.311498641967773
+9, a squirrel,5,24.67054557800293
+9, a squirrel,6,24.077606201171875
+9, a squirrel,7,23.201143264770508
+9, a squirrel,8,23.978620529174805
+9, a squirrel,9,26.00155258178711
+9, a squirrel,10,22.325986862182617
+9, a squirrel,11,24.20259666442871
+9, a squirrel,12,23.7254581451416
+9, a squirrel,13,23.81304168701172
+9, a squirrel,14,25.423856735229492
+9, a squirrel,15,23.737701416015625
+9, a squirrel,16,25.17833137512207
+9, a squirrel,17,24.57716941833496
+9, a squirrel,18,23.59166145324707
+9, a squirrel,19,23.893733978271484
+9, a squirrel,20,23.979660034179688
+9, a squirrel,21,24.116668701171875
+9, a squirrel,22,24.782730102539062
+9, a squirrel,23,24.30522918701172
+9, a squirrel,24,23.663047790527344
+9, a squirrel,25,24.648523330688477
+9, a squirrel,26,23.44651222229004
+9, a squirrel,27,25.68039321899414
+9, a squirrel,28,21.412752151489258
+9, a squirrel,29,25.520450592041016
+9, a squirrel,30,24.431116104125977
+9, a squirrel,31,24.69883155822754
+9, a squirrel,32,24.710052490234375
+9, a squirrel,33,24.886722564697266
+9, a squirrel,34,24.998783111572266
+9, a squirrel,35,24.884986877441406
+9, a squirrel,36,24.86546516418457
+9, a squirrel,37,25.279293060302734
+9, a squirrel,38,23.756654739379883
+9, a squirrel,39,22.728090286254883
+9, a squirrel,40,25.955026626586914
+9, a squirrel,41,23.800874710083008
+9, a squirrel,42,24.374052047729492
+9, a squirrel,43,23.83320426940918
+9, a squirrel,44,24.405681610107422
+9, a squirrel,45,24.364404678344727
+9, a squirrel,46,23.762563705444336
+9, a squirrel,47,25.145954132080078
+9, a squirrel,48,24.20119285583496
+9, a squirrel,49,22.966272354125977
+10, deer grazing,0,26.42906379699707
+10, deer grazing,1,25.280534744262695
+10, deer grazing,2,25.19599151611328
+10, deer grazing,3,26.003175735473633
+10, deer grazing,4,24.797725677490234
+10, deer grazing,5,25.311279296875
+10, deer grazing,6,25.22449493408203
+10, deer grazing,7,25.63702392578125
+10, deer grazing,8,25.083881378173828
+10, deer grazing,9,24.669361114501953
+10, deer grazing,10,24.202913284301758
+10, deer grazing,11,26.10112953186035
+10, deer grazing,12,24.240615844726562
+10, deer grazing,13,26.178909301757812
+10, deer grazing,14,25.967281341552734
+10, deer grazing,15,24.584712982177734
+10, deer grazing,16,26.76425552368164
+10, deer grazing,17,25.7480525970459
+10, deer grazing,18,24.86839485168457
+10, deer grazing,19,25.369861602783203
+10, deer grazing,20,25.894906997680664
+10, deer grazing,21,22.54881477355957
+10, deer grazing,22,24.67229461669922
+10, deer grazing,23,25.12909698486328
+10, deer grazing,24,26.03563690185547
+10, deer grazing,25,26.57571792602539
+10, deer grazing,26,24.039045333862305
+10, deer grazing,27,25.366249084472656
+10, deer grazing,28,25.33765411376953
+10, deer grazing,29,25.354480743408203
+10, deer grazing,30,26.176326751708984
+10, deer grazing,31,25.926441192626953
+10, deer grazing,32,23.670490264892578
+10, deer grazing,33,26.034303665161133
+10, deer grazing,34,25.86524200439453
+10, deer grazing,35,24.813533782958984
+10, deer grazing,36,25.9863224029541
+10, deer grazing,37,25.26909637451172
+10, deer grazing,38,25.481096267700195
+10, deer grazing,39,25.412851333618164
+10, deer grazing,40,24.545711517333984
+10, deer grazing,41,25.93444061279297
+10, deer grazing,42,25.648086547851562
+10, deer grazing,43,25.24944496154785
+10, deer grazing,44,25.852218627929688
+10, deer grazing,45,24.285844802856445
+10, deer grazing,46,25.508075714111328
+10, deer grazing,47,26.010173797607422
+10, deer grazing,48,24.906238555908203
+10, deer grazing,49,24.961231231689453
+11, windmill,0,23.560937881469727
+11, windmill,1,25.95458984375
+11, windmill,2,23.672887802124023
+11, windmill,3,22.90607452392578
+11, windmill,4,24.612293243408203
+11, windmill,5,24.621492385864258
+11, windmill,6,23.666261672973633
+11, windmill,7,25.719810485839844
+11, windmill,8,24.16270637512207
+11, windmill,9,23.879222869873047
+11, windmill,10,24.63268280029297
+11, windmill,11,21.850601196289062
+11, windmill,12,22.759336471557617
+11, windmill,13,24.765602111816406
+11, windmill,14,22.464210510253906
+11, windmill,15,23.79677963256836
+11, windmill,16,23.439268112182617
+11, windmill,17,23.3182315826416
+11, windmill,18,23.484054565429688
+11, windmill,19,23.89353370666504
+11, windmill,20,22.53257942199707
+11, windmill,21,24.775665283203125
+11, windmill,22,24.248149871826172
+11, windmill,23,24.495203018188477
+11, windmill,24,22.052404403686523
+11, windmill,25,23.431982040405273
+11, windmill,26,23.372047424316406
+11, windmill,27,22.59463119506836
+11, windmill,28,24.540443420410156
+11, windmill,29,22.833269119262695
+11, windmill,30,22.853506088256836
+11, windmill,31,23.090309143066406
+11, windmill,32,24.00540542602539
+11, windmill,33,23.972909927368164
+11, windmill,34,23.770973205566406
+11, windmill,35,23.775541305541992
+11, windmill,36,23.43829917907715
+11, windmill,37,22.99669647216797
+11, windmill,38,24.633453369140625
+11, windmill,39,23.31385040283203
+11, windmill,40,24.41189956665039
+11, windmill,41,23.913326263427734
+11, windmill,42,23.43211555480957
+11, windmill,43,23.31648826599121
+11, windmill,44,24.862804412841797
+11, windmill,45,22.778112411499023
+11, windmill,46,24.254369735717773
+11, windmill,47,23.813365936279297
+11, windmill,48,22.99118995666504
+11, windmill,49,23.39950180053711
+12, a tractor,0,18.362443923950195
+12, a tractor,1,20.158031463623047
+12, a tractor,2,18.762537002563477
+12, a tractor,3,23.152795791625977
+12, a tractor,4,18.844022750854492
+12, a tractor,5,19.181697845458984
+12, a tractor,6,21.920658111572266
+12, a tractor,7,23.94223403930664
+12, a tractor,8,18.715499877929688
+12, a tractor,9,17.72264289855957
+12, a tractor,10,18.442176818847656
+12, a tractor,11,18.81924819946289
+12, a tractor,12,19.764873504638672
+12, a tractor,13,23.529767990112305
+12, a tractor,14,23.51481056213379
+12, a tractor,15,17.558998107910156
+12, a tractor,16,17.061891555786133
+12, a tractor,17,18.212772369384766
+12, a tractor,18,22.3775634765625
+12, a tractor,19,18.55889320373535
+12, a tractor,20,17.56235122680664
+12, a tractor,21,24.49055290222168
+12, a tractor,22,19.661666870117188
+12, a tractor,23,19.388696670532227
+12, a tractor,24,17.423051834106445
+12, a tractor,25,23.279020309448242
+12, a tractor,26,23.128036499023438
+12, a tractor,27,18.72911834716797
+12, a tractor,28,18.39603614807129
+12, a tractor,29,16.9675350189209
+12, a tractor,30,23.80803108215332
+12, a tractor,31,19.174087524414062
+12, a tractor,32,16.7387752532959
+12, a tractor,33,19.146526336669922
+12, a tractor,34,21.73972511291504
+12, a tractor,35,24.186086654663086
+12, a tractor,36,21.706453323364258
+12, a tractor,37,17.5593204498291
+12, a tractor,38,21.461332321166992
+12, a tractor,39,19.106313705444336
+12, a tractor,40,19.769855499267578
+12, a tractor,41,20.363929748535156
+12, a tractor,42,19.18451690673828
+12, a tractor,43,16.647850036621094
+12, a tractor,44,22.640592575073242
+12, a tractor,45,20.61261558532715
+12, a tractor,46,23.024723052978516
+12, a tractor,47,19.10108757019043
+12, a tractor,48,19.755456924438477
+12, a tractor,49,19.411178588867188

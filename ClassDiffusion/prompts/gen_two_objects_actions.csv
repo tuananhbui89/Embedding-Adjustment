@@ -1,0 +1,8 @@
+prompt, custom_prompt_A, custom_prompt_B, custom_prompt_C
+"A photo of a {object1} wearing glasses and kissing a {object2}", kissing, wearing glasses, NA
+"A photo of a {object1} wearing glasses and handshaking with a {object2} on his hand", handshaking, wearing glasses, NA
+"A photo of a {object1} wearing a hat and hugging a {object2}", hugging, wearing a hat, NA
+"A photo of a {object1} walking a {object2} on a road", walking a dog, a road, NA
+"A photo of a {object1} holding a {object2} on his hand", holding a dog, a hand, NA
+"A photo of a {object1} brushing the fur of a {object2}", brushing the fur, a hand, NA
+"A photo of a {object1} feeding a {object2} with a bowl", feeding, a bowl, NA

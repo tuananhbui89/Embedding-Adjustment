@@ -1,0 +1,8 @@
+prompt,custom_prompt_A,custom_prompt_B,custom_prompt_C,full_prompt
+"A photo of a {object1} wearing glasses and kissing a {object2}",a man,a dog,wearing glasses and kissing,A photo of a man wearing glasses and kissing a dog
+"A photo of a {object1} wearing glasses and handshaking with a {object2}",a man,a dog,wearing glasses and handshaking,A photo of a man wearing glasses and handshaking with a dog
+"A photo of a {object1} wearing a hat and hugging a {object2}",a man,a dog,wearing a hat and hugging,A photo of a man wearing a hat and hugging a dog
+"A photo of a {object1} walking a {object2} on a road with a car behind them",a man,a dog,walking on a road with a car behind,A photo of a man walking a dog on a road with a car behind
+"A photo of a {object1} holding a {object2} beside a car",a man,a dog,a car,A photo of a man holding a dog beside a car
+"A photo of a {object1} touching {object2} beside a park bench",a man,a dog,a park bench,A photo of a man touching a dog beside a park bench
+"A photo of a {object1} feeding a {object2} with a bowl of flowers",a man,a dog,a bowl of flowers,A photo of a man feeding a dog with a bowl of flowers

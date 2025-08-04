@@ -1,0 +1,651 @@
+prompt_index,prompt,image_index,score
+0, a desert,0,19.9090633392334
+0, a desert,1,19.676727294921875
+0, a desert,2,21.22527313232422
+0, a desert,3,20.638980865478516
+0, a desert,4,19.775611877441406
+0, a desert,5,19.593507766723633
+0, a desert,6,20.26619529724121
+0, a desert,7,20.64654541015625
+0, a desert,8,20.704118728637695
+0, a desert,9,18.966012954711914
+0, a desert,10,22.933778762817383
+0, a desert,11,20.846769332885742
+0, a desert,12,20.118953704833984
+0, a desert,13,20.092899322509766
+0, a desert,14,20.07383918762207
+0, a desert,15,22.58278465270996
+0, a desert,16,21.355457305908203
+0, a desert,17,19.640974044799805
+0, a desert,18,23.238096237182617
+0, a desert,19,20.750831604003906
+0, a desert,20,19.68491554260254
+0, a desert,21,20.942371368408203
+0, a desert,22,21.20612335205078
+0, a desert,23,20.291898727416992
+0, a desert,24,19.775846481323242
+0, a desert,25,20.846641540527344
+0, a desert,26,20.874113082885742
+0, a desert,27,20.556747436523438
+0, a desert,28,21.712060928344727
+0, a desert,29,19.314220428466797
+0, a desert,30,21.567907333374023
+0, a desert,31,21.130523681640625
+0, a desert,32,20.891849517822266
+0, a desert,33,21.693628311157227
+0, a desert,34,19.412900924682617
+0, a desert,35,20.69783592224121
+0, a desert,36,20.69652557373047
+0, a desert,37,21.492046356201172
+0, a desert,38,19.705402374267578
+0, a desert,39,20.95882797241211
+0, a desert,40,20.8386287689209
+0, a desert,41,22.469799041748047
+0, a desert,42,21.245960235595703
+0, a desert,43,22.60303497314453
+0, a desert,44,20.943758010864258
+0, a desert,45,20.73764419555664
+0, a desert,46,20.79269790649414
+0, a desert,47,21.144325256347656
+0, a desert,48,18.313392639160156
+0, a desert,49,21.01059913635254
+1, beach with a view of the seashore,0,18.561689376831055
+1, beach with a view of the seashore,1,18.943557739257812
+1, beach with a view of the seashore,2,21.771011352539062
+1, beach with a view of the seashore,3,19.89055061340332
+1, beach with a view of the seashore,4,22.39607810974121
+1, beach with a view of the seashore,5,22.14704704284668
+1, beach with a view of the seashore,6,17.720548629760742
+1, beach with a view of the seashore,7,17.031259536743164
+1, beach with a view of the seashore,8,21.073293685913086
+1, beach with a view of the seashore,9,17.948871612548828
+1, beach with a view of the seashore,10,18.45625114440918
+1, beach with a view of the seashore,11,17.951631546020508
+1, beach with a view of the seashore,12,17.507774353027344
+1, beach with a view of the seashore,13,19.22638702392578
+1, beach with a view of the seashore,14,17.18756866455078
+1, beach with a view of the seashore,15,18.560993194580078
+1, beach with a view of the seashore,16,20.414093017578125
+1, beach with a view of the seashore,17,19.650423049926758
+1, beach with a view of the seashore,18,19.436859130859375
+1, beach with a view of the seashore,19,20.651288986206055
+1, beach with a view of the seashore,20,18.950374603271484
+1, beach with a view of the seashore,21,18.447633743286133
+1, beach with a view of the seashore,22,19.477672576904297
+1, beach with a view of the seashore,23,21.731515884399414
+1, beach with a view of the seashore,24,21.537504196166992
+1, beach with a view of the seashore,25,20.72773551940918
+1, beach with a view of the seashore,26,20.130657196044922
+1, beach with a view of the seashore,27,21.249582290649414
+1, beach with a view of the seashore,28,18.08006477355957
+1, beach with a view of the seashore,29,18.008852005004883
+1, beach with a view of the seashore,30,18.631132125854492
+1, beach with a view of the seashore,31,20.464807510375977
+1, beach with a view of the seashore,32,17.349103927612305
+1, beach with a view of the seashore,33,20.53609275817871
+1, beach with a view of the seashore,34,19.05359649658203
+1, beach with a view of the seashore,35,18.657939910888672
+1, beach with a view of the seashore,36,17.059818267822266
+1, beach with a view of the seashore,37,19.321006774902344
+1, beach with a view of the seashore,38,18.4954891204834
+1, beach with a view of the seashore,39,21.407636642456055
+1, beach with a view of the seashore,40,19.66618537902832
+1, beach with a view of the seashore,41,17.471126556396484
+1, beach with a view of the seashore,42,22.73015022277832
+1, beach with a view of the seashore,43,17.44187355041504
+1, beach with a view of the seashore,44,19.682411193847656
+1, beach with a view of the seashore,45,21.131620407104492
+1, beach with a view of the seashore,46,20.67193031311035
+1, beach with a view of the seashore,47,20.23444366455078
+1, beach with a view of the seashore,48,16.385597229003906
+1, beach with a view of the seashore,49,19.440994262695312
+2, a mountain with sunrise in the background,0,21.037763595581055
+2, a mountain with sunrise in the background,1,22.18836212158203
+2, a mountain with sunrise in the background,2,19.31979751586914
+2, a mountain with sunrise in the background,3,22.302711486816406
+2, a mountain with sunrise in the background,4,20.706459045410156
+2, a mountain with sunrise in the background,5,22.51797866821289
+2, a mountain with sunrise in the background,6,23.103803634643555
+2, a mountain with sunrise in the background,7,24.782447814941406
+2, a mountain with sunrise in the background,8,20.30301284790039
+2, a mountain with sunrise in the background,9,21.36328887939453
+2, a mountain with sunrise in the background,10,22.88814926147461
+2, a mountain with sunrise in the background,11,22.814115524291992
+2, a mountain with sunrise in the background,12,22.983667373657227
+2, a mountain with sunrise in the background,13,21.036693572998047
+2, a mountain with sunrise in the background,14,18.759719848632812
+2, a mountain with sunrise in the background,15,23.239456176757812
+2, a mountain with sunrise in the background,16,21.460893630981445
+2, a mountain with sunrise in the background,17,21.187362670898438
+2, a mountain with sunrise in the background,18,20.327373504638672
+2, a mountain with sunrise in the background,19,20.46599769592285
+2, a mountain with sunrise in the background,20,21.125810623168945
+2, a mountain with sunrise in the background,21,21.592811584472656
+2, a mountain with sunrise in the background,22,22.51182746887207
+2, a mountain with sunrise in the background,23,22.158592224121094
+2, a mountain with sunrise in the background,24,21.69371795654297
+2, a mountain with sunrise in the background,25,20.527530670166016
+2, a mountain with sunrise in the background,26,22.388687133789062
+2, a mountain with sunrise in the background,27,22.876724243164062
+2, a mountain with sunrise in the background,28,23.725854873657227
+2, a mountain with sunrise in the background,29,22.244077682495117
+2, a mountain with sunrise in the background,30,22.46807289123535
+2, a mountain with sunrise in the background,31,21.567943572998047
+2, a mountain with sunrise in the background,32,22.569475173950195
+2, a mountain with sunrise in the background,33,21.9256591796875
+2, a mountain with sunrise in the background,34,24.4139461517334
+2, a mountain with sunrise in the background,35,20.43720817565918
+2, a mountain with sunrise in the background,36,22.42482566833496
+2, a mountain with sunrise in the background,37,21.54203224182129
+2, a mountain with sunrise in the background,38,20.94305419921875
+2, a mountain with sunrise in the background,39,20.110502243041992
+2, a mountain with sunrise in the background,40,22.01569938659668
+2, a mountain with sunrise in the background,41,22.878189086914062
+2, a mountain with sunrise in the background,42,20.85041618347168
+2, a mountain with sunrise in the background,43,22.701723098754883
+2, a mountain with sunrise in the background,44,22.882625579833984
+2, a mountain with sunrise in the background,45,21.64590072631836
+2, a mountain with sunrise in the background,46,20.237655639648438
+2, a mountain with sunrise in the background,47,22.521833419799805
+2, a mountain with sunrise in the background,48,18.39959716796875
+2, a mountain with sunrise in the background,49,22.785259246826172
+3, a man holding a bouquet,0,25.72884178161621
+3, a man holding a bouquet,1,22.254680633544922
+3, a man holding a bouquet,2,24.161876678466797
+3, a man holding a bouquet,3,24.52956199645996
+3, a man holding a bouquet,4,24.233484268188477
+3, a man holding a bouquet,5,24.209789276123047
+3, a man holding a bouquet,6,26.223939895629883
+3, a man holding a bouquet,7,22.293272018432617
+3, a man holding a bouquet,8,24.380817413330078
+3, a man holding a bouquet,9,25.283912658691406
+3, a man holding a bouquet,10,24.10590362548828
+3, a man holding a bouquet,11,26.381755828857422
+3, a man holding a bouquet,12,24.697750091552734
+3, a man holding a bouquet,13,23.39790916442871
+3, a man holding a bouquet,14,22.590974807739258
+3, a man holding a bouquet,15,23.28870391845703
+3, a man holding a bouquet,16,25.824779510498047
+3, a man holding a bouquet,17,23.351076126098633
+3, a man holding a bouquet,18,21.55805778503418
+3, a man holding a bouquet,19,26.175817489624023
+3, a man holding a bouquet,20,22.130306243896484
+3, a man holding a bouquet,21,23.715248107910156
+3, a man holding a bouquet,22,25.50293731689453
+3, a man holding a bouquet,23,21.330347061157227
+3, a man holding a bouquet,24,26.16792869567871
+3, a man holding a bouquet,25,25.5789794921875
+3, a man holding a bouquet,26,21.734872817993164
+3, a man holding a bouquet,27,28.175798416137695
+3, a man holding a bouquet,28,25.4420108795166
+3, a man holding a bouquet,29,22.397829055786133
+3, a man holding a bouquet,30,23.72985076904297
+3, a man holding a bouquet,31,21.754758834838867
+3, a man holding a bouquet,32,22.929302215576172
+3, a man holding a bouquet,33,25.916015625
+3, a man holding a bouquet,34,25.76177215576172
+3, a man holding a bouquet,35,27.97265625
+3, a man holding a bouquet,36,21.451217651367188
+3, a man holding a bouquet,37,21.68431282043457
+3, a man holding a bouquet,38,20.665912628173828
+3, a man holding a bouquet,39,24.211076736450195
+3, a man holding a bouquet,40,27.6224365234375
+3, a man holding a bouquet,41,19.56983184814453
+3, a man holding a bouquet,42,25.535865783691406
+3, a man holding a bouquet,43,22.989038467407227
+3, a man holding a bouquet,44,23.853782653808594
+3, a man holding a bouquet,45,20.361143112182617
+3, a man holding a bouquet,46,22.885122299194336
+3, a man holding a bouquet,47,19.272136688232422
+3, a man holding a bouquet,48,25.353309631347656
+3, a man holding a bouquet,49,23.671283721923828
+4, a garden,0,24.041536331176758
+4, a garden,1,23.905696868896484
+4, a garden,2,24.694929122924805
+4, a garden,3,24.055152893066406
+4, a garden,4,24.304319381713867
+4, a garden,5,22.818817138671875
+4, a garden,6,22.71327781677246
+4, a garden,7,24.541358947753906
+4, a garden,8,24.777109146118164
+4, a garden,9,22.902931213378906
+4, a garden,10,23.37440299987793
+4, a garden,11,24.600831985473633
+4, a garden,12,23.92580795288086
+4, a garden,13,22.836008071899414
+4, a garden,14,23.541364669799805
+4, a garden,15,24.139108657836914
+4, a garden,16,24.405956268310547
+4, a garden,17,24.72526741027832
+4, a garden,18,23.06573486328125
+4, a garden,19,24.38538360595703
+4, a garden,20,25.073253631591797
+4, a garden,21,24.274497985839844
+4, a garden,22,25.480484008789062
+4, a garden,23,24.241649627685547
+4, a garden,24,23.14955711364746
+4, a garden,25,22.03443717956543
+4, a garden,26,23.720125198364258
+4, a garden,27,23.165603637695312
+4, a garden,28,22.45062255859375
+4, a garden,29,24.514225006103516
+4, a garden,30,23.983633041381836
+4, a garden,31,23.202678680419922
+4, a garden,32,23.066844940185547
+4, a garden,33,23.5571231842041
+4, a garden,34,23.644176483154297
+4, a garden,35,23.488798141479492
+4, a garden,36,23.570459365844727
+4, a garden,37,24.90018653869629
+4, a garden,38,24.436256408691406
+4, a garden,39,23.3436279296875
+4, a garden,40,23.364057540893555
+4, a garden,41,22.7088623046875
+4, a garden,42,24.437101364135742
+4, a garden,43,23.825767517089844
+4, a garden,44,23.710840225219727
+4, a garden,45,24.578371047973633
+4, a garden,46,23.557172775268555
+4, a garden,47,24.196701049804688
+4, a garden,48,23.487346649169922
+4, a garden,49,24.23031997680664
+5, a violet vase on a table,0,30.75789451599121
+5, a violet vase on a table,1,26.20282554626465
+5, a violet vase on a table,2,25.997453689575195
+5, a violet vase on a table,3,28.75465965270996
+5, a violet vase on a table,4,28.418996810913086
+5, a violet vase on a table,5,26.525014877319336
+5, a violet vase on a table,6,32.0054817199707
+5, a violet vase on a table,7,27.398008346557617
+5, a violet vase on a table,8,29.667646408081055
+5, a violet vase on a table,9,29.34023666381836
+5, a violet vase on a table,10,25.926511764526367
+5, a violet vase on a table,11,26.63475227355957
+5, a violet vase on a table,12,27.204683303833008
+5, a violet vase on a table,13,27.538162231445312
+5, a violet vase on a table,14,26.567291259765625
+5, a violet vase on a table,15,25.69190216064453
+5, a violet vase on a table,16,30.843931198120117
+5, a violet vase on a table,17,22.421117782592773
+5, a violet vase on a table,18,29.14736557006836
+5, a violet vase on a table,19,28.727684020996094
+5, a violet vase on a table,20,29.492372512817383
+5, a violet vase on a table,21,23.973508834838867
+5, a violet vase on a table,22,26.3636531829834
+5, a violet vase on a table,23,27.432559967041016
+5, a violet vase on a table,24,23.210508346557617
+5, a violet vase on a table,25,26.665857315063477
+5, a violet vase on a table,26,30.046594619750977
+5, a violet vase on a table,27,26.042020797729492
+5, a violet vase on a table,28,23.85575294494629
+5, a violet vase on a table,29,25.88055419921875
+5, a violet vase on a table,30,29.428869247436523
+5, a violet vase on a table,31,31.346141815185547
+5, a violet vase on a table,32,17.762426376342773
+5, a violet vase on a table,33,24.21200942993164
+5, a violet vase on a table,34,24.529876708984375
+5, a violet vase on a table,35,30.11223602294922
+5, a violet vase on a table,36,29.873228073120117
+5, a violet vase on a table,37,26.13668441772461
+5, a violet vase on a table,38,26.88588523864746
+5, a violet vase on a table,39,26.608091354370117
+5, a violet vase on a table,40,27.858158111572266
+5, a violet vase on a table,41,28.166807174682617
+5, a violet vase on a table,42,25.946680068969727
+5, a violet vase on a table,43,29.518001556396484
+5, a violet vase on a table,44,27.707895278930664
+5, a violet vase on a table,45,23.643539428710938
+5, a violet vase on a table,46,30.449031829833984
+5, a violet vase on a table,47,30.617645263671875
+5, a violet vase on a table,48,27.834659576416016
+5, a violet vase on a table,49,26.763486862182617
+6, a vase on a table,0,21.227567672729492
+6, a vase on a table,1,21.827688217163086
+6, a vase on a table,2,25.16986083984375
+6, a vase on a table,3,20.39142608642578
+6, a vase on a table,4,22.481393814086914
+6, a vase on a table,5,22.353181838989258
+6, a vase on a table,6,21.34142303466797
+6, a vase on a table,7,21.10669708251953
+6, a vase on a table,8,22.24980354309082
+6, a vase on a table,9,23.530254364013672
+6, a vase on a table,10,23.10403060913086
+6, a vase on a table,11,20.54080581665039
+6, a vase on a table,12,21.420997619628906
+6, a vase on a table,13,22.001012802124023
+6, a vase on a table,14,24.210655212402344
+6, a vase on a table,15,23.501178741455078
+6, a vase on a table,16,22.254270553588867
+6, a vase on a table,17,23.018386840820312
+6, a vase on a table,18,24.3165283203125
+6, a vase on a table,19,24.343994140625
+6, a vase on a table,20,21.576025009155273
+6, a vase on a table,21,21.873178482055664
+6, a vase on a table,22,22.030014038085938
+6, a vase on a table,23,23.36005401611328
+6, a vase on a table,24,22.108644485473633
+6, a vase on a table,25,23.576017379760742
+6, a vase on a table,26,23.557025909423828
+6, a vase on a table,27,22.176652908325195
+6, a vase on a table,28,24.55049705505371
+6, a vase on a table,29,22.0898380279541
+6, a vase on a table,30,22.272563934326172
+6, a vase on a table,31,21.970903396606445
+6, a vase on a table,32,22.888193130493164
+6, a vase on a table,33,22.332805633544922
+6, a vase on a table,34,24.14698028564453
+6, a vase on a table,35,21.395296096801758
+6, a vase on a table,36,24.594209671020508
+6, a vase on a table,37,24.30780029296875
+6, a vase on a table,38,21.638002395629883
+6, a vase on a table,39,21.710277557373047
+6, a vase on a table,40,20.85942268371582
+6, a vase on a table,41,21.648239135742188
+6, a vase on a table,42,22.592029571533203
+6, a vase on a table,43,22.14031219482422
+6, a vase on a table,44,22.966575622558594
+6, a vase on a table,45,23.252126693725586
+6, a vase on a table,46,23.293331146240234
+6, a vase on a table,47,24.37198257446289
+6, a vase on a table,48,21.705894470214844
+6, a vase on a table,49,21.770450592041016
+7, a woman holding a bouquet,0,25.47587776184082
+7, a woman holding a bouquet,1,26.39101791381836
+7, a woman holding a bouquet,2,23.935317993164062
+7, a woman holding a bouquet,3,22.45818519592285
+7, a woman holding a bouquet,4,25.687664031982422
+7, a woman holding a bouquet,5,28.384077072143555
+7, a woman holding a bouquet,6,22.905237197875977
+7, a woman holding a bouquet,7,25.85150909423828
+7, a woman holding a bouquet,8,25.908029556274414
+7, a woman holding a bouquet,9,25.515377044677734
+7, a woman holding a bouquet,10,25.875574111938477
+7, a woman holding a bouquet,11,24.6830997467041
+7, a woman holding a bouquet,12,26.690185546875
+7, a woman holding a bouquet,13,25.23179054260254
+7, a woman holding a bouquet,14,24.117612838745117
+7, a woman holding a bouquet,15,25.158416748046875
+7, a woman holding a bouquet,16,22.68696403503418
+7, a woman holding a bouquet,17,22.345333099365234
+7, a woman holding a bouquet,18,25.221078872680664
+7, a woman holding a bouquet,19,23.55272102355957
+7, a woman holding a bouquet,20,24.188879013061523
+7, a woman holding a bouquet,21,22.447372436523438
+7, a woman holding a bouquet,22,22.2510929107666
+7, a woman holding a bouquet,23,22.180870056152344
+7, a woman holding a bouquet,24,28.25303077697754
+7, a woman holding a bouquet,25,26.42731285095215
+7, a woman holding a bouquet,26,24.119905471801758
+7, a woman holding a bouquet,27,25.535106658935547
+7, a woman holding a bouquet,28,22.69231414794922
+7, a woman holding a bouquet,29,26.369216918945312
+7, a woman holding a bouquet,30,24.776992797851562
+7, a woman holding a bouquet,31,24.46199607849121
+7, a woman holding a bouquet,32,27.69356346130371
+7, a woman holding a bouquet,33,25.834678649902344
+7, a woman holding a bouquet,34,22.2177734375
+7, a woman holding a bouquet,35,24.403059005737305
+7, a woman holding a bouquet,36,26.670642852783203
+7, a woman holding a bouquet,37,24.449634552001953
+7, a woman holding a bouquet,38,25.318819046020508
+7, a woman holding a bouquet,39,23.76943016052246
+7, a woman holding a bouquet,40,23.33553123474121
+7, a woman holding a bouquet,41,25.867694854736328
+7, a woman holding a bouquet,42,27.354454040527344
+7, a woman holding a bouquet,43,21.916414260864258
+7, a woman holding a bouquet,44,24.972225189208984
+7, a woman holding a bouquet,45,19.270347595214844
+7, a woman holding a bouquet,46,26.30019760131836
+7, a woman holding a bouquet,47,23.830699920654297
+7, a woman holding a bouquet,48,24.23816680908203
+7, a woman holding a bouquet,49,23.408103942871094
+8, a chocolate cake on the table,0,24.409103393554688
+8, a chocolate cake on the table,1,22.067108154296875
+8, a chocolate cake on the table,2,24.357654571533203
+8, a chocolate cake on the table,3,22.10940933227539
+8, a chocolate cake on the table,4,24.421295166015625
+8, a chocolate cake on the table,5,24.213876724243164
+8, a chocolate cake on the table,6,23.33009147644043
+8, a chocolate cake on the table,7,22.731523513793945
+8, a chocolate cake on the table,8,23.3365478515625
+8, a chocolate cake on the table,9,24.489849090576172
+8, a chocolate cake on the table,10,21.72504997253418
+8, a chocolate cake on the table,11,19.446935653686523
+8, a chocolate cake on the table,12,26.179431915283203
+8, a chocolate cake on the table,13,24.43475341796875
+8, a chocolate cake on the table,14,24.372447967529297
+8, a chocolate cake on the table,15,24.254438400268555
+8, a chocolate cake on the table,16,20.84105682373047
+8, a chocolate cake on the table,17,24.884376525878906
+8, a chocolate cake on the table,18,24.928422927856445
+8, a chocolate cake on the table,19,24.46436309814453
+8, a chocolate cake on the table,20,22.95182228088379
+8, a chocolate cake on the table,21,22.385730743408203
+8, a chocolate cake on the table,22,23.361270904541016
+8, a chocolate cake on the table,23,22.545696258544922
+8, a chocolate cake on the table,24,24.946027755737305
+8, a chocolate cake on the table,25,21.25416374206543
+8, a chocolate cake on the table,26,23.587444305419922
+8, a chocolate cake on the table,27,22.940752029418945
+8, a chocolate cake on the table,28,22.848403930664062
+8, a chocolate cake on the table,29,24.940946578979492
+8, a chocolate cake on the table,30,25.095117568969727
+8, a chocolate cake on the table,31,25.36062240600586
+8, a chocolate cake on the table,32,23.364376068115234
+8, a chocolate cake on the table,33,23.398826599121094
+8, a chocolate cake on the table,34,24.32769012451172
+8, a chocolate cake on the table,35,24.446571350097656
+8, a chocolate cake on the table,36,21.797758102416992
+8, a chocolate cake on the table,37,23.70398712158203
+8, a chocolate cake on the table,38,22.208986282348633
+8, a chocolate cake on the table,39,23.923633575439453
+8, a chocolate cake on the table,40,23.10141372680664
+8, a chocolate cake on the table,41,22.23792266845703
+8, a chocolate cake on the table,42,23.98369598388672
+8, a chocolate cake on the table,43,23.04439353942871
+8, a chocolate cake on the table,44,25.498464584350586
+8, a chocolate cake on the table,45,24.074260711669922
+8, a chocolate cake on the table,46,24.797901153564453
+8, a chocolate cake on the table,47,25.611839294433594
+8, a chocolate cake on the table,48,23.381006240844727
+8, a chocolate cake on the table,49,24.162425994873047
+9, a puppy,0,22.364992141723633
+9, a puppy,1,23.441120147705078
+9, a puppy,2,22.996456146240234
+9, a puppy,3,23.717384338378906
+9, a puppy,4,21.839675903320312
+9, a puppy,5,22.09427261352539
+9, a puppy,6,20.60186195373535
+9, a puppy,7,20.09393882751465
+9, a puppy,8,21.596874237060547
+9, a puppy,9,22.29543685913086
+9, a puppy,10,20.928985595703125
+9, a puppy,11,22.518375396728516
+9, a puppy,12,21.82265281677246
+9, a puppy,13,21.11934471130371
+9, a puppy,14,22.184886932373047
+9, a puppy,15,22.42221450805664
+9, a puppy,16,21.85250473022461
+9, a puppy,17,22.04140853881836
+9, a puppy,18,22.985605239868164
+9, a puppy,19,21.60637855529785
+9, a puppy,20,22.72122573852539
+9, a puppy,21,23.875104904174805
+9, a puppy,22,21.549583435058594
+9, a puppy,23,22.80885887145996
+9, a puppy,24,22.869348526000977
+9, a puppy,25,21.46940040588379
+9, a puppy,26,20.498456954956055
+9, a puppy,27,22.877233505249023
+9, a puppy,28,23.965593338012695
+9, a puppy,29,22.94232177734375
+9, a puppy,30,22.362951278686523
+9, a puppy,31,22.84381103515625
+9, a puppy,32,22.932621002197266
+9, a puppy,33,21.26413917541504
+9, a puppy,34,21.9091796875
+9, a puppy,35,18.870595932006836
+9, a puppy,36,22.164894104003906
+9, a puppy,37,21.8306941986084
+9, a puppy,38,21.996753692626953
+9, a puppy,39,22.256505966186523
+9, a puppy,40,21.872865676879883
+9, a puppy,41,22.39414405822754
+9, a puppy,42,22.171337127685547
+9, a puppy,43,21.294675827026367
+9, a puppy,44,23.233205795288086
+9, a puppy,45,20.507503509521484
+9, a puppy,46,22.607410430908203
+9, a puppy,47,22.917049407958984
+9, a puppy,48,23.0216064453125
+9, a puppy,49,20.795757293701172
+10, a cat,0,20.62129020690918
+10, a cat,1,19.753816604614258
+10, a cat,2,20.563074111938477
+10, a cat,3,22.46336555480957
+10, a cat,4,21.712173461914062
+10, a cat,5,21.827863693237305
+10, a cat,6,20.324363708496094
+10, a cat,7,22.419536590576172
+10, a cat,8,22.99201774597168
+10, a cat,9,20.7857608795166
+10, a cat,10,20.70285415649414
+10, a cat,11,21.84654426574707
+10, a cat,12,21.33100700378418
+10, a cat,13,21.895116806030273
+10, a cat,14,21.340639114379883
+10, a cat,15,21.9890079498291
+10, a cat,16,22.588829040527344
+10, a cat,17,22.2934627532959
+10, a cat,18,21.880699157714844
+10, a cat,19,22.40517807006836
+10, a cat,20,20.49172592163086
+10, a cat,21,22.34005355834961
+10, a cat,22,22.509462356567383
+10, a cat,23,20.59325408935547
+10, a cat,24,21.110973358154297
+10, a cat,25,21.263446807861328
+10, a cat,26,20.927223205566406
+10, a cat,27,21.626142501831055
+10, a cat,28,22.260284423828125
+10, a cat,29,22.189319610595703
+10, a cat,30,20.59722137451172
+10, a cat,31,22.413454055786133
+10, a cat,32,22.527854919433594
+10, a cat,33,21.10677719116211
+10, a cat,34,21.481521606445312
+10, a cat,35,19.999465942382812
+10, a cat,36,20.991411209106445
+10, a cat,37,20.94324493408203
+10, a cat,38,22.6461181640625
+10, a cat,39,20.049617767333984
+10, a cat,40,21.14580535888672
+10, a cat,41,21.241209030151367
+10, a cat,42,21.668228149414062
+10, a cat,43,21.809921264648438
+10, a cat,44,21.16111946105957
+10, a cat,45,20.565040588378906
+10, a cat,46,22.296695709228516
+10, a cat,47,20.63382339477539
+10, a cat,48,22.26504135131836
+10, a cat,49,20.7174129486084
+11, a squirrel,0,23.572668075561523
+11, a squirrel,1,23.645002365112305
+11, a squirrel,2,25.43088722229004
+11, a squirrel,3,24.318267822265625
+11, a squirrel,4,24.917770385742188
+11, a squirrel,5,22.84319305419922
+11, a squirrel,6,23.433080673217773
+11, a squirrel,7,24.84433937072754
+11, a squirrel,8,25.416337966918945
+11, a squirrel,9,24.300308227539062
+11, a squirrel,10,24.039880752563477
+11, a squirrel,11,24.149370193481445
+11, a squirrel,12,24.75223159790039
+11, a squirrel,13,24.652606964111328
+11, a squirrel,14,25.624252319335938
+11, a squirrel,15,24.284278869628906
+11, a squirrel,16,23.845985412597656
+11, a squirrel,17,23.954517364501953
+11, a squirrel,18,24.69877815246582
+11, a squirrel,19,24.188840866088867
+11, a squirrel,20,25.627466201782227
+11, a squirrel,21,24.74631118774414
+11, a squirrel,22,24.15270233154297
+11, a squirrel,23,23.909669876098633
+11, a squirrel,24,24.719131469726562
+11, a squirrel,25,24.155881881713867
+11, a squirrel,26,23.407121658325195
+11, a squirrel,27,25.278114318847656
+11, a squirrel,28,24.103635787963867
+11, a squirrel,29,24.144821166992188
+11, a squirrel,30,24.965150833129883
+11, a squirrel,31,24.904186248779297
+11, a squirrel,32,24.674589157104492
+11, a squirrel,33,24.046764373779297
+11, a squirrel,34,24.22754669189453
+11, a squirrel,35,24.353172302246094
+11, a squirrel,36,25.50090217590332
+11, a squirrel,37,23.659231185913086
+11, a squirrel,38,24.273338317871094
+11, a squirrel,39,24.27414894104004
+11, a squirrel,40,24.361249923706055
+11, a squirrel,41,22.76006317138672
+11, a squirrel,42,21.84371566772461
+11, a squirrel,43,25.730571746826172
+11, a squirrel,44,23.333383560180664
+11, a squirrel,45,24.280357360839844
+11, a squirrel,46,24.63064193725586
+11, a squirrel,47,24.466384887695312
+11, a squirrel,48,24.563207626342773
+11, a squirrel,49,23.6473388671875
+12, a bird,0,15.84170150756836
+12, a bird,1,21.961685180664062
+12, a bird,2,20.615583419799805
+12, a bird,3,21.02704620361328
+12, a bird,4,17.149309158325195
+12, a bird,5,19.786476135253906
+12, a bird,6,21.33588218688965
+12, a bird,7,19.16777992248535
+12, a bird,8,20.637083053588867
+12, a bird,9,12.903131484985352
+12, a bird,10,20.406497955322266
+12, a bird,11,20.30948829650879
+12, a bird,12,21.013797760009766
+12, a bird,13,19.818618774414062
+12, a bird,14,18.092639923095703
+12, a bird,15,15.46768569946289
+12, a bird,16,22.236003875732422
+12, a bird,17,21.982574462890625
+12, a bird,18,20.18166160583496
+12, a bird,19,17.3043155670166
+12, a bird,20,14.957763671875
+12, a bird,21,20.121400833129883
+12, a bird,22,19.169872283935547
+12, a bird,23,21.18165397644043
+12, a bird,24,20.994970321655273
+12, a bird,25,18.891963958740234
+12, a bird,26,21.184778213500977
+12, a bird,27,21.633460998535156
+12, a bird,28,13.933032989501953
+12, a bird,29,14.228185653686523
+12, a bird,30,17.976093292236328
+12, a bird,31,21.77341651916504
+12, a bird,32,19.71807098388672
+12, a bird,33,19.86201286315918
+12, a bird,34,20.59087562561035
+12, a bird,35,22.09561538696289
+12, a bird,36,20.216503143310547
+12, a bird,37,21.463848114013672
+12, a bird,38,21.095998764038086
+12, a bird,39,20.612430572509766
+12, a bird,40,21.372751235961914
+12, a bird,41,21.431217193603516
+12, a bird,42,19.090579986572266
+12, a bird,43,21.036624908447266
+12, a bird,44,20.852073669433594
+12, a bird,45,12.39254379272461
+12, a bird,46,21.56801986694336
+12, a bird,47,19.794708251953125
+12, a bird,48,20.871307373046875
+12, a bird,49,20.748634338378906

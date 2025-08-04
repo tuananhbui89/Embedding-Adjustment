@@ -1,0 +1,651 @@
+prompt_index,prompt,image_index,score
+0,{} wooden pot in grand canyon,0,0.42078179121017456
+0,{} wooden pot in grand canyon,1,0.16375908255577087
+0,{} wooden pot in grand canyon,2,0.308857798576355
+0,{} wooden pot in grand canyon,3,0.19912299513816833
+0,{} wooden pot in grand canyon,4,0.19541901350021362
+0,{} wooden pot in grand canyon,5,0.43623289465904236
+0,{} wooden pot in grand canyon,6,0.2766708731651306
+0,{} wooden pot in grand canyon,7,0.38678282499313354
+0,{} wooden pot in grand canyon,8,0.43848761916160583
+0,{} wooden pot in grand canyon,9,0.3472326993942261
+0,{} wooden pot in grand canyon,10,0.4095570743083954
+0,{} wooden pot in grand canyon,11,0.2650812864303589
+0,{} wooden pot in grand canyon,12,0.2716216444969177
+0,{} wooden pot in grand canyon,13,0.4061618149280548
+0,{} wooden pot in grand canyon,14,0.2518916726112366
+0,{} wooden pot in grand canyon,15,0.46325257420539856
+0,{} wooden pot in grand canyon,16,0.4023163318634033
+0,{} wooden pot in grand canyon,17,0.5432045459747314
+0,{} wooden pot in grand canyon,18,0.15759673714637756
+0,{} wooden pot in grand canyon,19,0.4046855568885803
+0,{} wooden pot in grand canyon,20,0.2248823642730713
+0,{} wooden pot in grand canyon,21,0.4053921103477478
+0,{} wooden pot in grand canyon,22,0.28747648000717163
+0,{} wooden pot in grand canyon,23,0.35125023126602173
+0,{} wooden pot in grand canyon,24,0.2818937599658966
+0,{} wooden pot in grand canyon,25,0.33496999740600586
+0,{} wooden pot in grand canyon,26,0.2780269384384155
+0,{} wooden pot in grand canyon,27,0.4151161313056946
+0,{} wooden pot in grand canyon,28,0.3610210418701172
+0,{} wooden pot in grand canyon,29,0.3168511390686035
+0,{} wooden pot in grand canyon,30,0.23505666851997375
+0,{} wooden pot in grand canyon,31,0.2788015604019165
+0,{} wooden pot in grand canyon,32,0.2843869626522064
+0,{} wooden pot in grand canyon,33,0.48497167229652405
+0,{} wooden pot in grand canyon,34,0.5311804413795471
+0,{} wooden pot in grand canyon,35,0.36005088686943054
+0,{} wooden pot in grand canyon,36,0.5600180625915527
+0,{} wooden pot in grand canyon,37,0.3407992720603943
+0,{} wooden pot in grand canyon,38,0.2622779905796051
+0,{} wooden pot in grand canyon,39,0.454110324382782
+0,{} wooden pot in grand canyon,40,0.5258082151412964
+0,{} wooden pot in grand canyon,41,0.5439660549163818
+0,{} wooden pot in grand canyon,42,0.5447750091552734
+0,{} wooden pot in grand canyon,43,0.5001703500747681
+0,{} wooden pot in grand canyon,44,0.4407375752925873
+0,{} wooden pot in grand canyon,45,0.5265927314758301
+0,{} wooden pot in grand canyon,46,0.2298388034105301
+0,{} wooden pot in grand canyon,47,0.37611985206604004
+0,{} wooden pot in grand canyon,48,0.4107494354248047
+0,{} wooden pot in grand canyon,49,0.4030349850654602
+1,{} wooden pot with mountains and sunset in the background,0,0.3053533732891083
+1,{} wooden pot with mountains and sunset in the background,1,0.33298081159591675
+1,{} wooden pot with mountains and sunset in the background,2,0.5558390617370605
+1,{} wooden pot with mountains and sunset in the background,3,0.43763259053230286
+1,{} wooden pot with mountains and sunset in the background,4,0.3760824203491211
+1,{} wooden pot with mountains and sunset in the background,5,0.46090179681777954
+1,{} wooden pot with mountains and sunset in the background,6,0.31641143560409546
+1,{} wooden pot with mountains and sunset in the background,7,0.3250589966773987
+1,{} wooden pot with mountains and sunset in the background,8,0.5163648128509521
+1,{} wooden pot with mountains and sunset in the background,9,0.4465213418006897
+1,{} wooden pot with mountains and sunset in the background,10,0.34448158740997314
+1,{} wooden pot with mountains and sunset in the background,11,0.30960309505462646
+1,{} wooden pot with mountains and sunset in the background,12,0.42360639572143555
+1,{} wooden pot with mountains and sunset in the background,13,0.41482922434806824
+1,{} wooden pot with mountains and sunset in the background,14,0.6304832696914673
+1,{} wooden pot with mountains and sunset in the background,15,0.6152889728546143
+1,{} wooden pot with mountains and sunset in the background,16,0.4099859595298767
+1,{} wooden pot with mountains and sunset in the background,17,0.3318713307380676
+1,{} wooden pot with mountains and sunset in the background,18,0.5102328658103943
+1,{} wooden pot with mountains and sunset in the background,19,0.39924442768096924
+1,{} wooden pot with mountains and sunset in the background,20,0.4373909831047058
+1,{} wooden pot with mountains and sunset in the background,21,0.296684205532074
+1,{} wooden pot with mountains and sunset in the background,22,0.4931475818157196
+1,{} wooden pot with mountains and sunset in the background,23,0.4319407343864441
+1,{} wooden pot with mountains and sunset in the background,24,0.35355454683303833
+1,{} wooden pot with mountains and sunset in the background,25,0.2735779881477356
+1,{} wooden pot with mountains and sunset in the background,26,0.5837315320968628
+1,{} wooden pot with mountains and sunset in the background,27,0.34044063091278076
+1,{} wooden pot with mountains and sunset in the background,28,0.48183679580688477
+1,{} wooden pot with mountains and sunset in the background,29,0.3750065565109253
+1,{} wooden pot with mountains and sunset in the background,30,0.35918429493904114
+1,{} wooden pot with mountains and sunset in the background,31,0.2865573465824127
+1,{} wooden pot with mountains and sunset in the background,32,0.48961159586906433
+1,{} wooden pot with mountains and sunset in the background,33,0.47492578625679016
+1,{} wooden pot with mountains and sunset in the background,34,0.35070717334747314
+1,{} wooden pot with mountains and sunset in the background,35,0.4588249623775482
+1,{} wooden pot with mountains and sunset in the background,36,0.40828773379325867
+1,{} wooden pot with mountains and sunset in the background,37,0.347854882478714
+1,{} wooden pot with mountains and sunset in the background,38,0.49625635147094727
+1,{} wooden pot with mountains and sunset in the background,39,0.5219110250473022
+1,{} wooden pot with mountains and sunset in the background,40,0.5244561433792114
+1,{} wooden pot with mountains and sunset in the background,41,0.4815867245197296
+1,{} wooden pot with mountains and sunset in the background,42,0.3947813808917999
+1,{} wooden pot with mountains and sunset in the background,43,0.461927592754364
+1,{} wooden pot with mountains and sunset in the background,44,0.4534200429916382
+1,{} wooden pot with mountains and sunset in the background,45,0.3966085910797119
+1,{} wooden pot with mountains and sunset in the background,46,0.4080566167831421
+1,{} wooden pot with mountains and sunset in the background,47,0.43359309434890747
+1,{} wooden pot with mountains and sunset in the background,48,0.48161351680755615
+1,{} wooden pot with mountains and sunset in the background,49,0.4299415349960327
+2,{} wooden pot floating in a pool,0,0.2616065740585327
+2,{} wooden pot floating in a pool,1,0.3648834228515625
+2,{} wooden pot floating in a pool,2,0.29193252325057983
+2,{} wooden pot floating in a pool,3,0.26348409056663513
+2,{} wooden pot floating in a pool,4,0.4761236608028412
+2,{} wooden pot floating in a pool,5,0.2358090877532959
+2,{} wooden pot floating in a pool,6,0.35275793075561523
+2,{} wooden pot floating in a pool,7,0.4356631636619568
+2,{} wooden pot floating in a pool,8,0.38987696170806885
+2,{} wooden pot floating in a pool,9,0.41516876220703125
+2,{} wooden pot floating in a pool,10,0.3479292094707489
+2,{} wooden pot floating in a pool,11,0.3443198800086975
+2,{} wooden pot floating in a pool,12,0.3626362681388855
+2,{} wooden pot floating in a pool,13,0.3250545561313629
+2,{} wooden pot floating in a pool,14,0.41054654121398926
+2,{} wooden pot floating in a pool,15,0.21363745629787445
+2,{} wooden pot floating in a pool,16,0.42434006929397583
+2,{} wooden pot floating in a pool,17,0.25549328327178955
+2,{} wooden pot floating in a pool,18,0.31496649980545044
+2,{} wooden pot floating in a pool,19,0.345869779586792
+2,{} wooden pot floating in a pool,20,0.20112287998199463
+2,{} wooden pot floating in a pool,21,0.5385452508926392
+2,{} wooden pot floating in a pool,22,0.477081835269928
+2,{} wooden pot floating in a pool,23,0.2639666199684143
+2,{} wooden pot floating in a pool,24,0.28773894906044006
+2,{} wooden pot floating in a pool,25,0.383806049823761
+2,{} wooden pot floating in a pool,26,0.33186447620391846
+2,{} wooden pot floating in a pool,27,0.24682854115962982
+2,{} wooden pot floating in a pool,28,0.5117475986480713
+2,{} wooden pot floating in a pool,29,0.37554678320884705
+2,{} wooden pot floating in a pool,30,0.19417212903499603
+2,{} wooden pot floating in a pool,31,0.32265767455101013
+2,{} wooden pot floating in a pool,32,0.3061913251876831
+2,{} wooden pot floating in a pool,33,0.45572084188461304
+2,{} wooden pot floating in a pool,34,0.33375129103660583
+2,{} wooden pot floating in a pool,35,0.23784449696540833
+2,{} wooden pot floating in a pool,36,0.47427991032600403
+2,{} wooden pot floating in a pool,37,0.3552507162094116
+2,{} wooden pot floating in a pool,38,0.24433866143226624
+2,{} wooden pot floating in a pool,39,0.2080332189798355
+2,{} wooden pot floating in a pool,40,0.1446862667798996
+2,{} wooden pot floating in a pool,41,0.17266269028186798
+2,{} wooden pot floating in a pool,42,0.3358938992023468
+2,{} wooden pot floating in a pool,43,0.2618974447250366
+2,{} wooden pot floating in a pool,44,0.28891342878341675
+2,{} wooden pot floating in a pool,45,0.05487561970949173
+2,{} wooden pot floating in a pool,46,0.3038037419319153
+2,{} wooden pot floating in a pool,47,0.18003137409687042
+2,{} wooden pot floating in a pool,48,0.3851759135723114
+2,{} wooden pot floating in a pool,49,0.3799099922180176
+3,a wide shot of {} wooden pot in times square,0,0.3406311869621277
+3,a wide shot of {} wooden pot in times square,1,0.21932414174079895
+3,a wide shot of {} wooden pot in times square,2,0.01930631697177887
+3,a wide shot of {} wooden pot in times square,3,0.3111521601676941
+3,a wide shot of {} wooden pot in times square,4,0.14485499262809753
+3,a wide shot of {} wooden pot in times square,5,0.28205445408821106
+3,a wide shot of {} wooden pot in times square,6,0.021714504808187485
+3,a wide shot of {} wooden pot in times square,7,0.27473533153533936
+3,a wide shot of {} wooden pot in times square,8,0.22303512692451477
+3,a wide shot of {} wooden pot in times square,9,0.129296213388443
+3,a wide shot of {} wooden pot in times square,10,0.10602062940597534
+3,a wide shot of {} wooden pot in times square,11,0.15809759497642517
+3,a wide shot of {} wooden pot in times square,12,0.41296082735061646
+3,a wide shot of {} wooden pot in times square,13,0.030066929757595062
+3,a wide shot of {} wooden pot in times square,14,0.2877907156944275
+3,a wide shot of {} wooden pot in times square,15,0.23196548223495483
+3,a wide shot of {} wooden pot in times square,16,0.1583520919084549
+3,a wide shot of {} wooden pot in times square,17,0.2414592057466507
+3,a wide shot of {} wooden pot in times square,18,0.2091352790594101
+3,a wide shot of {} wooden pot in times square,19,0.18461555242538452
+3,a wide shot of {} wooden pot in times square,20,0.04097124561667442
+3,a wide shot of {} wooden pot in times square,21,0.04237448051571846
+3,a wide shot of {} wooden pot in times square,22,0.2620445489883423
+3,a wide shot of {} wooden pot in times square,23,0.1828969120979309
+3,a wide shot of {} wooden pot in times square,24,0.41354697942733765
+3,a wide shot of {} wooden pot in times square,25,0.3501492142677307
+3,a wide shot of {} wooden pot in times square,26,0.3120672106742859
+3,a wide shot of {} wooden pot in times square,27,0.21289262175559998
+3,a wide shot of {} wooden pot in times square,28,0.4656495749950409
+3,a wide shot of {} wooden pot in times square,29,0.257077693939209
+3,a wide shot of {} wooden pot in times square,30,0.3301811218261719
+3,a wide shot of {} wooden pot in times square,31,0.4604129195213318
+3,a wide shot of {} wooden pot in times square,32,0.24055935442447662
+3,a wide shot of {} wooden pot in times square,33,0.23737716674804688
+3,a wide shot of {} wooden pot in times square,34,0.3134534955024719
+3,a wide shot of {} wooden pot in times square,35,0.1642879992723465
+3,a wide shot of {} wooden pot in times square,36,0.45002785325050354
+3,a wide shot of {} wooden pot in times square,37,0.3937782049179077
+3,a wide shot of {} wooden pot in times square,38,0.019117087125778198
+3,a wide shot of {} wooden pot in times square,39,0.4737820029258728
+3,a wide shot of {} wooden pot in times square,40,0.3081793189048767
+3,a wide shot of {} wooden pot in times square,41,0.022487401962280273
+3,a wide shot of {} wooden pot in times square,42,0.06115391105413437
+3,a wide shot of {} wooden pot in times square,43,0.14599531888961792
+3,a wide shot of {} wooden pot in times square,44,0.2783565819263458
+3,a wide shot of {} wooden pot in times square,45,0.1766044646501541
+3,a wide shot of {} wooden pot in times square,46,0.2614387273788452
+3,a wide shot of {} wooden pot in times square,47,0.3624735474586487
+3,a wide shot of {} wooden pot in times square,48,0.038350969552993774
+3,a wide shot of {} wooden pot in times square,49,0.2648414969444275
+4,{} wooden pot and chocolate cake on a table,0,0.570146381855011
+4,{} wooden pot and chocolate cake on a table,1,0.44657570123672485
+4,{} wooden pot and chocolate cake on a table,2,0.6345598697662354
+4,{} wooden pot and chocolate cake on a table,3,0.3116056025028229
+4,{} wooden pot and chocolate cake on a table,4,0.44330325722694397
+4,{} wooden pot and chocolate cake on a table,5,0.5051419138908386
+4,{} wooden pot and chocolate cake on a table,6,0.5394282341003418
+4,{} wooden pot and chocolate cake on a table,7,0.394276887178421
+4,{} wooden pot and chocolate cake on a table,8,0.44684967398643494
+4,{} wooden pot and chocolate cake on a table,9,0.42063188552856445
+4,{} wooden pot and chocolate cake on a table,10,0.573667585849762
+4,{} wooden pot and chocolate cake on a table,11,0.48429614305496216
+4,{} wooden pot and chocolate cake on a table,12,0.5567947030067444
+4,{} wooden pot and chocolate cake on a table,13,0.42740631103515625
+4,{} wooden pot and chocolate cake on a table,14,0.4093431830406189
+4,{} wooden pot and chocolate cake on a table,15,0.5532158613204956
+4,{} wooden pot and chocolate cake on a table,16,0.4971393346786499
+4,{} wooden pot and chocolate cake on a table,17,0.46656036376953125
+4,{} wooden pot and chocolate cake on a table,18,0.47904884815216064
+4,{} wooden pot and chocolate cake on a table,19,0.5791904926300049
+4,{} wooden pot and chocolate cake on a table,20,0.4441373348236084
+4,{} wooden pot and chocolate cake on a table,21,0.4868709146976471
+4,{} wooden pot and chocolate cake on a table,22,0.4058682918548584
+4,{} wooden pot and chocolate cake on a table,23,0.4103359282016754
+4,{} wooden pot and chocolate cake on a table,24,0.5365475416183472
+4,{} wooden pot and chocolate cake on a table,25,0.4757876694202423
+4,{} wooden pot and chocolate cake on a table,26,0.3181934952735901
+4,{} wooden pot and chocolate cake on a table,27,0.4257432818412781
+4,{} wooden pot and chocolate cake on a table,28,0.3507343828678131
+4,{} wooden pot and chocolate cake on a table,29,0.4317346513271332
+4,{} wooden pot and chocolate cake on a table,30,0.4830225110054016
+4,{} wooden pot and chocolate cake on a table,31,0.3352769613265991
+4,{} wooden pot and chocolate cake on a table,32,0.42152464389801025
+4,{} wooden pot and chocolate cake on a table,33,0.40000295639038086
+4,{} wooden pot and chocolate cake on a table,34,0.42243480682373047
+4,{} wooden pot and chocolate cake on a table,35,0.4217429757118225
+4,{} wooden pot and chocolate cake on a table,36,0.4737868010997772
+4,{} wooden pot and chocolate cake on a table,37,0.4394565224647522
+4,{} wooden pot and chocolate cake on a table,38,0.5396044254302979
+4,{} wooden pot and chocolate cake on a table,39,0.5077768564224243
+4,{} wooden pot and chocolate cake on a table,40,0.38691389560699463
+4,{} wooden pot and chocolate cake on a table,41,0.37023991346359253
+4,{} wooden pot and chocolate cake on a table,42,0.4321712851524353
+4,{} wooden pot and chocolate cake on a table,43,0.5299901962280273
+4,{} wooden pot and chocolate cake on a table,44,0.4570474624633789
+4,{} wooden pot and chocolate cake on a table,45,0.41397881507873535
+4,{} wooden pot and chocolate cake on a table,46,0.3358571529388428
+4,{} wooden pot and chocolate cake on a table,47,0.43926334381103516
+4,{} wooden pot and chocolate cake on a table,48,0.4715108275413513
+4,{} wooden pot and chocolate cake on a table,49,0.4361205995082855
+5,rose flowers in {} wooden pot on a table,0,0.3758049011230469
+5,rose flowers in {} wooden pot on a table,1,0.3273116946220398
+5,rose flowers in {} wooden pot on a table,2,0.30008435249328613
+5,rose flowers in {} wooden pot on a table,3,0.3605462312698364
+5,rose flowers in {} wooden pot on a table,4,0.3853101134300232
+5,rose flowers in {} wooden pot on a table,5,0.27900394797325134
+5,rose flowers in {} wooden pot on a table,6,0.319827139377594
+5,rose flowers in {} wooden pot on a table,7,0.23572051525115967
+5,rose flowers in {} wooden pot on a table,8,0.3581075072288513
+5,rose flowers in {} wooden pot on a table,9,0.504920244216919
+5,rose flowers in {} wooden pot on a table,10,0.3135518431663513
+5,rose flowers in {} wooden pot on a table,11,0.32913580536842346
+5,rose flowers in {} wooden pot on a table,12,0.3491577208042145
+5,rose flowers in {} wooden pot on a table,13,0.3140164613723755
+5,rose flowers in {} wooden pot on a table,14,0.33529239892959595
+5,rose flowers in {} wooden pot on a table,15,0.2538186013698578
+5,rose flowers in {} wooden pot on a table,16,0.2613264322280884
+5,rose flowers in {} wooden pot on a table,17,0.332171231508255
+5,rose flowers in {} wooden pot on a table,18,0.3834775388240814
+5,rose flowers in {} wooden pot on a table,19,0.3337830901145935
+5,rose flowers in {} wooden pot on a table,20,0.29940617084503174
+5,rose flowers in {} wooden pot on a table,21,0.24763107299804688
+5,rose flowers in {} wooden pot on a table,22,0.36850762367248535
+5,rose flowers in {} wooden pot on a table,23,0.3870966136455536
+5,rose flowers in {} wooden pot on a table,24,0.26220089197158813
+5,rose flowers in {} wooden pot on a table,25,0.2827397882938385
+5,rose flowers in {} wooden pot on a table,26,0.46773356199264526
+5,rose flowers in {} wooden pot on a table,27,0.21614737808704376
+5,rose flowers in {} wooden pot on a table,28,0.5520879626274109
+5,rose flowers in {} wooden pot on a table,29,0.2625008225440979
+5,rose flowers in {} wooden pot on a table,30,0.2213515043258667
+5,rose flowers in {} wooden pot on a table,31,0.2779584527015686
+5,rose flowers in {} wooden pot on a table,32,0.30276748538017273
+5,rose flowers in {} wooden pot on a table,33,0.2842879295349121
+5,rose flowers in {} wooden pot on a table,34,0.2754848897457123
+5,rose flowers in {} wooden pot on a table,35,0.4224337637424469
+5,rose flowers in {} wooden pot on a table,36,0.3518298864364624
+5,rose flowers in {} wooden pot on a table,37,0.28469815850257874
+5,rose flowers in {} wooden pot on a table,38,0.3727250099182129
+5,rose flowers in {} wooden pot on a table,39,0.26915693283081055
+5,rose flowers in {} wooden pot on a table,40,0.3842751085758209
+5,rose flowers in {} wooden pot on a table,41,0.2564471364021301
+5,rose flowers in {} wooden pot on a table,42,0.3192957639694214
+5,rose flowers in {} wooden pot on a table,43,0.32131004333496094
+5,rose flowers in {} wooden pot on a table,44,0.3353683650493622
+5,rose flowers in {} wooden pot on a table,45,0.3000941276550293
+5,rose flowers in {} wooden pot on a table,46,0.24166905879974365
+5,rose flowers in {} wooden pot on a table,47,0.2750633656978607
+5,rose flowers in {} wooden pot on a table,48,0.31347450613975525
+5,rose flowers in {} wooden pot on a table,49,0.3335738182067871
+6,marigold flowers in {} wooden pot,0,0.37393489480018616
+6,marigold flowers in {} wooden pot,1,0.3822118639945984
+6,marigold flowers in {} wooden pot,2,0.31772321462631226
+6,marigold flowers in {} wooden pot,3,0.38795995712280273
+6,marigold flowers in {} wooden pot,4,0.24945732951164246
+6,marigold flowers in {} wooden pot,5,0.2792101502418518
+6,marigold flowers in {} wooden pot,6,0.4546789228916168
+6,marigold flowers in {} wooden pot,7,0.4282822608947754
+6,marigold flowers in {} wooden pot,8,0.2298048436641693
+6,marigold flowers in {} wooden pot,9,0.18473902344703674
+6,marigold flowers in {} wooden pot,10,0.22564026713371277
+6,marigold flowers in {} wooden pot,11,0.3814191222190857
+6,marigold flowers in {} wooden pot,12,0.3215174674987793
+6,marigold flowers in {} wooden pot,13,0.26399776339530945
+6,marigold flowers in {} wooden pot,14,0.28066062927246094
+6,marigold flowers in {} wooden pot,15,0.15136206150054932
+6,marigold flowers in {} wooden pot,16,0.2751178741455078
+6,marigold flowers in {} wooden pot,17,0.29419222474098206
+6,marigold flowers in {} wooden pot,18,0.2422724962234497
+6,marigold flowers in {} wooden pot,19,0.35310786962509155
+6,marigold flowers in {} wooden pot,20,0.3212473392486572
+6,marigold flowers in {} wooden pot,21,0.3076172471046448
+6,marigold flowers in {} wooden pot,22,0.33845415711402893
+6,marigold flowers in {} wooden pot,23,0.3267759084701538
+6,marigold flowers in {} wooden pot,24,0.26275932788848877
+6,marigold flowers in {} wooden pot,25,0.17623712122440338
+6,marigold flowers in {} wooden pot,26,0.24667246639728546
+6,marigold flowers in {} wooden pot,27,0.3257315158843994
+6,marigold flowers in {} wooden pot,28,0.2873373329639435
+6,marigold flowers in {} wooden pot,29,0.3666362166404724
+6,marigold flowers in {} wooden pot,30,0.22372981905937195
+6,marigold flowers in {} wooden pot,31,0.11731516569852829
+6,marigold flowers in {} wooden pot,32,0.2261434942483902
+6,marigold flowers in {} wooden pot,33,0.35352495312690735
+6,marigold flowers in {} wooden pot,34,0.4017769992351532
+6,marigold flowers in {} wooden pot,35,0.2787556052207947
+6,marigold flowers in {} wooden pot,36,0.2833452522754669
+6,marigold flowers in {} wooden pot,37,0.40267103910446167
+6,marigold flowers in {} wooden pot,38,0.30462658405303955
+6,marigold flowers in {} wooden pot,39,0.16641978919506073
+6,marigold flowers in {} wooden pot,40,0.35583221912384033
+6,marigold flowers in {} wooden pot,41,0.17343848943710327
+6,marigold flowers in {} wooden pot,42,0.21335455775260925
+6,marigold flowers in {} wooden pot,43,0.311195969581604
+6,marigold flowers in {} wooden pot,44,0.27573859691619873
+6,marigold flowers in {} wooden pot,45,0.3129798173904419
+6,marigold flowers in {} wooden pot,46,0.3293060064315796
+6,marigold flowers in {} wooden pot,47,0.3358135223388672
+6,marigold flowers in {} wooden pot,48,0.3739392161369324
+6,marigold flowers in {} wooden pot,49,0.3465496301651001
+7,{} wooden pot at the entrance into a medieval castle,0,0.3765908479690552
+7,{} wooden pot at the entrance into a medieval castle,1,0.24900946021080017
+7,{} wooden pot at the entrance into a medieval castle,2,0.4056053161621094
+7,{} wooden pot at the entrance into a medieval castle,3,0.34045669436454773
+7,{} wooden pot at the entrance into a medieval castle,4,0.40279144048690796
+7,{} wooden pot at the entrance into a medieval castle,5,0.462239146232605
+7,{} wooden pot at the entrance into a medieval castle,6,0.3194432854652405
+7,{} wooden pot at the entrance into a medieval castle,7,0.32032835483551025
+7,{} wooden pot at the entrance into a medieval castle,8,0.29645857214927673
+7,{} wooden pot at the entrance into a medieval castle,9,0.4750175178050995
+7,{} wooden pot at the entrance into a medieval castle,10,0.2649718225002289
+7,{} wooden pot at the entrance into a medieval castle,11,0.31024473905563354
+7,{} wooden pot at the entrance into a medieval castle,12,0.25001320242881775
+7,{} wooden pot at the entrance into a medieval castle,13,0.3318868577480316
+7,{} wooden pot at the entrance into a medieval castle,14,0.30338457226753235
+7,{} wooden pot at the entrance into a medieval castle,15,0.09519556164741516
+7,{} wooden pot at the entrance into a medieval castle,16,0.25207754969596863
+7,{} wooden pot at the entrance into a medieval castle,17,0.4927603006362915
+7,{} wooden pot at the entrance into a medieval castle,18,0.27444902062416077
+7,{} wooden pot at the entrance into a medieval castle,19,0.4627086818218231
+7,{} wooden pot at the entrance into a medieval castle,20,0.15781736373901367
+7,{} wooden pot at the entrance into a medieval castle,21,0.2706151306629181
+7,{} wooden pot at the entrance into a medieval castle,22,0.6052544713020325
+7,{} wooden pot at the entrance into a medieval castle,23,0.5497227311134338
+7,{} wooden pot at the entrance into a medieval castle,24,0.12933450937271118
+7,{} wooden pot at the entrance into a medieval castle,25,0.41795942187309265
+7,{} wooden pot at the entrance into a medieval castle,26,0.28237706422805786
+7,{} wooden pot at the entrance into a medieval castle,27,0.2704312801361084
+7,{} wooden pot at the entrance into a medieval castle,28,0.36432594060897827
+7,{} wooden pot at the entrance into a medieval castle,29,0.3198049068450928
+7,{} wooden pot at the entrance into a medieval castle,30,0.48160797357559204
+7,{} wooden pot at the entrance into a medieval castle,31,0.43136078119277954
+7,{} wooden pot at the entrance into a medieval castle,32,0.15590527653694153
+7,{} wooden pot at the entrance into a medieval castle,33,0.6932661533355713
+7,{} wooden pot at the entrance into a medieval castle,34,0.22531962394714355
+7,{} wooden pot at the entrance into a medieval castle,35,0.4689938426017761
+7,{} wooden pot at the entrance into a medieval castle,36,0.34264639019966125
+7,{} wooden pot at the entrance into a medieval castle,37,0.2497943937778473
+7,{} wooden pot at the entrance into a medieval castle,38,0.26491519808769226
+7,{} wooden pot at the entrance into a medieval castle,39,0.5338964462280273
+7,{} wooden pot at the entrance into a medieval castle,40,0.37700557708740234
+7,{} wooden pot at the entrance into a medieval castle,41,0.39208871126174927
+7,{} wooden pot at the entrance into a medieval castle,42,0.6573567390441895
+7,{} wooden pot at the entrance into a medieval castle,43,0.2112131118774414
+7,{} wooden pot at the entrance into a medieval castle,44,0.08068832755088806
+7,{} wooden pot at the entrance into a medieval castle,45,0.4283791184425354
+7,{} wooden pot at the entrance into a medieval castle,46,0.23026679456233978
+7,{} wooden pot at the entrance into a medieval castle,47,0.4540731906890869
+7,{} wooden pot at the entrance into a medieval castle,48,0.42410826683044434
+7,{} wooden pot at the entrance into a medieval castle,49,0.540343165397644
+8,{} wooden pot with pens in it,0,0.46323031187057495
+8,{} wooden pot with pens in it,1,0.4028875529766083
+8,{} wooden pot with pens in it,2,0.4641578197479248
+8,{} wooden pot with pens in it,3,0.44293874502182007
+8,{} wooden pot with pens in it,4,0.4497208595275879
+8,{} wooden pot with pens in it,5,0.4464849829673767
+8,{} wooden pot with pens in it,6,0.560932993888855
+8,{} wooden pot with pens in it,7,0.3362208306789398
+8,{} wooden pot with pens in it,8,0.49166107177734375
+8,{} wooden pot with pens in it,9,0.556045413017273
+8,{} wooden pot with pens in it,10,0.4996032118797302
+8,{} wooden pot with pens in it,11,0.4983217716217041
+8,{} wooden pot with pens in it,12,0.5124500393867493
+8,{} wooden pot with pens in it,13,0.4750136435031891
+8,{} wooden pot with pens in it,14,0.5565789341926575
+8,{} wooden pot with pens in it,15,0.5636581778526306
+8,{} wooden pot with pens in it,16,0.5455722212791443
+8,{} wooden pot with pens in it,17,0.5430456399917603
+8,{} wooden pot with pens in it,18,0.43115609884262085
+8,{} wooden pot with pens in it,19,0.461297869682312
+8,{} wooden pot with pens in it,20,0.4621855616569519
+8,{} wooden pot with pens in it,21,0.5808878540992737
+8,{} wooden pot with pens in it,22,0.5383898615837097
+8,{} wooden pot with pens in it,23,0.5146767497062683
+8,{} wooden pot with pens in it,24,0.5119050741195679
+8,{} wooden pot with pens in it,25,0.5106087923049927
+8,{} wooden pot with pens in it,26,0.20008525252342224
+8,{} wooden pot with pens in it,27,0.48814305663108826
+8,{} wooden pot with pens in it,28,0.5060733556747437
+8,{} wooden pot with pens in it,29,0.4061282277107239
+8,{} wooden pot with pens in it,30,0.6445035934448242
+8,{} wooden pot with pens in it,31,0.4603770971298218
+8,{} wooden pot with pens in it,32,0.43650251626968384
+8,{} wooden pot with pens in it,33,0.5355066657066345
+8,{} wooden pot with pens in it,34,0.476330041885376
+8,{} wooden pot with pens in it,35,0.514565646648407
+8,{} wooden pot with pens in it,36,0.5110467076301575
+8,{} wooden pot with pens in it,37,0.5640328526496887
+8,{} wooden pot with pens in it,38,0.6013602018356323
+8,{} wooden pot with pens in it,39,0.5608772039413452
+8,{} wooden pot with pens in it,40,0.3601362705230713
+8,{} wooden pot with pens in it,41,0.5747676491737366
+8,{} wooden pot with pens in it,42,0.4501727521419525
+8,{} wooden pot with pens in it,43,0.5036493539810181
+8,{} wooden pot with pens in it,44,0.5327737927436829
+8,{} wooden pot with pens in it,45,0.4148116409778595
+8,{} wooden pot with pens in it,46,0.5247405767440796
+8,{} wooden pot with pens in it,47,0.4409369230270386
+8,{} wooden pot with pens in it,48,0.4970191717147827
+8,{} wooden pot with pens in it,49,0.3699919283390045
+9,a handbag in the style of {} wooden pot ,0,0.6905868649482727
+9,a handbag in the style of {} wooden pot ,1,0.45233893394470215
+9,a handbag in the style of {} wooden pot ,2,0.6856936812400818
+9,a handbag in the style of {} wooden pot ,3,0.5765193104743958
+9,a handbag in the style of {} wooden pot ,4,0.5714871287345886
+9,a handbag in the style of {} wooden pot ,5,0.5234025716781616
+9,a handbag in the style of {} wooden pot ,6,0.6401017904281616
+9,a handbag in the style of {} wooden pot ,7,0.49028536677360535
+9,a handbag in the style of {} wooden pot ,8,0.5894744992256165
+9,a handbag in the style of {} wooden pot ,9,0.6710191965103149
+9,a handbag in the style of {} wooden pot ,10,0.6843110918998718
+9,a handbag in the style of {} wooden pot ,11,0.6747620701789856
+9,a handbag in the style of {} wooden pot ,12,0.5740220546722412
+9,a handbag in the style of {} wooden pot ,13,0.6126713752746582
+9,a handbag in the style of {} wooden pot ,14,0.5999614596366882
+9,a handbag in the style of {} wooden pot ,15,0.5050987005233765
+9,a handbag in the style of {} wooden pot ,16,0.5349878668785095
+9,a handbag in the style of {} wooden pot ,17,0.3746829628944397
+9,a handbag in the style of {} wooden pot ,18,0.588934063911438
+9,a handbag in the style of {} wooden pot ,19,0.5916314125061035
+9,a handbag in the style of {} wooden pot ,20,0.6405665874481201
+9,a handbag in the style of {} wooden pot ,21,0.5748108625411987
+9,a handbag in the style of {} wooden pot ,22,0.6336669921875
+9,a handbag in the style of {} wooden pot ,23,0.6312692165374756
+9,a handbag in the style of {} wooden pot ,24,0.5879685878753662
+9,a handbag in the style of {} wooden pot ,25,0.5898218750953674
+9,a handbag in the style of {} wooden pot ,26,0.5717150568962097
+9,a handbag in the style of {} wooden pot ,27,0.4819261431694031
+9,a handbag in the style of {} wooden pot ,28,0.5053552985191345
+9,a handbag in the style of {} wooden pot ,29,0.4972629249095917
+9,a handbag in the style of {} wooden pot ,30,0.3102723956108093
+9,a handbag in the style of {} wooden pot ,31,0.6547945141792297
+9,a handbag in the style of {} wooden pot ,32,0.5699683427810669
+9,a handbag in the style of {} wooden pot ,33,0.541979968547821
+9,a handbag in the style of {} wooden pot ,34,0.4580608904361725
+9,a handbag in the style of {} wooden pot ,35,0.4788607060909271
+9,a handbag in the style of {} wooden pot ,36,0.5038071870803833
+9,a handbag in the style of {} wooden pot ,37,0.5289855003356934
+9,a handbag in the style of {} wooden pot ,38,0.4744563102722168
+9,a handbag in the style of {} wooden pot ,39,0.5785789489746094
+9,a handbag in the style of {} wooden pot ,40,0.6801557540893555
+9,a handbag in the style of {} wooden pot ,41,0.46594175696372986
+9,a handbag in the style of {} wooden pot ,42,0.6294318437576294
+9,a handbag in the style of {} wooden pot ,43,0.6388536691665649
+9,a handbag in the style of {} wooden pot ,44,0.5496578216552734
+9,a handbag in the style of {} wooden pot ,45,0.6759404540061951
+9,a handbag in the style of {} wooden pot ,46,0.49526602029800415
+9,a handbag in the style of {} wooden pot ,47,0.4902401268482208
+9,a handbag in the style of {} wooden pot ,48,0.6789136528968811
+9,a handbag in the style of {} wooden pot ,49,0.6299826502799988
+10,a teapot in the style of {} wooden pot,0,0.57285475730896
+10,a teapot in the style of {} wooden pot,1,0.5208656787872314
+10,a teapot in the style of {} wooden pot,2,0.4722219705581665
+10,a teapot in the style of {} wooden pot,3,0.5373881459236145
+10,a teapot in the style of {} wooden pot,4,0.4429141879081726
+10,a teapot in the style of {} wooden pot,5,0.6277564167976379
+10,a teapot in the style of {} wooden pot,6,0.6897401809692383
+10,a teapot in the style of {} wooden pot,7,0.45226380228996277
+10,a teapot in the style of {} wooden pot,8,0.6069821715354919
+10,a teapot in the style of {} wooden pot,9,0.5578975677490234
+10,a teapot in the style of {} wooden pot,10,0.48264411091804504
+10,a teapot in the style of {} wooden pot,11,0.5220823884010315
+10,a teapot in the style of {} wooden pot,12,0.5964024066925049
+10,a teapot in the style of {} wooden pot,13,0.4441480338573456
+10,a teapot in the style of {} wooden pot,14,0.5888729691505432
+10,a teapot in the style of {} wooden pot,15,0.5729607343673706
+10,a teapot in the style of {} wooden pot,16,0.5773769617080688
+10,a teapot in the style of {} wooden pot,17,0.6366311311721802
+10,a teapot in the style of {} wooden pot,18,0.6071780323982239
+10,a teapot in the style of {} wooden pot,19,0.5232224464416504
+10,a teapot in the style of {} wooden pot,20,0.6366467475891113
+10,a teapot in the style of {} wooden pot,21,0.5939670205116272
+10,a teapot in the style of {} wooden pot,22,0.48403167724609375
+10,a teapot in the style of {} wooden pot,23,0.5945612192153931
+10,a teapot in the style of {} wooden pot,24,0.5300930142402649
+10,a teapot in the style of {} wooden pot,25,0.5512145161628723
+10,a teapot in the style of {} wooden pot,26,0.4336126446723938
+10,a teapot in the style of {} wooden pot,27,0.44697925448417664
+10,a teapot in the style of {} wooden pot,28,0.672758936882019
+10,a teapot in the style of {} wooden pot,29,0.5269888639450073
+10,a teapot in the style of {} wooden pot,30,0.4458427429199219
+10,a teapot in the style of {} wooden pot,31,0.44848161935806274
+10,a teapot in the style of {} wooden pot,32,0.4674033522605896
+10,a teapot in the style of {} wooden pot,33,0.4520309567451477
+10,a teapot in the style of {} wooden pot,34,0.5181195735931396
+10,a teapot in the style of {} wooden pot,35,0.46142876148223877
+10,a teapot in the style of {} wooden pot,36,0.5244024991989136
+10,a teapot in the style of {} wooden pot,37,0.5599416494369507
+10,a teapot in the style of {} wooden pot,38,0.47943314909935
+10,a teapot in the style of {} wooden pot,39,0.6374591588973999
+10,a teapot in the style of {} wooden pot,40,0.40206795930862427
+10,a teapot in the style of {} wooden pot,41,0.6419475674629211
+10,a teapot in the style of {} wooden pot,42,0.4507179260253906
+10,a teapot in the style of {} wooden pot,43,0.5104193091392517
+10,a teapot in the style of {} wooden pot,44,0.4656834602355957
+10,a teapot in the style of {} wooden pot,45,0.4960242509841919
+10,a teapot in the style of {} wooden pot,46,0.38101860880851746
+10,a teapot in the style of {} wooden pot,47,0.5755017995834351
+10,a teapot in the style of {} wooden pot,48,0.5843476057052612
+10,a teapot in the style of {} wooden pot,49,0.44988271594047546
+11,a gate in the style of {} wooden pot,0,0.4022819995880127
+11,a gate in the style of {} wooden pot,1,0.11785339564085007
+11,a gate in the style of {} wooden pot,2,0.19691628217697144
+11,a gate in the style of {} wooden pot,3,0.690996527671814
+11,a gate in the style of {} wooden pot,4,0.11353632807731628
+11,a gate in the style of {} wooden pot,5,0.5910744071006775
+11,a gate in the style of {} wooden pot,6,0.2517075538635254
+11,a gate in the style of {} wooden pot,7,0.26519083976745605
+11,a gate in the style of {} wooden pot,8,0.6707323789596558
+11,a gate in the style of {} wooden pot,9,0.35964980721473694
+11,a gate in the style of {} wooden pot,10,0.38935357332229614
+11,a gate in the style of {} wooden pot,11,0.21046122908592224
+11,a gate in the style of {} wooden pot,12,0.36339521408081055
+11,a gate in the style of {} wooden pot,13,0.25635257363319397
+11,a gate in the style of {} wooden pot,14,0.35632726550102234
+11,a gate in the style of {} wooden pot,15,0.4899039566516876
+11,a gate in the style of {} wooden pot,16,0.3606342077255249
+11,a gate in the style of {} wooden pot,17,0.2556729316711426
+11,a gate in the style of {} wooden pot,18,0.24503092467784882
+11,a gate in the style of {} wooden pot,19,0.4486618638038635
+11,a gate in the style of {} wooden pot,20,0.6919364929199219
+11,a gate in the style of {} wooden pot,21,0.2820589542388916
+11,a gate in the style of {} wooden pot,22,0.17583711445331573
+11,a gate in the style of {} wooden pot,23,0.342406690120697
+11,a gate in the style of {} wooden pot,24,0.1644878387451172
+11,a gate in the style of {} wooden pot,25,0.30244332551956177
+11,a gate in the style of {} wooden pot,26,0.4216740131378174
+11,a gate in the style of {} wooden pot,27,0.2997171878814697
+11,a gate in the style of {} wooden pot,28,0.39366215467453003
+11,a gate in the style of {} wooden pot,29,0.26380297541618347
+11,a gate in the style of {} wooden pot,30,0.6901914477348328
+11,a gate in the style of {} wooden pot,31,0.2133360505104065
+11,a gate in the style of {} wooden pot,32,0.11129996180534363
+11,a gate in the style of {} wooden pot,33,0.40567028522491455
+11,a gate in the style of {} wooden pot,34,0.6971735954284668
+11,a gate in the style of {} wooden pot,35,0.3617933392524719
+11,a gate in the style of {} wooden pot,36,0.2349347174167633
+11,a gate in the style of {} wooden pot,37,0.33217331767082214
+11,a gate in the style of {} wooden pot,38,0.47496894001960754
+11,a gate in the style of {} wooden pot,39,0.21485434472560883
+11,a gate in the style of {} wooden pot,40,0.39445528388023376
+11,a gate in the style of {} wooden pot,41,0.19457247853279114
+11,a gate in the style of {} wooden pot,42,0.2511339783668518
+11,a gate in the style of {} wooden pot,43,0.3508457541465759
+11,a gate in the style of {} wooden pot,44,0.3524336814880371
+11,a gate in the style of {} wooden pot,45,0.6697462201118469
+11,a gate in the style of {} wooden pot,46,0.44170141220092773
+11,a gate in the style of {} wooden pot,47,0.31143563985824585
+11,a gate in the style of {} wooden pot,48,0.3224273920059204
+11,a gate in the style of {} wooden pot,49,0.43392693996429443
+12,a coffee cup in the style of {} wooden pot on a table,0,0.5933597087860107
+12,a coffee cup in the style of {} wooden pot on a table,1,0.5423864126205444
+12,a coffee cup in the style of {} wooden pot on a table,2,0.5421159267425537
+12,a coffee cup in the style of {} wooden pot on a table,3,0.540925145149231
+12,a coffee cup in the style of {} wooden pot on a table,4,0.2436109036207199
+12,a coffee cup in the style of {} wooden pot on a table,5,0.46561095118522644
+12,a coffee cup in the style of {} wooden pot on a table,6,0.49907419085502625
+12,a coffee cup in the style of {} wooden pot on a table,7,0.4915165305137634
+12,a coffee cup in the style of {} wooden pot on a table,8,0.5986483097076416
+12,a coffee cup in the style of {} wooden pot on a table,9,0.3713393807411194
+12,a coffee cup in the style of {} wooden pot on a table,10,0.47932755947113037
+12,a coffee cup in the style of {} wooden pot on a table,11,0.37803441286087036
+12,a coffee cup in the style of {} wooden pot on a table,12,0.3270189166069031
+12,a coffee cup in the style of {} wooden pot on a table,13,0.32863712310791016
+12,a coffee cup in the style of {} wooden pot on a table,14,0.38131099939346313
+12,a coffee cup in the style of {} wooden pot on a table,15,0.31622427701950073
+12,a coffee cup in the style of {} wooden pot on a table,16,0.4037438631057739
+12,a coffee cup in the style of {} wooden pot on a table,17,0.4620349705219269
+12,a coffee cup in the style of {} wooden pot on a table,18,0.30820608139038086
+12,a coffee cup in the style of {} wooden pot on a table,19,0.4991563856601715
+12,a coffee cup in the style of {} wooden pot on a table,20,0.598223090171814
+12,a coffee cup in the style of {} wooden pot on a table,21,0.6249134540557861
+12,a coffee cup in the style of {} wooden pot on a table,22,0.5024166107177734
+12,a coffee cup in the style of {} wooden pot on a table,23,0.6606178283691406
+12,a coffee cup in the style of {} wooden pot on a table,24,0.47783857583999634
+12,a coffee cup in the style of {} wooden pot on a table,25,0.4345010817050934
+12,a coffee cup in the style of {} wooden pot on a table,26,0.48288610577583313
+12,a coffee cup in the style of {} wooden pot on a table,27,0.3591717481613159
+12,a coffee cup in the style of {} wooden pot on a table,28,0.5195591449737549
+12,a coffee cup in the style of {} wooden pot on a table,29,0.6752281785011292
+12,a coffee cup in the style of {} wooden pot on a table,30,0.5714945197105408
+12,a coffee cup in the style of {} wooden pot on a table,31,0.6369271278381348
+12,a coffee cup in the style of {} wooden pot on a table,32,0.4320606589317322
+12,a coffee cup in the style of {} wooden pot on a table,33,0.37047600746154785
+12,a coffee cup in the style of {} wooden pot on a table,34,0.4425574243068695
+12,a coffee cup in the style of {} wooden pot on a table,35,0.3970499634742737
+12,a coffee cup in the style of {} wooden pot on a table,36,0.6270226240158081
+12,a coffee cup in the style of {} wooden pot on a table,37,0.4287843704223633
+12,a coffee cup in the style of {} wooden pot on a table,38,0.6362201571464539
+12,a coffee cup in the style of {} wooden pot on a table,39,0.5203436017036438
+12,a coffee cup in the style of {} wooden pot on a table,40,0.510796070098877
+12,a coffee cup in the style of {} wooden pot on a table,41,0.3848889470100403
+12,a coffee cup in the style of {} wooden pot on a table,42,0.5141904950141907
+12,a coffee cup in the style of {} wooden pot on a table,43,0.39735954999923706
+12,a coffee cup in the style of {} wooden pot on a table,44,0.5028083920478821
+12,a coffee cup in the style of {} wooden pot on a table,45,0.4416690468788147
+12,a coffee cup in the style of {} wooden pot on a table,46,0.6277416944503784
+12,a coffee cup in the style of {} wooden pot on a table,47,0.5396642684936523
+12,a coffee cup in the style of {} wooden pot on a table,48,0.6287466287612915
+12,a coffee cup in the style of {} wooden pot on a table,49,0.38593435287475586

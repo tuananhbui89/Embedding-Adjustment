@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} tortoise plushy in grand canyon,0,0.2950798273086548
+0,{} tortoise plushy in grand canyon,1,0.2660961151123047
+0,{} tortoise plushy in grand canyon,2,0.21487635374069214
+0,{} tortoise plushy in grand canyon,3,0.14143824577331543
+0,{} tortoise plushy in grand canyon,4,0.37422627210617065
+0,{} tortoise plushy in grand canyon,5,0.6150256395339966
+0,{} tortoise plushy in grand canyon,6,0.29919499158859253
+0,{} tortoise plushy in grand canyon,7,0.4184098243713379
+0,{} tortoise plushy in grand canyon,8,0.3435733914375305
+0,{} tortoise plushy in grand canyon,9,0.2156437188386917
+0,{} tortoise plushy in grand canyon,10,0.33024322986602783
+0,{} tortoise plushy in grand canyon,11,0.4034847021102905
+0,{} tortoise plushy in grand canyon,12,0.2524397373199463
+0,{} tortoise plushy in grand canyon,13,0.33727508783340454
+0,{} tortoise plushy in grand canyon,14,0.11036829650402069
+0,{} tortoise plushy in grand canyon,15,0.4321567714214325
+0,{} tortoise plushy in grand canyon,16,0.2783956527709961
+0,{} tortoise plushy in grand canyon,17,0.40034306049346924
+0,{} tortoise plushy in grand canyon,18,0.2894975244998932
+0,{} tortoise plushy in grand canyon,19,0.3463808298110962
+0,{} tortoise plushy in grand canyon,20,0.3865284323692322
+0,{} tortoise plushy in grand canyon,21,0.3326164782047272
+0,{} tortoise plushy in grand canyon,22,0.3269239664077759
+0,{} tortoise plushy in grand canyon,23,0.26283302903175354
+0,{} tortoise plushy in grand canyon,24,0.30154868960380554
+0,{} tortoise plushy in grand canyon,25,0.27653437852859497
+0,{} tortoise plushy in grand canyon,26,0.24646295607089996
+0,{} tortoise plushy in grand canyon,27,0.29649272561073303
+0,{} tortoise plushy in grand canyon,28,0.40605655312538147
+0,{} tortoise plushy in grand canyon,29,0.32092440128326416
+0,{} tortoise plushy in grand canyon,30,0.14662325382232666
+0,{} tortoise plushy in grand canyon,31,0.26762741804122925
+0,{} tortoise plushy in grand canyon,32,0.20330476760864258
+0,{} tortoise plushy in grand canyon,33,0.25276097655296326
+0,{} tortoise plushy in grand canyon,34,0.4591159224510193
+0,{} tortoise plushy in grand canyon,35,0.26926320791244507
+0,{} tortoise plushy in grand canyon,36,0.3595935106277466
+0,{} tortoise plushy in grand canyon,37,0.3236798346042633
+0,{} tortoise plushy in grand canyon,38,0.3294202983379364
+0,{} tortoise plushy in grand canyon,39,0.32446998357772827
+0,{} tortoise plushy in grand canyon,40,0.32142186164855957
+0,{} tortoise plushy in grand canyon,41,0.23873630166053772
+0,{} tortoise plushy in grand canyon,42,0.49083247780799866
+0,{} tortoise plushy in grand canyon,43,0.31084150075912476
+0,{} tortoise plushy in grand canyon,44,0.4482831358909607
+0,{} tortoise plushy in grand canyon,45,0.31855469942092896
+0,{} tortoise plushy in grand canyon,46,0.2483738660812378
+0,{} tortoise plushy in grand canyon,47,0.3368704617023468
+0,{} tortoise plushy in grand canyon,48,0.23153123259544373
+0,{} tortoise plushy in grand canyon,49,0.4153784513473511
+1,{} tortoise plushy swimming in a pool,0,0.3013845384120941
+1,{} tortoise plushy swimming in a pool,1,0.38517263531684875
+1,{} tortoise plushy swimming in a pool,2,0.4154396653175354
+1,{} tortoise plushy swimming in a pool,3,0.3481910228729248
+1,{} tortoise plushy swimming in a pool,4,0.17785638570785522
+1,{} tortoise plushy swimming in a pool,5,0.33417803049087524
+1,{} tortoise plushy swimming in a pool,6,0.4005625545978546
+1,{} tortoise plushy swimming in a pool,7,0.32135045528411865
+1,{} tortoise plushy swimming in a pool,8,0.24134111404418945
+1,{} tortoise plushy swimming in a pool,9,0.32075148820877075
+1,{} tortoise plushy swimming in a pool,10,0.49167752265930176
+1,{} tortoise plushy swimming in a pool,11,0.44553229212760925
+1,{} tortoise plushy swimming in a pool,12,0.34694403409957886
+1,{} tortoise plushy swimming in a pool,13,0.520938515663147
+1,{} tortoise plushy swimming in a pool,14,0.33884158730506897
+1,{} tortoise plushy swimming in a pool,15,0.31460338830947876
+1,{} tortoise plushy swimming in a pool,16,0.3012532591819763
+1,{} tortoise plushy swimming in a pool,17,0.21876761317253113
+1,{} tortoise plushy swimming in a pool,18,0.42015254497528076
+1,{} tortoise plushy swimming in a pool,19,0.39651232957839966
+1,{} tortoise plushy swimming in a pool,20,0.3410697281360626
+1,{} tortoise plushy swimming in a pool,21,0.4597824811935425
+1,{} tortoise plushy swimming in a pool,22,0.6536253094673157
+1,{} tortoise plushy swimming in a pool,23,0.460049033164978
+1,{} tortoise plushy swimming in a pool,24,0.4126940369606018
+1,{} tortoise plushy swimming in a pool,25,0.4359818696975708
+1,{} tortoise plushy swimming in a pool,26,0.45547059178352356
+1,{} tortoise plushy swimming in a pool,27,0.23362573981285095
+1,{} tortoise plushy swimming in a pool,28,0.3649763762950897
+1,{} tortoise plushy swimming in a pool,29,0.2686365246772766
+1,{} tortoise plushy swimming in a pool,30,0.3792002201080322
+1,{} tortoise plushy swimming in a pool,31,0.2695096433162689
+1,{} tortoise plushy swimming in a pool,32,0.3928261399269104
+1,{} tortoise plushy swimming in a pool,33,0.3489961624145508
+1,{} tortoise plushy swimming in a pool,34,0.3287724554538727
+1,{} tortoise plushy swimming in a pool,35,0.40064531564712524
+1,{} tortoise plushy swimming in a pool,36,0.34782421588897705
+1,{} tortoise plushy swimming in a pool,37,0.38380396366119385
+1,{} tortoise plushy swimming in a pool,38,0.3504158854484558
+1,{} tortoise plushy swimming in a pool,39,0.34349921345710754
+1,{} tortoise plushy swimming in a pool,40,0.3106769919395447
+1,{} tortoise plushy swimming in a pool,41,0.48779237270355225
+1,{} tortoise plushy swimming in a pool,42,0.3821026086807251
+1,{} tortoise plushy swimming in a pool,43,0.3197766840457916
+1,{} tortoise plushy swimming in a pool,44,0.32769671082496643
+1,{} tortoise plushy swimming in a pool,45,0.49920380115509033
+1,{} tortoise plushy swimming in a pool,46,0.4070765972137451
+1,{} tortoise plushy swimming in a pool,47,0.3476632833480835
+1,{} tortoise plushy swimming in a pool,48,0.30167490243911743
+1,{} tortoise plushy swimming in a pool,49,0.3645416498184204
+2,{} tortoise plushy sitting at the beach with a view of the sea,0,0.35116156935691833
+2,{} tortoise plushy sitting at the beach with a view of the sea,1,0.45719605684280396
+2,{} tortoise plushy sitting at the beach with a view of the sea,2,0.3968925476074219
+2,{} tortoise plushy sitting at the beach with a view of the sea,3,0.29513227939605713
+2,{} tortoise plushy sitting at the beach with a view of the sea,4,0.44594189524650574
+2,{} tortoise plushy sitting at the beach with a view of the sea,5,0.2742152810096741
+2,{} tortoise plushy sitting at the beach with a view of the sea,6,0.3463132977485657
+2,{} tortoise plushy sitting at the beach with a view of the sea,7,0.3120856285095215
+2,{} tortoise plushy sitting at the beach with a view of the sea,8,0.35735464096069336
+2,{} tortoise plushy sitting at the beach with a view of the sea,9,0.27137964963912964
+2,{} tortoise plushy sitting at the beach with a view of the sea,10,0.23124751448631287
+2,{} tortoise plushy sitting at the beach with a view of the sea,11,0.26234978437423706
+2,{} tortoise plushy sitting at the beach with a view of the sea,12,0.36487844586372375
+2,{} tortoise plushy sitting at the beach with a view of the sea,13,0.47102099657058716
+2,{} tortoise plushy sitting at the beach with a view of the sea,14,0.27988290786743164
+2,{} tortoise plushy sitting at the beach with a view of the sea,15,0.3085026741027832
+2,{} tortoise plushy sitting at the beach with a view of the sea,16,0.33241909742355347
+2,{} tortoise plushy sitting at the beach with a view of the sea,17,0.5422927141189575
+2,{} tortoise plushy sitting at the beach with a view of the sea,18,0.4097307026386261
+2,{} tortoise plushy sitting at the beach with a view of the sea,19,0.23049291968345642
+2,{} tortoise plushy sitting at the beach with a view of the sea,20,0.37498873472213745
+2,{} tortoise plushy sitting at the beach with a view of the sea,21,0.3775852620601654
+2,{} tortoise plushy sitting at the beach with a view of the sea,22,0.356034517288208
+2,{} tortoise plushy sitting at the beach with a view of the sea,23,0.5815920829772949
+2,{} tortoise plushy sitting at the beach with a view of the sea,24,0.28197789192199707
+2,{} tortoise plushy sitting at the beach with a view of the sea,25,0.43007057905197144
+2,{} tortoise plushy sitting at the beach with a view of the sea,26,0.36201202869415283
+2,{} tortoise plushy sitting at the beach with a view of the sea,27,0.3291853070259094
+2,{} tortoise plushy sitting at the beach with a view of the sea,28,0.3232734501361847
+2,{} tortoise plushy sitting at the beach with a view of the sea,29,0.38703736662864685
+2,{} tortoise plushy sitting at the beach with a view of the sea,30,0.2822655439376831
+2,{} tortoise plushy sitting at the beach with a view of the sea,31,0.36226320266723633
+2,{} tortoise plushy sitting at the beach with a view of the sea,32,0.4040161669254303
+2,{} tortoise plushy sitting at the beach with a view of the sea,33,0.32250747084617615
+2,{} tortoise plushy sitting at the beach with a view of the sea,34,0.26494479179382324
+2,{} tortoise plushy sitting at the beach with a view of the sea,35,0.40635085105895996
+2,{} tortoise plushy sitting at the beach with a view of the sea,36,0.43448078632354736
+2,{} tortoise plushy sitting at the beach with a view of the sea,37,0.3406450152397156
+2,{} tortoise plushy sitting at the beach with a view of the sea,38,0.19823794066905975
+2,{} tortoise plushy sitting at the beach with a view of the sea,39,0.2619014084339142
+2,{} tortoise plushy sitting at the beach with a view of the sea,40,0.39650648832321167
+2,{} tortoise plushy sitting at the beach with a view of the sea,41,0.2931452989578247
+2,{} tortoise plushy sitting at the beach with a view of the sea,42,0.24419954419136047
+2,{} tortoise plushy sitting at the beach with a view of the sea,43,0.3367886543273926
+2,{} tortoise plushy sitting at the beach with a view of the sea,44,0.3133002817630768
+2,{} tortoise plushy sitting at the beach with a view of the sea,45,0.3815557360649109
+2,{} tortoise plushy sitting at the beach with a view of the sea,46,0.5862258672714233
+2,{} tortoise plushy sitting at the beach with a view of the sea,47,0.23685094714164734
+2,{} tortoise plushy sitting at the beach with a view of the sea,48,0.3399966359138489
+2,{} tortoise plushy sitting at the beach with a view of the sea,49,0.3963615894317627
+3,{} tortoise plushy in times square,0,0.35607945919036865
+3,{} tortoise plushy in times square,1,0.22661204636096954
+3,{} tortoise plushy in times square,2,0.3341314196586609
+3,{} tortoise plushy in times square,3,0.2777121365070343
+3,{} tortoise plushy in times square,4,0.26539719104766846
+3,{} tortoise plushy in times square,5,0.261756956577301
+3,{} tortoise plushy in times square,6,0.14809304475784302
+3,{} tortoise plushy in times square,7,0.1745162159204483
+3,{} tortoise plushy in times square,8,0.3879593014717102
+3,{} tortoise plushy in times square,9,0.3895827829837799
+3,{} tortoise plushy in times square,10,0.25313130021095276
+3,{} tortoise plushy in times square,11,0.3340619206428528
+3,{} tortoise plushy in times square,12,0.4476460814476013
+3,{} tortoise plushy in times square,13,0.1019015982747078
+3,{} tortoise plushy in times square,14,0.4052169919013977
+3,{} tortoise plushy in times square,15,0.25075089931488037
+3,{} tortoise plushy in times square,16,0.16487571597099304
+3,{} tortoise plushy in times square,17,0.09439030289649963
+3,{} tortoise plushy in times square,18,0.27959728240966797
+3,{} tortoise plushy in times square,19,0.13105428218841553
+3,{} tortoise plushy in times square,20,0.2334754765033722
+3,{} tortoise plushy in times square,21,0.3040093779563904
+3,{} tortoise plushy in times square,22,0.1794516146183014
+3,{} tortoise plushy in times square,23,0.2339293658733368
+3,{} tortoise plushy in times square,24,0.2348361611366272
+3,{} tortoise plushy in times square,25,0.537804365158081
+3,{} tortoise plushy in times square,26,0.3082636594772339
+3,{} tortoise plushy in times square,27,0.3539375960826874
+3,{} tortoise plushy in times square,28,0.4083669185638428
+3,{} tortoise plushy in times square,29,0.2764304280281067
+3,{} tortoise plushy in times square,30,0.26466506719589233
+3,{} tortoise plushy in times square,31,0.341778039932251
+3,{} tortoise plushy in times square,32,0.3692612648010254
+3,{} tortoise plushy in times square,33,0.250735878944397
+3,{} tortoise plushy in times square,34,0.3853205144405365
+3,{} tortoise plushy in times square,35,0.23953621089458466
+3,{} tortoise plushy in times square,36,0.38712644577026367
+3,{} tortoise plushy in times square,37,0.41392725706100464
+3,{} tortoise plushy in times square,38,0.3657251000404358
+3,{} tortoise plushy in times square,39,0.2989107370376587
+3,{} tortoise plushy in times square,40,0.2690834403038025
+3,{} tortoise plushy in times square,41,0.44838619232177734
+3,{} tortoise plushy in times square,42,0.2661402225494385
+3,{} tortoise plushy in times square,43,0.4899475574493408
+3,{} tortoise plushy in times square,44,0.1673983931541443
+3,{} tortoise plushy in times square,45,0.467329740524292
+3,{} tortoise plushy in times square,46,0.30113524198532104
+3,{} tortoise plushy in times square,47,0.35762980580329895
+3,{} tortoise plushy in times square,48,0.4259045422077179
+3,{} tortoise plushy in times square,49,0.14394605159759521
+4,{} tortoise plushy in front of a medieval castle,0,0.37015706300735474
+4,{} tortoise plushy in front of a medieval castle,1,0.3958064317703247
+4,{} tortoise plushy in front of a medieval castle,2,0.35579121112823486
+4,{} tortoise plushy in front of a medieval castle,3,0.21312059462070465
+4,{} tortoise plushy in front of a medieval castle,4,0.427258163690567
+4,{} tortoise plushy in front of a medieval castle,5,0.2886667251586914
+4,{} tortoise plushy in front of a medieval castle,6,0.4434430003166199
+4,{} tortoise plushy in front of a medieval castle,7,0.6439775228500366
+4,{} tortoise plushy in front of a medieval castle,8,0.5411055684089661
+4,{} tortoise plushy in front of a medieval castle,9,0.5887697339057922
+4,{} tortoise plushy in front of a medieval castle,10,0.5239523649215698
+4,{} tortoise plushy in front of a medieval castle,11,0.4273802936077118
+4,{} tortoise plushy in front of a medieval castle,12,0.46942055225372314
+4,{} tortoise plushy in front of a medieval castle,13,0.4861404299736023
+4,{} tortoise plushy in front of a medieval castle,14,0.40984827280044556
+4,{} tortoise plushy in front of a medieval castle,15,0.44737356901168823
+4,{} tortoise plushy in front of a medieval castle,16,0.5275880098342896
+4,{} tortoise plushy in front of a medieval castle,17,0.3260851800441742
+4,{} tortoise plushy in front of a medieval castle,18,0.503923237323761
+4,{} tortoise plushy in front of a medieval castle,19,0.4829680025577545
+4,{} tortoise plushy in front of a medieval castle,20,0.43955641984939575
+4,{} tortoise plushy in front of a medieval castle,21,0.562588095664978
+4,{} tortoise plushy in front of a medieval castle,22,0.5228201150894165
+4,{} tortoise plushy in front of a medieval castle,23,0.48591282963752747
+4,{} tortoise plushy in front of a medieval castle,24,0.4569398760795593
+4,{} tortoise plushy in front of a medieval castle,25,0.40703681111335754
+4,{} tortoise plushy in front of a medieval castle,26,0.39981549978256226
+4,{} tortoise plushy in front of a medieval castle,27,0.3705682158470154
+4,{} tortoise plushy in front of a medieval castle,28,0.36310213804244995
+4,{} tortoise plushy in front of a medieval castle,29,0.317421019077301
+4,{} tortoise plushy in front of a medieval castle,30,0.38143062591552734
+4,{} tortoise plushy in front of a medieval castle,31,0.6420750617980957
+4,{} tortoise plushy in front of a medieval castle,32,0.5060881972312927
+4,{} tortoise plushy in front of a medieval castle,33,0.5271554589271545
+4,{} tortoise plushy in front of a medieval castle,34,0.5414605140686035
+4,{} tortoise plushy in front of a medieval castle,35,0.4456608295440674
+4,{} tortoise plushy in front of a medieval castle,36,0.37327057123184204
+4,{} tortoise plushy in front of a medieval castle,37,0.3520506024360657
+4,{} tortoise plushy in front of a medieval castle,38,0.48833131790161133
+4,{} tortoise plushy in front of a medieval castle,39,0.4650169312953949
+4,{} tortoise plushy in front of a medieval castle,40,0.4773203730583191
+4,{} tortoise plushy in front of a medieval castle,41,0.4000595510005951
+4,{} tortoise plushy in front of a medieval castle,42,0.5763275027275085
+4,{} tortoise plushy in front of a medieval castle,43,0.44524580240249634
+4,{} tortoise plushy in front of a medieval castle,44,0.2819037437438965
+4,{} tortoise plushy in front of a medieval castle,45,0.28831061720848083
+4,{} tortoise plushy in front of a medieval castle,46,0.3795180320739746
+4,{} tortoise plushy in front of a medieval castle,47,0.41921383142471313
+4,{} tortoise plushy in front of a medieval castle,48,0.4580991268157959
+4,{} tortoise plushy in front of a medieval castle,49,0.3373572528362274
+5,{} tortoise plushy wearing sunglasses,0,0.6235212087631226
+5,{} tortoise plushy wearing sunglasses,1,0.7186083793640137
+5,{} tortoise plushy wearing sunglasses,2,0.5855985879898071
+5,{} tortoise plushy wearing sunglasses,3,0.6386353969573975
+5,{} tortoise plushy wearing sunglasses,4,0.5595930814743042
+5,{} tortoise plushy wearing sunglasses,5,0.7402578592300415
+5,{} tortoise plushy wearing sunglasses,6,0.5575733780860901
+5,{} tortoise plushy wearing sunglasses,7,0.5040843486785889
+5,{} tortoise plushy wearing sunglasses,8,0.5573021173477173
+5,{} tortoise plushy wearing sunglasses,9,0.6856794953346252
+5,{} tortoise plushy wearing sunglasses,10,0.5712095499038696
+5,{} tortoise plushy wearing sunglasses,11,0.6433618664741516
+5,{} tortoise plushy wearing sunglasses,12,0.6902393102645874
+5,{} tortoise plushy wearing sunglasses,13,0.5594009757041931
+5,{} tortoise plushy wearing sunglasses,14,0.6399495601654053
+5,{} tortoise plushy wearing sunglasses,15,0.45685988664627075
+5,{} tortoise plushy wearing sunglasses,16,0.5159237384796143
+5,{} tortoise plushy wearing sunglasses,17,0.5522280931472778
+5,{} tortoise plushy wearing sunglasses,18,0.6991350650787354
+5,{} tortoise plushy wearing sunglasses,19,0.5835987329483032
+5,{} tortoise plushy wearing sunglasses,20,0.6765719652175903
+5,{} tortoise plushy wearing sunglasses,21,0.620803713798523
+5,{} tortoise plushy wearing sunglasses,22,0.6692823171615601
+5,{} tortoise plushy wearing sunglasses,23,0.6120731830596924
+5,{} tortoise plushy wearing sunglasses,24,0.6121152639389038
+5,{} tortoise plushy wearing sunglasses,25,0.5490390062332153
+5,{} tortoise plushy wearing sunglasses,26,0.6347729563713074
+5,{} tortoise plushy wearing sunglasses,27,0.6388320922851562
+5,{} tortoise plushy wearing sunglasses,28,0.6948254704475403
+5,{} tortoise plushy wearing sunglasses,29,0.6253498792648315
+5,{} tortoise plushy wearing sunglasses,30,0.46562618017196655
+5,{} tortoise plushy wearing sunglasses,31,0.552642822265625
+5,{} tortoise plushy wearing sunglasses,32,0.6173372864723206
+5,{} tortoise plushy wearing sunglasses,33,0.537543773651123
+5,{} tortoise plushy wearing sunglasses,34,0.7763410806655884
+5,{} tortoise plushy wearing sunglasses,35,0.6420882344245911
+5,{} tortoise plushy wearing sunglasses,36,0.6551851034164429
+5,{} tortoise plushy wearing sunglasses,37,0.6461201310157776
+5,{} tortoise plushy wearing sunglasses,38,0.7357180118560791
+5,{} tortoise plushy wearing sunglasses,39,0.5766159296035767
+5,{} tortoise plushy wearing sunglasses,40,0.4957486391067505
+5,{} tortoise plushy wearing sunglasses,41,0.6842018365859985
+5,{} tortoise plushy wearing sunglasses,42,0.7564599514007568
+5,{} tortoise plushy wearing sunglasses,43,0.5794534087181091
+5,{} tortoise plushy wearing sunglasses,44,0.6543624401092529
+5,{} tortoise plushy wearing sunglasses,45,0.5738160014152527
+5,{} tortoise plushy wearing sunglasses,46,0.5945842266082764
+5,{} tortoise plushy wearing sunglasses,47,0.5881671905517578
+5,{} tortoise plushy wearing sunglasses,48,0.5798803567886353
+5,{} tortoise plushy wearing sunglasses,49,0.5850133299827576
+6,{} tortoise plushy working on the laptop,0,0.23750129342079163
+6,{} tortoise plushy working on the laptop,1,0.4845014214515686
+6,{} tortoise plushy working on the laptop,2,0.33168208599090576
+6,{} tortoise plushy working on the laptop,3,0.3733472526073456
+6,{} tortoise plushy working on the laptop,4,0.3591468036174774
+6,{} tortoise plushy working on the laptop,5,0.35531681776046753
+6,{} tortoise plushy working on the laptop,6,0.2390969693660736
+6,{} tortoise plushy working on the laptop,7,0.537771463394165
+6,{} tortoise plushy working on the laptop,8,0.2937173843383789
+6,{} tortoise plushy working on the laptop,9,0.5306092500686646
+6,{} tortoise plushy working on the laptop,10,0.2890019416809082
+6,{} tortoise plushy working on the laptop,11,0.2779707610607147
+6,{} tortoise plushy working on the laptop,12,0.2981414198875427
+6,{} tortoise plushy working on the laptop,13,0.5285772681236267
+6,{} tortoise plushy working on the laptop,14,0.5433337688446045
+6,{} tortoise plushy working on the laptop,15,0.4956303834915161
+6,{} tortoise plushy working on the laptop,16,0.4751439094543457
+6,{} tortoise plushy working on the laptop,17,0.5292588472366333
+6,{} tortoise plushy working on the laptop,18,0.5383949875831604
+6,{} tortoise plushy working on the laptop,19,0.5761653780937195
+6,{} tortoise plushy working on the laptop,20,0.3739379346370697
+6,{} tortoise plushy working on the laptop,21,0.3149917721748352
+6,{} tortoise plushy working on the laptop,22,0.5876932740211487
+6,{} tortoise plushy working on the laptop,23,0.32090622186660767
+6,{} tortoise plushy working on the laptop,24,0.3399447798728943
+6,{} tortoise plushy working on the laptop,25,0.36895862221717834
+6,{} tortoise plushy working on the laptop,26,0.35788100957870483
+6,{} tortoise plushy working on the laptop,27,0.3342953324317932
+6,{} tortoise plushy working on the laptop,28,0.548759937286377
+6,{} tortoise plushy working on the laptop,29,0.3784968852996826
+6,{} tortoise plushy working on the laptop,30,0.34101900458335876
+6,{} tortoise plushy working on the laptop,31,0.5121769905090332
+6,{} tortoise plushy working on the laptop,32,0.4028474986553192
+6,{} tortoise plushy working on the laptop,33,0.21828551590442657
+6,{} tortoise plushy working on the laptop,34,0.47376659512519836
+6,{} tortoise plushy working on the laptop,35,0.4670502245426178
+6,{} tortoise plushy working on the laptop,36,0.47445690631866455
+6,{} tortoise plushy working on the laptop,37,0.37206900119781494
+6,{} tortoise plushy working on the laptop,38,0.6482570171356201
+6,{} tortoise plushy working on the laptop,39,0.3702976405620575
+6,{} tortoise plushy working on the laptop,40,0.21554309129714966
+6,{} tortoise plushy working on the laptop,41,0.5265405178070068
+6,{} tortoise plushy working on the laptop,42,0.4368278384208679
+6,{} tortoise plushy working on the laptop,43,0.32370492815971375
+6,{} tortoise plushy working on the laptop,44,0.504228949546814
+6,{} tortoise plushy working on the laptop,45,0.3790249228477478
+6,{} tortoise plushy working on the laptop,46,0.6157214641571045
+6,{} tortoise plushy working on the laptop,47,0.5351718068122864
+6,{} tortoise plushy working on the laptop,48,0.4984595775604248
+6,{} tortoise plushy working on the laptop,49,0.31383880972862244
+7,{} tortoise plushy on a boat in the sea,0,0.3762829899787903
+7,{} tortoise plushy on a boat in the sea,1,0.5051323175430298
+7,{} tortoise plushy on a boat in the sea,2,0.35682958364486694
+7,{} tortoise plushy on a boat in the sea,3,0.340809166431427
+7,{} tortoise plushy on a boat in the sea,4,0.5100077390670776
+7,{} tortoise plushy on a boat in the sea,5,0.45008185505867004
+7,{} tortoise plushy on a boat in the sea,6,0.37397992610931396
+7,{} tortoise plushy on a boat in the sea,7,0.42617493867874146
+7,{} tortoise plushy on a boat in the sea,8,0.45360925793647766
+7,{} tortoise plushy on a boat in the sea,9,0.37097519636154175
+7,{} tortoise plushy on a boat in the sea,10,0.3328965902328491
+7,{} tortoise plushy on a boat in the sea,11,0.4861831068992615
+7,{} tortoise plushy on a boat in the sea,12,0.34197115898132324
+7,{} tortoise plushy on a boat in the sea,13,0.4535331428050995
+7,{} tortoise plushy on a boat in the sea,14,0.3749507665634155
+7,{} tortoise plushy on a boat in the sea,15,0.4099947214126587
+7,{} tortoise plushy on a boat in the sea,16,0.518664538860321
+7,{} tortoise plushy on a boat in the sea,17,0.3811514973640442
+7,{} tortoise plushy on a boat in the sea,18,0.2977680563926697
+7,{} tortoise plushy on a boat in the sea,19,0.6737276315689087
+7,{} tortoise plushy on a boat in the sea,20,0.3425274193286896
+7,{} tortoise plushy on a boat in the sea,21,0.44096705317497253
+7,{} tortoise plushy on a boat in the sea,22,0.5419076085090637
+7,{} tortoise plushy on a boat in the sea,23,0.3022218346595764
+7,{} tortoise plushy on a boat in the sea,24,0.4057658016681671
+7,{} tortoise plushy on a boat in the sea,25,0.3797278106212616
+7,{} tortoise plushy on a boat in the sea,26,0.5212525725364685
+7,{} tortoise plushy on a boat in the sea,27,0.3200552761554718
+7,{} tortoise plushy on a boat in the sea,28,0.3109040856361389
+7,{} tortoise plushy on a boat in the sea,29,0.517619788646698
+7,{} tortoise plushy on a boat in the sea,30,0.4004497826099396
+7,{} tortoise plushy on a boat in the sea,31,0.47620832920074463
+7,{} tortoise plushy on a boat in the sea,32,0.5709939002990723
+7,{} tortoise plushy on a boat in the sea,33,0.2248794585466385
+7,{} tortoise plushy on a boat in the sea,34,0.46604639291763306
+7,{} tortoise plushy on a boat in the sea,35,0.5265030860900879
+7,{} tortoise plushy on a boat in the sea,36,0.4358416497707367
+7,{} tortoise plushy on a boat in the sea,37,0.39824992418289185
+7,{} tortoise plushy on a boat in the sea,38,0.29477572441101074
+7,{} tortoise plushy on a boat in the sea,39,0.45242661237716675
+7,{} tortoise plushy on a boat in the sea,40,0.4392375946044922
+7,{} tortoise plushy on a boat in the sea,41,0.3609618544578552
+7,{} tortoise plushy on a boat in the sea,42,0.4589971601963043
+7,{} tortoise plushy on a boat in the sea,43,0.39281076192855835
+7,{} tortoise plushy on a boat in the sea,44,0.42168906331062317
+7,{} tortoise plushy on a boat in the sea,45,0.24135339260101318
+7,{} tortoise plushy on a boat in the sea,46,0.40699225664138794
+7,{} tortoise plushy on a boat in the sea,47,0.5638397336006165
+7,{} tortoise plushy on a boat in the sea,48,0.37212440371513367
+7,{} tortoise plushy on a boat in the sea,49,0.2859428822994232
+8,{} tortoise plushy wearing headphones,0,0.6604295969009399
+8,{} tortoise plushy wearing headphones,1,0.6381089687347412
+8,{} tortoise plushy wearing headphones,2,0.663763701915741
+8,{} tortoise plushy wearing headphones,3,0.37578582763671875
+8,{} tortoise plushy wearing headphones,4,0.616912305355072
+8,{} tortoise plushy wearing headphones,5,0.4676622748374939
+8,{} tortoise plushy wearing headphones,6,0.5698305368423462
+8,{} tortoise plushy wearing headphones,7,0.5552878379821777
+8,{} tortoise plushy wearing headphones,8,0.7807617783546448
+8,{} tortoise plushy wearing headphones,9,0.6209841966629028
+8,{} tortoise plushy wearing headphones,10,0.5383991003036499
+8,{} tortoise plushy wearing headphones,11,0.4765830934047699
+8,{} tortoise plushy wearing headphones,12,0.6236233711242676
+8,{} tortoise plushy wearing headphones,13,0.6604242324829102
+8,{} tortoise plushy wearing headphones,14,0.7181040644645691
+8,{} tortoise plushy wearing headphones,15,0.5005673766136169
+8,{} tortoise plushy wearing headphones,16,0.6124854683876038
+8,{} tortoise plushy wearing headphones,17,0.6564879417419434
+8,{} tortoise plushy wearing headphones,18,0.7309067249298096
+8,{} tortoise plushy wearing headphones,19,0.5148751735687256
+8,{} tortoise plushy wearing headphones,20,0.6808670163154602
+8,{} tortoise plushy wearing headphones,21,0.5671820640563965
+8,{} tortoise plushy wearing headphones,22,0.47408249974250793
+8,{} tortoise plushy wearing headphones,23,0.5746563673019409
+8,{} tortoise plushy wearing headphones,24,0.4063011109828949
+8,{} tortoise plushy wearing headphones,25,0.6612224578857422
+8,{} tortoise plushy wearing headphones,26,0.728335440158844
+8,{} tortoise plushy wearing headphones,27,0.6515860557556152
+8,{} tortoise plushy wearing headphones,28,0.5586516261100769
+8,{} tortoise plushy wearing headphones,29,0.396225243806839
+8,{} tortoise plushy wearing headphones,30,0.4635954201221466
+8,{} tortoise plushy wearing headphones,31,0.7343754172325134
+8,{} tortoise plushy wearing headphones,32,0.6798675060272217
+8,{} tortoise plushy wearing headphones,33,0.6521741151809692
+8,{} tortoise plushy wearing headphones,34,0.7412159442901611
+8,{} tortoise plushy wearing headphones,35,0.6156256198883057
+8,{} tortoise plushy wearing headphones,36,0.6110187768936157
+8,{} tortoise plushy wearing headphones,37,0.7291678190231323
+8,{} tortoise plushy wearing headphones,38,0.6881471276283264
+8,{} tortoise plushy wearing headphones,39,0.6482328176498413
+8,{} tortoise plushy wearing headphones,40,0.6648871898651123
+8,{} tortoise plushy wearing headphones,41,0.6868108510971069
+8,{} tortoise plushy wearing headphones,42,0.5722979307174683
+8,{} tortoise plushy wearing headphones,43,0.6399115324020386
+8,{} tortoise plushy wearing headphones,44,0.6796345114707947
+8,{} tortoise plushy wearing headphones,45,0.5373165607452393
+8,{} tortoise plushy wearing headphones,46,0.6352909803390503
+8,{} tortoise plushy wearing headphones,47,0.6270014047622681
+8,{} tortoise plushy wearing headphones,48,0.32692641019821167
+8,{} tortoise plushy wearing headphones,49,0.6489269733428955
+9,A koala in the style of {} tortoise plushy,0,0.7226861715316772
+9,A koala in the style of {} tortoise plushy,1,0.6604422330856323
+9,A koala in the style of {} tortoise plushy,2,0.7716751098632812
+9,A koala in the style of {} tortoise plushy,3,0.6438047885894775
+9,A koala in the style of {} tortoise plushy,4,0.6833266019821167
+9,A koala in the style of {} tortoise plushy,5,0.6989037990570068
+9,A koala in the style of {} tortoise plushy,6,0.6349835991859436
+9,A koala in the style of {} tortoise plushy,7,0.6578675508499146
+9,A koala in the style of {} tortoise plushy,8,0.629980206489563
+9,A koala in the style of {} tortoise plushy,9,0.7137937545776367
+9,A koala in the style of {} tortoise plushy,10,0.5872941017150879
+9,A koala in the style of {} tortoise plushy,11,0.7206345796585083
+9,A koala in the style of {} tortoise plushy,12,0.7013305425643921
+9,A koala in the style of {} tortoise plushy,13,0.7142192125320435
+9,A koala in the style of {} tortoise plushy,14,0.6786144971847534
+9,A koala in the style of {} tortoise plushy,15,0.684503436088562
+9,A koala in the style of {} tortoise plushy,16,0.6902710199356079
+9,A koala in the style of {} tortoise plushy,17,0.6107016801834106
+9,A koala in the style of {} tortoise plushy,18,0.7429481744766235
+9,A koala in the style of {} tortoise plushy,19,0.7044878602027893
+9,A koala in the style of {} tortoise plushy,20,0.757781982421875
+9,A koala in the style of {} tortoise plushy,21,0.6717190742492676
+9,A koala in the style of {} tortoise plushy,22,0.7044578194618225
+9,A koala in the style of {} tortoise plushy,23,0.6241173148155212
+9,A koala in the style of {} tortoise plushy,24,0.7300742864608765
+9,A koala in the style of {} tortoise plushy,25,0.711675763130188
+9,A koala in the style of {} tortoise plushy,26,0.8028310537338257
+9,A koala in the style of {} tortoise plushy,27,0.6230297088623047
+9,A koala in the style of {} tortoise plushy,28,0.7000324726104736
+9,A koala in the style of {} tortoise plushy,29,0.7060918211936951
+9,A koala in the style of {} tortoise plushy,30,0.6986582279205322
+9,A koala in the style of {} tortoise plushy,31,0.6932145953178406
+9,A koala in the style of {} tortoise plushy,32,0.629792332649231
+9,A koala in the style of {} tortoise plushy,33,0.6943913698196411
+9,A koala in the style of {} tortoise plushy,34,0.6100610494613647
+9,A koala in the style of {} tortoise plushy,35,0.4866865873336792
+9,A koala in the style of {} tortoise plushy,36,0.7183982729911804
+9,A koala in the style of {} tortoise plushy,37,0.6620066165924072
+9,A koala in the style of {} tortoise plushy,38,0.6875088214874268
+9,A koala in the style of {} tortoise plushy,39,0.6735503673553467
+9,A koala in the style of {} tortoise plushy,40,0.6892096400260925
+9,A koala in the style of {} tortoise plushy,41,0.4452943801879883
+9,A koala in the style of {} tortoise plushy,42,0.6454049944877625
+9,A koala in the style of {} tortoise plushy,43,0.8067409992218018
+9,A koala in the style of {} tortoise plushy,44,0.7041255831718445
+9,A koala in the style of {} tortoise plushy,45,0.6243299841880798
+9,A koala in the style of {} tortoise plushy,46,0.6787499785423279
+9,A koala in the style of {} tortoise plushy,47,0.710136353969574
+9,A koala in the style of {} tortoise plushy,48,0.7183657884597778
+9,A koala in the style of {} tortoise plushy,49,0.7070901393890381
+10,a backpack in the style of {} tortoise plushy,0,0.3561643362045288
+10,a backpack in the style of {} tortoise plushy,1,0.6767264604568481
+10,a backpack in the style of {} tortoise plushy,2,0.6452149748802185
+10,a backpack in the style of {} tortoise plushy,3,0.6328827142715454
+10,a backpack in the style of {} tortoise plushy,4,0.6475383639335632
+10,a backpack in the style of {} tortoise plushy,5,0.5718810558319092
+10,a backpack in the style of {} tortoise plushy,6,0.7370226979255676
+10,a backpack in the style of {} tortoise plushy,7,0.6273655891418457
+10,a backpack in the style of {} tortoise plushy,8,0.6312757730484009
+10,a backpack in the style of {} tortoise plushy,9,0.676334798336029
+10,a backpack in the style of {} tortoise plushy,10,0.7829689979553223
+10,a backpack in the style of {} tortoise plushy,11,0.7276751399040222
+10,a backpack in the style of {} tortoise plushy,12,0.7699971199035645
+10,a backpack in the style of {} tortoise plushy,13,0.5277614593505859
+10,a backpack in the style of {} tortoise plushy,14,0.7633547782897949
+10,a backpack in the style of {} tortoise plushy,15,0.6300897598266602
+10,a backpack in the style of {} tortoise plushy,16,0.7189764976501465
+10,a backpack in the style of {} tortoise plushy,17,0.7533687353134155
+10,a backpack in the style of {} tortoise plushy,18,0.661919116973877
+10,a backpack in the style of {} tortoise plushy,19,0.6310470104217529
+10,a backpack in the style of {} tortoise plushy,20,0.7633591890335083
+10,a backpack in the style of {} tortoise plushy,21,0.7028234004974365
+10,a backpack in the style of {} tortoise plushy,22,0.5982744693756104
+10,a backpack in the style of {} tortoise plushy,23,0.6530088186264038
+10,a backpack in the style of {} tortoise plushy,24,0.7567881941795349
+10,a backpack in the style of {} tortoise plushy,25,0.6852339506149292
+10,a backpack in the style of {} tortoise plushy,26,0.323494017124176
+10,a backpack in the style of {} tortoise plushy,27,0.754936933517456
+10,a backpack in the style of {} tortoise plushy,28,0.6915431618690491
+10,a backpack in the style of {} tortoise plushy,29,0.6536012887954712
+10,a backpack in the style of {} tortoise plushy,30,0.6719149351119995
+10,a backpack in the style of {} tortoise plushy,31,0.628410279750824
+10,a backpack in the style of {} tortoise plushy,32,0.5158635973930359
+10,a backpack in the style of {} tortoise plushy,33,0.6818053722381592
+10,a backpack in the style of {} tortoise plushy,34,0.6102887392044067
+10,a backpack in the style of {} tortoise plushy,35,0.6000003814697266
+10,a backpack in the style of {} tortoise plushy,36,0.7919325828552246
+10,a backpack in the style of {} tortoise plushy,37,0.5812914371490479
+10,a backpack in the style of {} tortoise plushy,38,0.6502346992492676
+10,a backpack in the style of {} tortoise plushy,39,0.6923901438713074
+10,a backpack in the style of {} tortoise plushy,40,0.6625903844833374
+10,a backpack in the style of {} tortoise plushy,41,0.7332024574279785
+10,a backpack in the style of {} tortoise plushy,42,0.6401876211166382
+10,a backpack in the style of {} tortoise plushy,43,0.7896236777305603
+10,a backpack in the style of {} tortoise plushy,44,0.7598836421966553
+10,a backpack in the style of {} tortoise plushy,45,0.5486257076263428
+10,a backpack in the style of {} tortoise plushy,46,0.6040319800376892
+10,a backpack in the style of {} tortoise plushy,47,0.7862648963928223
+10,a backpack in the style of {} tortoise plushy,48,0.6600719094276428
+10,a backpack in the style of {} tortoise plushy,49,0.7193776369094849
+11,{} tortoise plushy made of crochet,0,0.4926702380180359
+11,{} tortoise plushy made of crochet,1,0.45676231384277344
+11,{} tortoise plushy made of crochet,2,0.4046911597251892
+11,{} tortoise plushy made of crochet,3,0.5179612636566162
+11,{} tortoise plushy made of crochet,4,0.4678211808204651
+11,{} tortoise plushy made of crochet,5,0.4621838331222534
+11,{} tortoise plushy made of crochet,6,0.40981605648994446
+11,{} tortoise plushy made of crochet,7,0.4219391345977783
+11,{} tortoise plushy made of crochet,8,0.5255169868469238
+11,{} tortoise plushy made of crochet,9,0.46193602681159973
+11,{} tortoise plushy made of crochet,10,0.47674521803855896
+11,{} tortoise plushy made of crochet,11,0.3986075818538666
+11,{} tortoise plushy made of crochet,12,0.40808552503585815
+11,{} tortoise plushy made of crochet,13,0.5274063944816589
+11,{} tortoise plushy made of crochet,14,0.4867101311683655
+11,{} tortoise plushy made of crochet,15,0.32799479365348816
+11,{} tortoise plushy made of crochet,16,0.5302388072013855
+11,{} tortoise plushy made of crochet,17,0.5326037406921387
+11,{} tortoise plushy made of crochet,18,0.4919673800468445
+11,{} tortoise plushy made of crochet,19,0.6231657266616821
+11,{} tortoise plushy made of crochet,20,0.34460389614105225
+11,{} tortoise plushy made of crochet,21,0.4726642668247223
+11,{} tortoise plushy made of crochet,22,0.4350273013114929
+11,{} tortoise plushy made of crochet,23,0.43044376373291016
+11,{} tortoise plushy made of crochet,24,0.5445784330368042
+11,{} tortoise plushy made of crochet,25,0.6022540926933289
+11,{} tortoise plushy made of crochet,26,0.5309584736824036
+11,{} tortoise plushy made of crochet,27,0.5468147993087769
+11,{} tortoise plushy made of crochet,28,0.4561538100242615
+11,{} tortoise plushy made of crochet,29,0.4100256562232971
+11,{} tortoise plushy made of crochet,30,0.4836193025112152
+11,{} tortoise plushy made of crochet,31,0.37541037797927856
+11,{} tortoise plushy made of crochet,32,0.5105978846549988
+11,{} tortoise plushy made of crochet,33,0.5091503858566284
+11,{} tortoise plushy made of crochet,34,0.5149587392807007
+11,{} tortoise plushy made of crochet,35,0.4821086525917053
+11,{} tortoise plushy made of crochet,36,0.4750080406665802
+11,{} tortoise plushy made of crochet,37,0.49567490816116333
+11,{} tortoise plushy made of crochet,38,0.5110518932342529
+11,{} tortoise plushy made of crochet,39,0.4911433458328247
+11,{} tortoise plushy made of crochet,40,0.4985114336013794
+11,{} tortoise plushy made of crochet,41,0.42215242981910706
+11,{} tortoise plushy made of crochet,42,0.4559384882450104
+11,{} tortoise plushy made of crochet,43,0.4506557583808899
+11,{} tortoise plushy made of crochet,44,0.525464653968811
+11,{} tortoise plushy made of crochet,45,0.5622586011886597
+11,{} tortoise plushy made of crochet,46,0.4598146080970764
+11,{} tortoise plushy made of crochet,47,0.5649394989013672
+11,{} tortoise plushy made of crochet,48,0.5450142025947571
+11,{} tortoise plushy made of crochet,49,0.36956363916397095
+12,A sweater in the style of {} tortoise plushy,0,0.5424187779426575
+12,A sweater in the style of {} tortoise plushy,1,0.6080648899078369
+12,A sweater in the style of {} tortoise plushy,2,0.5980491042137146
+12,A sweater in the style of {} tortoise plushy,3,0.7210390567779541
+12,A sweater in the style of {} tortoise plushy,4,0.5617601275444031
+12,A sweater in the style of {} tortoise plushy,5,0.7250051498413086
+12,A sweater in the style of {} tortoise plushy,6,0.6433063745498657
+12,A sweater in the style of {} tortoise plushy,7,0.7285913228988647
+12,A sweater in the style of {} tortoise plushy,8,0.6937721967697144
+12,A sweater in the style of {} tortoise plushy,9,0.3788250684738159
+12,A sweater in the style of {} tortoise plushy,10,0.6466039419174194
+12,A sweater in the style of {} tortoise plushy,11,0.5161078572273254
+12,A sweater in the style of {} tortoise plushy,12,0.6000814437866211
+12,A sweater in the style of {} tortoise plushy,13,0.6512178182601929
+12,A sweater in the style of {} tortoise plushy,14,0.6415311098098755
+12,A sweater in the style of {} tortoise plushy,15,0.5710754990577698
+12,A sweater in the style of {} tortoise plushy,16,0.62043297290802
+12,A sweater in the style of {} tortoise plushy,17,0.6335816979408264
+12,A sweater in the style of {} tortoise plushy,18,0.6608976721763611
+12,A sweater in the style of {} tortoise plushy,19,0.6499003171920776
+12,A sweater in the style of {} tortoise plushy,20,0.7302148342132568
+12,A sweater in the style of {} tortoise plushy,21,0.5597599744796753
+12,A sweater in the style of {} tortoise plushy,22,0.6567740440368652
+12,A sweater in the style of {} tortoise plushy,23,0.6485271453857422
+12,A sweater in the style of {} tortoise plushy,24,0.3017364740371704
+12,A sweater in the style of {} tortoise plushy,25,0.41849765181541443
+12,A sweater in the style of {} tortoise plushy,26,0.714128851890564
+12,A sweater in the style of {} tortoise plushy,27,0.4012295603752136
+12,A sweater in the style of {} tortoise plushy,28,0.5719893574714661
+12,A sweater in the style of {} tortoise plushy,29,0.7298650741577148
+12,A sweater in the style of {} tortoise plushy,30,0.7245297431945801
+12,A sweater in the style of {} tortoise plushy,31,0.7568382024765015
+12,A sweater in the style of {} tortoise plushy,32,0.675161600112915
+12,A sweater in the style of {} tortoise plushy,33,0.7583664655685425
+12,A sweater in the style of {} tortoise plushy,34,0.33624303340911865
+12,A sweater in the style of {} tortoise plushy,35,0.6407655477523804
+12,A sweater in the style of {} tortoise plushy,36,0.5768414735794067
+12,A sweater in the style of {} tortoise plushy,37,0.778410792350769
+12,A sweater in the style of {} tortoise plushy,38,0.6221983432769775
+12,A sweater in the style of {} tortoise plushy,39,0.6092932820320129
+12,A sweater in the style of {} tortoise plushy,40,0.42492714524269104
+12,A sweater in the style of {} tortoise plushy,41,0.5712239146232605
+12,A sweater in the style of {} tortoise plushy,42,0.29302549362182617
+12,A sweater in the style of {} tortoise plushy,43,0.7094383239746094
+12,A sweater in the style of {} tortoise plushy,44,0.6795914769172668
+12,A sweater in the style of {} tortoise plushy,45,0.7387440204620361
+12,A sweater in the style of {} tortoise plushy,46,0.605077862739563
+12,A sweater in the style of {} tortoise plushy,47,0.7787827849388123
+12,A sweater in the style of {} tortoise plushy,48,0.46038925647735596
+12,A sweater in the style of {} tortoise plushy,49,0.7374323606491089
+13,a photo of a {} tortoise plushy in Van Gogh style,0,0.7014670372009277
+13,a photo of a {} tortoise plushy in Van Gogh style,1,0.6381304860115051
+13,a photo of a {} tortoise plushy in Van Gogh style,2,0.4645531475543976
+13,a photo of a {} tortoise plushy in Van Gogh style,3,0.683630108833313
+13,a photo of a {} tortoise plushy in Van Gogh style,4,0.48573803901672363
+13,a photo of a {} tortoise plushy in Van Gogh style,5,0.6089984774589539
+13,a photo of a {} tortoise plushy in Van Gogh style,6,0.7869688272476196
+13,a photo of a {} tortoise plushy in Van Gogh style,7,0.664719820022583
+13,a photo of a {} tortoise plushy in Van Gogh style,8,0.3631702959537506
+13,a photo of a {} tortoise plushy in Van Gogh style,9,0.6256672143936157
+13,a photo of a {} tortoise plushy in Van Gogh style,10,0.6184828281402588
+13,a photo of a {} tortoise plushy in Van Gogh style,11,0.7095128297805786
+13,a photo of a {} tortoise plushy in Van Gogh style,12,0.7144948244094849
+13,a photo of a {} tortoise plushy in Van Gogh style,13,0.5177334547042847
+13,a photo of a {} tortoise plushy in Van Gogh style,14,0.7238498330116272
+13,a photo of a {} tortoise plushy in Van Gogh style,15,0.5625464916229248
+13,a photo of a {} tortoise plushy in Van Gogh style,16,0.6577469706535339
+13,a photo of a {} tortoise plushy in Van Gogh style,17,0.2860655188560486
+13,a photo of a {} tortoise plushy in Van Gogh style,18,0.6422576904296875
+13,a photo of a {} tortoise plushy in Van Gogh style,19,0.5512974858283997
+13,a photo of a {} tortoise plushy in Van Gogh style,20,0.5633888244628906
+13,a photo of a {} tortoise plushy in Van Gogh style,21,0.7281267046928406
+13,a photo of a {} tortoise plushy in Van Gogh style,22,0.647313117980957
+13,a photo of a {} tortoise plushy in Van Gogh style,23,0.5947426557540894
+13,a photo of a {} tortoise plushy in Van Gogh style,24,0.6137139797210693
+13,a photo of a {} tortoise plushy in Van Gogh style,25,0.6202100515365601
+13,a photo of a {} tortoise plushy in Van Gogh style,26,0.7818414568901062
+13,a photo of a {} tortoise plushy in Van Gogh style,27,0.6290533542633057
+13,a photo of a {} tortoise plushy in Van Gogh style,28,0.7079753875732422
+13,a photo of a {} tortoise plushy in Van Gogh style,29,0.5822004675865173
+13,a photo of a {} tortoise plushy in Van Gogh style,30,0.6813431978225708
+13,a photo of a {} tortoise plushy in Van Gogh style,31,0.5891448855400085
+13,a photo of a {} tortoise plushy in Van Gogh style,32,0.48422741889953613
+13,a photo of a {} tortoise plushy in Van Gogh style,33,0.7947548627853394
+13,a photo of a {} tortoise plushy in Van Gogh style,34,0.44276392459869385
+13,a photo of a {} tortoise plushy in Van Gogh style,35,0.6098480224609375
+13,a photo of a {} tortoise plushy in Van Gogh style,36,0.6680219173431396
+13,a photo of a {} tortoise plushy in Van Gogh style,37,0.4298444986343384
+13,a photo of a {} tortoise plushy in Van Gogh style,38,0.48247939348220825
+13,a photo of a {} tortoise plushy in Van Gogh style,39,0.27057814598083496
+13,a photo of a {} tortoise plushy in Van Gogh style,40,0.359805703163147
+13,a photo of a {} tortoise plushy in Van Gogh style,41,0.5177700519561768
+13,a photo of a {} tortoise plushy in Van Gogh style,42,0.6249270439147949
+13,a photo of a {} tortoise plushy in Van Gogh style,43,0.5970199704170227
+13,a photo of a {} tortoise plushy in Van Gogh style,44,0.4693475365638733
+13,a photo of a {} tortoise plushy in Van Gogh style,45,0.6534897089004517
+13,a photo of a {} tortoise plushy in Van Gogh style,46,0.7207170128822327
+13,a photo of a {} tortoise plushy in Van Gogh style,47,0.6409543752670288
+13,a photo of a {} tortoise plushy in Van Gogh style,48,0.6975928544998169
+13,a photo of a {} tortoise plushy in Van Gogh style,49,0.4680064022541046

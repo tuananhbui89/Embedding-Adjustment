@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} cat in grand canyon,0,74.07758331298828
+0,{} cat in grand canyon,1,73.012451171875
+0,{} cat in grand canyon,2,75.08186340332031
+0,{} cat in grand canyon,3,73.97028350830078
+0,{} cat in grand canyon,4,76.5654296875
+0,{} cat in grand canyon,5,80.40192413330078
+0,{} cat in grand canyon,6,73.97745513916016
+0,{} cat in grand canyon,7,76.12320709228516
+0,{} cat in grand canyon,8,75.07156372070312
+0,{} cat in grand canyon,9,76.13677978515625
+0,{} cat in grand canyon,10,73.14302062988281
+0,{} cat in grand canyon,11,71.62820434570312
+0,{} cat in grand canyon,12,76.63843536376953
+0,{} cat in grand canyon,13,80.60497283935547
+0,{} cat in grand canyon,14,74.20799255371094
+0,{} cat in grand canyon,15,75.5263442993164
+0,{} cat in grand canyon,16,72.01806640625
+0,{} cat in grand canyon,17,75.10650634765625
+0,{} cat in grand canyon,18,75.60488891601562
+0,{} cat in grand canyon,19,74.7391128540039
+0,{} cat in grand canyon,20,75.94888305664062
+0,{} cat in grand canyon,21,72.22506713867188
+0,{} cat in grand canyon,22,71.4478759765625
+0,{} cat in grand canyon,23,77.15160369873047
+0,{} cat in grand canyon,24,71.91866302490234
+0,{} cat in grand canyon,25,80.0660400390625
+0,{} cat in grand canyon,26,74.70355224609375
+0,{} cat in grand canyon,27,74.27052307128906
+0,{} cat in grand canyon,28,70.95093536376953
+0,{} cat in grand canyon,29,75.63435363769531
+0,{} cat in grand canyon,30,73.9296646118164
+0,{} cat in grand canyon,31,76.18478393554688
+0,{} cat in grand canyon,32,69.81169891357422
+0,{} cat in grand canyon,33,74.5894546508789
+0,{} cat in grand canyon,34,75.65001678466797
+0,{} cat in grand canyon,35,78.0643310546875
+0,{} cat in grand canyon,36,78.67414855957031
+0,{} cat in grand canyon,37,73.70661163330078
+0,{} cat in grand canyon,38,72.63142395019531
+0,{} cat in grand canyon,39,76.49417114257812
+0,{} cat in grand canyon,40,77.43058776855469
+0,{} cat in grand canyon,41,74.32530975341797
+0,{} cat in grand canyon,42,81.9700698852539
+0,{} cat in grand canyon,43,76.17056274414062
+0,{} cat in grand canyon,44,78.55825805664062
+0,{} cat in grand canyon,45,75.24867248535156
+0,{} cat in grand canyon,46,75.7573471069336
+0,{} cat in grand canyon,47,76.4007568359375
+0,{} cat in grand canyon,48,81.58519744873047
+0,{} cat in grand canyon,49,73.54540252685547
+1,{} cat sitting at the beach with a view of the sea,0,80.98462677001953
+1,{} cat sitting at the beach with a view of the sea,1,87.62065887451172
+1,{} cat sitting at the beach with a view of the sea,2,78.42713165283203
+1,{} cat sitting at the beach with a view of the sea,3,79.65318298339844
+1,{} cat sitting at the beach with a view of the sea,4,81.7928237915039
+1,{} cat sitting at the beach with a view of the sea,5,64.61001586914062
+1,{} cat sitting at the beach with a view of the sea,6,79.436279296875
+1,{} cat sitting at the beach with a view of the sea,7,76.46096801757812
+1,{} cat sitting at the beach with a view of the sea,8,75.14720153808594
+1,{} cat sitting at the beach with a view of the sea,9,82.68499755859375
+1,{} cat sitting at the beach with a view of the sea,10,76.9916000366211
+1,{} cat sitting at the beach with a view of the sea,11,75.16595458984375
+1,{} cat sitting at the beach with a view of the sea,12,72.69607543945312
+1,{} cat sitting at the beach with a view of the sea,13,76.17350006103516
+1,{} cat sitting at the beach with a view of the sea,14,82.34217834472656
+1,{} cat sitting at the beach with a view of the sea,15,84.39215087890625
+1,{} cat sitting at the beach with a view of the sea,16,84.23222351074219
+1,{} cat sitting at the beach with a view of the sea,17,79.67980194091797
+1,{} cat sitting at the beach with a view of the sea,18,72.256103515625
+1,{} cat sitting at the beach with a view of the sea,19,77.78349304199219
+1,{} cat sitting at the beach with a view of the sea,20,81.27584075927734
+1,{} cat sitting at the beach with a view of the sea,21,80.70450592041016
+1,{} cat sitting at the beach with a view of the sea,22,87.0096435546875
+1,{} cat sitting at the beach with a view of the sea,23,76.38308715820312
+1,{} cat sitting at the beach with a view of the sea,24,84.39918518066406
+1,{} cat sitting at the beach with a view of the sea,25,71.16822052001953
+1,{} cat sitting at the beach with a view of the sea,26,84.83613586425781
+1,{} cat sitting at the beach with a view of the sea,27,85.04638671875
+1,{} cat sitting at the beach with a view of the sea,28,87.34130096435547
+1,{} cat sitting at the beach with a view of the sea,29,81.01437377929688
+1,{} cat sitting at the beach with a view of the sea,30,74.06514739990234
+1,{} cat sitting at the beach with a view of the sea,31,78.450439453125
+1,{} cat sitting at the beach with a view of the sea,32,84.58055114746094
+1,{} cat sitting at the beach with a view of the sea,33,79.62303924560547
+1,{} cat sitting at the beach with a view of the sea,34,75.63961029052734
+1,{} cat sitting at the beach with a view of the sea,35,84.23033142089844
+1,{} cat sitting at the beach with a view of the sea,36,73.97762298583984
+1,{} cat sitting at the beach with a view of the sea,37,81.14104461669922
+1,{} cat sitting at the beach with a view of the sea,38,86.69377899169922
+1,{} cat sitting at the beach with a view of the sea,39,84.54324340820312
+1,{} cat sitting at the beach with a view of the sea,40,87.18893432617188
+1,{} cat sitting at the beach with a view of the sea,41,72.79961395263672
+1,{} cat sitting at the beach with a view of the sea,42,75.99520111083984
+1,{} cat sitting at the beach with a view of the sea,43,77.70121002197266
+1,{} cat sitting at the beach with a view of the sea,44,72.84754180908203
+1,{} cat sitting at the beach with a view of the sea,45,79.88011932373047
+1,{} cat sitting at the beach with a view of the sea,46,76.2578125
+1,{} cat sitting at the beach with a view of the sea,47,76.76565551757812
+1,{} cat sitting at the beach with a view of the sea,48,81.33314514160156
+1,{} cat sitting at the beach with a view of the sea,49,75.94766235351562
+2,{} cat in times square,0,70.64591979980469
+2,{} cat in times square,1,72.66160583496094
+2,{} cat in times square,2,71.23181915283203
+2,{} cat in times square,3,61.86685562133789
+2,{} cat in times square,4,74.25445556640625
+2,{} cat in times square,5,75.55017852783203
+2,{} cat in times square,6,66.8656234741211
+2,{} cat in times square,7,74.43773651123047
+2,{} cat in times square,8,67.13475036621094
+2,{} cat in times square,9,72.18858337402344
+2,{} cat in times square,10,74.06912231445312
+2,{} cat in times square,11,65.06696319580078
+2,{} cat in times square,12,76.43997192382812
+2,{} cat in times square,13,76.43229675292969
+2,{} cat in times square,14,70.89363098144531
+2,{} cat in times square,15,75.21691131591797
+2,{} cat in times square,16,73.2138900756836
+2,{} cat in times square,17,73.9288101196289
+2,{} cat in times square,18,71.96375274658203
+2,{} cat in times square,19,74.22840881347656
+2,{} cat in times square,20,71.77043914794922
+2,{} cat in times square,21,80.66948699951172
+2,{} cat in times square,22,69.12187957763672
+2,{} cat in times square,23,77.3650894165039
+2,{} cat in times square,24,69.3648910522461
+2,{} cat in times square,25,68.47962951660156
+2,{} cat in times square,26,69.75733184814453
+2,{} cat in times square,27,70.24897766113281
+2,{} cat in times square,28,70.45187377929688
+2,{} cat in times square,29,72.78240966796875
+2,{} cat in times square,30,71.35652160644531
+2,{} cat in times square,31,74.18975067138672
+2,{} cat in times square,32,69.65666961669922
+2,{} cat in times square,33,67.48931884765625
+2,{} cat in times square,34,69.30622863769531
+2,{} cat in times square,35,76.0362777709961
+2,{} cat in times square,36,73.76992797851562
+2,{} cat in times square,37,70.58258056640625
+2,{} cat in times square,38,68.42265319824219
+2,{} cat in times square,39,71.55852508544922
+2,{} cat in times square,40,68.575439453125
+2,{} cat in times square,41,77.06803131103516
+2,{} cat in times square,42,69.94468688964844
+2,{} cat in times square,43,71.57770538330078
+2,{} cat in times square,44,69.09563446044922
+2,{} cat in times square,45,71.28665924072266
+2,{} cat in times square,46,79.50350189208984
+2,{} cat in times square,47,78.23316955566406
+2,{} cat in times square,48,75.94801330566406
+2,{} cat in times square,49,75.82167053222656
+3,{} cat wearing sunglasses,0,76.84147644042969
+3,{} cat wearing sunglasses,1,80.15533447265625
+3,{} cat wearing sunglasses,2,79.8388900756836
+3,{} cat wearing sunglasses,3,82.25729370117188
+3,{} cat wearing sunglasses,4,79.40248107910156
+3,{} cat wearing sunglasses,5,79.2502670288086
+3,{} cat wearing sunglasses,6,77.88502502441406
+3,{} cat wearing sunglasses,7,80.90233612060547
+3,{} cat wearing sunglasses,8,81.52063751220703
+3,{} cat wearing sunglasses,9,77.7640609741211
+3,{} cat wearing sunglasses,10,81.35350799560547
+3,{} cat wearing sunglasses,11,79.35065460205078
+3,{} cat wearing sunglasses,12,77.8319320678711
+3,{} cat wearing sunglasses,13,81.56396484375
+3,{} cat wearing sunglasses,14,77.87349700927734
+3,{} cat wearing sunglasses,15,80.04851531982422
+3,{} cat wearing sunglasses,16,79.5017318725586
+3,{} cat wearing sunglasses,17,80.45096588134766
+3,{} cat wearing sunglasses,18,80.40411376953125
+3,{} cat wearing sunglasses,19,80.8896713256836
+3,{} cat wearing sunglasses,20,83.40760040283203
+3,{} cat wearing sunglasses,21,79.36297607421875
+3,{} cat wearing sunglasses,22,78.29212951660156
+3,{} cat wearing sunglasses,23,79.49201202392578
+3,{} cat wearing sunglasses,24,81.97710418701172
+3,{} cat wearing sunglasses,25,77.70335388183594
+3,{} cat wearing sunglasses,26,79.95355224609375
+3,{} cat wearing sunglasses,27,80.0343246459961
+3,{} cat wearing sunglasses,28,76.63420104980469
+3,{} cat wearing sunglasses,29,78.96138763427734
+3,{} cat wearing sunglasses,30,79.10224151611328
+3,{} cat wearing sunglasses,31,77.19070434570312
+3,{} cat wearing sunglasses,32,79.16062927246094
+3,{} cat wearing sunglasses,33,77.72950744628906
+3,{} cat wearing sunglasses,34,79.42786407470703
+3,{} cat wearing sunglasses,35,80.66976928710938
+3,{} cat wearing sunglasses,36,78.52410125732422
+3,{} cat wearing sunglasses,37,77.44034576416016
+3,{} cat wearing sunglasses,38,80.7933349609375
+3,{} cat wearing sunglasses,39,79.60590362548828
+3,{} cat wearing sunglasses,40,80.51435089111328
+3,{} cat wearing sunglasses,41,79.83557891845703
+3,{} cat wearing sunglasses,42,77.99091339111328
+3,{} cat wearing sunglasses,43,78.5177230834961
+3,{} cat wearing sunglasses,44,81.22193145751953
+3,{} cat wearing sunglasses,45,79.58244323730469
+3,{} cat wearing sunglasses,46,81.20807647705078
+3,{} cat wearing sunglasses,47,80.84514617919922
+3,{} cat wearing sunglasses,48,77.9735107421875
+3,{} cat wearing sunglasses,49,79.60626983642578
+4,{} cat working on the laptop,0,82.22183227539062
+4,{} cat working on the laptop,1,76.28652954101562
+4,{} cat working on the laptop,2,82.61422729492188
+4,{} cat working on the laptop,3,84.09381866455078
+4,{} cat working on the laptop,4,85.55765533447266
+4,{} cat working on the laptop,5,82.34483337402344
+4,{} cat working on the laptop,6,81.92122650146484
+4,{} cat working on the laptop,7,78.82479095458984
+4,{} cat working on the laptop,8,83.53364562988281
+4,{} cat working on the laptop,9,83.1470947265625
+4,{} cat working on the laptop,10,79.20582580566406
+4,{} cat working on the laptop,11,82.80204772949219
+4,{} cat working on the laptop,12,85.52914428710938
+4,{} cat working on the laptop,13,79.68289184570312
+4,{} cat working on the laptop,14,85.85597229003906
+4,{} cat working on the laptop,15,81.29740142822266
+4,{} cat working on the laptop,16,80.10466766357422
+4,{} cat working on the laptop,17,80.5496597290039
+4,{} cat working on the laptop,18,81.89795684814453
+4,{} cat working on the laptop,19,81.74957275390625
+4,{} cat working on the laptop,20,77.66403198242188
+4,{} cat working on the laptop,21,83.18902587890625
+4,{} cat working on the laptop,22,79.84790802001953
+4,{} cat working on the laptop,23,88.83158874511719
+4,{} cat working on the laptop,24,82.47539520263672
+4,{} cat working on the laptop,25,82.85812377929688
+4,{} cat working on the laptop,26,83.88362121582031
+4,{} cat working on the laptop,27,81.5220947265625
+4,{} cat working on the laptop,28,80.08941650390625
+4,{} cat working on the laptop,29,84.20332336425781
+4,{} cat working on the laptop,30,78.13343811035156
+4,{} cat working on the laptop,31,81.43121337890625
+4,{} cat working on the laptop,32,81.55516052246094
+4,{} cat working on the laptop,33,79.48370361328125
+4,{} cat working on the laptop,34,81.76314544677734
+4,{} cat working on the laptop,35,79.94664764404297
+4,{} cat working on the laptop,36,81.81073760986328
+4,{} cat working on the laptop,37,81.43045806884766
+4,{} cat working on the laptop,38,80.96568298339844
+4,{} cat working on the laptop,39,80.8031005859375
+4,{} cat working on the laptop,40,78.66766357421875
+4,{} cat working on the laptop,41,79.66813659667969
+4,{} cat working on the laptop,42,79.9381103515625
+4,{} cat working on the laptop,43,84.05660247802734
+4,{} cat working on the laptop,44,83.38323974609375
+4,{} cat working on the laptop,45,85.15473937988281
+4,{} cat working on the laptop,46,76.76326751708984
+4,{} cat working on the laptop,47,80.08342742919922
+4,{} cat working on the laptop,48,82.17040252685547
+4,{} cat working on the laptop,49,82.07794189453125
+5,{} cat on a boat in the sea,0,81.8789291381836
+5,{} cat on a boat in the sea,1,63.8671760559082
+5,{} cat on a boat in the sea,2,82.37738800048828
+5,{} cat on a boat in the sea,3,79.48661041259766
+5,{} cat on a boat in the sea,4,83.27926635742188
+5,{} cat on a boat in the sea,5,84.75482940673828
+5,{} cat on a boat in the sea,6,81.5238037109375
+5,{} cat on a boat in the sea,7,80.81851959228516
+5,{} cat on a boat in the sea,8,73.55388641357422
+5,{} cat on a boat in the sea,9,80.41375732421875
+5,{} cat on a boat in the sea,10,82.5180435180664
+5,{} cat on a boat in the sea,11,75.02688598632812
+5,{} cat on a boat in the sea,12,71.89997100830078
+5,{} cat on a boat in the sea,13,80.17272186279297
+5,{} cat on a boat in the sea,14,72.31471252441406
+5,{} cat on a boat in the sea,15,85.07201385498047
+5,{} cat on a boat in the sea,16,75.52288818359375
+5,{} cat on a boat in the sea,17,82.61590576171875
+5,{} cat on a boat in the sea,18,81.621337890625
+5,{} cat on a boat in the sea,19,76.94681549072266
+5,{} cat on a boat in the sea,20,79.30986022949219
+5,{} cat on a boat in the sea,21,74.74252319335938
+5,{} cat on a boat in the sea,22,78.2711410522461
+5,{} cat on a boat in the sea,23,72.7326431274414
+5,{} cat on a boat in the sea,24,72.0587387084961
+5,{} cat on a boat in the sea,25,76.10567474365234
+5,{} cat on a boat in the sea,26,77.88629150390625
+5,{} cat on a boat in the sea,27,78.12012481689453
+5,{} cat on a boat in the sea,28,69.13130187988281
+5,{} cat on a boat in the sea,29,75.97428894042969
+5,{} cat on a boat in the sea,30,73.04083251953125
+5,{} cat on a boat in the sea,31,73.68218994140625
+5,{} cat on a boat in the sea,32,69.95398712158203
+5,{} cat on a boat in the sea,33,75.23925018310547
+5,{} cat on a boat in the sea,34,79.11930847167969
+5,{} cat on a boat in the sea,35,81.65361022949219
+5,{} cat on a boat in the sea,36,76.13903045654297
+5,{} cat on a boat in the sea,37,78.91752624511719
+5,{} cat on a boat in the sea,38,77.16795349121094
+5,{} cat on a boat in the sea,39,79.81356048583984
+5,{} cat on a boat in the sea,40,79.08009338378906
+5,{} cat on a boat in the sea,41,77.34799194335938
+5,{} cat on a boat in the sea,42,78.82386779785156
+5,{} cat on a boat in the sea,43,76.44776153564453
+5,{} cat on a boat in the sea,44,76.8798828125
+5,{} cat on a boat in the sea,45,78.95438385009766
+5,{} cat on a boat in the sea,46,74.94168853759766
+5,{} cat on a boat in the sea,47,85.09862518310547
+5,{} cat on a boat in the sea,48,75.0934066772461
+5,{} cat on a boat in the sea,49,85.79170989990234
+6,{} cat wearing headphones,0,80.06267547607422
+6,{} cat wearing headphones,1,79.51911163330078
+6,{} cat wearing headphones,2,77.62718963623047
+6,{} cat wearing headphones,3,88.34779357910156
+6,{} cat wearing headphones,4,79.46558380126953
+6,{} cat wearing headphones,5,81.52458953857422
+6,{} cat wearing headphones,6,78.58528137207031
+6,{} cat wearing headphones,7,78.06253051757812
+6,{} cat wearing headphones,8,86.21302795410156
+6,{} cat wearing headphones,9,72.25648498535156
+6,{} cat wearing headphones,10,79.75944519042969
+6,{} cat wearing headphones,11,87.7066650390625
+6,{} cat wearing headphones,12,84.54915618896484
+6,{} cat wearing headphones,13,79.2403793334961
+6,{} cat wearing headphones,14,74.99468231201172
+6,{} cat wearing headphones,15,83.03146362304688
+6,{} cat wearing headphones,16,80.55829620361328
+6,{} cat wearing headphones,17,91.35061645507812
+6,{} cat wearing headphones,18,76.31353759765625
+6,{} cat wearing headphones,19,87.1396255493164
+6,{} cat wearing headphones,20,79.29762268066406
+6,{} cat wearing headphones,21,89.08549499511719
+6,{} cat wearing headphones,22,79.15514373779297
+6,{} cat wearing headphones,23,82.7021255493164
+6,{} cat wearing headphones,24,86.50572204589844
+6,{} cat wearing headphones,25,79.1116943359375
+6,{} cat wearing headphones,26,77.6766586303711
+6,{} cat wearing headphones,27,88.85674285888672
+6,{} cat wearing headphones,28,83.49723815917969
+6,{} cat wearing headphones,29,87.13119506835938
+6,{} cat wearing headphones,30,81.59705352783203
+6,{} cat wearing headphones,31,84.81809997558594
+6,{} cat wearing headphones,32,79.12210083007812
+6,{} cat wearing headphones,33,79.91024780273438
+6,{} cat wearing headphones,34,77.29481506347656
+6,{} cat wearing headphones,35,76.54275512695312
+6,{} cat wearing headphones,36,87.0186767578125
+6,{} cat wearing headphones,37,74.91602325439453
+6,{} cat wearing headphones,38,85.85778045654297
+6,{} cat wearing headphones,39,80.50709533691406
+6,{} cat wearing headphones,40,80.93230438232422
+6,{} cat wearing headphones,41,78.9269790649414
+6,{} cat wearing headphones,42,88.05224609375
+6,{} cat wearing headphones,43,78.56362915039062
+6,{} cat wearing headphones,44,78.56525421142578
+6,{} cat wearing headphones,45,88.37513732910156
+6,{} cat wearing headphones,46,84.73284149169922
+6,{} cat wearing headphones,47,78.1820297241211
+6,{} cat wearing headphones,48,89.13928985595703
+6,{} cat wearing headphones,49,89.50859069824219
+7,{} cat in a construction outfit,0,85.08010864257812
+7,{} cat in a construction outfit,1,80.97314453125
+7,{} cat in a construction outfit,2,84.66828155517578
+7,{} cat in a construction outfit,3,86.40515899658203
+7,{} cat in a construction outfit,4,78.37604522705078
+7,{} cat in a construction outfit,5,74.71723175048828
+7,{} cat in a construction outfit,6,89.780029296875
+7,{} cat in a construction outfit,7,82.9234848022461
+7,{} cat in a construction outfit,8,78.20470428466797
+7,{} cat in a construction outfit,9,89.84818267822266
+7,{} cat in a construction outfit,10,89.2194595336914
+7,{} cat in a construction outfit,11,83.3675537109375
+7,{} cat in a construction outfit,12,91.18588256835938
+7,{} cat in a construction outfit,13,87.87610626220703
+7,{} cat in a construction outfit,14,91.0595932006836
+7,{} cat in a construction outfit,15,86.88298797607422
+7,{} cat in a construction outfit,16,91.35635375976562
+7,{} cat in a construction outfit,17,86.99110412597656
+7,{} cat in a construction outfit,18,91.19375610351562
+7,{} cat in a construction outfit,19,82.96414947509766
+7,{} cat in a construction outfit,20,86.90494537353516
+7,{} cat in a construction outfit,21,85.62393188476562
+7,{} cat in a construction outfit,22,88.78504943847656
+7,{} cat in a construction outfit,23,83.40373992919922
+7,{} cat in a construction outfit,24,91.60264587402344
+7,{} cat in a construction outfit,25,86.847412109375
+7,{} cat in a construction outfit,26,89.83102416992188
+7,{} cat in a construction outfit,27,83.13713836669922
+7,{} cat in a construction outfit,28,86.0724105834961
+7,{} cat in a construction outfit,29,89.35419464111328
+7,{} cat in a construction outfit,30,85.18174743652344
+7,{} cat in a construction outfit,31,87.15835571289062
+7,{} cat in a construction outfit,32,84.81298828125
+7,{} cat in a construction outfit,33,89.89257049560547
+7,{} cat in a construction outfit,34,92.80437469482422
+7,{} cat in a construction outfit,35,89.4661865234375
+7,{} cat in a construction outfit,36,92.95870208740234
+7,{} cat in a construction outfit,37,79.26286315917969
+7,{} cat in a construction outfit,38,86.68592071533203
+7,{} cat in a construction outfit,39,88.20350646972656
+7,{} cat in a construction outfit,40,74.53626251220703
+7,{} cat in a construction outfit,41,86.86587524414062
+7,{} cat in a construction outfit,42,81.64600372314453
+7,{} cat in a construction outfit,43,76.90924072265625
+7,{} cat in a construction outfit,44,87.83995056152344
+7,{} cat in a construction outfit,45,85.55127716064453
+7,{} cat in a construction outfit,46,81.26174926757812
+7,{} cat in a construction outfit,47,77.80261993408203
+7,{} cat in a construction outfit,48,80.20932006835938
+7,{} cat in a construction outfit,49,87.72554016113281
+8,{} cat on top of a mountain,0,82.09562683105469
+8,{} cat on top of a mountain,1,81.32953643798828
+8,{} cat on top of a mountain,2,77.43553924560547
+8,{} cat on top of a mountain,3,83.55027770996094
+8,{} cat on top of a mountain,4,74.97107696533203
+8,{} cat on top of a mountain,5,73.63561248779297
+8,{} cat on top of a mountain,6,79.5776596069336
+8,{} cat on top of a mountain,7,72.43135833740234
+8,{} cat on top of a mountain,8,79.36931610107422
+8,{} cat on top of a mountain,9,78.63404083251953
+8,{} cat on top of a mountain,10,80.24226379394531
+8,{} cat on top of a mountain,11,81.76317596435547
+8,{} cat on top of a mountain,12,84.97517395019531
+8,{} cat on top of a mountain,13,78.89630889892578
+8,{} cat on top of a mountain,14,75.49813079833984
+8,{} cat on top of a mountain,15,76.0623550415039
+8,{} cat on top of a mountain,16,78.56648254394531
+8,{} cat on top of a mountain,17,69.0674057006836
+8,{} cat on top of a mountain,18,77.19528198242188
+8,{} cat on top of a mountain,19,84.10725402832031
+8,{} cat on top of a mountain,20,80.16900634765625
+8,{} cat on top of a mountain,21,71.71469116210938
+8,{} cat on top of a mountain,22,80.06527709960938
+8,{} cat on top of a mountain,23,75.5423583984375
+8,{} cat on top of a mountain,24,76.45156860351562
+8,{} cat on top of a mountain,25,72.08161163330078
+8,{} cat on top of a mountain,26,78.27776336669922
+8,{} cat on top of a mountain,27,73.56378173828125
+8,{} cat on top of a mountain,28,81.77957153320312
+8,{} cat on top of a mountain,29,82.7735366821289
+8,{} cat on top of a mountain,30,85.76309967041016
+8,{} cat on top of a mountain,31,73.42105102539062
+8,{} cat on top of a mountain,32,74.10606384277344
+8,{} cat on top of a mountain,33,85.71034240722656
+8,{} cat on top of a mountain,34,74.89778137207031
+8,{} cat on top of a mountain,35,87.23255157470703
+8,{} cat on top of a mountain,36,85.92578125
+8,{} cat on top of a mountain,37,81.13362121582031
+8,{} cat on top of a mountain,38,80.68305969238281
+8,{} cat on top of a mountain,39,75.45303344726562
+8,{} cat on top of a mountain,40,75.71003723144531
+8,{} cat on top of a mountain,41,81.48768615722656
+8,{} cat on top of a mountain,42,83.08262634277344
+8,{} cat on top of a mountain,43,77.28338623046875
+8,{} cat on top of a mountain,44,76.13981628417969
+8,{} cat on top of a mountain,45,81.19914245605469
+8,{} cat on top of a mountain,46,77.4572525024414
+8,{} cat on top of a mountain,47,71.50833892822266
+8,{} cat on top of a mountain,48,84.49048614501953
+8,{} cat on top of a mountain,49,82.73664855957031
+9,a koala in the style of {} cat,0,71.53417205810547
+9,a koala in the style of {} cat,1,65.34394073486328
+9,a koala in the style of {} cat,2,73.09530639648438
+9,a koala in the style of {} cat,3,70.22285461425781
+9,a koala in the style of {} cat,4,72.05610656738281
+9,a koala in the style of {} cat,5,62.630897521972656
+9,a koala in the style of {} cat,6,72.44340515136719
+9,a koala in the style of {} cat,7,72.56332397460938
+9,a koala in the style of {} cat,8,72.7024154663086
+9,a koala in the style of {} cat,9,71.85242462158203
+9,a koala in the style of {} cat,10,70.96935272216797
+9,a koala in the style of {} cat,11,71.15214538574219
+9,a koala in the style of {} cat,12,71.37286376953125
+9,a koala in the style of {} cat,13,71.05380249023438
+9,a koala in the style of {} cat,14,71.843505859375
+9,a koala in the style of {} cat,15,71.7580337524414
+9,a koala in the style of {} cat,16,71.05754852294922
+9,a koala in the style of {} cat,17,72.52030944824219
+9,a koala in the style of {} cat,18,70.22865295410156
+9,a koala in the style of {} cat,19,70.27043151855469
+9,a koala in the style of {} cat,20,71.95706176757812
+9,a koala in the style of {} cat,21,71.9100570678711
+9,a koala in the style of {} cat,22,71.9300537109375
+9,a koala in the style of {} cat,23,62.92428970336914
+9,a koala in the style of {} cat,24,71.75904083251953
+9,a koala in the style of {} cat,25,72.78451538085938
+9,a koala in the style of {} cat,26,60.955387115478516
+9,a koala in the style of {} cat,27,72.60547637939453
+9,a koala in the style of {} cat,28,72.89973449707031
+9,a koala in the style of {} cat,29,71.57554626464844
+9,a koala in the style of {} cat,30,59.611480712890625
+9,a koala in the style of {} cat,31,72.07386016845703
+9,a koala in the style of {} cat,32,73.56523132324219
+9,a koala in the style of {} cat,33,68.97940826416016
+9,a koala in the style of {} cat,34,72.36174011230469
+9,a koala in the style of {} cat,35,71.47315216064453
+9,a koala in the style of {} cat,36,71.92828369140625
+9,a koala in the style of {} cat,37,72.7869644165039
+9,a koala in the style of {} cat,38,71.40289306640625
+9,a koala in the style of {} cat,39,61.625980377197266
+9,a koala in the style of {} cat,40,64.43193054199219
+9,a koala in the style of {} cat,41,71.51069641113281
+9,a koala in the style of {} cat,42,72.1643295288086
+9,a koala in the style of {} cat,43,61.4746208190918
+9,a koala in the style of {} cat,44,71.62255859375
+9,a koala in the style of {} cat,45,72.52498626708984
+9,a koala in the style of {} cat,46,70.75526428222656
+9,a koala in the style of {} cat,47,69.83146667480469
+9,a koala in the style of {} cat,48,73.62429809570312
+9,a koala in the style of {} cat,49,71.20909118652344
+10,a backpack in the style of {} cat,0,71.5608901977539
+10,a backpack in the style of {} cat,1,74.50799560546875
+10,a backpack in the style of {} cat,2,72.15525817871094
+10,a backpack in the style of {} cat,3,78.35906982421875
+10,a backpack in the style of {} cat,4,70.11823272705078
+10,a backpack in the style of {} cat,5,79.32014465332031
+10,a backpack in the style of {} cat,6,72.61253356933594
+10,a backpack in the style of {} cat,7,66.03215026855469
+10,a backpack in the style of {} cat,8,76.07295227050781
+10,a backpack in the style of {} cat,9,79.723388671875
+10,a backpack in the style of {} cat,10,78.92948150634766
+10,a backpack in the style of {} cat,11,84.39752960205078
+10,a backpack in the style of {} cat,12,69.93739318847656
+10,a backpack in the style of {} cat,13,78.41177368164062
+10,a backpack in the style of {} cat,14,75.3514175415039
+10,a backpack in the style of {} cat,15,74.76954650878906
+10,a backpack in the style of {} cat,16,71.6025161743164
+10,a backpack in the style of {} cat,17,72.21337127685547
+10,a backpack in the style of {} cat,18,78.79170227050781
+10,a backpack in the style of {} cat,19,76.65097045898438
+10,a backpack in the style of {} cat,20,83.38826751708984
+10,a backpack in the style of {} cat,21,80.39115905761719
+10,a backpack in the style of {} cat,22,72.65743255615234
+10,a backpack in the style of {} cat,23,73.06217193603516
+10,a backpack in the style of {} cat,24,75.14622497558594
+10,a backpack in the style of {} cat,25,81.39617156982422
+10,a backpack in the style of {} cat,26,71.98526763916016
+10,a backpack in the style of {} cat,27,73.20746612548828
+10,a backpack in the style of {} cat,28,79.76084899902344
+10,a backpack in the style of {} cat,29,79.67688751220703
+10,a backpack in the style of {} cat,30,83.45175170898438
+10,a backpack in the style of {} cat,31,68.04906463623047
+10,a backpack in the style of {} cat,32,73.01356506347656
+10,a backpack in the style of {} cat,33,72.47164154052734
+10,a backpack in the style of {} cat,34,69.23113250732422
+10,a backpack in the style of {} cat,35,82.83245849609375
+10,a backpack in the style of {} cat,36,78.84568786621094
+10,a backpack in the style of {} cat,37,79.68603515625
+10,a backpack in the style of {} cat,38,77.46156311035156
+10,a backpack in the style of {} cat,39,70.41182708740234
+10,a backpack in the style of {} cat,40,70.68013763427734
+10,a backpack in the style of {} cat,41,81.66029357910156
+10,a backpack in the style of {} cat,42,77.90454864501953
+10,a backpack in the style of {} cat,43,74.19892120361328
+10,a backpack in the style of {} cat,44,79.97308349609375
+10,a backpack in the style of {} cat,45,76.37752532958984
+10,a backpack in the style of {} cat,46,73.60877990722656
+10,a backpack in the style of {} cat,47,73.28526306152344
+10,a backpack in the style of {} cat,48,72.0543441772461
+10,a backpack in the style of {} cat,49,80.66900634765625
+11,{} cat made of crochet,0,61.6103515625
+11,{} cat made of crochet,1,70.93408966064453
+11,{} cat made of crochet,2,66.58399963378906
+11,{} cat made of crochet,3,68.95945739746094
+11,{} cat made of crochet,4,67.6711654663086
+11,{} cat made of crochet,5,67.41246032714844
+11,{} cat made of crochet,6,68.75907135009766
+11,{} cat made of crochet,7,65.87095642089844
+11,{} cat made of crochet,8,69.49551391601562
+11,{} cat made of crochet,9,64.71082305908203
+11,{} cat made of crochet,10,64.65489196777344
+11,{} cat made of crochet,11,67.24208068847656
+11,{} cat made of crochet,12,68.23707580566406
+11,{} cat made of crochet,13,69.72515869140625
+11,{} cat made of crochet,14,67.68122100830078
+11,{} cat made of crochet,15,66.90009307861328
+11,{} cat made of crochet,16,69.16200256347656
+11,{} cat made of crochet,17,63.22000503540039
+11,{} cat made of crochet,18,67.06651306152344
+11,{} cat made of crochet,19,71.23087310791016
+11,{} cat made of crochet,20,69.18042755126953
+11,{} cat made of crochet,21,64.62580871582031
+11,{} cat made of crochet,22,72.04354858398438
+11,{} cat made of crochet,23,70.41365814208984
+11,{} cat made of crochet,24,66.952392578125
+11,{} cat made of crochet,25,70.03817749023438
+11,{} cat made of crochet,26,59.6110954284668
+11,{} cat made of crochet,27,67.23380279541016
+11,{} cat made of crochet,28,67.60425567626953
+11,{} cat made of crochet,29,71.23594665527344
+11,{} cat made of crochet,30,66.54484558105469
+11,{} cat made of crochet,31,72.08397674560547
+11,{} cat made of crochet,32,68.00701904296875
+11,{} cat made of crochet,33,67.1345443725586
+11,{} cat made of crochet,34,70.54962158203125
+11,{} cat made of crochet,35,67.78577423095703
+11,{} cat made of crochet,36,71.86680603027344
+11,{} cat made of crochet,37,65.53773498535156
+11,{} cat made of crochet,38,64.3666763305664
+11,{} cat made of crochet,39,72.32732391357422
+11,{} cat made of crochet,40,69.4269027709961
+11,{} cat made of crochet,41,65.8644790649414
+11,{} cat made of crochet,42,69.41961669921875
+11,{} cat made of crochet,43,75.92870330810547
+11,{} cat made of crochet,44,64.42965698242188
+11,{} cat made of crochet,45,70.18106842041016
+11,{} cat made of crochet,46,66.33008575439453
+11,{} cat made of crochet,47,69.30868530273438
+11,{} cat made of crochet,48,65.56519317626953
+11,{} cat made of crochet,49,69.81896209716797
+12,a sweater in the style of {} cat,0,72.79324340820312
+12,a sweater in the style of {} cat,1,77.63490295410156
+12,a sweater in the style of {} cat,2,82.90676879882812
+12,a sweater in the style of {} cat,3,67.9407958984375
+12,a sweater in the style of {} cat,4,76.18000793457031
+12,a sweater in the style of {} cat,5,77.62469482421875
+12,a sweater in the style of {} cat,6,74.39138793945312
+12,a sweater in the style of {} cat,7,76.70718383789062
+12,a sweater in the style of {} cat,8,87.71859741210938
+12,a sweater in the style of {} cat,9,69.58052062988281
+12,a sweater in the style of {} cat,10,82.42292022705078
+12,a sweater in the style of {} cat,11,76.93701171875
+12,a sweater in the style of {} cat,12,74.77696990966797
+12,a sweater in the style of {} cat,13,79.57445526123047
+12,a sweater in the style of {} cat,14,81.38542175292969
+12,a sweater in the style of {} cat,15,75.87135314941406
+12,a sweater in the style of {} cat,16,79.22500610351562
+12,a sweater in the style of {} cat,17,59.80026626586914
+12,a sweater in the style of {} cat,18,75.91038513183594
+12,a sweater in the style of {} cat,19,77.09808349609375
+12,a sweater in the style of {} cat,20,81.0674819946289
+12,a sweater in the style of {} cat,21,78.209716796875
+12,a sweater in the style of {} cat,22,84.42196655273438
+12,a sweater in the style of {} cat,23,83.64144897460938
+12,a sweater in the style of {} cat,24,70.69723510742188
+12,a sweater in the style of {} cat,25,74.55967712402344
+12,a sweater in the style of {} cat,26,70.75440216064453
+12,a sweater in the style of {} cat,27,76.03445434570312
+12,a sweater in the style of {} cat,28,81.8583984375
+12,a sweater in the style of {} cat,29,69.03514099121094
+12,a sweater in the style of {} cat,30,82.2667007446289
+12,a sweater in the style of {} cat,31,81.68946838378906
+12,a sweater in the style of {} cat,32,77.41690063476562
+12,a sweater in the style of {} cat,33,84.65654754638672
+12,a sweater in the style of {} cat,34,70.59461212158203
+12,a sweater in the style of {} cat,35,70.199951171875
+12,a sweater in the style of {} cat,36,79.31431579589844
+12,a sweater in the style of {} cat,37,71.7796859741211
+12,a sweater in the style of {} cat,38,68.32429504394531
+12,a sweater in the style of {} cat,39,77.71017456054688
+12,a sweater in the style of {} cat,40,71.08128356933594
+12,a sweater in the style of {} cat,41,84.2769546508789
+12,a sweater in the style of {} cat,42,72.26972961425781
+12,a sweater in the style of {} cat,43,79.17696380615234
+12,a sweater in the style of {} cat,44,80.56442260742188
+12,a sweater in the style of {} cat,45,80.07770538330078
+12,a sweater in the style of {} cat,46,83.57173156738281
+12,a sweater in the style of {} cat,47,81.75860595703125
+12,a sweater in the style of {} cat,48,67.58367156982422
+12,a sweater in the style of {} cat,49,81.5743637084961
+13,a photo of a {} cat in Van Gogh style,0,76.03709411621094
+13,a photo of a {} cat in Van Gogh style,1,77.90787506103516
+13,a photo of a {} cat in Van Gogh style,2,77.51399230957031
+13,a photo of a {} cat in Van Gogh style,3,78.15896606445312
+13,a photo of a {} cat in Van Gogh style,4,81.11424255371094
+13,a photo of a {} cat in Van Gogh style,5,77.78792572021484
+13,a photo of a {} cat in Van Gogh style,6,78.05977630615234
+13,a photo of a {} cat in Van Gogh style,7,76.25524139404297
+13,a photo of a {} cat in Van Gogh style,8,77.86418151855469
+13,a photo of a {} cat in Van Gogh style,9,79.95709228515625
+13,a photo of a {} cat in Van Gogh style,10,79.22074890136719
+13,a photo of a {} cat in Van Gogh style,11,83.7476577758789
+13,a photo of a {} cat in Van Gogh style,12,75.88286590576172
+13,a photo of a {} cat in Van Gogh style,13,83.21983337402344
+13,a photo of a {} cat in Van Gogh style,14,71.72084045410156
+13,a photo of a {} cat in Van Gogh style,15,78.62540435791016
+13,a photo of a {} cat in Van Gogh style,16,79.89265441894531
+13,a photo of a {} cat in Van Gogh style,17,78.5282211303711
+13,a photo of a {} cat in Van Gogh style,18,72.76460266113281
+13,a photo of a {} cat in Van Gogh style,19,80.68688201904297
+13,a photo of a {} cat in Van Gogh style,20,77.65201568603516
+13,a photo of a {} cat in Van Gogh style,21,77.37931060791016
+13,a photo of a {} cat in Van Gogh style,22,81.70213317871094
+13,a photo of a {} cat in Van Gogh style,23,79.54745483398438
+13,a photo of a {} cat in Van Gogh style,24,80.90922546386719
+13,a photo of a {} cat in Van Gogh style,25,80.9581298828125
+13,a photo of a {} cat in Van Gogh style,26,79.6574478149414
+13,a photo of a {} cat in Van Gogh style,27,75.29209899902344
+13,a photo of a {} cat in Van Gogh style,28,79.06352996826172
+13,a photo of a {} cat in Van Gogh style,29,81.72541809082031
+13,a photo of a {} cat in Van Gogh style,30,79.25302124023438
+13,a photo of a {} cat in Van Gogh style,31,79.71912384033203
+13,a photo of a {} cat in Van Gogh style,32,81.95289611816406
+13,a photo of a {} cat in Van Gogh style,33,79.56432342529297
+13,a photo of a {} cat in Van Gogh style,34,82.32022094726562
+13,a photo of a {} cat in Van Gogh style,35,83.17010498046875
+13,a photo of a {} cat in Van Gogh style,36,80.94618225097656
+13,a photo of a {} cat in Van Gogh style,37,85.2354507446289
+13,a photo of a {} cat in Van Gogh style,38,75.53382873535156
+13,a photo of a {} cat in Van Gogh style,39,81.54419708251953
+13,a photo of a {} cat in Van Gogh style,40,75.50484466552734
+13,a photo of a {} cat in Van Gogh style,41,75.49239349365234
+13,a photo of a {} cat in Van Gogh style,42,72.06121826171875
+13,a photo of a {} cat in Van Gogh style,43,81.64987182617188
+13,a photo of a {} cat in Van Gogh style,44,75.61636352539062
+13,a photo of a {} cat in Van Gogh style,45,68.7303466796875
+13,a photo of a {} cat in Van Gogh style,46,79.94366455078125
+13,a photo of a {} cat in Van Gogh style,47,79.40082550048828
+13,a photo of a {} cat in Van Gogh style,48,78.38926696777344
+13,a photo of a {} cat in Van Gogh style,49,78.03272247314453

@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} chair in snowy ice,0,0.46520575881004333
+0,{} chair in snowy ice,1,0.22911162674427032
+0,{} chair in snowy ice,2,0.27652615308761597
+0,{} chair in snowy ice,3,0.21704302728176117
+0,{} chair in snowy ice,4,0.4414860010147095
+0,{} chair in snowy ice,5,0.49894845485687256
+0,{} chair in snowy ice,6,0.2075127810239792
+0,{} chair in snowy ice,7,0.24923688173294067
+0,{} chair in snowy ice,8,0.33917441964149475
+0,{} chair in snowy ice,9,0.3994390368461609
+0,{} chair in snowy ice,10,0.3472166657447815
+0,{} chair in snowy ice,11,0.3150407075881958
+0,{} chair in snowy ice,12,0.3358701467514038
+0,{} chair in snowy ice,13,0.30163705348968506
+0,{} chair in snowy ice,14,0.24614578485488892
+0,{} chair in snowy ice,15,0.3636404275894165
+0,{} chair in snowy ice,16,0.34384477138519287
+0,{} chair in snowy ice,17,0.3415807783603668
+0,{} chair in snowy ice,18,0.21572580933570862
+0,{} chair in snowy ice,19,0.41510438919067383
+0,{} chair in snowy ice,20,0.4647412598133087
+0,{} chair in snowy ice,21,0.3894924521446228
+0,{} chair in snowy ice,22,0.4220951497554779
+0,{} chair in snowy ice,23,0.18576139211654663
+0,{} chair in snowy ice,24,0.491937518119812
+0,{} chair in snowy ice,25,0.4487552344799042
+0,{} chair in snowy ice,26,0.2690219283103943
+0,{} chair in snowy ice,27,0.4208902418613434
+0,{} chair in snowy ice,28,0.2269522100687027
+0,{} chair in snowy ice,29,0.3449401259422302
+0,{} chair in snowy ice,30,0.17796969413757324
+0,{} chair in snowy ice,31,0.32481080293655396
+0,{} chair in snowy ice,32,0.42644140124320984
+0,{} chair in snowy ice,33,0.2275920808315277
+0,{} chair in snowy ice,34,0.2733839154243469
+0,{} chair in snowy ice,35,0.2807425260543823
+0,{} chair in snowy ice,36,0.30539506673812866
+0,{} chair in snowy ice,37,0.3158715069293976
+0,{} chair in snowy ice,38,0.25512000918388367
+0,{} chair in snowy ice,39,0.3332575559616089
+0,{} chair in snowy ice,40,0.4102917015552521
+0,{} chair in snowy ice,41,0.26486390829086304
+0,{} chair in snowy ice,42,0.49350404739379883
+0,{} chair in snowy ice,43,0.5001828670501709
+0,{} chair in snowy ice,44,0.47778648138046265
+0,{} chair in snowy ice,45,0.41833221912384033
+0,{} chair in snowy ice,46,0.34890055656433105
+0,{} chair in snowy ice,47,0.4335295557975769
+0,{} chair in snowy ice,48,0.33023470640182495
+0,{} chair in snowy ice,49,0.3559888005256653
+1,{} chair surrounded by blooming sunflower field,0,0.161674365401268
+1,{} chair surrounded by blooming sunflower field,1,0.11629901081323624
+1,{} chair surrounded by blooming sunflower field,2,0.047998152673244476
+1,{} chair surrounded by blooming sunflower field,3,0.05002094432711601
+1,{} chair surrounded by blooming sunflower field,4,0.16405591368675232
+1,{} chair surrounded by blooming sunflower field,5,0.1268273890018463
+1,{} chair surrounded by blooming sunflower field,6,0.16998526453971863
+1,{} chair surrounded by blooming sunflower field,7,0.03900798037648201
+1,{} chair surrounded by blooming sunflower field,8,0.18016251921653748
+1,{} chair surrounded by blooming sunflower field,9,0.06923813372850418
+1,{} chair surrounded by blooming sunflower field,10,0.04862341284751892
+1,{} chair surrounded by blooming sunflower field,11,0.10277733206748962
+1,{} chair surrounded by blooming sunflower field,12,0.3170512318611145
+1,{} chair surrounded by blooming sunflower field,13,0.07571873813867569
+1,{} chair surrounded by blooming sunflower field,14,0.06826944649219513
+1,{} chair surrounded by blooming sunflower field,15,0.28644248843193054
+1,{} chair surrounded by blooming sunflower field,16,0.14587557315826416
+1,{} chair surrounded by blooming sunflower field,17,0.07662784308195114
+1,{} chair surrounded by blooming sunflower field,18,0.194770947098732
+1,{} chair surrounded by blooming sunflower field,19,0.064814493060112
+1,{} chair surrounded by blooming sunflower field,20,0.14848481118679047
+1,{} chair surrounded by blooming sunflower field,21,0.19911468029022217
+1,{} chair surrounded by blooming sunflower field,22,0.20775564014911652
+1,{} chair surrounded by blooming sunflower field,23,0.25930702686309814
+1,{} chair surrounded by blooming sunflower field,24,0.1313958466053009
+1,{} chair surrounded by blooming sunflower field,25,0.26825788617134094
+1,{} chair surrounded by blooming sunflower field,26,0.06527851521968842
+1,{} chair surrounded by blooming sunflower field,27,0.20649787783622742
+1,{} chair surrounded by blooming sunflower field,28,0.06343160569667816
+1,{} chair surrounded by blooming sunflower field,29,0.08845202624797821
+1,{} chair surrounded by blooming sunflower field,30,0.07150553166866302
+1,{} chair surrounded by blooming sunflower field,31,0.08555519580841064
+1,{} chair surrounded by blooming sunflower field,32,0.11112961173057556
+1,{} chair surrounded by blooming sunflower field,33,0.15532563626766205
+1,{} chair surrounded by blooming sunflower field,34,0.2506929636001587
+1,{} chair surrounded by blooming sunflower field,35,0.0754501149058342
+1,{} chair surrounded by blooming sunflower field,36,0.2132459431886673
+1,{} chair surrounded by blooming sunflower field,37,0.07702856510877609
+1,{} chair surrounded by blooming sunflower field,38,0.04939432069659233
+1,{} chair surrounded by blooming sunflower field,39,0.07847999036312103
+1,{} chair surrounded by blooming sunflower field,40,0.14827977120876312
+1,{} chair surrounded by blooming sunflower field,41,0.03513191267848015
+1,{} chair surrounded by blooming sunflower field,42,0.23626655340194702
+1,{} chair surrounded by blooming sunflower field,43,0.028911910951137543
+1,{} chair surrounded by blooming sunflower field,44,0.15319836139678955
+1,{} chair surrounded by blooming sunflower field,45,0.2235499918460846
+1,{} chair surrounded by blooming sunflower field,46,0.10792841762304306
+1,{} chair surrounded by blooming sunflower field,47,0.18515227735042572
+1,{} chair surrounded by blooming sunflower field,48,0.05155645310878754
+1,{} chair surrounded by blooming sunflower field,49,0.07396861910820007
+2,{} chair on a boat in the sea,0,0.11832490563392639
+2,{} chair on a boat in the sea,1,0.21565242111682892
+2,{} chair on a boat in the sea,2,0.5255591869354248
+2,{} chair on a boat in the sea,3,0.276803195476532
+2,{} chair on a boat in the sea,4,0.24864523112773895
+2,{} chair on a boat in the sea,5,0.405782014131546
+2,{} chair on a boat in the sea,6,0.31184452772140503
+2,{} chair on a boat in the sea,7,0.14481303095817566
+2,{} chair on a boat in the sea,8,0.2740391790866852
+2,{} chair on a boat in the sea,9,0.22798478603363037
+2,{} chair on a boat in the sea,10,0.18915067613124847
+2,{} chair on a boat in the sea,11,0.3049930930137634
+2,{} chair on a boat in the sea,12,0.27526283264160156
+2,{} chair on a boat in the sea,13,0.40631216764450073
+2,{} chair on a boat in the sea,14,0.3504279851913452
+2,{} chair on a boat in the sea,15,0.25425130128860474
+2,{} chair on a boat in the sea,16,0.06599658727645874
+2,{} chair on a boat in the sea,17,0.33111971616744995
+2,{} chair on a boat in the sea,18,0.21446219086647034
+2,{} chair on a boat in the sea,19,0.06017312407493591
+2,{} chair on a boat in the sea,20,0.3306654989719391
+2,{} chair on a boat in the sea,21,0.24158775806427002
+2,{} chair on a boat in the sea,22,0.1296936720609665
+2,{} chair on a boat in the sea,23,0.2122853696346283
+2,{} chair on a boat in the sea,24,0.13573381304740906
+2,{} chair on a boat in the sea,25,0.3723440170288086
+2,{} chair on a boat in the sea,26,0.17723128199577332
+2,{} chair on a boat in the sea,27,0.31674978137016296
+2,{} chair on a boat in the sea,28,0.10786402970552444
+2,{} chair on a boat in the sea,29,0.17805583775043488
+2,{} chair on a boat in the sea,30,0.1996684968471527
+2,{} chair on a boat in the sea,31,0.3754158318042755
+2,{} chair on a boat in the sea,32,0.2858894169330597
+2,{} chair on a boat in the sea,33,0.3205762505531311
+2,{} chair on a boat in the sea,34,0.21385765075683594
+2,{} chair on a boat in the sea,35,0.2154628038406372
+2,{} chair on a boat in the sea,36,0.19598768651485443
+2,{} chair on a boat in the sea,37,0.3557128608226776
+2,{} chair on a boat in the sea,38,0.19492685794830322
+2,{} chair on a boat in the sea,39,0.14307639002799988
+2,{} chair on a boat in the sea,40,0.16076786816120148
+2,{} chair on a boat in the sea,41,0.18713951110839844
+2,{} chair on a boat in the sea,42,0.114026740193367
+2,{} chair on a boat in the sea,43,0.18317824602127075
+2,{} chair on a boat in the sea,44,0.4661678671836853
+2,{} chair on a boat in the sea,45,0.14484354853630066
+2,{} chair on a boat in the sea,46,0.2320484220981598
+2,{} chair on a boat in the sea,47,0.04581219702959061
+2,{} chair on a boat in the sea,48,0.2858480215072632
+2,{} chair on a boat in the sea,49,0.25905388593673706
+3,{} chair on top of a mountain,0,0.17648860812187195
+3,{} chair on top of a mountain,1,0.056504424661397934
+3,{} chair on top of a mountain,2,0.0034537632018327713
+3,{} chair on top of a mountain,3,0.3217103183269501
+3,{} chair on top of a mountain,4,0.11746957153081894
+3,{} chair on top of a mountain,5,0.21498973667621613
+3,{} chair on top of a mountain,6,0.19772428274154663
+3,{} chair on top of a mountain,7,0.22111758589744568
+3,{} chair on top of a mountain,8,0.2653648853302002
+3,{} chair on top of a mountain,9,0.07641763240098953
+3,{} chair on top of a mountain,10,0.013866782188415527
+3,{} chair on top of a mountain,11,0.2362864464521408
+3,{} chair on top of a mountain,12,-0.012644277885556221
+3,{} chair on top of a mountain,13,0.21623975038528442
+3,{} chair on top of a mountain,14,0.37129735946655273
+3,{} chair on top of a mountain,15,0.3807319700717926
+3,{} chair on top of a mountain,16,0.29315412044525146
+3,{} chair on top of a mountain,17,-0.013152627274394035
+3,{} chair on top of a mountain,18,0.33594802021980286
+3,{} chair on top of a mountain,19,0.22560739517211914
+3,{} chair on top of a mountain,20,0.3040160834789276
+3,{} chair on top of a mountain,21,0.11537860333919525
+3,{} chair on top of a mountain,22,0.1387351155281067
+3,{} chair on top of a mountain,23,0.2842966914176941
+3,{} chair on top of a mountain,24,0.14584125578403473
+3,{} chair on top of a mountain,25,0.1889367401599884
+3,{} chair on top of a mountain,26,0.24742591381072998
+3,{} chair on top of a mountain,27,0.06865888088941574
+3,{} chair on top of a mountain,28,0.20388557016849518
+3,{} chair on top of a mountain,29,0.25529083609580994
+3,{} chair on top of a mountain,30,0.1440565288066864
+3,{} chair on top of a mountain,31,0.13813701272010803
+3,{} chair on top of a mountain,32,0.1023370623588562
+3,{} chair on top of a mountain,33,0.09571650624275208
+3,{} chair on top of a mountain,34,0.0799117386341095
+3,{} chair on top of a mountain,35,0.08610134571790695
+3,{} chair on top of a mountain,36,0.11398302763700485
+3,{} chair on top of a mountain,37,0.14223933219909668
+3,{} chair on top of a mountain,38,0.15718905627727509
+3,{} chair on top of a mountain,39,0.20729079842567444
+3,{} chair on top of a mountain,40,0.3139326572418213
+3,{} chair on top of a mountain,41,0.20048004388809204
+3,{} chair on top of a mountain,42,0.13956589996814728
+3,{} chair on top of a mountain,43,0.1832919865846634
+3,{} chair on top of a mountain,44,0.26134875416755676
+3,{} chair on top of a mountain,45,0.1696867048740387
+3,{} chair on top of a mountain,46,0.27389055490493774
+3,{} chair on top of a mountain,47,0.17298665642738342
+3,{} chair on top of a mountain,48,-0.0016881274059414864
+3,{} chair on top of a mountain,49,0.08209672570228577
+4,{} chair made of crochet,0,0.62627112865448
+4,{} chair made of crochet,1,0.7362931966781616
+4,{} chair made of crochet,2,0.5851321220397949
+4,{} chair made of crochet,3,0.7550415396690369
+4,{} chair made of crochet,4,0.6443458795547485
+4,{} chair made of crochet,5,0.504442572593689
+4,{} chair made of crochet,6,0.5982339382171631
+4,{} chair made of crochet,7,0.7057152986526489
+4,{} chair made of crochet,8,0.5483583807945251
+4,{} chair made of crochet,9,0.7433214783668518
+4,{} chair made of crochet,10,0.6105484962463379
+4,{} chair made of crochet,11,0.662742018699646
+4,{} chair made of crochet,12,0.6630679368972778
+4,{} chair made of crochet,13,0.5989334583282471
+4,{} chair made of crochet,14,0.7006387710571289
+4,{} chair made of crochet,15,0.45674818754196167
+4,{} chair made of crochet,16,0.7424869537353516
+4,{} chair made of crochet,17,0.6180804967880249
+4,{} chair made of crochet,18,0.6704784631729126
+4,{} chair made of crochet,19,0.5657385587692261
+4,{} chair made of crochet,20,0.7925891876220703
+4,{} chair made of crochet,21,0.6692495346069336
+4,{} chair made of crochet,22,0.5925301313400269
+4,{} chair made of crochet,23,0.6506427526473999
+4,{} chair made of crochet,24,0.680414617061615
+4,{} chair made of crochet,25,0.6782776117324829
+4,{} chair made of crochet,26,0.625688910484314
+4,{} chair made of crochet,27,0.6017419099807739
+4,{} chair made of crochet,28,0.7888213992118835
+4,{} chair made of crochet,29,0.6620763540267944
+4,{} chair made of crochet,30,0.6515176296234131
+4,{} chair made of crochet,31,0.753567099571228
+4,{} chair made of crochet,32,0.8185228109359741
+4,{} chair made of crochet,33,0.6965389847755432
+4,{} chair made of crochet,34,0.6558065414428711
+4,{} chair made of crochet,35,0.7522600889205933
+4,{} chair made of crochet,36,0.5411523580551147
+4,{} chair made of crochet,37,0.7126576900482178
+4,{} chair made of crochet,38,0.7022429704666138
+4,{} chair made of crochet,39,0.705239474773407
+4,{} chair made of crochet,40,0.6972404718399048
+4,{} chair made of crochet,41,0.6988816261291504
+4,{} chair made of crochet,42,0.572089433670044
+4,{} chair made of crochet,43,0.6887906789779663
+4,{} chair made of crochet,44,0.6810314655303955
+4,{} chair made of crochet,45,0.6419728994369507
+4,{} chair made of crochet,46,0.4117947220802307
+4,{} chair made of crochet,47,0.6837137937545776
+4,{} chair made of crochet,48,0.4947103261947632
+4,{} chair made of crochet,49,0.6087085008621216
+5,{} chair in a garden,0,0.4973902106285095
+5,{} chair in a garden,1,0.44417232275009155
+5,{} chair in a garden,2,0.30716001987457275
+5,{} chair in a garden,3,0.4297707676887512
+5,{} chair in a garden,4,0.27500981092453003
+5,{} chair in a garden,5,0.3373757004737854
+5,{} chair in a garden,6,0.3387029767036438
+5,{} chair in a garden,7,0.5664572715759277
+5,{} chair in a garden,8,0.26490408182144165
+5,{} chair in a garden,9,0.30764394998550415
+5,{} chair in a garden,10,0.25967997312545776
+5,{} chair in a garden,11,0.36958199739456177
+5,{} chair in a garden,12,0.31713932752609253
+5,{} chair in a garden,13,0.20827484130859375
+5,{} chair in a garden,14,0.46819519996643066
+5,{} chair in a garden,15,0.4564971923828125
+5,{} chair in a garden,16,0.3177495002746582
+5,{} chair in a garden,17,0.3608080744743347
+5,{} chair in a garden,18,0.4287526309490204
+5,{} chair in a garden,19,0.4903261065483093
+5,{} chair in a garden,20,0.36628055572509766
+5,{} chair in a garden,21,0.24099379777908325
+5,{} chair in a garden,22,0.42600953578948975
+5,{} chair in a garden,23,0.4896422326564789
+5,{} chair in a garden,24,0.4388609826564789
+5,{} chair in a garden,25,0.4439511001110077
+5,{} chair in a garden,26,0.26080894470214844
+5,{} chair in a garden,27,0.29136115312576294
+5,{} chair in a garden,28,0.4235208332538605
+5,{} chair in a garden,29,0.3761866092681885
+5,{} chair in a garden,30,0.39832669496536255
+5,{} chair in a garden,31,0.3510720729827881
+5,{} chair in a garden,32,0.2429676651954651
+5,{} chair in a garden,33,0.22532331943511963
+5,{} chair in a garden,34,0.3266047239303589
+5,{} chair in a garden,35,0.4978104829788208
+5,{} chair in a garden,36,0.31022214889526367
+5,{} chair in a garden,37,0.46613800525665283
+5,{} chair in a garden,38,0.39907097816467285
+5,{} chair in a garden,39,0.3453335165977478
+5,{} chair in a garden,40,0.32224541902542114
+5,{} chair in a garden,41,0.39192548394203186
+5,{} chair in a garden,42,0.4742405414581299
+5,{} chair in a garden,43,0.5943963527679443
+5,{} chair in a garden,44,0.48468858003616333
+5,{} chair in a garden,45,0.3432386517524719
+5,{} chair in a garden,46,0.34291771054267883
+5,{} chair in a garden,47,0.387009859085083
+5,{} chair in a garden,48,0.35041213035583496
+5,{} chair in a garden,49,0.34169429540634155
+6,a floor lamp on the side of {} chair,0,0.4573773741722107
+6,a floor lamp on the side of {} chair,1,0.8030411005020142
+6,a floor lamp on the side of {} chair,2,0.6941278576850891
+6,a floor lamp on the side of {} chair,3,0.5815764665603638
+6,a floor lamp on the side of {} chair,4,0.660639226436615
+6,a floor lamp on the side of {} chair,5,0.45934760570526123
+6,a floor lamp on the side of {} chair,6,0.7106426358222961
+6,a floor lamp on the side of {} chair,7,0.7129943370819092
+6,a floor lamp on the side of {} chair,8,0.5228686332702637
+6,a floor lamp on the side of {} chair,9,0.532302975654602
+6,a floor lamp on the side of {} chair,10,0.6037102937698364
+6,a floor lamp on the side of {} chair,11,0.6449464559555054
+6,a floor lamp on the side of {} chair,12,0.5858207941055298
+6,a floor lamp on the side of {} chair,13,0.49338310956954956
+6,a floor lamp on the side of {} chair,14,0.5191492438316345
+6,a floor lamp on the side of {} chair,15,0.5654527544975281
+6,a floor lamp on the side of {} chair,16,0.5068269371986389
+6,a floor lamp on the side of {} chair,17,0.7368322610855103
+6,a floor lamp on the side of {} chair,18,0.7995965480804443
+6,a floor lamp on the side of {} chair,19,0.5669421553611755
+6,a floor lamp on the side of {} chair,20,0.6950910687446594
+6,a floor lamp on the side of {} chair,21,0.5471905469894409
+6,a floor lamp on the side of {} chair,22,0.5178309679031372
+6,a floor lamp on the side of {} chair,23,0.6414880752563477
+6,a floor lamp on the side of {} chair,24,0.6328929662704468
+6,a floor lamp on the side of {} chair,25,0.676845371723175
+6,a floor lamp on the side of {} chair,26,0.6993435621261597
+6,a floor lamp on the side of {} chair,27,0.603558361530304
+6,a floor lamp on the side of {} chair,28,0.8380436897277832
+6,a floor lamp on the side of {} chair,29,0.639458417892456
+6,a floor lamp on the side of {} chair,30,0.5236961841583252
+6,a floor lamp on the side of {} chair,31,0.7594441175460815
+6,a floor lamp on the side of {} chair,32,0.4612700045108795
+6,a floor lamp on the side of {} chair,33,0.6331102848052979
+6,a floor lamp on the side of {} chair,34,0.5298105478286743
+6,a floor lamp on the side of {} chair,35,0.8313834071159363
+6,a floor lamp on the side of {} chair,36,0.8420922160148621
+6,a floor lamp on the side of {} chair,37,0.4943495988845825
+6,a floor lamp on the side of {} chair,38,0.7499057054519653
+6,a floor lamp on the side of {} chair,39,0.6217546463012695
+6,a floor lamp on the side of {} chair,40,0.49970653653144836
+6,a floor lamp on the side of {} chair,41,0.8052734136581421
+6,a floor lamp on the side of {} chair,42,0.8189795017242432
+6,a floor lamp on the side of {} chair,43,0.5322609543800354
+6,a floor lamp on the side of {} chair,44,0.7389702200889587
+6,a floor lamp on the side of {} chair,45,0.7158748507499695
+6,a floor lamp on the side of {} chair,46,0.5258100032806396
+6,a floor lamp on the side of {} chair,47,0.5839234590530396
+6,a floor lamp on the side of {} chair,48,0.6895915269851685
+6,a floor lamp on the side of {} chair,49,0.6574315428733826
+7,{} chair and a table with chocolate cake on it,0,0.5905932784080505
+7,{} chair and a table with chocolate cake on it,1,0.8408570289611816
+7,{} chair and a table with chocolate cake on it,2,0.6035773158073425
+7,{} chair and a table with chocolate cake on it,3,0.6616744995117188
+7,{} chair and a table with chocolate cake on it,4,0.6420933604240417
+7,{} chair and a table with chocolate cake on it,5,0.565654993057251
+7,{} chair and a table with chocolate cake on it,6,0.7413767576217651
+7,{} chair and a table with chocolate cake on it,7,0.7488350868225098
+7,{} chair and a table with chocolate cake on it,8,0.6663687229156494
+7,{} chair and a table with chocolate cake on it,9,0.6347948312759399
+7,{} chair and a table with chocolate cake on it,10,0.5510453581809998
+7,{} chair and a table with chocolate cake on it,11,0.5193159580230713
+7,{} chair and a table with chocolate cake on it,12,0.7036821246147156
+7,{} chair and a table with chocolate cake on it,13,0.7969045639038086
+7,{} chair and a table with chocolate cake on it,14,0.7277952432632446
+7,{} chair and a table with chocolate cake on it,15,0.6974113583564758
+7,{} chair and a table with chocolate cake on it,16,0.7880115509033203
+7,{} chair and a table with chocolate cake on it,17,0.6013486385345459
+7,{} chair and a table with chocolate cake on it,18,0.5497996807098389
+7,{} chair and a table with chocolate cake on it,19,0.4484368562698364
+7,{} chair and a table with chocolate cake on it,20,0.7735797166824341
+7,{} chair and a table with chocolate cake on it,21,0.5966413617134094
+7,{} chair and a table with chocolate cake on it,22,0.5621338486671448
+7,{} chair and a table with chocolate cake on it,23,0.7284616827964783
+7,{} chair and a table with chocolate cake on it,24,0.6901999115943909
+7,{} chair and a table with chocolate cake on it,25,0.7460384368896484
+7,{} chair and a table with chocolate cake on it,26,0.7534276247024536
+7,{} chair and a table with chocolate cake on it,27,0.6036025285720825
+7,{} chair and a table with chocolate cake on it,28,0.7314226031303406
+7,{} chair and a table with chocolate cake on it,29,0.8159239292144775
+7,{} chair and a table with chocolate cake on it,30,0.802322506904602
+7,{} chair and a table with chocolate cake on it,31,0.5887504816055298
+7,{} chair and a table with chocolate cake on it,32,0.6322474479675293
+7,{} chair and a table with chocolate cake on it,33,0.691033124923706
+7,{} chair and a table with chocolate cake on it,34,0.577894926071167
+7,{} chair and a table with chocolate cake on it,35,0.6221778988838196
+7,{} chair and a table with chocolate cake on it,36,0.6067400574684143
+7,{} chair and a table with chocolate cake on it,37,0.5820415019989014
+7,{} chair and a table with chocolate cake on it,38,0.7170394659042358
+7,{} chair and a table with chocolate cake on it,39,0.614098310470581
+7,{} chair and a table with chocolate cake on it,40,0.6618667244911194
+7,{} chair and a table with chocolate cake on it,41,0.6830317378044128
+7,{} chair and a table with chocolate cake on it,42,0.6251721382141113
+7,{} chair and a table with chocolate cake on it,43,0.6945974230766296
+7,{} chair and a table with chocolate cake on it,44,0.6914640069007874
+7,{} chair and a table with chocolate cake on it,45,0.7500991225242615
+7,{} chair and a table with chocolate cake on it,46,0.8185110092163086
+7,{} chair and a table with chocolate cake on it,47,0.6880415678024292
+7,{} chair and a table with chocolate cake on it,48,0.7279722094535828
+7,{} chair and a table with chocolate cake on it,49,0.5757623314857483
+8,a puppy sitting on a {} chair,0,0.4064505100250244
+8,a puppy sitting on a {} chair,1,0.43165847659111023
+8,a puppy sitting on a {} chair,2,0.24887000024318695
+8,a puppy sitting on a {} chair,3,0.2429473102092743
+8,a puppy sitting on a {} chair,4,0.367716521024704
+8,a puppy sitting on a {} chair,5,0.39985767006874084
+8,a puppy sitting on a {} chair,6,0.394715279340744
+8,a puppy sitting on a {} chair,7,0.3863982558250427
+8,a puppy sitting on a {} chair,8,0.39552444219589233
+8,a puppy sitting on a {} chair,9,0.43787017464637756
+8,a puppy sitting on a {} chair,10,0.32051414251327515
+8,a puppy sitting on a {} chair,11,0.21986669301986694
+8,a puppy sitting on a {} chair,12,0.34325242042541504
+8,a puppy sitting on a {} chair,13,0.3404024839401245
+8,a puppy sitting on a {} chair,14,0.2626599073410034
+8,a puppy sitting on a {} chair,15,0.3103953003883362
+8,a puppy sitting on a {} chair,16,0.6224644184112549
+8,a puppy sitting on a {} chair,17,0.4870455265045166
+8,a puppy sitting on a {} chair,18,0.4281577467918396
+8,a puppy sitting on a {} chair,19,0.40604862570762634
+8,a puppy sitting on a {} chair,20,0.25418904423713684
+8,a puppy sitting on a {} chair,21,0.30194228887557983
+8,a puppy sitting on a {} chair,22,0.4172132611274719
+8,a puppy sitting on a {} chair,23,0.4047888517379761
+8,a puppy sitting on a {} chair,24,0.4199902415275574
+8,a puppy sitting on a {} chair,25,0.5517182946205139
+8,a puppy sitting on a {} chair,26,0.5113974809646606
+8,a puppy sitting on a {} chair,27,0.6031862497329712
+8,a puppy sitting on a {} chair,28,0.33630305528640747
+8,a puppy sitting on a {} chair,29,0.6164671182632446
+8,a puppy sitting on a {} chair,30,0.3801645338535309
+8,a puppy sitting on a {} chair,31,0.5447168350219727
+8,a puppy sitting on a {} chair,32,0.5275981426239014
+8,a puppy sitting on a {} chair,33,0.22064952552318573
+8,a puppy sitting on a {} chair,34,0.41265207529067993
+8,a puppy sitting on a {} chair,35,0.520675539970398
+8,a puppy sitting on a {} chair,36,0.23610684275627136
+8,a puppy sitting on a {} chair,37,0.37516796588897705
+8,a puppy sitting on a {} chair,38,0.4348393976688385
+8,a puppy sitting on a {} chair,39,0.47489529848098755
+8,a puppy sitting on a {} chair,40,0.3243871331214905
+8,a puppy sitting on a {} chair,41,0.3943767547607422
+8,a puppy sitting on a {} chair,42,0.381123811006546
+8,a puppy sitting on a {} chair,43,0.47565704584121704
+8,a puppy sitting on a {} chair,44,0.5640673637390137
+8,a puppy sitting on a {} chair,45,0.38758987188339233
+8,a puppy sitting on a {} chair,46,0.35014867782592773
+8,a puppy sitting on a {} chair,47,0.3733695149421692
+8,a puppy sitting on a {} chair,48,0.27692344784736633
+8,a puppy sitting on a {} chair,49,0.5774174928665161
+9,a cat sitting on a {} chair,0,0.21924415230751038
+9,a cat sitting on a {} chair,1,0.411327064037323
+9,a cat sitting on a {} chair,2,0.46485745906829834
+9,a cat sitting on a {} chair,3,0.39388418197631836
+9,a cat sitting on a {} chair,4,0.3022445738315582
+9,a cat sitting on a {} chair,5,0.6920309066772461
+9,a cat sitting on a {} chair,6,0.4808369278907776
+9,a cat sitting on a {} chair,7,0.5698812007904053
+9,a cat sitting on a {} chair,8,0.49143874645233154
+9,a cat sitting on a {} chair,9,0.5113338232040405
+9,a cat sitting on a {} chair,10,0.5075159072875977
+9,a cat sitting on a {} chair,11,0.5025345087051392
+9,a cat sitting on a {} chair,12,0.4142501950263977
+9,a cat sitting on a {} chair,13,0.48646122217178345
+9,a cat sitting on a {} chair,14,0.41211503744125366
+9,a cat sitting on a {} chair,15,0.4053688645362854
+9,a cat sitting on a {} chair,16,0.1979546844959259
+9,a cat sitting on a {} chair,17,0.4675842523574829
+9,a cat sitting on a {} chair,18,0.4617326259613037
+9,a cat sitting on a {} chair,19,0.35578635334968567
+9,a cat sitting on a {} chair,20,0.6339251399040222
+9,a cat sitting on a {} chair,21,0.5024365782737732
+9,a cat sitting on a {} chair,22,0.5546560287475586
+9,a cat sitting on a {} chair,23,0.5954960584640503
+9,a cat sitting on a {} chair,24,0.3231886625289917
+9,a cat sitting on a {} chair,25,0.1830521523952484
+9,a cat sitting on a {} chair,26,0.4959726631641388
+9,a cat sitting on a {} chair,27,0.43240439891815186
+9,a cat sitting on a {} chair,28,0.40126851201057434
+9,a cat sitting on a {} chair,29,0.66839599609375
+9,a cat sitting on a {} chair,30,0.5011755228042603
+9,a cat sitting on a {} chair,31,0.4648727476596832
+9,a cat sitting on a {} chair,32,0.3647729158401489
+9,a cat sitting on a {} chair,33,0.45200976729393005
+9,a cat sitting on a {} chair,34,0.4596315324306488
+9,a cat sitting on a {} chair,35,0.3347741663455963
+9,a cat sitting on a {} chair,36,0.6196562051773071
+9,a cat sitting on a {} chair,37,0.5333918929100037
+9,a cat sitting on a {} chair,38,0.4444347620010376
+9,a cat sitting on a {} chair,39,0.6142780184745789
+9,a cat sitting on a {} chair,40,0.19359923899173737
+9,a cat sitting on a {} chair,41,0.4904269576072693
+9,a cat sitting on a {} chair,42,0.6586454510688782
+9,a cat sitting on a {} chair,43,0.5748740434646606
+9,a cat sitting on a {} chair,44,0.25884810090065
+9,a cat sitting on a {} chair,45,0.43374043703079224
+9,a cat sitting on a {} chair,46,0.407495379447937
+9,a cat sitting on a {} chair,47,0.44140625
+9,a cat sitting on a {} chair,48,0.3259883522987366
+9,a cat sitting on a {} chair,49,0.3657395541667938
+10,a squirrel sitting on a {} chair,0,0.32069623470306396
+10,a squirrel sitting on a {} chair,1,0.09604015946388245
+10,a squirrel sitting on a {} chair,2,0.2802315950393677
+10,a squirrel sitting on a {} chair,3,0.43859928846359253
+10,a squirrel sitting on a {} chair,4,0.3436177372932434
+10,a squirrel sitting on a {} chair,5,0.4567224681377411
+10,a squirrel sitting on a {} chair,6,0.06044069677591324
+10,a squirrel sitting on a {} chair,7,0.2014847695827484
+10,a squirrel sitting on a {} chair,8,0.4636637568473816
+10,a squirrel sitting on a {} chair,9,0.23633548617362976
+10,a squirrel sitting on a {} chair,10,0.26082876324653625
+10,a squirrel sitting on a {} chair,11,0.21368855237960815
+10,a squirrel sitting on a {} chair,12,0.09768835455179214
+10,a squirrel sitting on a {} chair,13,0.47913771867752075
+10,a squirrel sitting on a {} chair,14,0.28646421432495117
+10,a squirrel sitting on a {} chair,15,0.338956356048584
+10,a squirrel sitting on a {} chair,16,0.4024999141693115
+10,a squirrel sitting on a {} chair,17,0.4069957435131073
+10,a squirrel sitting on a {} chair,18,0.37192249298095703
+10,a squirrel sitting on a {} chair,19,0.3072514533996582
+10,a squirrel sitting on a {} chair,20,0.4244711697101593
+10,a squirrel sitting on a {} chair,21,0.19568656384944916
+10,a squirrel sitting on a {} chair,22,0.2558816075325012
+10,a squirrel sitting on a {} chair,23,0.40205830335617065
+10,a squirrel sitting on a {} chair,24,0.24194660782814026
+10,a squirrel sitting on a {} chair,25,0.43318337202072144
+10,a squirrel sitting on a {} chair,26,0.2331385761499405
+10,a squirrel sitting on a {} chair,27,0.23123496770858765
+10,a squirrel sitting on a {} chair,28,0.4448261857032776
+10,a squirrel sitting on a {} chair,29,0.21043840050697327
+10,a squirrel sitting on a {} chair,30,0.22773292660713196
+10,a squirrel sitting on a {} chair,31,0.10814344137907028
+10,a squirrel sitting on a {} chair,32,0.5154839158058167
+10,a squirrel sitting on a {} chair,33,0.09727342426776886
+10,a squirrel sitting on a {} chair,34,0.14011654257774353
+10,a squirrel sitting on a {} chair,35,0.43364500999450684
+10,a squirrel sitting on a {} chair,36,0.1333727240562439
+10,a squirrel sitting on a {} chair,37,0.003455202095210552
+10,a squirrel sitting on a {} chair,38,0.2502829432487488
+10,a squirrel sitting on a {} chair,39,0.16359908878803253
+10,a squirrel sitting on a {} chair,40,0.2377614825963974
+10,a squirrel sitting on a {} chair,41,0.06982581317424774
+10,a squirrel sitting on a {} chair,42,0.36922121047973633
+10,a squirrel sitting on a {} chair,43,0.3315998315811157
+10,a squirrel sitting on a {} chair,44,0.3722650706768036
+10,a squirrel sitting on a {} chair,45,0.2184593677520752
+10,a squirrel sitting on a {} chair,46,0.2694550156593323
+10,a squirrel sitting on a {} chair,47,0.36492958664894104
+10,a squirrel sitting on a {} chair,48,0.2492341697216034
+10,a squirrel sitting on a {} chair,49,0.35200026631355286
+11,a deer grazing near a {} chair,0,0.09136983752250671
+11,a deer grazing near a {} chair,1,0.12065331637859344
+11,a deer grazing near a {} chair,2,0.11989093571901321
+11,a deer grazing near a {} chair,3,0.1463523656129837
+11,a deer grazing near a {} chair,4,0.05329941585659981
+11,a deer grazing near a {} chair,5,0.09113341569900513
+11,a deer grazing near a {} chair,6,0.11195160448551178
+11,a deer grazing near a {} chair,7,0.10329210758209229
+11,a deer grazing near a {} chair,8,0.04566477984189987
+11,a deer grazing near a {} chair,9,0.06328222155570984
+11,a deer grazing near a {} chair,10,0.1396401822566986
+11,a deer grazing near a {} chair,11,0.05930270254611969
+11,a deer grazing near a {} chair,12,0.10567717254161835
+11,a deer grazing near a {} chair,13,0.09136953204870224
+11,a deer grazing near a {} chair,14,0.1322314739227295
+11,a deer grazing near a {} chair,15,0.09628920257091522
+11,a deer grazing near a {} chair,16,0.12248115986585617
+11,a deer grazing near a {} chair,17,0.05802803114056587
+11,a deer grazing near a {} chair,18,0.11716461181640625
+11,a deer grazing near a {} chair,19,0.1247195228934288
+11,a deer grazing near a {} chair,20,0.05351068079471588
+11,a deer grazing near a {} chair,21,0.08727462589740753
+11,a deer grazing near a {} chair,22,0.07560492306947708
+11,a deer grazing near a {} chair,23,0.09973432123661041
+11,a deer grazing near a {} chair,24,0.06427454203367233
+11,a deer grazing near a {} chair,25,0.09388907998800278
+11,a deer grazing near a {} chair,26,0.0986134260892868
+11,a deer grazing near a {} chair,27,0.08554528653621674
+11,a deer grazing near a {} chair,28,0.08727416396141052
+11,a deer grazing near a {} chair,29,0.10499855130910873
+11,a deer grazing near a {} chair,30,0.10084399580955505
+11,a deer grazing near a {} chair,31,0.06111917644739151
+11,a deer grazing near a {} chair,32,0.08310770243406296
+11,a deer grazing near a {} chair,33,0.11905728280544281
+11,a deer grazing near a {} chair,34,0.0726824626326561
+11,a deer grazing near a {} chair,35,0.0922100692987442
+11,a deer grazing near a {} chair,36,0.08533884584903717
+11,a deer grazing near a {} chair,37,0.08523748815059662
+11,a deer grazing near a {} chair,38,0.08596745878458023
+11,a deer grazing near a {} chair,39,0.09604056179523468
+11,a deer grazing near a {} chair,40,0.09894663095474243
+11,a deer grazing near a {} chair,41,0.10361151397228241
+11,a deer grazing near a {} chair,42,0.09127920866012573
+11,a deer grazing near a {} chair,43,0.05455087125301361
+11,a deer grazing near a {} chair,44,0.12210288643836975
+11,a deer grazing near a {} chair,45,0.07266776263713837
+11,a deer grazing near a {} chair,46,0.09734408557415009
+11,a deer grazing near a {} chair,47,0.12489908188581467
+11,a deer grazing near a {} chair,48,0.09471026062965393
+11,a deer grazing near a {} chair,49,0.11621793359518051
+12,a teddy bear on a {} chair,0,0.6181182861328125
+12,a teddy bear on a {} chair,1,0.5437150001525879
+12,a teddy bear on a {} chair,2,0.36969420313835144
+12,a teddy bear on a {} chair,3,0.5450125336647034
+12,a teddy bear on a {} chair,4,0.3945876955986023
+12,a teddy bear on a {} chair,5,0.32441115379333496
+12,a teddy bear on a {} chair,6,0.6899919509887695
+12,a teddy bear on a {} chair,7,0.3934827744960785
+12,a teddy bear on a {} chair,8,0.5694145560264587
+12,a teddy bear on a {} chair,9,0.4178575277328491
+12,a teddy bear on a {} chair,10,0.3874351978302002
+12,a teddy bear on a {} chair,11,0.3307792842388153
+12,a teddy bear on a {} chair,12,0.6226527690887451
+12,a teddy bear on a {} chair,13,0.5657204389572144
+12,a teddy bear on a {} chair,14,0.5051223635673523
+12,a teddy bear on a {} chair,15,0.5052891373634338
+12,a teddy bear on a {} chair,16,0.5660761594772339
+12,a teddy bear on a {} chair,17,0.526406466960907
+12,a teddy bear on a {} chair,18,0.6998142004013062
+12,a teddy bear on a {} chair,19,0.3613295555114746
+12,a teddy bear on a {} chair,20,0.3911226987838745
+12,a teddy bear on a {} chair,21,0.3796927332878113
+12,a teddy bear on a {} chair,22,0.47594109177589417
+12,a teddy bear on a {} chair,23,0.5992213487625122
+12,a teddy bear on a {} chair,24,0.5771836042404175
+12,a teddy bear on a {} chair,25,0.5486606359481812
+12,a teddy bear on a {} chair,26,0.6476024985313416
+12,a teddy bear on a {} chair,27,0.5218042135238647
+12,a teddy bear on a {} chair,28,0.5727338790893555
+12,a teddy bear on a {} chair,29,0.547340989112854
+12,a teddy bear on a {} chair,30,0.29151007533073425
+12,a teddy bear on a {} chair,31,0.5494108200073242
+12,a teddy bear on a {} chair,32,0.6678974032402039
+12,a teddy bear on a {} chair,33,0.5574068427085876
+12,a teddy bear on a {} chair,34,0.6766518950462341
+12,a teddy bear on a {} chair,35,0.6207340955734253
+12,a teddy bear on a {} chair,36,0.6734432578086853
+12,a teddy bear on a {} chair,37,0.45106178522109985
+12,a teddy bear on a {} chair,38,0.6846891641616821
+12,a teddy bear on a {} chair,39,0.48016679286956787
+12,a teddy bear on a {} chair,40,0.47790756821632385
+12,a teddy bear on a {} chair,41,0.5529003143310547
+12,a teddy bear on a {} chair,42,0.5016675591468811
+12,a teddy bear on a {} chair,43,0.7430837154388428
+12,a teddy bear on a {} chair,44,0.5548479557037354
+12,a teddy bear on a {} chair,45,0.35029542446136475
+12,a teddy bear on a {} chair,46,0.6695355176925659
+12,a teddy bear on a {} chair,47,0.42034101486206055
+12,a teddy bear on a {} chair,48,0.5486350059509277
+12,a teddy bear on a {} chair,49,0.5558962225914001
+13,a photo of a {} chair in Van Gogh style,0,0.27627500891685486
+13,a photo of a {} chair in Van Gogh style,1,0.2996671199798584
+13,a photo of a {} chair in Van Gogh style,2,0.3676550090312958
+13,a photo of a {} chair in Van Gogh style,3,0.2505655884742737
+13,a photo of a {} chair in Van Gogh style,4,0.2859455943107605
+13,a photo of a {} chair in Van Gogh style,5,0.411197304725647
+13,a photo of a {} chair in Van Gogh style,6,0.3895846903324127
+13,a photo of a {} chair in Van Gogh style,7,0.3307156562805176
+13,a photo of a {} chair in Van Gogh style,8,0.5220394134521484
+13,a photo of a {} chair in Van Gogh style,9,0.3242327868938446
+13,a photo of a {} chair in Van Gogh style,10,0.2993282973766327
+13,a photo of a {} chair in Van Gogh style,11,0.3155558109283447
+13,a photo of a {} chair in Van Gogh style,12,0.32172891497612
+13,a photo of a {} chair in Van Gogh style,13,0.3044459819793701
+13,a photo of a {} chair in Van Gogh style,14,0.34171319007873535
+13,a photo of a {} chair in Van Gogh style,15,0.36370545625686646
+13,a photo of a {} chair in Van Gogh style,16,0.36276888847351074
+13,a photo of a {} chair in Van Gogh style,17,0.247793048620224
+13,a photo of a {} chair in Van Gogh style,18,0.3452185094356537
+13,a photo of a {} chair in Van Gogh style,19,0.30225253105163574
+13,a photo of a {} chair in Van Gogh style,20,0.41454046964645386
+13,a photo of a {} chair in Van Gogh style,21,0.3203434348106384
+13,a photo of a {} chair in Van Gogh style,22,0.2611638307571411
+13,a photo of a {} chair in Van Gogh style,23,0.32605302333831787
+13,a photo of a {} chair in Van Gogh style,24,0.3784025311470032
+13,a photo of a {} chair in Van Gogh style,25,0.3624955117702484
+13,a photo of a {} chair in Van Gogh style,26,0.35901355743408203
+13,a photo of a {} chair in Van Gogh style,27,0.37703508138656616
+13,a photo of a {} chair in Van Gogh style,28,0.3967195451259613
+13,a photo of a {} chair in Van Gogh style,29,0.32946065068244934
+13,a photo of a {} chair in Van Gogh style,30,0.29887038469314575
+13,a photo of a {} chair in Van Gogh style,31,0.27558663487434387
+13,a photo of a {} chair in Van Gogh style,32,0.3131604790687561
+13,a photo of a {} chair in Van Gogh style,33,0.3339335322380066
+13,a photo of a {} chair in Van Gogh style,34,0.36841142177581787
+13,a photo of a {} chair in Van Gogh style,35,0.21995066106319427
+13,a photo of a {} chair in Van Gogh style,36,0.3089257776737213
+13,a photo of a {} chair in Van Gogh style,37,0.39216098189353943
+13,a photo of a {} chair in Van Gogh style,38,0.3782149851322174
+13,a photo of a {} chair in Van Gogh style,39,0.2596321105957031
+13,a photo of a {} chair in Van Gogh style,40,0.30822187662124634
+13,a photo of a {} chair in Van Gogh style,41,0.3950510323047638
+13,a photo of a {} chair in Van Gogh style,42,0.29677048325538635
+13,a photo of a {} chair in Van Gogh style,43,0.32680049538612366
+13,a photo of a {} chair in Van Gogh style,44,0.46308189630508423
+13,a photo of a {} chair in Van Gogh style,45,0.4670998156070709
+13,a photo of a {} chair in Van Gogh style,46,0.3092772364616394
+13,a photo of a {} chair in Van Gogh style,47,0.3079766035079956
+13,a photo of a {} chair in Van Gogh style,48,0.4001356065273285
+13,a photo of a {} chair in Van Gogh style,49,0.32217633724212646

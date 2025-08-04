@@ -2,16 +2,18 @@
 
 This is the code and data for the paper "Mitigating Semantic Collapse in Generative Personalization with a Surprisingly Simple Test-Time Embedding Adjustment". This repository provides: 
 
-- The code to train a personalized model with Textual Inversion (TI), Dreambooth, and Custom Diffusion. *Update (July 2025): Our method is now integrated into EasyControl and ReVersion.*
+- The code to train a personalized model with Textual Inversion (TI), Dreambooth, and Custom Diffusion.
 - The code to generate personalized images with the pretrained personalized models.
 - Our proposed method: Test-Time Embedding Adjustment (TEA) to generate personalized images with the pretrained models (mitigating the Semantic Collapse Problem on the fly).
 - The code to investigate the Semantic Collapse Problem and evaluate the performance of TEA and other baselines (generated images).
 
 *Update (July 2025): Our method is now integrated into EasyControl and ReVersion. Please refer to the EasyControl and ReVersion subfolders for: how to install and reproduce the results.*
 
+*Update (August 2025): Our method is now integrated into ClassDiffusion.*
+
 ## Qualitative Results
 
-Example results of the proposed method (TEA) and the baselines (EasyControl) are shown below. More results can be found in the `EasyControl` and `ReVersion` subfolders. 
+Example results of the proposed method (TEA) and the baselines (EasyControl and ReVersion) are shown below. More results can be found in the `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
 
 It can be seen that the proposed method (TEA) can significantly improve the prompt alignment of the generated images. For example, in the case of ReVersion, with the prompt "cat carved by carrot in the garden", the standard ReVersion generates some failure cases where the cat is not carved by carrot or only shows the carrot. In the case of EasyControl, without the keyword "gun", but the generated images still contain a gun concept. With our TEA method, the above failure cases are mitigated. 
 

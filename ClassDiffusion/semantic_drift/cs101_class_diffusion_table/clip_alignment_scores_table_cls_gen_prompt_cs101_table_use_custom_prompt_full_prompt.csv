@@ -1,0 +1,701 @@
+prompt_index,prompt,image_index,score
+0,{} table in snowy ice,0,29.843524932861328
+0,{} table in snowy ice,1,30.89127540588379
+0,{} table in snowy ice,2,31.98329734802246
+0,{} table in snowy ice,3,20.868061065673828
+0,{} table in snowy ice,4,31.692426681518555
+0,{} table in snowy ice,5,30.20782470703125
+0,{} table in snowy ice,6,25.579952239990234
+0,{} table in snowy ice,7,27.798473358154297
+0,{} table in snowy ice,8,30.040390014648438
+0,{} table in snowy ice,9,29.493267059326172
+0,{} table in snowy ice,10,31.3046932220459
+0,{} table in snowy ice,11,29.850460052490234
+0,{} table in snowy ice,12,30.080142974853516
+0,{} table in snowy ice,13,29.998594284057617
+0,{} table in snowy ice,14,28.417226791381836
+0,{} table in snowy ice,15,28.41118621826172
+0,{} table in snowy ice,16,28.705495834350586
+0,{} table in snowy ice,17,33.39201354980469
+0,{} table in snowy ice,18,28.904033660888672
+0,{} table in snowy ice,19,30.97062110900879
+0,{} table in snowy ice,20,30.706893920898438
+0,{} table in snowy ice,21,30.698284149169922
+0,{} table in snowy ice,22,25.55324363708496
+0,{} table in snowy ice,23,26.34202766418457
+0,{} table in snowy ice,24,28.0191650390625
+0,{} table in snowy ice,25,29.87348747253418
+0,{} table in snowy ice,26,31.763427734375
+0,{} table in snowy ice,27,31.975025177001953
+0,{} table in snowy ice,28,31.714588165283203
+0,{} table in snowy ice,29,31.66448402404785
+0,{} table in snowy ice,30,31.090957641601562
+0,{} table in snowy ice,31,30.18079376220703
+0,{} table in snowy ice,32,31.740951538085938
+0,{} table in snowy ice,33,31.047130584716797
+0,{} table in snowy ice,34,29.757246017456055
+0,{} table in snowy ice,35,32.042903900146484
+0,{} table in snowy ice,36,30.624385833740234
+0,{} table in snowy ice,37,30.10025405883789
+0,{} table in snowy ice,38,30.363428115844727
+0,{} table in snowy ice,39,29.071823120117188
+0,{} table in snowy ice,40,30.976259231567383
+0,{} table in snowy ice,41,32.63284683227539
+0,{} table in snowy ice,42,29.943159103393555
+0,{} table in snowy ice,43,30.482229232788086
+0,{} table in snowy ice,44,28.42850112915039
+0,{} table in snowy ice,45,30.655563354492188
+0,{} table in snowy ice,46,29.571269989013672
+0,{} table in snowy ice,47,23.545276641845703
+0,{} table in snowy ice,48,30.30606460571289
+0,{} table in snowy ice,49,31.916015625
+1,{} table surrounded by blooming sunflower field,0,16.636709213256836
+1,{} table surrounded by blooming sunflower field,1,23.437530517578125
+1,{} table surrounded by blooming sunflower field,2,23.56581687927246
+1,{} table surrounded by blooming sunflower field,3,23.19605255126953
+1,{} table surrounded by blooming sunflower field,4,25.45233917236328
+1,{} table surrounded by blooming sunflower field,5,23.842090606689453
+1,{} table surrounded by blooming sunflower field,6,24.04421043395996
+1,{} table surrounded by blooming sunflower field,7,23.08370018005371
+1,{} table surrounded by blooming sunflower field,8,22.932418823242188
+1,{} table surrounded by blooming sunflower field,9,23.878643035888672
+1,{} table surrounded by blooming sunflower field,10,24.41792869567871
+1,{} table surrounded by blooming sunflower field,11,21.70024299621582
+1,{} table surrounded by blooming sunflower field,12,21.40496063232422
+1,{} table surrounded by blooming sunflower field,13,23.204540252685547
+1,{} table surrounded by blooming sunflower field,14,24.00735092163086
+1,{} table surrounded by blooming sunflower field,15,24.610429763793945
+1,{} table surrounded by blooming sunflower field,16,22.54174041748047
+1,{} table surrounded by blooming sunflower field,17,29.994497299194336
+1,{} table surrounded by blooming sunflower field,18,30.51169776916504
+1,{} table surrounded by blooming sunflower field,19,23.47955322265625
+1,{} table surrounded by blooming sunflower field,20,23.56448745727539
+1,{} table surrounded by blooming sunflower field,21,30.567035675048828
+1,{} table surrounded by blooming sunflower field,22,21.006975173950195
+1,{} table surrounded by blooming sunflower field,23,24.30677604675293
+1,{} table surrounded by blooming sunflower field,24,30.479103088378906
+1,{} table surrounded by blooming sunflower field,25,23.258573532104492
+1,{} table surrounded by blooming sunflower field,26,24.402145385742188
+1,{} table surrounded by blooming sunflower field,27,28.83191680908203
+1,{} table surrounded by blooming sunflower field,28,25.411605834960938
+1,{} table surrounded by blooming sunflower field,29,23.869901657104492
+1,{} table surrounded by blooming sunflower field,30,30.151573181152344
+1,{} table surrounded by blooming sunflower field,31,22.97370147705078
+1,{} table surrounded by blooming sunflower field,32,23.330934524536133
+1,{} table surrounded by blooming sunflower field,33,22.962766647338867
+1,{} table surrounded by blooming sunflower field,34,22.553972244262695
+1,{} table surrounded by blooming sunflower field,35,33.06815719604492
+1,{} table surrounded by blooming sunflower field,36,23.181875228881836
+1,{} table surrounded by blooming sunflower field,37,23.258581161499023
+1,{} table surrounded by blooming sunflower field,38,23.283769607543945
+1,{} table surrounded by blooming sunflower field,39,23.365365982055664
+1,{} table surrounded by blooming sunflower field,40,22.90176773071289
+1,{} table surrounded by blooming sunflower field,41,24.51011848449707
+1,{} table surrounded by blooming sunflower field,42,23.605960845947266
+1,{} table surrounded by blooming sunflower field,43,23.740182876586914
+1,{} table surrounded by blooming sunflower field,44,24.268903732299805
+1,{} table surrounded by blooming sunflower field,45,28.19012451171875
+1,{} table surrounded by blooming sunflower field,46,23.602794647216797
+1,{} table surrounded by blooming sunflower field,47,22.72962188720703
+1,{} table surrounded by blooming sunflower field,48,23.89463996887207
+1,{} table surrounded by blooming sunflower field,49,23.725608825683594
+2,{} table on a boat in the sea,0,24.083139419555664
+2,{} table on a boat in the sea,1,25.64761734008789
+2,{} table on a boat in the sea,2,24.00739860534668
+2,{} table on a boat in the sea,3,26.181819915771484
+2,{} table on a boat in the sea,4,19.753568649291992
+2,{} table on a boat in the sea,5,23.76692008972168
+2,{} table on a boat in the sea,6,22.807527542114258
+2,{} table on a boat in the sea,7,24.806419372558594
+2,{} table on a boat in the sea,8,25.960865020751953
+2,{} table on a boat in the sea,9,18.832435607910156
+2,{} table on a boat in the sea,10,22.243432998657227
+2,{} table on a boat in the sea,11,28.094894409179688
+2,{} table on a boat in the sea,12,25.20879554748535
+2,{} table on a boat in the sea,13,27.412473678588867
+2,{} table on a boat in the sea,14,23.641923904418945
+2,{} table on a boat in the sea,15,27.961467742919922
+2,{} table on a boat in the sea,16,25.366670608520508
+2,{} table on a boat in the sea,17,31.325468063354492
+2,{} table on a boat in the sea,18,21.738292694091797
+2,{} table on a boat in the sea,19,24.873138427734375
+2,{} table on a boat in the sea,20,24.945337295532227
+2,{} table on a boat in the sea,21,25.596405029296875
+2,{} table on a boat in the sea,22,26.65620994567871
+2,{} table on a boat in the sea,23,24.705867767333984
+2,{} table on a boat in the sea,24,28.154647827148438
+2,{} table on a boat in the sea,25,24.705951690673828
+2,{} table on a boat in the sea,26,28.50360870361328
+2,{} table on a boat in the sea,27,24.600845336914062
+2,{} table on a boat in the sea,28,22.10087776184082
+2,{} table on a boat in the sea,29,21.207204818725586
+2,{} table on a boat in the sea,30,24.95115089416504
+2,{} table on a boat in the sea,31,19.80202293395996
+2,{} table on a boat in the sea,32,25.728347778320312
+2,{} table on a boat in the sea,33,24.371910095214844
+2,{} table on a boat in the sea,34,25.774002075195312
+2,{} table on a boat in the sea,35,24.711639404296875
+2,{} table on a boat in the sea,36,25.178516387939453
+2,{} table on a boat in the sea,37,23.670923233032227
+2,{} table on a boat in the sea,38,24.461097717285156
+2,{} table on a boat in the sea,39,24.163272857666016
+2,{} table on a boat in the sea,40,25.957447052001953
+2,{} table on a boat in the sea,41,23.7940616607666
+2,{} table on a boat in the sea,42,26.810625076293945
+2,{} table on a boat in the sea,43,27.28955841064453
+2,{} table on a boat in the sea,44,23.564762115478516
+2,{} table on a boat in the sea,45,26.928653717041016
+2,{} table on a boat in the sea,46,26.149105072021484
+2,{} table on a boat in the sea,47,22.367961883544922
+2,{} table on a boat in the sea,48,24.50925636291504
+2,{} table on a boat in the sea,49,25.768247604370117
+3,{} table on top of a mountain,0,28.693782806396484
+3,{} table on top of a mountain,1,27.957963943481445
+3,{} table on top of a mountain,2,30.601442337036133
+3,{} table on top of a mountain,3,31.73101234436035
+3,{} table on top of a mountain,4,31.49745750427246
+3,{} table on top of a mountain,5,29.045555114746094
+3,{} table on top of a mountain,6,28.399309158325195
+3,{} table on top of a mountain,7,32.06623840332031
+3,{} table on top of a mountain,8,32.1758918762207
+3,{} table on top of a mountain,9,27.29354476928711
+3,{} table on top of a mountain,10,28.604381561279297
+3,{} table on top of a mountain,11,32.375572204589844
+3,{} table on top of a mountain,12,31.311344146728516
+3,{} table on top of a mountain,13,32.49924087524414
+3,{} table on top of a mountain,14,31.5246524810791
+3,{} table on top of a mountain,15,28.132564544677734
+3,{} table on top of a mountain,16,31.068986892700195
+3,{} table on top of a mountain,17,30.009693145751953
+3,{} table on top of a mountain,18,31.027179718017578
+3,{} table on top of a mountain,19,28.474319458007812
+3,{} table on top of a mountain,20,28.517114639282227
+3,{} table on top of a mountain,21,22.853923797607422
+3,{} table on top of a mountain,22,26.60590362548828
+3,{} table on top of a mountain,23,30.06870460510254
+3,{} table on top of a mountain,24,30.08136749267578
+3,{} table on top of a mountain,25,32.520355224609375
+3,{} table on top of a mountain,26,28.56368637084961
+3,{} table on top of a mountain,27,31.331300735473633
+3,{} table on top of a mountain,28,29.552539825439453
+3,{} table on top of a mountain,29,26.05539321899414
+3,{} table on top of a mountain,30,30.363216400146484
+3,{} table on top of a mountain,31,27.671611785888672
+3,{} table on top of a mountain,32,27.556354522705078
+3,{} table on top of a mountain,33,23.60628318786621
+3,{} table on top of a mountain,34,30.900436401367188
+3,{} table on top of a mountain,35,29.75187873840332
+3,{} table on top of a mountain,36,31.72060775756836
+3,{} table on top of a mountain,37,29.30726432800293
+3,{} table on top of a mountain,38,31.424171447753906
+3,{} table on top of a mountain,39,29.606834411621094
+3,{} table on top of a mountain,40,25.482112884521484
+3,{} table on top of a mountain,41,31.58949089050293
+3,{} table on top of a mountain,42,31.554370880126953
+3,{} table on top of a mountain,43,33.176361083984375
+3,{} table on top of a mountain,44,31.646141052246094
+3,{} table on top of a mountain,45,27.75649642944336
+3,{} table on top of a mountain,46,27.783069610595703
+3,{} table on top of a mountain,47,30.360111236572266
+3,{} table on top of a mountain,48,29.689334869384766
+3,{} table on top of a mountain,49,26.72414779663086
+4,{} table made of crochet,0,32.220787048339844
+4,{} table made of crochet,1,31.655010223388672
+4,{} table made of crochet,2,31.178653717041016
+4,{} table made of crochet,3,27.627262115478516
+4,{} table made of crochet,4,26.999845504760742
+4,{} table made of crochet,5,32.251502990722656
+4,{} table made of crochet,6,32.798583984375
+4,{} table made of crochet,7,33.72059631347656
+4,{} table made of crochet,8,31.764448165893555
+4,{} table made of crochet,9,34.44675064086914
+4,{} table made of crochet,10,30.090444564819336
+4,{} table made of crochet,11,34.317142486572266
+4,{} table made of crochet,12,33.23206329345703
+4,{} table made of crochet,13,30.622947692871094
+4,{} table made of crochet,14,32.65990447998047
+4,{} table made of crochet,15,27.486181259155273
+4,{} table made of crochet,16,29.22878646850586
+4,{} table made of crochet,17,29.80959701538086
+4,{} table made of crochet,18,34.868858337402344
+4,{} table made of crochet,19,31.22628402709961
+4,{} table made of crochet,20,30.028850555419922
+4,{} table made of crochet,21,31.448400497436523
+4,{} table made of crochet,22,31.67511558532715
+4,{} table made of crochet,23,29.550796508789062
+4,{} table made of crochet,24,31.652021408081055
+4,{} table made of crochet,25,32.532752990722656
+4,{} table made of crochet,26,33.01805877685547
+4,{} table made of crochet,27,30.076053619384766
+4,{} table made of crochet,28,31.461816787719727
+4,{} table made of crochet,29,34.47779083251953
+4,{} table made of crochet,30,32.05173110961914
+4,{} table made of crochet,31,30.977764129638672
+4,{} table made of crochet,32,30.989139556884766
+4,{} table made of crochet,33,24.299087524414062
+4,{} table made of crochet,34,29.798227310180664
+4,{} table made of crochet,35,31.852787017822266
+4,{} table made of crochet,36,33.973426818847656
+4,{} table made of crochet,37,30.262432098388672
+4,{} table made of crochet,38,32.73664855957031
+4,{} table made of crochet,39,34.48790740966797
+4,{} table made of crochet,40,30.76727294921875
+4,{} table made of crochet,41,32.71088790893555
+4,{} table made of crochet,42,26.910505294799805
+4,{} table made of crochet,43,31.313823699951172
+4,{} table made of crochet,44,31.106216430664062
+4,{} table made of crochet,45,29.00388526916504
+4,{} table made of crochet,46,34.049583435058594
+4,{} table made of crochet,47,30.673357009887695
+4,{} table made of crochet,48,32.48331832885742
+4,{} table made of crochet,49,28.761554718017578
+5,{} table in a garden,0,28.33159637451172
+5,{} table in a garden,1,28.93246078491211
+5,{} table in a garden,2,27.75972557067871
+5,{} table in a garden,3,28.007720947265625
+5,{} table in a garden,4,29.09262466430664
+5,{} table in a garden,5,26.674911499023438
+5,{} table in a garden,6,29.018047332763672
+5,{} table in a garden,7,25.670124053955078
+5,{} table in a garden,8,29.054710388183594
+5,{} table in a garden,9,28.254348754882812
+5,{} table in a garden,10,28.110567092895508
+5,{} table in a garden,11,27.030813217163086
+5,{} table in a garden,12,27.203041076660156
+5,{} table in a garden,13,23.60498809814453
+5,{} table in a garden,14,24.770811080932617
+5,{} table in a garden,15,29.540035247802734
+5,{} table in a garden,16,28.141132354736328
+5,{} table in a garden,17,28.148286819458008
+5,{} table in a garden,18,26.394208908081055
+5,{} table in a garden,19,27.768474578857422
+5,{} table in a garden,20,28.5714111328125
+5,{} table in a garden,21,28.892141342163086
+5,{} table in a garden,22,29.543363571166992
+5,{} table in a garden,23,28.374374389648438
+5,{} table in a garden,24,27.750408172607422
+5,{} table in a garden,25,27.3895320892334
+5,{} table in a garden,26,29.385713577270508
+5,{} table in a garden,27,26.958101272583008
+5,{} table in a garden,28,29.12848663330078
+5,{} table in a garden,29,23.246353149414062
+5,{} table in a garden,30,27.80402374267578
+5,{} table in a garden,31,30.188417434692383
+5,{} table in a garden,32,30.133441925048828
+5,{} table in a garden,33,28.420103073120117
+5,{} table in a garden,34,24.346477508544922
+5,{} table in a garden,35,29.98703956604004
+5,{} table in a garden,36,26.59616470336914
+5,{} table in a garden,37,28.475666046142578
+5,{} table in a garden,38,29.861051559448242
+5,{} table in a garden,39,30.38424301147461
+5,{} table in a garden,40,26.045066833496094
+5,{} table in a garden,41,28.47345542907715
+5,{} table in a garden,42,28.500974655151367
+5,{} table in a garden,43,27.794116973876953
+5,{} table in a garden,44,29.1289119720459
+5,{} table in a garden,45,26.24049186706543
+5,{} table in a garden,46,30.270790100097656
+5,{} table in a garden,47,28.629779815673828
+5,{} table in a garden,48,28.31805419921875
+5,{} table in a garden,49,27.942913055419922
+6,a floor lamp on the side of {} table,0,29.148881912231445
+6,a floor lamp on the side of {} table,1,28.559297561645508
+6,a floor lamp on the side of {} table,2,26.670806884765625
+6,a floor lamp on the side of {} table,3,29.526752471923828
+6,a floor lamp on the side of {} table,4,28.969871520996094
+6,a floor lamp on the side of {} table,5,28.28866195678711
+6,a floor lamp on the side of {} table,6,29.806528091430664
+6,a floor lamp on the side of {} table,7,28.897369384765625
+6,a floor lamp on the side of {} table,8,29.055797576904297
+6,a floor lamp on the side of {} table,9,30.510377883911133
+6,a floor lamp on the side of {} table,10,30.548044204711914
+6,a floor lamp on the side of {} table,11,31.235048294067383
+6,a floor lamp on the side of {} table,12,27.510101318359375
+6,a floor lamp on the side of {} table,13,28.754980087280273
+6,a floor lamp on the side of {} table,14,31.807226181030273
+6,a floor lamp on the side of {} table,15,28.907255172729492
+6,a floor lamp on the side of {} table,16,29.939655303955078
+6,a floor lamp on the side of {} table,17,28.568527221679688
+6,a floor lamp on the side of {} table,18,25.834829330444336
+6,a floor lamp on the side of {} table,19,28.181156158447266
+6,a floor lamp on the side of {} table,20,29.984966278076172
+6,a floor lamp on the side of {} table,21,28.693395614624023
+6,a floor lamp on the side of {} table,22,28.243738174438477
+6,a floor lamp on the side of {} table,23,28.457149505615234
+6,a floor lamp on the side of {} table,24,28.387584686279297
+6,a floor lamp on the side of {} table,25,30.824548721313477
+6,a floor lamp on the side of {} table,26,27.948331832885742
+6,a floor lamp on the side of {} table,27,28.79384422302246
+6,a floor lamp on the side of {} table,28,27.591327667236328
+6,a floor lamp on the side of {} table,29,29.413291931152344
+6,a floor lamp on the side of {} table,30,29.54397201538086
+6,a floor lamp on the side of {} table,31,29.397502899169922
+6,a floor lamp on the side of {} table,32,29.26051902770996
+6,a floor lamp on the side of {} table,33,28.676986694335938
+6,a floor lamp on the side of {} table,34,29.519498825073242
+6,a floor lamp on the side of {} table,35,29.670494079589844
+6,a floor lamp on the side of {} table,36,28.422780990600586
+6,a floor lamp on the side of {} table,37,28.618061065673828
+6,a floor lamp on the side of {} table,38,27.106422424316406
+6,a floor lamp on the side of {} table,39,27.52202796936035
+6,a floor lamp on the side of {} table,40,26.246187210083008
+6,a floor lamp on the side of {} table,41,28.871614456176758
+6,a floor lamp on the side of {} table,42,28.301998138427734
+6,a floor lamp on the side of {} table,43,30.823017120361328
+6,a floor lamp on the side of {} table,44,27.478668212890625
+6,a floor lamp on the side of {} table,45,25.276092529296875
+6,a floor lamp on the side of {} table,46,28.17913246154785
+6,a floor lamp on the side of {} table,47,29.492876052856445
+6,a floor lamp on the side of {} table,48,29.509031295776367
+6,a floor lamp on the side of {} table,49,27.603500366210938
+7,{} table and a chair with chocolate cake on it,0,33.02461624145508
+7,{} table and a chair with chocolate cake on it,1,30.289113998413086
+7,{} table and a chair with chocolate cake on it,2,26.078723907470703
+7,{} table and a chair with chocolate cake on it,3,31.777650833129883
+7,{} table and a chair with chocolate cake on it,4,29.969051361083984
+7,{} table and a chair with chocolate cake on it,5,28.730308532714844
+7,{} table and a chair with chocolate cake on it,6,30.816370010375977
+7,{} table and a chair with chocolate cake on it,7,30.177711486816406
+7,{} table and a chair with chocolate cake on it,8,31.577863693237305
+7,{} table and a chair with chocolate cake on it,9,30.252117156982422
+7,{} table and a chair with chocolate cake on it,10,32.696414947509766
+7,{} table and a chair with chocolate cake on it,11,22.845340728759766
+7,{} table and a chair with chocolate cake on it,12,29.890525817871094
+7,{} table and a chair with chocolate cake on it,13,29.729312896728516
+7,{} table and a chair with chocolate cake on it,14,32.64886474609375
+7,{} table and a chair with chocolate cake on it,15,29.188072204589844
+7,{} table and a chair with chocolate cake on it,16,29.59381866455078
+7,{} table and a chair with chocolate cake on it,17,30.913061141967773
+7,{} table and a chair with chocolate cake on it,18,29.386606216430664
+7,{} table and a chair with chocolate cake on it,19,21.205156326293945
+7,{} table and a chair with chocolate cake on it,20,22.970619201660156
+7,{} table and a chair with chocolate cake on it,21,26.81940269470215
+7,{} table and a chair with chocolate cake on it,22,16.822246551513672
+7,{} table and a chair with chocolate cake on it,23,28.433544158935547
+7,{} table and a chair with chocolate cake on it,24,31.882295608520508
+7,{} table and a chair with chocolate cake on it,25,25.688440322875977
+7,{} table and a chair with chocolate cake on it,26,29.55223274230957
+7,{} table and a chair with chocolate cake on it,27,30.10929298400879
+7,{} table and a chair with chocolate cake on it,28,28.226322174072266
+7,{} table and a chair with chocolate cake on it,29,29.14646339416504
+7,{} table and a chair with chocolate cake on it,30,26.06536102294922
+7,{} table and a chair with chocolate cake on it,31,29.097553253173828
+7,{} table and a chair with chocolate cake on it,32,34.10869216918945
+7,{} table and a chair with chocolate cake on it,33,29.555828094482422
+7,{} table and a chair with chocolate cake on it,34,30.671083450317383
+7,{} table and a chair with chocolate cake on it,35,32.075138092041016
+7,{} table and a chair with chocolate cake on it,36,31.470930099487305
+7,{} table and a chair with chocolate cake on it,37,30.860918045043945
+7,{} table and a chair with chocolate cake on it,38,32.978145599365234
+7,{} table and a chair with chocolate cake on it,39,32.02228546142578
+7,{} table and a chair with chocolate cake on it,40,31.89505958557129
+7,{} table and a chair with chocolate cake on it,41,28.215444564819336
+7,{} table and a chair with chocolate cake on it,42,28.879959106445312
+7,{} table and a chair with chocolate cake on it,43,30.958965301513672
+7,{} table and a chair with chocolate cake on it,44,28.12087631225586
+7,{} table and a chair with chocolate cake on it,45,27.16689682006836
+7,{} table and a chair with chocolate cake on it,46,29.850643157958984
+7,{} table and a chair with chocolate cake on it,47,31.09879493713379
+7,{} table and a chair with chocolate cake on it,48,32.320316314697266
+7,{} table and a chair with chocolate cake on it,49,26.427000045776367
+8,a puppy sitting on a {} table,0,27.50379753112793
+8,a puppy sitting on a {} table,1,28.152769088745117
+8,a puppy sitting on a {} table,2,28.24760627746582
+8,a puppy sitting on a {} table,3,29.991498947143555
+8,a puppy sitting on a {} table,4,22.34128761291504
+8,a puppy sitting on a {} table,5,30.924928665161133
+8,a puppy sitting on a {} table,6,26.165443420410156
+8,a puppy sitting on a {} table,7,33.12316131591797
+8,a puppy sitting on a {} table,8,29.763072967529297
+8,a puppy sitting on a {} table,9,24.279346466064453
+8,a puppy sitting on a {} table,10,32.28239822387695
+8,a puppy sitting on a {} table,11,31.423276901245117
+8,a puppy sitting on a {} table,12,31.6436824798584
+8,a puppy sitting on a {} table,13,28.673118591308594
+8,a puppy sitting on a {} table,14,32.46364974975586
+8,a puppy sitting on a {} table,15,20.725393295288086
+8,a puppy sitting on a {} table,16,23.319576263427734
+8,a puppy sitting on a {} table,17,33.71675109863281
+8,a puppy sitting on a {} table,18,32.381385803222656
+8,a puppy sitting on a {} table,19,33.4947395324707
+8,a puppy sitting on a {} table,20,24.385955810546875
+8,a puppy sitting on a {} table,21,32.470909118652344
+8,a puppy sitting on a {} table,22,35.0511360168457
+8,a puppy sitting on a {} table,23,32.23613739013672
+8,a puppy sitting on a {} table,24,34.877532958984375
+8,a puppy sitting on a {} table,25,30.868160247802734
+8,a puppy sitting on a {} table,26,31.33854866027832
+8,a puppy sitting on a {} table,27,32.79606628417969
+8,a puppy sitting on a {} table,28,33.02948760986328
+8,a puppy sitting on a {} table,29,31.605636596679688
+8,a puppy sitting on a {} table,30,29.292232513427734
+8,a puppy sitting on a {} table,31,30.27814292907715
+8,a puppy sitting on a {} table,32,25.661718368530273
+8,a puppy sitting on a {} table,33,28.73806381225586
+8,a puppy sitting on a {} table,34,25.25029182434082
+8,a puppy sitting on a {} table,35,33.0631103515625
+8,a puppy sitting on a {} table,36,23.996246337890625
+8,a puppy sitting on a {} table,37,21.89203453063965
+8,a puppy sitting on a {} table,38,24.83052635192871
+8,a puppy sitting on a {} table,39,31.024139404296875
+8,a puppy sitting on a {} table,40,23.61479377746582
+8,a puppy sitting on a {} table,41,25.377147674560547
+8,a puppy sitting on a {} table,42,30.530059814453125
+8,a puppy sitting on a {} table,43,33.267601013183594
+8,a puppy sitting on a {} table,44,24.197696685791016
+8,a puppy sitting on a {} table,45,26.067066192626953
+8,a puppy sitting on a {} table,46,28.6229190826416
+8,a puppy sitting on a {} table,47,31.350337982177734
+8,a puppy sitting on a {} table,48,31.003772735595703
+8,a puppy sitting on a {} table,49,24.227628707885742
+9,a cat sitting on a {} table,0,25.473827362060547
+9,a cat sitting on a {} table,1,24.90757942199707
+9,a cat sitting on a {} table,2,26.681533813476562
+9,a cat sitting on a {} table,3,26.378026962280273
+9,a cat sitting on a {} table,4,22.43463706970215
+9,a cat sitting on a {} table,5,24.656326293945312
+9,a cat sitting on a {} table,6,24.895835876464844
+9,a cat sitting on a {} table,7,24.568471908569336
+9,a cat sitting on a {} table,8,20.42129135131836
+9,a cat sitting on a {} table,9,26.647258758544922
+9,a cat sitting on a {} table,10,24.447147369384766
+9,a cat sitting on a {} table,11,26.163124084472656
+9,a cat sitting on a {} table,12,26.813173294067383
+9,a cat sitting on a {} table,13,27.930301666259766
+9,a cat sitting on a {} table,14,28.216495513916016
+9,a cat sitting on a {} table,15,22.851306915283203
+9,a cat sitting on a {} table,16,28.21907615661621
+9,a cat sitting on a {} table,17,25.23607635498047
+9,a cat sitting on a {} table,18,22.18389320373535
+9,a cat sitting on a {} table,19,24.800142288208008
+9,a cat sitting on a {} table,20,29.277742385864258
+9,a cat sitting on a {} table,21,25.44245719909668
+9,a cat sitting on a {} table,22,24.172990798950195
+9,a cat sitting on a {} table,23,23.760114669799805
+9,a cat sitting on a {} table,24,25.435293197631836
+9,a cat sitting on a {} table,25,26.90960693359375
+9,a cat sitting on a {} table,26,19.8741397857666
+9,a cat sitting on a {} table,27,24.34486198425293
+9,a cat sitting on a {} table,28,26.018232345581055
+9,a cat sitting on a {} table,29,25.944747924804688
+9,a cat sitting on a {} table,30,24.805849075317383
+9,a cat sitting on a {} table,31,25.399791717529297
+9,a cat sitting on a {} table,32,24.232254028320312
+9,a cat sitting on a {} table,33,23.163944244384766
+9,a cat sitting on a {} table,34,22.377634048461914
+9,a cat sitting on a {} table,35,26.030040740966797
+9,a cat sitting on a {} table,36,24.15056800842285
+9,a cat sitting on a {} table,37,26.924110412597656
+9,a cat sitting on a {} table,38,22.074302673339844
+9,a cat sitting on a {} table,39,22.939529418945312
+9,a cat sitting on a {} table,40,22.888376235961914
+9,a cat sitting on a {} table,41,25.164461135864258
+9,a cat sitting on a {} table,42,23.63304901123047
+9,a cat sitting on a {} table,43,24.050777435302734
+9,a cat sitting on a {} table,44,24.114591598510742
+9,a cat sitting on a {} table,45,24.04754638671875
+9,a cat sitting on a {} table,46,25.265525817871094
+9,a cat sitting on a {} table,47,26.8371639251709
+9,a cat sitting on a {} table,48,23.81612777709961
+9,a cat sitting on a {} table,49,24.33193016052246
+10,a squirrel sitting on a {} table,0,25.931299209594727
+10,a squirrel sitting on a {} table,1,29.526880264282227
+10,a squirrel sitting on a {} table,2,26.677974700927734
+10,a squirrel sitting on a {} table,3,26.032793045043945
+10,a squirrel sitting on a {} table,4,22.053489685058594
+10,a squirrel sitting on a {} table,5,24.47652816772461
+10,a squirrel sitting on a {} table,6,21.896526336669922
+10,a squirrel sitting on a {} table,7,28.101699829101562
+10,a squirrel sitting on a {} table,8,30.429237365722656
+10,a squirrel sitting on a {} table,9,26.91222381591797
+10,a squirrel sitting on a {} table,10,25.32523536682129
+10,a squirrel sitting on a {} table,11,30.05582046508789
+10,a squirrel sitting on a {} table,12,24.201745986938477
+10,a squirrel sitting on a {} table,13,24.606725692749023
+10,a squirrel sitting on a {} table,14,28.099763870239258
+10,a squirrel sitting on a {} table,15,32.32845687866211
+10,a squirrel sitting on a {} table,16,26.316085815429688
+10,a squirrel sitting on a {} table,17,27.334314346313477
+10,a squirrel sitting on a {} table,18,29.12213897705078
+10,a squirrel sitting on a {} table,19,30.58176040649414
+10,a squirrel sitting on a {} table,20,26.530521392822266
+10,a squirrel sitting on a {} table,21,23.246150970458984
+10,a squirrel sitting on a {} table,22,28.732990264892578
+10,a squirrel sitting on a {} table,23,26.362524032592773
+10,a squirrel sitting on a {} table,24,26.113914489746094
+10,a squirrel sitting on a {} table,25,29.397281646728516
+10,a squirrel sitting on a {} table,26,30.645639419555664
+10,a squirrel sitting on a {} table,27,22.390310287475586
+10,a squirrel sitting on a {} table,28,29.262256622314453
+10,a squirrel sitting on a {} table,29,29.19931983947754
+10,a squirrel sitting on a {} table,30,22.995386123657227
+10,a squirrel sitting on a {} table,31,25.409095764160156
+10,a squirrel sitting on a {} table,32,29.07335662841797
+10,a squirrel sitting on a {} table,33,29.24656867980957
+10,a squirrel sitting on a {} table,34,28.722444534301758
+10,a squirrel sitting on a {} table,35,26.13104248046875
+10,a squirrel sitting on a {} table,36,25.580230712890625
+10,a squirrel sitting on a {} table,37,24.254661560058594
+10,a squirrel sitting on a {} table,38,23.538082122802734
+10,a squirrel sitting on a {} table,39,27.28866958618164
+10,a squirrel sitting on a {} table,40,24.580928802490234
+10,a squirrel sitting on a {} table,41,22.0604190826416
+10,a squirrel sitting on a {} table,42,27.438705444335938
+10,a squirrel sitting on a {} table,43,24.12919044494629
+10,a squirrel sitting on a {} table,44,26.76634407043457
+10,a squirrel sitting on a {} table,45,29.985355377197266
+10,a squirrel sitting on a {} table,46,30.191177368164062
+10,a squirrel sitting on a {} table,47,28.330406188964844
+10,a squirrel sitting on a {} table,48,23.1759033203125
+10,a squirrel sitting on a {} table,49,24.95966911315918
+11,a deer grazing near a {} table,0,22.785171508789062
+11,a deer grazing near a {} table,1,25.050704956054688
+11,a deer grazing near a {} table,2,23.005901336669922
+11,a deer grazing near a {} table,3,28.083913803100586
+11,a deer grazing near a {} table,4,25.545883178710938
+11,a deer grazing near a {} table,5,25.489643096923828
+11,a deer grazing near a {} table,6,22.523595809936523
+11,a deer grazing near a {} table,7,23.30109214782715
+11,a deer grazing near a {} table,8,26.778715133666992
+11,a deer grazing near a {} table,9,23.507366180419922
+11,a deer grazing near a {} table,10,26.115888595581055
+11,a deer grazing near a {} table,11,22.804283142089844
+11,a deer grazing near a {} table,12,22.532848358154297
+11,a deer grazing near a {} table,13,24.574731826782227
+11,a deer grazing near a {} table,14,25.176692962646484
+11,a deer grazing near a {} table,15,22.569000244140625
+11,a deer grazing near a {} table,16,23.18566131591797
+11,a deer grazing near a {} table,17,26.324426651000977
+11,a deer grazing near a {} table,18,23.20640754699707
+11,a deer grazing near a {} table,19,27.138256072998047
+11,a deer grazing near a {} table,20,22.983356475830078
+11,a deer grazing near a {} table,21,23.555940628051758
+11,a deer grazing near a {} table,22,25.584972381591797
+11,a deer grazing near a {} table,23,24.542755126953125
+11,a deer grazing near a {} table,24,26.751113891601562
+11,a deer grazing near a {} table,25,27.076387405395508
+11,a deer grazing near a {} table,26,25.471553802490234
+11,a deer grazing near a {} table,27,29.952293395996094
+11,a deer grazing near a {} table,28,27.179283142089844
+11,a deer grazing near a {} table,29,22.81388282775879
+11,a deer grazing near a {} table,30,24.38629913330078
+11,a deer grazing near a {} table,31,22.765701293945312
+11,a deer grazing near a {} table,32,24.788888931274414
+11,a deer grazing near a {} table,33,22.717885971069336
+11,a deer grazing near a {} table,34,22.95883560180664
+11,a deer grazing near a {} table,35,23.21750831604004
+11,a deer grazing near a {} table,36,22.07954216003418
+11,a deer grazing near a {} table,37,24.664716720581055
+11,a deer grazing near a {} table,38,22.89375877380371
+11,a deer grazing near a {} table,39,24.944957733154297
+11,a deer grazing near a {} table,40,22.531478881835938
+11,a deer grazing near a {} table,41,24.325538635253906
+11,a deer grazing near a {} table,42,26.259815216064453
+11,a deer grazing near a {} table,43,23.023744583129883
+11,a deer grazing near a {} table,44,23.877321243286133
+11,a deer grazing near a {} table,45,27.68059730529785
+11,a deer grazing near a {} table,46,23.464757919311523
+11,a deer grazing near a {} table,47,22.329498291015625
+11,a deer grazing near a {} table,48,22.1359806060791
+11,a deer grazing near a {} table,49,25.79410171508789
+12,a teddy bear on a {} table,0,30.06315803527832
+12,a teddy bear on a {} table,1,28.789785385131836
+12,a teddy bear on a {} table,2,27.527315139770508
+12,a teddy bear on a {} table,3,21.7930908203125
+12,a teddy bear on a {} table,4,26.792985916137695
+12,a teddy bear on a {} table,5,24.5355281829834
+12,a teddy bear on a {} table,6,26.35381317138672
+12,a teddy bear on a {} table,7,24.705114364624023
+12,a teddy bear on a {} table,8,24.920740127563477
+12,a teddy bear on a {} table,9,26.30380630493164
+12,a teddy bear on a {} table,10,23.41519546508789
+12,a teddy bear on a {} table,11,27.600723266601562
+12,a teddy bear on a {} table,12,30.6175537109375
+12,a teddy bear on a {} table,13,27.708417892456055
+12,a teddy bear on a {} table,14,26.08697509765625
+12,a teddy bear on a {} table,15,28.83685302734375
+12,a teddy bear on a {} table,16,28.613805770874023
+12,a teddy bear on a {} table,17,27.594316482543945
+12,a teddy bear on a {} table,18,30.97829818725586
+12,a teddy bear on a {} table,19,26.67078971862793
+12,a teddy bear on a {} table,20,26.368831634521484
+12,a teddy bear on a {} table,21,24.667266845703125
+12,a teddy bear on a {} table,22,23.788837432861328
+12,a teddy bear on a {} table,23,29.40767478942871
+12,a teddy bear on a {} table,24,28.86189842224121
+12,a teddy bear on a {} table,25,31.208389282226562
+12,a teddy bear on a {} table,26,23.237422943115234
+12,a teddy bear on a {} table,27,30.17774772644043
+12,a teddy bear on a {} table,28,26.246721267700195
+12,a teddy bear on a {} table,29,33.70363235473633
+12,a teddy bear on a {} table,30,27.573322296142578
+12,a teddy bear on a {} table,31,28.12464141845703
+12,a teddy bear on a {} table,32,27.26052474975586
+12,a teddy bear on a {} table,33,27.906131744384766
+12,a teddy bear on a {} table,34,28.446414947509766
+12,a teddy bear on a {} table,35,30.754638671875
+12,a teddy bear on a {} table,36,27.59527587890625
+12,a teddy bear on a {} table,37,25.306320190429688
+12,a teddy bear on a {} table,38,31.47496223449707
+12,a teddy bear on a {} table,39,35.48057556152344
+12,a teddy bear on a {} table,40,22.470945358276367
+12,a teddy bear on a {} table,41,25.289594650268555
+12,a teddy bear on a {} table,42,32.929134368896484
+12,a teddy bear on a {} table,43,24.478679656982422
+12,a teddy bear on a {} table,44,25.751811981201172
+12,a teddy bear on a {} table,45,30.781885147094727
+12,a teddy bear on a {} table,46,24.90318489074707
+12,a teddy bear on a {} table,47,30.182207107543945
+12,a teddy bear on a {} table,48,27.781538009643555
+12,a teddy bear on a {} table,49,27.241628646850586
+13,a photo of a {} table in Van Gogh style,0,33.131797790527344
+13,a photo of a {} table in Van Gogh style,1,28.496217727661133
+13,a photo of a {} table in Van Gogh style,2,30.67845344543457
+13,a photo of a {} table in Van Gogh style,3,30.561946868896484
+13,a photo of a {} table in Van Gogh style,4,30.895978927612305
+13,a photo of a {} table in Van Gogh style,5,27.945159912109375
+13,a photo of a {} table in Van Gogh style,6,24.894969940185547
+13,a photo of a {} table in Van Gogh style,7,30.774015426635742
+13,a photo of a {} table in Van Gogh style,8,29.551761627197266
+13,a photo of a {} table in Van Gogh style,9,27.766138076782227
+13,a photo of a {} table in Van Gogh style,10,25.920427322387695
+13,a photo of a {} table in Van Gogh style,11,30.106037139892578
+13,a photo of a {} table in Van Gogh style,12,28.922080993652344
+13,a photo of a {} table in Van Gogh style,13,31.88532066345215
+13,a photo of a {} table in Van Gogh style,14,32.43250274658203
+13,a photo of a {} table in Van Gogh style,15,27.04729652404785
+13,a photo of a {} table in Van Gogh style,16,29.95635223388672
+13,a photo of a {} table in Van Gogh style,17,27.995908737182617
+13,a photo of a {} table in Van Gogh style,18,27.135299682617188
+13,a photo of a {} table in Van Gogh style,19,27.367013931274414
+13,a photo of a {} table in Van Gogh style,20,31.208044052124023
+13,a photo of a {} table in Van Gogh style,21,25.224498748779297
+13,a photo of a {} table in Van Gogh style,22,33.0125617980957
+13,a photo of a {} table in Van Gogh style,23,28.03707504272461
+13,a photo of a {} table in Van Gogh style,24,29.557592391967773
+13,a photo of a {} table in Van Gogh style,25,30.168312072753906
+13,a photo of a {} table in Van Gogh style,26,26.898170471191406
+13,a photo of a {} table in Van Gogh style,27,30.625221252441406
+13,a photo of a {} table in Van Gogh style,28,27.441448211669922
+13,a photo of a {} table in Van Gogh style,29,31.8996524810791
+13,a photo of a {} table in Van Gogh style,30,29.470550537109375
+13,a photo of a {} table in Van Gogh style,31,28.41698455810547
+13,a photo of a {} table in Van Gogh style,32,26.88671875
+13,a photo of a {} table in Van Gogh style,33,31.97195816040039
+13,a photo of a {} table in Van Gogh style,34,31.887956619262695
+13,a photo of a {} table in Van Gogh style,35,26.78418731689453
+13,a photo of a {} table in Van Gogh style,36,16.942665100097656
+13,a photo of a {} table in Van Gogh style,37,26.176877975463867
+13,a photo of a {} table in Van Gogh style,38,32.272300720214844
+13,a photo of a {} table in Van Gogh style,39,28.744359970092773
+13,a photo of a {} table in Van Gogh style,40,31.976825714111328
+13,a photo of a {} table in Van Gogh style,41,28.997241973876953
+13,a photo of a {} table in Van Gogh style,42,28.372251510620117
+13,a photo of a {} table in Van Gogh style,43,25.268766403198242
+13,a photo of a {} table in Van Gogh style,44,27.195167541503906
+13,a photo of a {} table in Van Gogh style,45,31.523677825927734
+13,a photo of a {} table in Van Gogh style,46,33.283042907714844
+13,a photo of a {} table in Van Gogh style,47,30.10364532470703
+13,a photo of a {} table in Van Gogh style,48,27.857017517089844
+13,a photo of a {} table in Van Gogh style,49,27.45572853088379
