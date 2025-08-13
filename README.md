@@ -13,7 +13,7 @@ This is the code and data for the paper "Mitigating Semantic Collapse in Generat
 
 ## Qualitative Results
 
-Example results of the proposed method (TEA) and the baselines (EasyControl and ReVersion) are shown below. More results can be found in the `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
+Example results of the proposed method (TEA) and the baselines (EasyControl, ReVersion, ClassDiffusion) are shown below. More results can be found in the `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
 
 It can be seen that the proposed method (TEA) can significantly improve the prompt alignment of the generated images. For example, in the case of ReVersion, with the prompt "cat carved by carrot in the garden", the standard ReVersion generates some failure cases where the cat is not carved by carrot or only shows the carrot. In the case of EasyControl, without the keyword "gun", but the generated images still contain a gun concept. With our TEA method, the above failure cases are mitigated. 
 
@@ -56,6 +56,14 @@ It can be seen that the proposed method (TEA) can significantly improve the prom
 
 ![Results with TEA](ReVersion/evaluation_massive/carved_by_tea/dog%20%3CR%3E%20paper%20in%20the%20library.jpg)
 *ReVersion with TEA: Dog carved by paper in the library*
+
+### ClassDiffusion with TEA
+
+![Results without TEA](ClassDiffusion/evaluation_demo/barn_cls/prompt_1_grid.jpg)
+*ClassDiffusion: Subject personalization using standard ClassDiffusion pipeline.* Failure cases - no barn in the image but just sunflower field.
+
+![Results with TEA](ClassDiffusion/evaluation_demo/barn_cls_tea_rho_0.2_alpha_0.5/prompt_1_grid.jpg) 
+*ClassDiffusion with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
 ## Requirements
 
