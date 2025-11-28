@@ -7,22 +7,22 @@ TEA (Test-time Embedding Adjustment) is a technique that improves subject person
 The qualitative results can be found in the `evaluation_demo` folder. 
 
 ![Results without TEA](demo_images/omini_subject/penguin/3.jpg)
-*Results without TEA: Subject personalization using standard OminiControl pipeline*
+*Results without TEA: Subject personalization using standard OminiControl pipeline. Prompt: "this item wearing glasses*
 
 ![Results with TEA](demo_images/omini_subject_tea/penguin/3.jpg) 
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item wearing glasses*
 
 ![Results without TEA](demo_images/omini_subject/clock/1.jpg)
-*Results without TEA: Subject personalization using standard OminiControl pipeline*
+*Results without TEA: Subject personalization using standard OminiControl pipeline. Prompt: "this item sitting at the beach with a view of the sea"*
 
 ![Results with TEA](demo_images/omini_subject_tea/clock/1.jpg)
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item sitting at the beach with a view of the sea"*
 
 ![Results without TEA](demo_images/omini_subject/oranges/6.jpg)
-*Results without TEA: Subject personalization using standard OminiControl pipeline*
+*Results without TEA: Subject personalization using standard OminiControl pipeline. Prompt: "this item wearing headphones"*
 
 ![Results with TEA](demo_images/omini_subject_tea/oranges/6.jpg)
-*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*Results with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item wearing headphones"*
 
 ## Reproduce the results 
 

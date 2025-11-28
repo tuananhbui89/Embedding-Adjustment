@@ -23,22 +23,22 @@ It can be seen that the proposed method (TEA) can significantly improve the prom
 ### OminiControl with TEA
 
 ![Results without TEA](OminiControl/demo_images/omini_subject/penguin/3.jpg)
-*OminiControl: Subject personalization using standard OminiControl pipeline.*
+*OminiControl: Subject personalization using standard OminiControl pipeline. Prompt: "this item wearing glasses"*
 
 ![Results with TEA](OminiControl/demo_images/omini_subject_tea/penguin/3.jpg) 
-*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item wearing glasses"*
 
 ![Results without TEA](OminiControl/demo_images/omini_subject/clock/1.jpg)
-*OminiControl: Subject personalization using standard OminiControl pipeline.*
+*OminiControl: Subject personalization using standard OminiControl pipeline. Prompt: "this item sitting at the beach with a view of the sea"*
 
 ![Results with TEA](OminiControl/demo_images/omini_subject_tea/clock/1.jpg) 
-*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item sitting at the beach with a view of the sea"*
 
 ![Results without TEA](OminiControl/demo_images/omini_subject/oranges/6.jpg)
-*OminiControl: Subject personalization using standard OminiControl pipeline.*
+*OminiControl: Subject personalization using standard OminiControl pipeline. Prompt: "this item wearing headphones"*
 
 ![Results with TEA](OminiControl/demo_images/omini_subject_tea/oranges/6.jpg) 
-*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment. Prompt: "this item wearing headphones"*
 
 ### EasyControl with TEA 
 
