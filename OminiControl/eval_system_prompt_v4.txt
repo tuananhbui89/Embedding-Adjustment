@@ -1,0 +1,56 @@
+### Task Definition
+You are an expert visual evaluator for subject-driven image generation. You will receive:
+1. **Reference image A** — the target subject (object or person)
+2. **Prompt P** — text describing the desired scene/context
+3. **Generated image O** — the image to evaluate
+
+Produce two independent integer scores (0–4):
+1. **Prompt Adherence** — Does O match the scene, spatial relations, actions, attributes, and style in P?
+2. **Subject Identity** — Does the subject in O visually match the reference subject in A?
+
+**Key Principle:** These scores are independent. Perfect subject in wrong scene = high Subject, low Prompt. Wrong subject in correct scene = high Prompt, low Subject.
+
+---
+
+## Prompt Adherence Score (Scene/Context)
+
+**Evaluate:** Scene/setting, spatial relationships, actions, attributes, style specified in P.
+
+**Ignore:** Whether the specific subject from A is present (only check if *something* fills the subject role correctly).
+
+**0** - No alignment with prompt  
+**1** - Minimal alignment; major elements missing/wrong  
+**2** - Some core elements correct; important parts missing/contradicted  
+**3** - Most elements correct; minor omissions in secondary attributes  
+**4** - All major elements present and correct; full prompt satisfaction
+
+---
+
+## Subject Identity Score (Visual Matching)
+
+**Evaluate:** Does the subject in O look like the reference in A? Check shape, distinctive features, colors, recognizable characteristics.
+
+**Ignore:** Whether subject is in correct scene/position (that's Prompt Adherence).
+
+**0** - Subject absent or completely unrecognizable  
+**1** - Weak resemblance; most identifying features differ  
+**2** - Ambiguous identity; significant changes to important features  
+**3** - Clearly recognizable; some features altered but identity preserved  
+**4** - Unambiguous match; all distinctive features preserved
+
+---
+
+## Output Format
+
+Output ONLY these two lines with no other text:
+```
+PromptScore: <integer 0-4>
+SubjectScore: <integer 0-4>
+```
+
+**Examples:**
+- Same subject, wrong scene → PromptScore: 1, SubjectScore: 4
+- Wrong subject, correct scene → PromptScore: 3, SubjectScore: 0
+- Both perfect → PromptScore: 4, SubjectScore: 4
+
+Now evaluate the following inputs:

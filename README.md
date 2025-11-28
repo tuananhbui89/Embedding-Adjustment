@@ -11,11 +11,34 @@ This is the code and data for the paper "Mitigating Semantic Collapse in Generat
 
 *Update (August 2025): Our method is now integrated into ClassDiffusion.*
 
+*Update (November 2025): Our method is now integrated into OminiControl. Please refer to the OminiControl subfolder for how to install and reproduce the results.*
+
 ## Qualitative Results
 
-Example results of the proposed method (TEA) and the baselines (EasyControl, ReVersion, ClassDiffusion) are shown below. More results can be found in the `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
+Example results of the proposed method (TEA) and the baselines (OminiControl, EasyControl, ReVersion, ClassDiffusion) are shown below. More results can be found in the `OminiControl`, `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
 
 It can be seen that the proposed method (TEA) can significantly improve the prompt alignment of the generated images. For example, in the case of ReVersion, with the prompt "cat carved by carrot in the garden", the standard ReVersion generates some failure cases where the cat is not carved by carrot or only shows the carrot. In the case of EasyControl, without the keyword "gun", but the generated images still contain a gun concept. With our TEA method, the above failure cases are mitigated. 
+
+
+### OminiControl with TEA
+
+![Results without TEA](OminiControl/demo_images/omini_subject/penguin/3.jpg)
+*OminiControl: Subject personalization using standard OminiControl pipeline.*
+
+![Results with TEA](OminiControl/demo_images/omini_subject_tea/penguin/3.jpg) 
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
+![Results without TEA](OminiControl/demo_images/omini_subject/clock/1.jpg)
+*OminiControl: Subject personalization using standard OminiControl pipeline.*
+
+![Results with TEA](OminiControl/demo_images/omini_subject_tea/clock/1.jpg) 
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
+
+![Results without TEA](OminiControl/demo_images/omini_subject/oranges/6.jpg)
+*OminiControl: Subject personalization using standard OminiControl pipeline.*
+
+![Results with TEA](OminiControl/demo_images/omini_subject_tea/oranges/6.jpg) 
+*OminiControl with TEA: Enhanced subject personalization using Test-time Embedding Adjustment*
 
 ### EasyControl with TEA 
 

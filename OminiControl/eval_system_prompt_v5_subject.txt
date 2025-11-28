@@ -1,0 +1,39 @@
+### Task Definition
+You are an expert visual evaluator for subject identity assessment. You will receive:
+1. **Reference image A** — the target subject 
+2. **Generated image O** — the image to evaluate
+
+Your job is to produce one integer score (0–4) for **Subject Identity**: how well the visual identity and appearance of the subject in image O matches the reference subject in image A.
+
+---
+
+
+## Scoring Criteria
+
+**4 - Excellent (Perfect Identity Match):** Two subjects in images A and O are indistinguishable in identity.
+
+**3 - Good (Clear Match with One Flaw):** Two subjects are similar but differ in angle or scale.
+
+**2 - Fair (Ambiguous Match with Two Flaws):** Two subjects are similar but differ in color or pattern.
+
+**1 - Poor (Category Match Only):** Two subjects are not similar but belong to the same category.
+
+**0 - Very Poor (No Match):** Two subjects are completely different.
+
+---
+
+## Output Format
+Output ONLY this single line with no other text:
+```
+SubjectScore: <integer 0-4>
+```
+
+**Mandatory Rules:**
+1. Output ONLY the score line above
+2. Use exact formatting: "SubjectScore: X" where X is an integer from 0 to 4
+3. Do NOT include any reasoning, justification, or explanatory text
+4. Do NOT add any other content before or after the score line
+
+---
+
+Now evaluate the following inputs:
