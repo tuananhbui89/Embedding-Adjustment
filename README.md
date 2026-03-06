@@ -1,12 +1,11 @@
 <div align="center">
 
-## ⚡️Test-Time Embedding Adjustment (TEA) for Generative Personalization (ICLR 2026)⚡️
+## ⚡️Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment (ICLR 2026)⚡️
 
-**"Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment"** (ICLR 2026).
-
-[[📄 Paper]](https://arxiv.org/abs/2506.22685) [[🌟 Project Page]](https://tuananhbui89.github.io/projects/personalization-tea/)
+[[📄 Paper]](https://arxiv.org/abs/2506.22685) [[🌟 Project Page]](https://tuananhbui89.github.io/projects/personalization-tea/)[[💻 Code]](https://github.com/tuananhbui89/Embedding-Adjustment)
 
 ![TEA](images/ICLR-2026-TEA.pptx.png)
+</div>
 
 The repository contains:
 
@@ -31,6 +30,10 @@ If you find this work useful, please consider citing:
   year={2025}
 }
 ```
+
+## Abstract
+
+In this paper, we investigate the semantic collapsing problem in generative personalization, an under-explored topic where the learned visual concept ($$V^*$$) gradually shifts from its original textual meaning and comes to dominate other concepts in multi-concept input prompts. This issue not only reduces the semantic richness of complex input prompts like "a photo of $$V^*$$ wearing glasses and playing guitar" into simpler, less contextually rich forms such as "a photo of $$V^*$$" but also leads to simplified output images that fail to capture the intended concept. We identify the root cause as unconstrained optimisation, which allows the learned embedding $$V^*$$ to drift arbitrarily in the embedding space, both in direction and magnitude. To address this, we propose a simple yet effective training-free method that adjusts the magnitude and direction of pre-trained embedding at inference time, effectively mitigating the semantic collapsing problem. Our method is broadly applicable across different personalization methods and demonstrates significant improvements in text-image alignment in diverse use cases. Our code is published at [https://github.com/tuananhbui89/Embedding-Adjustment](https://github.com/tuananhbui89/Embedding-Adjustment). 
 
 ## Qualitative Results
 
