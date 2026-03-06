@@ -1,11 +1,19 @@
-# Embedding-Adjustment
+<div align="center">
 
-This is the code and data for the paper "Mitigating Semantic Collapse in Generative Personalization with a Surprisingly Simple Test-Time Embedding Adjustment". This repository provides: 
+## ⚡️Test-Time Embedding Adjustment (TEA) for Generative Personalization (ICLR 2026)⚡️
 
-- The code to train a personalized model with Textual Inversion (TI), Dreambooth, and Custom Diffusion.
-- The code to generate personalized images with the pretrained personalized models.
-- Our proposed method: Test-Time Embedding Adjustment (TEA) to generate personalized images with the pretrained models (mitigating the Semantic Collapse Problem on the fly).
-- The code to investigate the Semantic Collapse Problem and evaluate the performance of TEA and other baselines (generated images).
+**"Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment"** (ICLR 2026).
+
+[[📄 Paper]](https://arxiv.org/abs/2506.22685) [[🌟 Project Page]](https://tuananhbui89.github.io/projects/personalization-tea/)
+
+![TEA](images/ICLR-2026-TEA.pptx.png)
+
+The repository contains:
+
+- (**Training**) The code to train a personalized model with Textual Inversion (TI), Dreambooth, Custom Diffusion, EasyControl, ReVersion, ClassDiffusion, and OminiControl.
+- (**Generation**) The code to generate personalized images with the pretrained personalized models from these above methods.
+- (**TEA**) Our proposed method: Test-Time Embedding Adjustment (TEA) to generate personalized images with the pretrained models (mitigating the Semantic Collapse Problem on the fly).
+- (**Evaluation**) The code to investigate the Semantic Collapse Problem and evaluate the performance of TEA and other baselines (generated images).
 
 *Update (July 2025): Our method is now integrated into EasyControl and ReVersion. Please refer to the EasyControl and ReVersion subfolders for: how to install and reproduce the results.*
 
@@ -13,12 +21,22 @@ This is the code and data for the paper "Mitigating Semantic Collapse in Generat
 
 *Update (November 2025): Our method is now integrated into OminiControl. Please refer to the OminiControl subfolder for how to install and reproduce the results.*
 
+If you find this work useful, please consider citing:
+
+```
+@article{bui2025mitigating,
+  title={Mitigating Semantic Collapse in Generative Personalization with Test-Time Embedding Adjustment},
+  author={Bui, Anh and Vu, Trang and Le, Trung and Kim, Junae and Abraham, Tamas and Omari, Rollin and Kaur, Amar and Phung, Dinh},
+  journal={The Fourteenth International Conference on Learning Representations (ICLR) 2026},
+  year={2025}
+}
+```
+
 ## Qualitative Results
 
 Example results of the proposed method (TEA) and the baselines (OminiControl, EasyControl, ReVersion, ClassDiffusion) are shown below. More results can be found in the `OminiControl`, `EasyControl`, `ReVersion`, and `ClassDiffusion` subfolders. 
 
 It can be seen that the proposed method (TEA) can significantly improve the prompt alignment of the generated images. For example, in the case of ReVersion, with the prompt "cat carved by carrot in the garden", the standard ReVersion generates some failure cases where the cat is not carved by carrot or only shows the carrot. In the case of EasyControl, without the keyword "gun", but the generated images still contain a gun concept. With our TEA method, the above failure cases are mitigated. 
-
 
 ### OminiControl with TEA
 
